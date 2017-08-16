@@ -64,13 +64,28 @@ var AppComponent = (function () {
             console.log(result);
         });
     };
+    AppComponent.prototype.getExerciseFacts = function (dt) {
+        var _this = this;
+        this.http.get('/api/exercise-facts?dt=' + dt).subscribe(function (result) {
+            _this.exerciseFacts = result.json();
+            console.log(result);
+        });
+    };
+    AppComponent.prototype.addExerciseFact = function (exerciseFact) {
+        var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Headers */]({ 'Content-Type': 'application/json' });
+        var options = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* RequestOptions */]({ headers: headers });
+        var body = JSON.stringify(exerciseFact);
+        this.http.post('/api/exercise-facts', body, options).subscribe(function (result) {
+            console.log(result);
+        });
+    };
     AppComponent = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */])({
             selector: 'app-root',
             template: __webpack_require__(611),
             styles: [__webpack_require__(610)]
         }), 
-        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Http */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Http */]) === 'function' && _a) || Object])
+        __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* Http */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* Http */]) === 'function' && _a) || Object])
     ], AppComponent);
     return AppComponent;
     var _a;
@@ -153,7 +168,7 @@ module.exports = ""
 /***/ 611:
 /***/ (function(module, exports) {
 
-module.exports = "<button (click)=\"getExercises()\">\n  button\n</button>\n"
+module.exports = "<button (click)=\"getExercises()\">\n  button\n</button>\n\n{{exercises | json}}\n\n{{exerciseFacts | json}}\n"
 
 /***/ }),
 
