@@ -30,6 +30,10 @@ export class AppComponent implements OnInit {
       this.categories = Object.keys(this.exercisesMap);
     });
 
+    this.refreshFacts();
+  }
+
+  refreshFacts() {
     this.getExerciseFacts().subscribe(result => {
       this.exerciseFacts = result.json();
       console.log(result);
@@ -75,6 +79,7 @@ export class AppComponent implements OnInit {
 
     this.http.post('/api/exercise-facts', body, options).subscribe(result => {
       console.log(result);
+      this.refreshFacts();
     });
   }
 

@@ -67,6 +67,10 @@ var AppComponent = (function () {
             _this.exercisesMap = _this.exerciseToMap(_this.exercises);
             _this.categories = Object.keys(_this.exercisesMap);
         });
+        this.refreshFacts();
+    };
+    AppComponent.prototype.refreshFacts = function () {
+        var _this = this;
         this.getExerciseFacts().subscribe(function (result) {
             _this.exerciseFacts = result.json();
             console.log(result);
@@ -92,6 +96,7 @@ var AppComponent = (function () {
         return this.http.get('/api/exercise-facts-today');
     };
     AppComponent.prototype.addExerciseFact = function (exerciseId, count, weight) {
+        var _this = this;
         var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Headers */]({ 'Content-Type': 'application/json' });
         var options = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* RequestOptions */]({ headers: headers });
         var exerciseFact = {
@@ -102,6 +107,7 @@ var AppComponent = (function () {
         var body = JSON.stringify(exerciseFact);
         this.http.post('/api/exercise-facts', body, options).subscribe(function (result) {
             console.log(result);
+            _this.refreshFacts();
         });
     };
     AppComponent = __decorate([
