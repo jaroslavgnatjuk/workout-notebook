@@ -69,12 +69,12 @@ export class AppComponent implements OnInit {
     return this.http.delete('/api/exercise-facts?id='+id).subscribe(() => this.refreshFacts());
   }
 
-  addExerciseFact(id, exerciseId, count, weight) {
+  addExerciseFact(exerciseId, count, weight) {
     let headers = new Headers({'Content-Type': 'application/json'});
     let options = new RequestOptions({headers: headers});
 
     let exerciseFact: ExerciseFact = {
-      id: id,
+      id: 0,
       exerciseId: exerciseId,
       count: count,
       weight: weight
