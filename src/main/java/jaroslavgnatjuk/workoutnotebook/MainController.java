@@ -36,7 +36,14 @@ public class MainController {
 
     @RequestMapping(value = "/api/exercise-facts-today", method = RequestMethod.GET)
     public List<ExerciseFact> getExerciseFactsByToday() {
-        return jdbcTemplate.query("SELECT * FROM exercise_fact WHERE cast(dt as date) = current_date", new BeanPropertyRowMapper<>(ExerciseFact.class));
+        return jdbcTemplate.query("SELECT * FROM exercise_fact WHERE cast(dt as date) = current_date order by dt desc", new BeanPropertyRowMapper<>(ExerciseFact.class));
+    }
+
+    @RequestMapping(value = "/api/exercise-facts", method = RequestMethod.DELETE)
+    public ResponseEntity<String> deleteFact(@RequestParam(value = "id") int id) {
+        jdbcTemplate.update("DELETE FROM exercise_fact WHERE id=?", id);
+
+        return ok().body("Exercise fact has been deleted");
     }
 
 }

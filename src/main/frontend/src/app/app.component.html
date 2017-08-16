@@ -29,6 +29,7 @@
       <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
       <td>{{exercise.count}}</td>
       <td>{{exercise.weight}}</td>
+      <td><button (click)="deleteFact(exercise.id)">del</button></td>
     </tr>
   </table>
 </div>
