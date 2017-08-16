@@ -1,10 +1,12 @@
-.categories, .digits {
+.categories {
   display: flex;
 }
 .select-exercise {
   width: 100%;
 }
-
+.digits {
+  margin-top: 10px;
+}
 .done {
   margin-top: 10px;
   border-top: 1px solid gray;

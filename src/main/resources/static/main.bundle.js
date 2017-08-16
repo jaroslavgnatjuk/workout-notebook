@@ -192,7 +192,7 @@ var environment = {
 /***/ 611:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div class=\"select-exercise\">\n  <select [(ngModel)]=\"selectedExerciseId\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n</div>\n\n<div class=\"digits\">\n  к-во:\n  <input type=\"number\" [(ngModel)]=\"count\">\n  вес:\n  <input type=\"number\" [(ngModel)]=\"weight\">\n  <button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">\n    save\n  </button>\n</div>\n\n<div class=\"done\">\n  <table>\n    <tr *ngFor=\"let exercise of exerciseFacts\">\n      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>\n      <td>{{exercise.count}}</td>\n      <td>{{exercise.weight}}</td>\n    </tr>\n  </table>\n</div>\n"
+module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div class=\"select-exercise\">\n  <select [(ngModel)]=\"selectedExerciseId\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n</div>\n\n<div class=\"digits\">\n  к-во:\n  <input type=\"number\" [(ngModel)]=\"count\">\n</div>\n<div class=\"digits\">\n  вес:\n  <input type=\"number\" [(ngModel)]=\"weight\">\n  <button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">\n    save\n  </button>\n</div>\n\n<div class=\"done\">\n  <table>\n    <tr *ngFor=\"let exercise of exerciseFacts\">\n      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>\n      <td>{{exercise.count}}</td>\n      <td>{{exercise.weight}}</td>\n    </tr>\n  </table>\n</div>\n"
 
 /***/ }),
 
@@ -207,7 +207,7 @@ module.exports = __webpack_require__(345);
 /***/ 627:
 /***/ (function(module, exports) {
 
-module.exports = ".categories, .digits {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex; }\n\n.select-exercise {\n  width: 100%; }\n\n.done {\n  margin-top: 10px;\n  border-top: 1px solid gray; }\n"
+module.exports = ".categories {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex; }\n\n.select-exercise {\n  width: 100%; }\n\n.digits {\n  margin-top: 10px; }\n\n.done {\n  margin-top: 10px;\n  border-top: 1px solid gray; }\n"
 
 /***/ })
 
