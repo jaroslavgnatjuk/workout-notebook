@@ -4,10 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -25,11 +22,9 @@ public class MainController {
     }
 
     @RequestMapping(value = "/api/exercise-facts", method = RequestMethod.POST)
-    public ResponseEntity<String> addExerciseFact(@RequestParam(value = "exerciseId") String exerciseId,
-                                          @RequestParam(value = "count") String count,
-                                          @RequestParam(value = "weight") String weight) {
-        jdbcTemplate.query("INSERT INTO exercise_fact(exercise_id, count, weight) VALUES (?, ?, ?)", new BeanPropertyRowMapper<>(ExerciseFact.class),
-                exerciseId, count, weight);
+    public ResponseEntity<String> addExerciseFact(@RequestBody ExerciseFact exerciseFact) {
+        jdbcTemplate.update("INSERT INTO exercise_fact(exercise_id, count, weight) VALUES (?, ?, ?)",
+                exerciseFact.getExerciseId(), exerciseFact.getCount(), exerciseFact.getWeight());
 
         return ok().body("Exercise fact added");
     }
@@ -37,6 +32,11 @@ public class MainController {
     @RequestMapping(value = "/api/exercise-facts", method = RequestMethod.GET)
     public List<ExerciseFact> getExerciseFactsByDate(@RequestParam(value = "dt") String dt) {
         return jdbcTemplate.query("SELECT * FROM exercise_fact WHERE dt=?", new BeanPropertyRowMapper<>(ExerciseFact.class), dt);
+    }
+
+    @RequestMapping(value = "/api/exercise-facts-today", method = RequestMethod.GET)
+    public List<ExerciseFact> getExerciseFactsByToday() {
+        return jdbcTemplate.query("SELECT * FROM exercise_fact WHERE cast(dt as date) = current_date", new BeanPropertyRowMapper<>(ExerciseFact.class));
     }
 
 }

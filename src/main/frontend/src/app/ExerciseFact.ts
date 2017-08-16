@@ -1,6 +1,6 @@
 export interface ExerciseFact {
   exerciseId: number;
-  dt: Date;
+  dt?: Date;
   count: number;
   weight: number;
 }

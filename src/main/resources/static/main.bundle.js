@@ -1,6 +1,6 @@
 webpackJsonp([1,4],{
 
-/***/ 343:
+/***/ 344:
 /***/ (function(module, exports) {
 
 function webpackEmptyContext(req) {
@@ -9,12 +9,12 @@ function webpackEmptyContext(req) {
 webpackEmptyContext.keys = function() { return []; };
 webpackEmptyContext.resolve = webpackEmptyContext;
 module.exports = webpackEmptyContext;
-webpackEmptyContext.id = 343;
+webpackEmptyContext.id = 344;
 
 
 /***/ }),
 
-/***/ 344:
+/***/ 345:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -40,7 +40,7 @@ __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dyna
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(428);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_http__ = __webpack_require__(284);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -56,6 +56,8 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 var AppComponent = (function () {
     function AppComponent(http) {
         this.http = http;
+        this.exercisesMap = [];
+        this.selectedCategory = '';
     }
     AppComponent.prototype.ngOnInit = function () {
         var _this = this;
@@ -65,6 +67,13 @@ var AppComponent = (function () {
             _this.exercisesMap = _this.exerciseToMap(_this.exercises);
             _this.categories = Object.keys(_this.exercisesMap);
         });
+        this.getExerciseFacts().subscribe(function (result) {
+            _this.exerciseFacts = result.json();
+            console.log(result);
+        });
+    };
+    AppComponent.prototype.getExerciseById = function (id) {
+        return this.exercises && this.exercises.filter(function (item) { return item.id === id; })[0];
     };
     AppComponent.prototype.exerciseToMap = function (exercises) {
         var exercisesMap = {};
@@ -72,23 +81,24 @@ var AppComponent = (function () {
             if (!exercisesMap[item.category]) {
                 exercisesMap[item.category] = [];
             }
-            exercisesMap[item.category].push(item.title);
+            exercisesMap[item.category].push(item);
         });
         return exercisesMap;
     };
     AppComponent.prototype.getExercises = function () {
         return this.http.get('/api/exercises');
     };
-    AppComponent.prototype.getExerciseFacts = function (dt) {
-        var _this = this;
-        this.http.get('/api/exercise-facts?dt=' + dt).subscribe(function (result) {
-            _this.exerciseFacts = result.json();
-            console.log(result);
-        });
+    AppComponent.prototype.getExerciseFacts = function () {
+        return this.http.get('/api/exercise-facts-today');
     };
-    AppComponent.prototype.addExerciseFact = function (exerciseFact) {
+    AppComponent.prototype.addExerciseFact = function (exerciseId, count, weight) {
         var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Headers */]({ 'Content-Type': 'application/json' });
         var options = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* RequestOptions */]({ headers: headers });
+        var exerciseFact = {
+            exerciseId: exerciseId,
+            count: count,
+            weight: weight
+        };
         var body = JSON.stringify(exerciseFact);
         this.http.post('/api/exercise-facts', body, options).subscribe(function (result) {
             console.log(result);
@@ -115,8 +125,8 @@ var AppComponent = (function () {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(192);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(422);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(428);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__angular_forms__ = __webpack_require__(423);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_http__ = __webpack_require__(284);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_component__ = __webpack_require__(452);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
@@ -176,21 +186,21 @@ var environment = {
 /***/ 610:
 /***/ (function(module, exports) {
 
-module.exports = ""
+module.exports = ".categories {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n}\n"
 
 /***/ }),
 
 /***/ 611:
 /***/ (function(module, exports) {
 
-module.exports = "<div *ngFor=\"let category of categories\">\n  {{category}}\n  <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n</div>\n\n<select [(ngModel)]=\"selectedExerciseTitle\">\n  <option *ngFor=\"let title of exercisesMap[selectedCategory]\">{{title}}</option>\n</select>\n\n\n<button (click)=\"addExerciseFact('20170101')\">\n  save\n</button>\n\n{{exercises | json}}\n\n{{exerciseFacts | json}}\n"
+module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div>\n  <select [(ngModel)]=\"selectedExerciseId\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n</div>\n<div>\n  count\n  <input type=\"number\" [(ngModel)]=\"count\">\n  weight\n  <input type=\"number\" [(ngModel)]=\"weight\">\n  <button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">\n    save\n  </button>\n\n</div>\n\n<div>\n  <div *ngFor=\"let exercise of exerciseFacts\">\n    {{getExerciseById(exercise?.exerciseId)?.title}} |\n    {{exercise.count}} |\n    {{exercise.weight}}\n  </div>\n</div>\n"
 
 /***/ }),
 
 /***/ 624:
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(344);
+module.exports = __webpack_require__(345);
 
 
 /***/ })

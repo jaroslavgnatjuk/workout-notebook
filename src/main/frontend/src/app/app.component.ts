@@ -8,15 +8,18 @@ import {ExerciseFact} from './ExerciseFact';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit{
+export class AppComponent implements OnInit {
   exercises: Exercise[];
   categories: string[];
-  exercisesMap: any;
+  exercisesMap: any = [];
   exerciseFacts: ExerciseFact[];
-  selectedExerciseTitle: string;
-  selectedCategory: string;
+  selectedExerciseId: number;
+  selectedCategory: string = '';
+  count: number;
+  weight: number;
 
-  constructor(private http: Http) {}
+  constructor(private http: Http) {
+  }
 
   ngOnInit() {
     this.getExercises().subscribe(result => {
@@ -24,8 +27,17 @@ export class AppComponent implements OnInit{
       console.log(result);
 
       this.exercisesMap = this.exerciseToMap(this.exercises);
-      this.categories =Object.keys(this.exercisesMap);
+      this.categories = Object.keys(this.exercisesMap);
     });
+
+    this.getExerciseFacts().subscribe(result => {
+      this.exerciseFacts = result.json();
+      console.log(result);
+    });
+  }
+
+  getExerciseById(id) {
+    return this.exercises && this.exercises.filter(item => item.id === id)[0];
   }
 
   exerciseToMap(exercises: Exercise[]) {
@@ -35,7 +47,7 @@ export class AppComponent implements OnInit{
       if (!exercisesMap[item.category]) {
         exercisesMap[item.category] = [];
       }
-      exercisesMap[item.category].push(item.title);
+      exercisesMap[item.category].push(item);
     });
 
     return exercisesMap;
@@ -45,16 +57,19 @@ export class AppComponent implements OnInit{
     return this.http.get('/api/exercises');
   }
 
-  getExerciseFacts(dt) {
-    this.http.get('/api/exercise-facts?dt='+dt).subscribe(result => {
-      this.exerciseFacts = result.json();
-      console.log(result);
-    });
+  getExerciseFacts() {
+    return this.http.get('/api/exercise-facts-today');
   }
 
-  addExerciseFact(exerciseFact) {
-    let headers = new Headers({ 'Content-Type': 'application/json' });
-    let options = new RequestOptions({ headers: headers });
+  addExerciseFact(exerciseId, count, weight) {
+    let headers = new Headers({'Content-Type': 'application/json'});
+    let options = new RequestOptions({headers: headers});
+
+    let exerciseFact: ExerciseFact = {
+      exerciseId: exerciseId,
+      count: count,
+      weight: weight
+    };
 
     let body = JSON.stringify(exerciseFact);
 
