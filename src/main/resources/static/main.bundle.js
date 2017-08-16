@@ -57,7 +57,7 @@ var AppComponent = (function () {
     function AppComponent(http) {
         this.http = http;
         this.exercisesMap = [];
-        this.selectedCategory = '';
+        this.selectedCategory = 'грудь';
     }
     AppComponent.prototype.ngOnInit = function () {
         var _this = this;
@@ -114,7 +114,7 @@ var AppComponent = (function () {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */])({
             selector: 'app-root',
             template: __webpack_require__(611),
-            styles: [__webpack_require__(610)]
+            styles: [__webpack_require__(627)]
         }), 
         __metadata('design:paramtypes', [(typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* Http */] !== 'undefined' && __WEBPACK_IMPORTED_MODULE_1__angular_http__["d" /* Http */]) === 'function' && _a) || Object])
     ], AppComponent);
@@ -189,17 +189,10 @@ var environment = {
 
 /***/ }),
 
-/***/ 610:
-/***/ (function(module, exports) {
-
-module.exports = ".categories {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n}\n"
-
-/***/ }),
-
 /***/ 611:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div>\n  <select [(ngModel)]=\"selectedExerciseId\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n</div>\n<div>\n  count\n  <input type=\"number\" [(ngModel)]=\"count\">\n  weight\n  <input type=\"number\" [(ngModel)]=\"weight\">\n  <button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">\n    save\n  </button>\n\n</div>\n\n<div>\n  <div *ngFor=\"let exercise of exerciseFacts\">\n    {{getExerciseById(exercise?.exerciseId)?.title}} |\n    {{exercise.count}} |\n    {{exercise.weight}}\n  </div>\n</div>\n"
+module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div class=\"select-exercise\">\n  <select [(ngModel)]=\"selectedExerciseId\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n</div>\n\n<div class=\"digits\">\n  к-во:\n  <input type=\"number\" [(ngModel)]=\"count\">\n  вес:\n  <input type=\"number\" [(ngModel)]=\"weight\">\n  <button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">\n    save\n  </button>\n</div>\n\n<div class=\"done\">\n  <table>\n    <tr *ngFor=\"let exercise of exerciseFacts\">\n      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>\n      <td>{{exercise.count}}</td>\n      <td>{{exercise.weight}}</td>\n    </tr>\n  </table>\n</div>\n"
 
 /***/ }),
 
@@ -208,6 +201,13 @@ module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of ca
 
 module.exports = __webpack_require__(345);
 
+
+/***/ }),
+
+/***/ 627:
+/***/ (function(module, exports) {
+
+module.exports = ".categories, .digits {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex; }\n\n.select-exercise {\n  width: 100%; }\n\n.done {\n  margin-top: 10px;\n  border-top: 1px solid gray; }\n"
 
 /***/ })
 

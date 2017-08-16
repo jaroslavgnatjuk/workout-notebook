@@ -6,7 +6,7 @@ import {ExerciseFact} from './ExerciseFact';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
   exercises: Exercise[];
@@ -14,7 +14,7 @@ export class AppComponent implements OnInit {
   exercisesMap: any = [];
   exerciseFacts: ExerciseFact[];
   selectedExerciseId: number;
-  selectedCategory: string = '';
+  selectedCategory: string = 'грудь';
   count: number;
   weight: number;
 
