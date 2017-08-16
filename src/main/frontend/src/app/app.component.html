@@ -1,5 +1,15 @@
-<button (click)="getExercises()">
-  button
+<div *ngFor="let category of categories">
+  {{category}}
+  <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory">
+</div>
+
+<select [(ngModel)]="selectedExerciseTitle">
+  <option *ngFor="let title of exercisesMap[selectedCategory]">{{title}}</option>
+</select>
+
+
+<button (click)="addExerciseFact('20170101')">
+  save
 </button>
 
 {{exercises | json}}

@@ -57,12 +57,27 @@ var AppComponent = (function () {
     function AppComponent(http) {
         this.http = http;
     }
-    AppComponent.prototype.getExercises = function () {
+    AppComponent.prototype.ngOnInit = function () {
         var _this = this;
-        this.http.get('/api/exercises?dt=20170101').subscribe(function (result) {
+        this.getExercises().subscribe(function (result) {
             _this.exercises = result.json();
             console.log(result);
+            _this.exercisesMap = _this.exerciseToMap(_this.exercises);
+            _this.categories = Object.keys(_this.exercisesMap);
         });
+    };
+    AppComponent.prototype.exerciseToMap = function (exercises) {
+        var exercisesMap = {};
+        exercises.forEach(function (item) {
+            if (!exercisesMap[item.category]) {
+                exercisesMap[item.category] = [];
+            }
+            exercisesMap[item.category].push(item.title);
+        });
+        return exercisesMap;
+    };
+    AppComponent.prototype.getExercises = function () {
+        return this.http.get('/api/exercises');
     };
     AppComponent.prototype.getExerciseFacts = function (dt) {
         var _this = this;
@@ -168,7 +183,7 @@ module.exports = ""
 /***/ 611:
 /***/ (function(module, exports) {
 
-module.exports = "<button (click)=\"getExercises()\">\n  button\n</button>\n\n{{exercises | json}}\n\n{{exerciseFacts | json}}\n"
+module.exports = "<div *ngFor=\"let category of categories\">\n  {{category}}\n  <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n</div>\n\n<select [(ngModel)]=\"selectedExerciseTitle\">\n  <option *ngFor=\"let title of exercisesMap[selectedCategory]\">{{title}}</option>\n</select>\n\n\n<button (click)=\"addExerciseFact('20170101')\">\n  save\n</button>\n\n{{exercises | json}}\n\n{{exerciseFacts | json}}\n"
 
 /***/ }),
 
