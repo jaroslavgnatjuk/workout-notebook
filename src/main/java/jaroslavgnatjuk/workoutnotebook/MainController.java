@@ -21,6 +21,22 @@ public class MainController {
         return jdbcTemplate.query("SELECT * FROM exercise", new BeanPropertyRowMapper<>(Exercise.class));
     }
 
+    @RequestMapping(value = "/api/exercise", method = RequestMethod.POST)
+    public ResponseEntity<String> addExercise(@RequestParam(value = "category") String category,
+                                              @RequestParam(value = "title") String title) {
+        jdbcTemplate.update("INSERT INTO exercise(category, title) VALUES (?, ?)", category, title);
+
+        return ok().body("Exercise added");
+    }
+
+    @RequestMapping(value = "/api/exercise", method = RequestMethod.PUT)
+    public ResponseEntity<String> editExercise(@RequestBody Exercise exercise) {
+        jdbcTemplate.update("update exercise set title = ? where id = ?",
+                exercise.getTitle(), exercise.getId());
+
+        return ok().body("Exercise updated");
+    }
+
     @RequestMapping(value = "/api/exercise-facts", method = RequestMethod.POST)
     public ResponseEntity<String> addExerciseFact(@RequestBody ExerciseFact exerciseFact) {
         jdbcTemplate.update("INSERT INTO exercise_fact(exercise_id, count, weight) VALUES (?, ?, ?)",

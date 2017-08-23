@@ -22,6 +22,11 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.refreshExercises();
+    this.refreshFacts();
+  }
+
+  refreshExercises() {
     this.getExercises().subscribe(result => {
       this.exercises = result.json();
       console.log(result);
@@ -29,8 +34,6 @@ export class AppComponent implements OnInit {
       this.exercisesMap = this.exerciseToMap(this.exercises);
       this.categories = Object.keys(this.exercisesMap);
     });
-
-    this.refreshFacts();
   }
 
   refreshFacts() {
@@ -87,5 +90,45 @@ export class AppComponent implements OnInit {
       this.refreshFacts();
     });
   }
+
+  editExercise(id) {
+    let exercise = this.exercises.filter(ex => ex.id == id)[0];
+    let title = prompt('Введите название упражнения', exercise.title);
+
+    if (!exercise || !title) {
+      return;
+    }
+
+    let headers = new Headers({'Content-Type': 'application/json'});
+    let options = new RequestOptions({headers: headers});
+    let body = JSON.stringify({
+      id: exercise.id,
+      category: exercise.category,
+      title: title
+    });
+
+    this.http.put('/api/exercise', body, options).subscribe(result => {
+      console.log(result);
+      this.refreshExercises();
+    });
+  }
+
+  addExercise() {
+    let title = prompt('Введите название упражнения');
+
+    if (!title) {
+      return;
+    }
+
+    let headers = new Headers({'Content-Type': 'application/json'});
+    let options = new RequestOptions({headers: headers});
+
+    this.http.post(`/api/exercise?title=${encodeURIComponent(title)}&category=${encodeURIComponent(this.selectedCategory)}`, {}, options).subscribe(result => {
+      console.log(result);
+      this.refreshExercises();
+    });
+
+  }
+
 
 }

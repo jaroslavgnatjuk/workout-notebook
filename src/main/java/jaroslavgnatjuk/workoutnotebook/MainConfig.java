@@ -17,9 +17,9 @@ public class MainConfig {
 
     @Autowired
     private Environment env;
-/*
+
     @Bean
-    public BasicDataSource dataSource() throws URISyntaxException {
+    public BasicDataSource getDataSourceCalc() throws URISyntaxException {
         URI dbUri = new URI(System.getenv("DATABASE_URL"));
 
         String username = dbUri.getUserInfo().split(":")[0];
@@ -32,8 +32,8 @@ public class MainConfig {
         basicDataSource.setPassword(password);
 
         return basicDataSource;
-    }*/
-
+    }
+/*
     public DataSource getDataSourceCalc() {
         BasicDataSource dataSource = new BasicDataSource();
         dataSource.setDriverClassName(env.getProperty("spring.datasource.driverClassName"));
@@ -44,7 +44,7 @@ public class MainConfig {
         dataSource.setMaxActive(5);
 
         return dataSource;
-    }
+    }*/
 
 
     @Bean

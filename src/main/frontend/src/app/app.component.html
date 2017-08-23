@@ -9,6 +9,8 @@
   <select [(ngModel)]="selectedExerciseId" class="select-exercise">
     <option *ngFor="let exercise of exercisesMap[selectedCategory]" [value]="exercise.id">{{exercise.title}}</option>
   </select>
+  <button (click)="editExercise(selectedExerciseId)">edit</button>
+  <button (click)="addExercise()">+</button>
 </div>
 
 <div class="digits">

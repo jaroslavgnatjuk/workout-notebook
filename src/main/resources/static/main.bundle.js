@@ -60,6 +60,10 @@ var AppComponent = (function () {
         this.selectedCategory = 'грудь';
     }
     AppComponent.prototype.ngOnInit = function () {
+        this.refreshExercises();
+        this.refreshFacts();
+    };
+    AppComponent.prototype.refreshExercises = function () {
         var _this = this;
         this.getExercises().subscribe(function (result) {
             _this.exercises = result.json();
@@ -67,7 +71,6 @@ var AppComponent = (function () {
             _this.exercisesMap = _this.exerciseToMap(_this.exercises);
             _this.categories = Object.keys(_this.exercisesMap);
         });
-        this.refreshFacts();
     };
     AppComponent.prototype.refreshFacts = function () {
         var _this = this;
@@ -113,6 +116,38 @@ var AppComponent = (function () {
         this.http.post('/api/exercise-facts', body, options).subscribe(function (result) {
             console.log(result);
             _this.refreshFacts();
+        });
+    };
+    AppComponent.prototype.editExercise = function (id) {
+        var _this = this;
+        var exercise = this.exercises.filter(function (ex) { return ex.id == id; })[0];
+        var title = prompt('Введите название упражнения', exercise.title);
+        if (!exercise || !title) {
+            return;
+        }
+        var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Headers */]({ 'Content-Type': 'application/json' });
+        var options = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* RequestOptions */]({ headers: headers });
+        var body = JSON.stringify({
+            id: exercise.id,
+            category: exercise.category,
+            title: title
+        });
+        this.http.put('/api/exercise', body, options).subscribe(function (result) {
+            console.log(result);
+            _this.refreshExercises();
+        });
+    };
+    AppComponent.prototype.addExercise = function () {
+        var _this = this;
+        var title = prompt('Введите название упражнения');
+        if (!title) {
+            return;
+        }
+        var headers = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["b" /* Headers */]({ 'Content-Type': 'application/json' });
+        var options = new __WEBPACK_IMPORTED_MODULE_1__angular_http__["c" /* RequestOptions */]({ headers: headers });
+        this.http.post("/api/exercise?title=" + encodeURIComponent(title) + "&category=" + encodeURIComponent(this.selectedCategory), {}, options).subscribe(function (result) {
+            console.log(result);
+            _this.refreshExercises();
         });
     };
     AppComponent = __decorate([
@@ -197,14 +232,14 @@ var environment = {
 /***/ 610:
 /***/ (function(module, exports) {
 
-module.exports = ".categories {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex; }\n\n.select-exercise {\n  width: 100%; }\n\n.digits {\n  margin-top: 10px; }\n\n.done {\n  margin-top: 10px;\n  border-top: 1px solid gray; }\n\n.fact-table {\n  width: 100%; }\n"
+module.exports = ".categories {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex; }\n\n.select-exercise {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  width: 100%; }\n\n.digits {\n  margin-top: 10px; }\n\n.done {\n  margin-top: 10px;\n  border-top: 1px solid gray; }\n\n.fact-table {\n  width: 100%; }\n"
 
 /***/ }),
 
 /***/ 611:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div class=\"select-exercise\">\n  <select [(ngModel)]=\"selectedExerciseId\" class=\"select-exercise\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n</div>\n\n<div class=\"digits\">\n  <table>\n    <tr><td>к-во:</td><td><input type=\"number\" [(ngModel)]=\"count\"></td><td></td></tr>\n    <tr><td>вес:</td><td><input type=\"number\" [(ngModel)]=\"weight\"></td></tr>\n    <tr><td></td><td><button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">save</button></td></tr>\n  </table>\n</div>\n\n<div class=\"done\">\n  <table class=\"fact-table\">\n    <tr>\n      <th>упр</th>\n      <th>к-во</th>\n      <th>вес</th>\n      <th></th>\n    </tr>\n    <tr *ngFor=\"let exercise of exerciseFacts\">\n      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>\n      <td>{{exercise.count}}</td>\n      <td>{{exercise.weight}}</td>\n      <td><button (click)=\"deleteFact(exercise.id)\">del</button></td>\n    </tr>\n  </table>\n</div>\n"
+module.exports = "<div class=\"categories\">\n  <div *ngFor=\"let category of categories\">\n    {{category}}\n    <input name=\"category\" type=\"radio\" [value]=\"category\" [(ngModel)]=\"selectedCategory\">\n  </div>\n</div>\n\n<div class=\"select-exercise\">\n  <select [(ngModel)]=\"selectedExerciseId\" class=\"select-exercise\">\n    <option *ngFor=\"let exercise of exercisesMap[selectedCategory]\" [value]=\"exercise.id\">{{exercise.title}}</option>\n  </select>\n  <button (click)=\"editExercise(selectedExerciseId)\">edit</button>\n  <button (click)=\"addExercise()\">+</button>\n</div>\n\n<div class=\"digits\">\n  <table>\n    <tr><td>к-во:</td><td><input type=\"number\" [(ngModel)]=\"count\"></td><td></td></tr>\n    <tr><td>вес:</td><td><input type=\"number\" [(ngModel)]=\"weight\"></td></tr>\n    <tr><td></td><td><button (click)=\"addExerciseFact(selectedExerciseId, count, weight)\">save</button></td></tr>\n  </table>\n</div>\n\n<div class=\"done\">\n  <table class=\"fact-table\">\n    <tr>\n      <th>упр</th>\n      <th>к-во</th>\n      <th>вес</th>\n      <th></th>\n    </tr>\n    <tr *ngFor=\"let exercise of exerciseFacts\">\n      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>\n      <td>{{exercise.count}}</td>\n      <td>{{exercise.weight}}</td>\n      <td><button (click)=\"deleteFact(exercise.id)\">del</button></td>\n    </tr>\n  </table>\n</div>\n"
 
 /***/ }),
 
