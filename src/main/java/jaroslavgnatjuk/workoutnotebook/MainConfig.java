@@ -44,9 +44,9 @@ public class MainConfig {
         dataSource.setMaxActive(5);
 
         return dataSource;
-    }*/
+    }
 
-
+*/
     @Bean
     public JdbcTemplate jdbcTemplate() throws URISyntaxException {
         return new JdbcTemplate(getDataSourceCalc());

@@ -7,6 +7,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Map;
 
 import static org.springframework.http.ResponseEntity.ok;
 
@@ -19,6 +20,16 @@ public class MainController {
     @RequestMapping(value = "/api/exercises", method = RequestMethod.GET)
     public List<Exercise> getExercises() {
         return jdbcTemplate.query("SELECT * FROM exercise", new BeanPropertyRowMapper<>(Exercise.class));
+    }
+
+    @RequestMapping(value = "/api/exercise-facts/{exerciseId}", method = RequestMethod.GET)
+    public List<ExerciseFact> getExerciseFactsByExerciseId(@PathVariable(value = "exerciseId") int exerciseId) {
+        return jdbcTemplate.query("select * from exercise_fact where exercise_id = ? order by dt desc", new BeanPropertyRowMapper<>(ExerciseFact.class), exerciseId);
+    }
+
+    @RequestMapping(value = "/api/exercise-facts-all-days", method = RequestMethod.GET)
+    public List<Map<String, Object>> getExerciseFactsAllDays() {
+        return jdbcTemplate.queryForList("select distinct  date(dt) as dt from exercise_fact order by dt desc");
     }
 
     @RequestMapping(value = "/api/exercise", method = RequestMethod.POST)
@@ -47,7 +58,7 @@ public class MainController {
 
     @RequestMapping(value = "/api/exercise-facts", method = RequestMethod.GET)
     public List<ExerciseFact> getExerciseFactsByDate(@RequestParam(value = "dt") String dt) {
-        return jdbcTemplate.query("SELECT * FROM exercise_fact WHERE dt=?", new BeanPropertyRowMapper<>(ExerciseFact.class), dt);
+        return jdbcTemplate.query("SELECT * FROM exercise_fact WHERE date(dt)=cast(? as date) order by dt desc", new BeanPropertyRowMapper<>(ExerciseFact.class), dt);
     }
 
     @RequestMapping(value = "/api/exercise-facts-today", method = RequestMethod.GET)

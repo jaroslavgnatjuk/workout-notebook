@@ -9,55 +9,55 @@ webpackJsonp([3,4],[
 /* unused harmony reexport destroyPlatform */
 /* unused harmony reexport getPlatform */
 /* unused harmony reexport PlatformRef */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "K", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["K"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "L", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["L"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "E", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["E"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "M", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["L"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "N", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["N"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_6", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_6"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["g"]; });
-/* unused harmony reexport APP_BOOTSTRAP_LISTENER */
-/* unused harmony reexport APP_INITIALIZER */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "v", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["u"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "N", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["M"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "O", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["O"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_13", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_13"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Y", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["S"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "X", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["T"]; });
 /* unused harmony reexport ApplicationInitStatus */
 /* unused harmony reexport DebugElement */
 /* unused harmony reexport DebugNode */
 /* unused harmony reexport asNativeElements */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "L", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["M"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["h"]; });
-/* unused harmony reexport TestabilityRegistry */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "P", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["P"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_33", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_33"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_5", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["X"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "r", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["q"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "M", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["N"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "m", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["i"]; });
+/* unused harmony reexport TestabilityRegistry */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Q", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Q"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_38", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_38"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_12", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_7"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "x", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["x"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["j"]; });
 /* unused harmony reexport wtfCreateScope */
 /* unused harmony reexport wtfLeave */
 /* unused harmony reexport wtfStartTimeRange */
 /* unused harmony reexport wtfEndTimeRange */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_17", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_9"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "G", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["G"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_25", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_16"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "K", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["K"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["k"]; });
 /* unused harmony reexport AnimationTransitionEvent */
 /* unused harmony reexport AnimationPlayer */
 /* unused harmony reexport AnimationStyles */
 /* unused harmony reexport AnimationKeyframe */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "J", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["J"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "X", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Y"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "x", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["v"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_21", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_21"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_22", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_22"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_20", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_18"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_23", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_23"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_24", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_24"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "U", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["U"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "v", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["w"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_18", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_19"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_19", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_20"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "w", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["x"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "T", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["T"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "p", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["p"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["l"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "u", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["v"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "W", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["U"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "C", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["A"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_27", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_27"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_1", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_1"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_26", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_26"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_28", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_28"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_29", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_29"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "A", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["B"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_3", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_2"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_2", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_3"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "B", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["C"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_4", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_4"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "w", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["w"]; });
 /* unused harmony reexport AfterContentChecked */
 /* unused harmony reexport AfterContentInit */
 /* unused harmony reexport AfterViewChecked */
@@ -66,80 +66,80 @@ webpackJsonp([3,4],[
 /* unused harmony reexport OnChanges */
 /* unused harmony reexport OnDestroy */
 /* unused harmony reexport OnInit */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_8", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_7"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_7", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_8"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "O", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["O"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_15", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_14"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_14", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_15"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "P", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["P"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["d"]; });
 /* unused harmony reexport VERSION */
 /* unused harmony reexport Class */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Q", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Q"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_16", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_10"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "R", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["R"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_35", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_34"]; });
+/* unused harmony reexport forwardRef */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_23", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_17"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "S", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["V"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_0", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Z"]; });
 /* unused harmony reexport ResolvedReflectiveFactory */
 /* unused harmony reexport ReflectiveKey */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "H", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["H"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "q", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["r"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["l"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "S", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["S"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "q", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["q"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "r", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["r"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "o", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["m"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "A", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["y"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "I", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["I"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Y", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Z"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "D", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["B"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["n"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "V", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["V"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_34", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_35"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_36", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_36"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_37", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_37"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_1", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_0"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_2", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_1"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_0", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_2"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "C", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["C"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_3", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_3"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_24", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_18"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "p", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["n"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "F", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["D"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "s", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["s"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_7", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_8"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "I", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["G"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["o"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_5", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_5"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "U", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["W"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_39", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_39"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_40", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_40"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_9", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_9"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_10", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_10"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Z", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_0"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "H", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["H"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "R", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["R"]; });
 /* unused harmony reexport NgModuleRef */
-/* unused harmony reexport NgModuleFactoryLoader */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "T", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["X"]; });
 /* unused harmony reexport getModuleFactory */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Z", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_4"]; });
-/* unused harmony reexport SystemJsNgModuleLoader */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_8", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_11"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "V", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["Y"]; });
 /* unused harmony reexport SystemJsNgModuleLoaderConfig */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "y", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["z"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "z", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["A"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "D", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["E"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "E", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["F"]; });
 /* unused harmony reexport EmbeddedViewRef */
 /* unused harmony reexport ViewRef */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "W", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["W"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "t", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["s"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_6", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_6"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "z", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["y"]; });
 /* unused harmony reexport CollectionChangeRecord */
 /* unused harmony reexport DefaultIterableDiffer */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "F", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["F"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "J", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["J"]; });
 /* unused harmony reexport KeyValueChangeRecord */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "B", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["D"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_4", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_5"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "s", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["t"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["o"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "u", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["u"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "G", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["I"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_11", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_12"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "y", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["z"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["p"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "t", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["t"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["f"]; });
 /* unused harmony reexport AnimationEntryMetadata */
 /* unused harmony reexport AnimationStateMetadata */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_9", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_11"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_10", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_12"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_16", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_19"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_17", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_20"]; });
 /* unused harmony reexport AnimationMetadata */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_12", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_13"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_11", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_14"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_13", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_15"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_14", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_16"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_19", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_21"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_18", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_22"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_20", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_23"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_21", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_24"]; });
 /* unused harmony reexport AnimationSequenceMetadata */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_15", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_17"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_29", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_25"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_32", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_26"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_31", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_27"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_28", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_28"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_26", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_29"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_30", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_30"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_27", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_31"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_25", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_32"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_22", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_25"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_34", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_30"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_37", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_31"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_36", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_32"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_33", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_33"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_31", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_34"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_35", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_35"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_32", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_36"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_30", function() { return __WEBPACK_IMPORTED_MODULE_0__src_core__["_37"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -3313,7 +3313,7 @@ function createHostComponentMeta(typeReference, compMeta) {
         isHost: true,
         type: { reference: typeReference, diDeps: [], lifecycleHooks: [] },
         template: new CompileTemplateMetadata({
-            encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].None,
+            encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].None,
             template: template,
             templateUrl: '',
             styles: [],
@@ -3321,7 +3321,7 @@ function createHostComponentMeta(typeReference, compMeta) {
             ngContentSelectors: [],
             animations: []
         }),
-        changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["W" /* ChangeDetectionStrategy */].Default,
+        changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* ChangeDetectionStrategy */].Default,
         inputs: [],
         outputs: [],
         host: {},
@@ -3644,49 +3644,49 @@ function ProviderMeta_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 
-var /** @type {?} */ isDefaultChangeDetectionStrategy = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].isDefaultChangeDetectionStrategy;
-var /** @type {?} */ ChangeDetectorStatus = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ChangeDetectorStatus;
-var /** @type {?} */ LifecycleHooks = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].LifecycleHooks;
-var /** @type {?} */ LIFECYCLE_HOOKS_VALUES = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].LIFECYCLE_HOOKS_VALUES;
-var /** @type {?} */ ReflectorReader = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ReflectorReader;
-var /** @type {?} */ ViewContainer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ViewContainer;
-var /** @type {?} */ CodegenComponentFactoryResolver = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].CodegenComponentFactoryResolver;
-var /** @type {?} */ ComponentRef_ = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ComponentRef_;
-var /** @type {?} */ AppView = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AppView;
-var /** @type {?} */ DebugAppView = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].DebugAppView;
-var /** @type {?} */ NgModuleInjector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].NgModuleInjector;
-var /** @type {?} */ registerModuleFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].registerModuleFactory;
-var /** @type {?} */ ViewType = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ViewType;
-var /** @type {?} */ view_utils = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].view_utils;
-var /** @type {?} */ DebugContext = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].DebugContext;
-var /** @type {?} */ StaticNodeDebugInfo = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].StaticNodeDebugInfo;
-var /** @type {?} */ devModeEqual = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].devModeEqual;
-var /** @type {?} */ UNINITIALIZED = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].UNINITIALIZED;
-var /** @type {?} */ ValueUnwrapper = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ValueUnwrapper;
-var /** @type {?} */ TemplateRef_ = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].TemplateRef_;
-var /** @type {?} */ RenderDebugInfo = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].RenderDebugInfo;
-var /** @type {?} */ Console = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].Console;
-var /** @type {?} */ reflector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].reflector;
-var /** @type {?} */ Reflector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].Reflector;
-var /** @type {?} */ ReflectionCapabilities = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ReflectionCapabilities;
-var /** @type {?} */ NoOpAnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].NoOpAnimationPlayer;
-var /** @type {?} */ AnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationPlayer;
-var /** @type {?} */ AnimationSequencePlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationSequencePlayer;
-var /** @type {?} */ AnimationGroupPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationGroupPlayer;
-var /** @type {?} */ AnimationKeyframe = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationKeyframe;
-var /** @type {?} */ AnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationStyles;
-var /** @type {?} */ ANY_STATE = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ANY_STATE;
-var /** @type {?} */ DEFAULT_STATE = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].DEFAULT_STATE;
-var /** @type {?} */ EMPTY_STATE = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].EMPTY_STATE;
-var /** @type {?} */ FILL_STYLE_FLAG = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].FILL_STYLE_FLAG;
-var /** @type {?} */ prepareFinalAnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].prepareFinalAnimationStyles;
-var /** @type {?} */ balanceAnimationKeyframes = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].balanceAnimationKeyframes;
-var /** @type {?} */ clearStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].clearStyles;
-var /** @type {?} */ collectAndResolveStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].collectAndResolveStyles;
-var /** @type {?} */ renderStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].renderStyles;
-var /** @type {?} */ ViewMetadata = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ViewMetadata;
-var /** @type {?} */ ComponentStillLoadingError = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ComponentStillLoadingError;
-var /** @type {?} */ AnimationTransition = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationTransition;
+var /** @type {?} */ isDefaultChangeDetectionStrategy = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].isDefaultChangeDetectionStrategy;
+var /** @type {?} */ ChangeDetectorStatus = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ChangeDetectorStatus;
+var /** @type {?} */ LifecycleHooks = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].LifecycleHooks;
+var /** @type {?} */ LIFECYCLE_HOOKS_VALUES = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].LIFECYCLE_HOOKS_VALUES;
+var /** @type {?} */ ReflectorReader = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ReflectorReader;
+var /** @type {?} */ ViewContainer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ViewContainer;
+var /** @type {?} */ CodegenComponentFactoryResolver = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].CodegenComponentFactoryResolver;
+var /** @type {?} */ ComponentRef_ = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ComponentRef_;
+var /** @type {?} */ AppView = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AppView;
+var /** @type {?} */ DebugAppView = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].DebugAppView;
+var /** @type {?} */ NgModuleInjector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].NgModuleInjector;
+var /** @type {?} */ registerModuleFactory = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].registerModuleFactory;
+var /** @type {?} */ ViewType = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ViewType;
+var /** @type {?} */ view_utils = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].view_utils;
+var /** @type {?} */ DebugContext = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].DebugContext;
+var /** @type {?} */ StaticNodeDebugInfo = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].StaticNodeDebugInfo;
+var /** @type {?} */ devModeEqual = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].devModeEqual;
+var /** @type {?} */ UNINITIALIZED = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].UNINITIALIZED;
+var /** @type {?} */ ValueUnwrapper = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ValueUnwrapper;
+var /** @type {?} */ TemplateRef_ = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].TemplateRef_;
+var /** @type {?} */ RenderDebugInfo = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].RenderDebugInfo;
+var /** @type {?} */ Console = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].Console;
+var /** @type {?} */ reflector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].reflector;
+var /** @type {?} */ Reflector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].Reflector;
+var /** @type {?} */ ReflectionCapabilities = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ReflectionCapabilities;
+var /** @type {?} */ NoOpAnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].NoOpAnimationPlayer;
+var /** @type {?} */ AnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationPlayer;
+var /** @type {?} */ AnimationSequencePlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationSequencePlayer;
+var /** @type {?} */ AnimationGroupPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationGroupPlayer;
+var /** @type {?} */ AnimationKeyframe = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationKeyframe;
+var /** @type {?} */ AnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationStyles;
+var /** @type {?} */ ANY_STATE = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ANY_STATE;
+var /** @type {?} */ DEFAULT_STATE = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].DEFAULT_STATE;
+var /** @type {?} */ EMPTY_STATE = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].EMPTY_STATE;
+var /** @type {?} */ FILL_STYLE_FLAG = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].FILL_STYLE_FLAG;
+var /** @type {?} */ prepareFinalAnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].prepareFinalAnimationStyles;
+var /** @type {?} */ balanceAnimationKeyframes = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].balanceAnimationKeyframes;
+var /** @type {?} */ clearStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].clearStyles;
+var /** @type {?} */ collectAndResolveStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].collectAndResolveStyles;
+var /** @type {?} */ renderStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].renderStyles;
+var /** @type {?} */ ViewMetadata = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ViewMetadata;
+var /** @type {?} */ ComponentStillLoadingError = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ComponentStillLoadingError;
+var /** @type {?} */ AnimationTransition = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationTransition;
 //# sourceMappingURL=private_import_core.js.map
 
 /***/ }),
@@ -3723,7 +3723,7 @@ var Identifiers = (function () {
     Identifiers.ANALYZE_FOR_ENTRY_COMPONENTS = {
         name: 'ANALYZE_FOR_ENTRY_COMPONENTS',
         moduleUrl: assetUrl('core', 'metadata/di'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["X" /* ANALYZE_FOR_ENTRY_COMPONENTS */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["W" /* ANALYZE_FOR_ENTRY_COMPONENTS */]
     };
     Identifiers.ViewUtils = {
         name: 'ViewUtils',
@@ -3744,32 +3744,32 @@ var Identifiers = (function () {
     Identifiers.ElementRef = {
         name: 'ElementRef',
         moduleUrl: assetUrl('core', 'linker/element_ref'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* ElementRef */]
     };
     Identifiers.ViewContainerRef = {
         name: 'ViewContainerRef',
         moduleUrl: assetUrl('core', 'linker/view_container_ref'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */]
     };
     Identifiers.ChangeDetectorRef = {
         name: 'ChangeDetectorRef',
         moduleUrl: assetUrl('core', 'change_detection/change_detector_ref'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* ChangeDetectorRef */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ChangeDetectorRef */]
     };
     Identifiers.RenderComponentType = {
         name: 'RenderComponentType',
         moduleUrl: assetUrl('core', 'render/api'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Y" /* RenderComponentType */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_7" /* RenderComponentType */]
     };
     Identifiers.QueryList = {
         name: 'QueryList',
         moduleUrl: assetUrl('core', 'linker/query_list'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* QueryList */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* QueryList */]
     };
     Identifiers.TemplateRef = {
         name: 'TemplateRef',
         moduleUrl: assetUrl('core', 'linker/template_ref'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* TemplateRef */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* TemplateRef */]
     };
     Identifiers.TemplateRef_ = {
         name: 'TemplateRef_',
@@ -3784,11 +3784,11 @@ var Identifiers = (function () {
     Identifiers.ComponentFactoryResolver = {
         name: 'ComponentFactoryResolver',
         moduleUrl: assetUrl('core', 'linker/component_factory_resolver'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* ComponentFactoryResolver */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* ComponentFactoryResolver */]
     };
     Identifiers.ComponentFactory = {
         name: 'ComponentFactory',
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ComponentFactory */],
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ComponentFactory */],
         moduleUrl: assetUrl('core', 'linker/component_factory')
     };
     Identifiers.ComponentRef_ = {
@@ -3798,12 +3798,12 @@ var Identifiers = (function () {
     };
     Identifiers.ComponentRef = {
         name: 'ComponentRef',
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* ComponentRef */],
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* ComponentRef */],
         moduleUrl: assetUrl('core', 'linker/component_factory')
     };
     Identifiers.NgModuleFactory = {
         name: 'NgModuleFactory',
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* NgModuleFactory */],
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* NgModuleFactory */],
         moduleUrl: assetUrl('core', 'linker/ng_module_factory')
     };
     Identifiers.NgModuleInjector = {
@@ -3820,12 +3820,12 @@ var Identifiers = (function () {
     Identifiers.Injector = {
         name: 'Injector',
         moduleUrl: assetUrl('core', 'di/injector'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Injector */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Injector */]
     };
     Identifiers.ViewEncapsulation = {
         name: 'ViewEncapsulation',
         moduleUrl: assetUrl('core', 'metadata/view'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */]
     };
     Identifiers.ViewType = {
         name: 'ViewType',
@@ -3835,7 +3835,7 @@ var Identifiers = (function () {
     Identifiers.ChangeDetectionStrategy = {
         name: 'ChangeDetectionStrategy',
         moduleUrl: CD_MODULE_URL,
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["W" /* ChangeDetectionStrategy */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* ChangeDetectionStrategy */]
     };
     Identifiers.StaticNodeDebugInfo = {
         name: 'StaticNodeDebugInfo',
@@ -3850,9 +3850,9 @@ var Identifiers = (function () {
     Identifiers.Renderer = {
         name: 'Renderer',
         moduleUrl: assetUrl('core', 'render/api'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* Renderer */]
     };
-    Identifiers.SimpleChange = { name: 'SimpleChange', moduleUrl: CD_MODULE_URL, runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* SimpleChange */] };
+    Identifiers.SimpleChange = { name: 'SimpleChange', moduleUrl: CD_MODULE_URL, runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_11" /* SimpleChange */] };
     Identifiers.UNINITIALIZED = { name: 'UNINITIALIZED', moduleUrl: CD_MODULE_URL, runtime: __WEBPACK_IMPORTED_MODULE_1__private_import_core__["q" /* UNINITIALIZED */] };
     Identifiers.ChangeDetectorStatus = {
         name: 'ChangeDetectorStatus',
@@ -3916,7 +3916,7 @@ var Identifiers = (function () {
     Identifiers.SecurityContext = {
         name: 'SecurityContext',
         moduleUrl: assetUrl('core', 'security'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */],
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */],
     };
     Identifiers.AnimationKeyframe = {
         name: 'AnimationKeyframe',
@@ -3971,12 +3971,12 @@ var Identifiers = (function () {
     Identifiers.LOCALE_ID = {
         name: 'LOCALE_ID',
         moduleUrl: assetUrl('core', 'i18n/tokens'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* LOCALE_ID */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* LOCALE_ID */]
     };
     Identifiers.TRANSLATIONS_FORMAT = {
         name: 'TRANSLATIONS_FORMAT',
         moduleUrl: assetUrl('core', 'i18n/tokens'),
-        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* TRANSLATIONS_FORMAT */]
+        runtime: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_12" /* TRANSLATIONS_FORMAT */]
     };
     Identifiers.setBindingDebugInfo = {
         name: 'setBindingDebugInfo',
@@ -5452,8 +5452,8 @@ function ParseError_tsickle_Closure_declarations() {
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["c"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__di_metadata__["f"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__di_forward_ref__ = __webpack_require__(170);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_1__di_forward_ref__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_1__di_forward_ref__["a"]; });
+/* unused harmony reexport forwardRef */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_1__di_forward_ref__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__di_injector__ = __webpack_require__(84);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_2__di_injector__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__di_reflective_injector__ = __webpack_require__(407);
@@ -5486,30 +5486,7 @@ function ParseError_tsickle_Closure_declarations() {
 //# sourceMappingURL=di.js.map
 
 /***/ }),
-/* 25 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NG_VALUE_ACCESSOR; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * Used to provide a {@link ControlValueAccessor} for form controls.
- *
- * See {@link DefaultValueAccessor} for how to implement one.
- * @stable
- */
-var /** @type {?} */ NG_VALUE_ACCESSOR = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('NgValueAccessor');
-//# sourceMappingURL=control_value_accessor.js.map
-
-/***/ }),
+/* 25 */,
 /* 26 */,
 /* 27 */,
 /* 28 */,
@@ -6509,225 +6486,7 @@ function templateVisitAll(visitor, asts, context) {
 //# sourceMappingURL=template_ast.js.map
 
 /***/ }),
-/* 33 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_operator_toPromise__ = __webpack_require__(615);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_operator_toPromise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_operator_toPromise__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__facade_collection__ = __webpack_require__(281);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__facade_lang__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__private_import_core__ = __webpack_require__(283);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NG_VALIDATORS; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return NG_ASYNC_VALIDATORS; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Validators; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-
-
-/**
- * @param {?} value
- * @return {?}
- */
-function isEmptyInputValue(value) {
-    // we don't check for string here so it also works with arrays
-    return value == null || value.length === 0;
-}
-/**
- * Providers for validators to be used for {@link FormControl}s in a form.
- *
- * Provide this using `multi: true` to add validators.
- *
- * ### Example
- *
- * {@example core/forms/ts/ng_validators/ng_validators.ts region='ng_validators'}
- * @stable
- */
-var /** @type {?} */ NG_VALIDATORS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('NgValidators');
-/**
- * Providers for asynchronous validators to be used for {@link FormControl}s
- * in a form.
- *
- * Provide this using `multi: true` to add validators.
- *
- * See {@link NG_VALIDATORS} for more details.
- *
- * @stable
- */
-var /** @type {?} */ NG_ASYNC_VALIDATORS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('NgAsyncValidators');
-/**
- * Provides a set of validators used by form controls.
- *
- * A validator is a function that processes a {\@link FormControl} or collection of
- * controls and returns a map of errors. A null map means that validation has passed.
- *
- * ### Example
- *
- * ```typescript
- * var loginControl = new FormControl("", Validators.required)
- * ```
- *
- * \@stable
- */
-var Validators = (function () {
-    function Validators() {
-    }
-    /**
-     * Validator that requires controls to have a non-empty value.
-     * @param {?} control
-     * @return {?}
-     */
-    Validators.required = function (control) {
-        return isEmptyInputValue(control.value) ? { 'required': true } : null;
-    };
-    /**
-     * Validator that requires control value to be true.
-     * @param {?} control
-     * @return {?}
-     */
-    Validators.requiredTrue = function (control) {
-        return control.value === true ? null : { 'required': true };
-    };
-    /**
-     * Validator that requires controls to have a value of a minimum length.
-     * @param {?} minLength
-     * @return {?}
-     */
-    Validators.minLength = function (minLength) {
-        return function (control) {
-            if (isEmptyInputValue(control.value)) {
-                return null; // don't validate empty values to allow optional controls
-            }
-            var /** @type {?} */ length = control.value ? control.value.length : 0;
-            return length < minLength ?
-                { 'minlength': { 'requiredLength': minLength, 'actualLength': length } } :
-                null;
-        };
-    };
-    /**
-     * Validator that requires controls to have a value of a maximum length.
-     * @param {?} maxLength
-     * @return {?}
-     */
-    Validators.maxLength = function (maxLength) {
-        return function (control) {
-            var /** @type {?} */ length = control.value ? control.value.length : 0;
-            return length > maxLength ?
-                { 'maxlength': { 'requiredLength': maxLength, 'actualLength': length } } :
-                null;
-        };
-    };
-    /**
-     * Validator that requires a control to match a regex to its value.
-     * @param {?} pattern
-     * @return {?}
-     */
-    Validators.pattern = function (pattern) {
-        if (!pattern)
-            return Validators.nullValidator;
-        var /** @type {?} */ regex;
-        var /** @type {?} */ regexStr;
-        if (typeof pattern === 'string') {
-            regexStr = "^" + pattern + "$";
-            regex = new RegExp(regexStr);
-        }
-        else {
-            regexStr = pattern.toString();
-            regex = pattern;
-        }
-        return function (control) {
-            if (isEmptyInputValue(control.value)) {
-                return null; // don't validate empty values to allow optional controls
-            }
-            var /** @type {?} */ value = control.value;
-            return regex.test(value) ? null :
-                { 'pattern': { 'requiredPattern': regexStr, 'actualValue': value } };
-        };
-    };
-    /**
-     * No-op validator.
-     * @param {?} c
-     * @return {?}
-     */
-    Validators.nullValidator = function (c) { return null; };
-    /**
-     * Compose multiple validators into a single function that returns the union
-     * of the individual error maps.
-     * @param {?} validators
-     * @return {?}
-     */
-    Validators.compose = function (validators) {
-        if (!validators)
-            return null;
-        var /** @type {?} */ presentValidators = validators.filter(__WEBPACK_IMPORTED_MODULE_3__facade_lang__["a" /* isPresent */]);
-        if (presentValidators.length == 0)
-            return null;
-        return function (control) {
-            return _mergeErrors(_executeValidators(control, presentValidators));
-        };
-    };
-    /**
-     * @param {?} validators
-     * @return {?}
-     */
-    Validators.composeAsync = function (validators) {
-        if (!validators)
-            return null;
-        var /** @type {?} */ presentValidators = validators.filter(__WEBPACK_IMPORTED_MODULE_3__facade_lang__["a" /* isPresent */]);
-        if (presentValidators.length == 0)
-            return null;
-        return function (control) {
-            var /** @type {?} */ promises = _executeAsyncValidators(control, presentValidators).map(_convertToPromise);
-            return Promise.all(promises).then(_mergeErrors);
-        };
-    };
-    return Validators;
-}());
-/**
- * @param {?} obj
- * @return {?}
- */
-function _convertToPromise(obj) {
-    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4__private_import_core__["a" /* isPromise */])(obj) ? obj : __WEBPACK_IMPORTED_MODULE_1_rxjs_operator_toPromise__["toPromise"].call(obj);
-}
-/**
- * @param {?} control
- * @param {?} validators
- * @return {?}
- */
-function _executeValidators(control, validators) {
-    return validators.map(function (v) { return v(control); });
-}
-/**
- * @param {?} control
- * @param {?} validators
- * @return {?}
- */
-function _executeAsyncValidators(control, validators) {
-    return validators.map(function (v) { return v(control); });
-}
-/**
- * @param {?} arrayOfErrors
- * @return {?}
- */
-function _mergeErrors(arrayOfErrors) {
-    var /** @type {?} */ res = arrayOfErrors.reduce(function (res, errors) {
-        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__facade_lang__["a" /* isPresent */])(errors) ? __WEBPACK_IMPORTED_MODULE_2__facade_collection__["a" /* StringMapWrapper */].merge(res, errors) : res;
-    }, {});
-    return Object.keys(res).length === 0 ? null : res;
-}
-//# sourceMappingURL=validators.js.map
-
-/***/ }),
+/* 33 */,
 /* 34 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6951,64 +6710,7 @@ function escapeRegExp(s) {
 
 /***/ }),
 /* 35 */,
-/* 36 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__abstract_control_directive__ = __webpack_require__(182);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ControlContainer; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-/**
- * A directive that contains multiple {\@link NgControl}s.
- *
- * Only used by the forms module.
- *
- * \@stable
- */
-var ControlContainer = (function (_super) {
-    __extends(ControlContainer, _super);
-    function ControlContainer() {
-        _super.apply(this, arguments);
-    }
-    Object.defineProperty(ControlContainer.prototype, "formDirective", {
-        /**
-         * Get the form to which this container belongs.
-         * @return {?}
-         */
-        get: function () { return null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(ControlContainer.prototype, "path", {
-        /**
-         * Get the path to this container.
-         * @return {?}
-         */
-        get: function () { return null; },
-        enumerable: true,
-        configurable: true
-    });
-    return ControlContainer;
-}(__WEBPACK_IMPORTED_MODULE_0__abstract_control_directive__["a" /* AbstractControlDirective */]));
-function ControlContainer_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ControlContainer.prototype.name;
-}
-//# sourceMappingURL=control_container.js.map
-
-/***/ }),
+/* 36 */,
 /* 37 */,
 /* 38 */,
 /* 39 */,
@@ -7164,7 +6866,7 @@ var CompilerConfig = (function () {
      * @param {?=} __0
      */
     function CompilerConfig(_a) {
-        var _b = _a === void 0 ? {} : _a, _c = _b.renderTypes, renderTypes = _c === void 0 ? new DefaultRenderTypes() : _c, _d = _b.defaultEncapsulation, defaultEncapsulation = _d === void 0 ? __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated : _d, genDebugInfo = _b.genDebugInfo, logBindingUpdate = _b.logBindingUpdate, _e = _b.useJit, useJit = _e === void 0 ? true : _e;
+        var _b = _a === void 0 ? {} : _a, _c = _b.renderTypes, renderTypes = _c === void 0 ? new DefaultRenderTypes() : _c, _d = _b.defaultEncapsulation, defaultEncapsulation = _d === void 0 ? __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated : _d, genDebugInfo = _b.genDebugInfo, logBindingUpdate = _b.logBindingUpdate, _e = _b.useJit, useJit = _e === void 0 ? true : _e;
         this.renderTypes = renderTypes;
         this.defaultEncapsulation = defaultEncapsulation;
         this._genDebugInfo = genDebugInfo;
@@ -7176,7 +6878,7 @@ var CompilerConfig = (function () {
          * @return {?}
          */
         get: function () {
-            return this._genDebugInfo === void 0 ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])() : this._genDebugInfo;
+            return this._genDebugInfo === void 0 ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])() : this._genDebugInfo;
         },
         enumerable: true,
         configurable: true
@@ -7186,7 +6888,7 @@ var CompilerConfig = (function () {
          * @return {?}
          */
         get: function () {
-            return this._logBindingUpdate === void 0 ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])() : this._logBindingUpdate;
+            return this._logBindingUpdate === void 0 ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])() : this._logBindingUpdate;
         },
         enumerable: true,
         configurable: true
@@ -8179,233 +7881,7 @@ var ElementSchemaRegistry = (function () {
 //# sourceMappingURL=element_schema_registry.js.map
 
 /***/ }),
-/* 48 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__facade_lang__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__checkbox_value_accessor__ = __webpack_require__(127);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__default_value_accessor__ = __webpack_require__(128);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__normalize_validator__ = __webpack_require__(425);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__number_value_accessor__ = __webpack_require__(185);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__radio_control_value_accessor__ = __webpack_require__(89);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__range_value_accessor__ = __webpack_require__(186);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__select_control_value_accessor__ = __webpack_require__(131);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__select_multiple_control_value_accessor__ = __webpack_require__(132);
-/* harmony export (immutable) */ __webpack_exports__["c"] = controlPath;
-/* harmony export (immutable) */ __webpack_exports__["f"] = setUpControl;
-/* harmony export (immutable) */ __webpack_exports__["h"] = cleanUpControl;
-/* harmony export (immutable) */ __webpack_exports__["g"] = setUpFormContainer;
-/* harmony export (immutable) */ __webpack_exports__["a"] = composeValidators;
-/* harmony export (immutable) */ __webpack_exports__["b"] = composeAsyncValidators;
-/* harmony export (immutable) */ __webpack_exports__["e"] = isPropertyUpdated;
-/* unused harmony export isBuiltInAccessor */
-/* harmony export (immutable) */ __webpack_exports__["d"] = selectValueAccessor;
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-
-
-
-
-
-
-
-/**
- * @param {?} name
- * @param {?} parent
- * @return {?}
- */
-function controlPath(name, parent) {
-    return parent.path.concat([name]);
-}
-/**
- * @param {?} control
- * @param {?} dir
- * @return {?}
- */
-function setUpControl(control, dir) {
-    if (!control)
-        _throwError(dir, 'Cannot find control with');
-    if (!dir.valueAccessor)
-        _throwError(dir, 'No value accessor for form control with');
-    control.validator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].compose([control.validator, dir.validator]);
-    control.asyncValidator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].composeAsync([control.asyncValidator, dir.asyncValidator]);
-    dir.valueAccessor.writeValue(control.value);
-    // view -> model
-    dir.valueAccessor.registerOnChange(function (newValue) {
-        dir.viewToModelUpdate(newValue);
-        control.markAsDirty();
-        control.setValue(newValue, { emitModelToViewChange: false });
-    });
-    // touched
-    dir.valueAccessor.registerOnTouched(function () { return control.markAsTouched(); });
-    control.registerOnChange(function (newValue, emitModelEvent) {
-        // control -> view
-        dir.valueAccessor.writeValue(newValue);
-        // control -> ngModel
-        if (emitModelEvent)
-            dir.viewToModelUpdate(newValue);
-    });
-    if (dir.valueAccessor.setDisabledState) {
-        control.registerOnDisabledChange(function (isDisabled) { dir.valueAccessor.setDisabledState(isDisabled); });
-    }
-    // re-run validation when validator binding changes, e.g. minlength=3 -> minlength=4
-    dir._rawValidators.forEach(function (validator) {
-        if (((validator)).registerOnValidatorChange)
-            ((validator)).registerOnValidatorChange(function () { return control.updateValueAndValidity(); });
-    });
-    dir._rawAsyncValidators.forEach(function (validator) {
-        if (((validator)).registerOnValidatorChange)
-            ((validator)).registerOnValidatorChange(function () { return control.updateValueAndValidity(); });
-    });
-}
-/**
- * @param {?} control
- * @param {?} dir
- * @return {?}
- */
-function cleanUpControl(control, dir) {
-    dir.valueAccessor.registerOnChange(function () { return _noControlError(dir); });
-    dir.valueAccessor.registerOnTouched(function () { return _noControlError(dir); });
-    dir._rawValidators.forEach(function (validator) {
-        if (validator.registerOnValidatorChange) {
-            validator.registerOnValidatorChange(null);
-        }
-    });
-    dir._rawAsyncValidators.forEach(function (validator) {
-        if (validator.registerOnValidatorChange) {
-            validator.registerOnValidatorChange(null);
-        }
-    });
-    if (control)
-        control._clearChangeFns();
-}
-/**
- * @param {?} control
- * @param {?} dir
- * @return {?}
- */
-function setUpFormContainer(control, dir) {
-    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["b" /* isBlank */])(control))
-        _throwError(dir, 'Cannot find control with');
-    control.validator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].compose([control.validator, dir.validator]);
-    control.asyncValidator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].composeAsync([control.asyncValidator, dir.asyncValidator]);
-}
-/**
- * @param {?} dir
- * @return {?}
- */
-function _noControlError(dir) {
-    return _throwError(dir, 'There is no FormControl instance attached to form control element with');
-}
-/**
- * @param {?} dir
- * @param {?} message
- * @return {?}
- */
-function _throwError(dir, message) {
-    var /** @type {?} */ messageEnd;
-    if (dir.path.length > 1) {
-        messageEnd = "path: '" + dir.path.join(' -> ') + "'";
-    }
-    else if (dir.path[0]) {
-        messageEnd = "name: '" + dir.path + "'";
-    }
-    else {
-        messageEnd = 'unspecified name attribute';
-    }
-    throw new Error(message + " " + messageEnd);
-}
-/**
- * @param {?} validators
- * @return {?}
- */
-function composeValidators(validators) {
-    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["a" /* isPresent */])(validators) ? __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].compose(validators.map(__WEBPACK_IMPORTED_MODULE_4__normalize_validator__["a" /* normalizeValidator */])) : null;
-}
-/**
- * @param {?} validators
- * @return {?}
- */
-function composeAsyncValidators(validators) {
-    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["a" /* isPresent */])(validators) ? __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].composeAsync(validators.map(__WEBPACK_IMPORTED_MODULE_4__normalize_validator__["b" /* normalizeAsyncValidator */])) :
-        null;
-}
-/**
- * @param {?} changes
- * @param {?} viewModel
- * @return {?}
- */
-function isPropertyUpdated(changes, viewModel) {
-    if (!changes.hasOwnProperty('model'))
-        return false;
-    var /** @type {?} */ change = changes['model'];
-    if (change.isFirstChange())
-        return true;
-    return !__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__facade_lang__["c" /* looseIdentical */])(viewModel, change.currentValue);
-}
-var /** @type {?} */ BUILTIN_ACCESSORS = [
-    __WEBPACK_IMPORTED_MODULE_2__checkbox_value_accessor__["a" /* CheckboxControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_7__range_value_accessor__["a" /* RangeValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_5__number_value_accessor__["a" /* NumberValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_8__select_control_value_accessor__["a" /* SelectControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_9__select_multiple_control_value_accessor__["a" /* SelectMultipleControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_6__radio_control_value_accessor__["b" /* RadioControlValueAccessor */],
-];
-/**
- * @param {?} valueAccessor
- * @return {?}
- */
-function isBuiltInAccessor(valueAccessor) {
-    return BUILTIN_ACCESSORS.some(function (a) { return valueAccessor.constructor === a; });
-}
-/**
- * @param {?} dir
- * @param {?} valueAccessors
- * @return {?}
- */
-function selectValueAccessor(dir, valueAccessors) {
-    if (!valueAccessors)
-        return null;
-    var /** @type {?} */ defaultAccessor;
-    var /** @type {?} */ builtinAccessor;
-    var /** @type {?} */ customAccessor;
-    valueAccessors.forEach(function (v) {
-        if (v.constructor === __WEBPACK_IMPORTED_MODULE_3__default_value_accessor__["a" /* DefaultValueAccessor */]) {
-            defaultAccessor = v;
-        }
-        else if (isBuiltInAccessor(v)) {
-            if (builtinAccessor)
-                _throwError(dir, 'More than one built-in value accessor matches form control with');
-            builtinAccessor = v;
-        }
-        else {
-            if (customAccessor)
-                _throwError(dir, 'More than one custom value accessor matches form control with');
-            customAccessor = v;
-        }
-    });
-    if (customAccessor)
-        return customAccessor;
-    if (builtinAccessor)
-        return builtinAccessor;
-    if (defaultAccessor)
-        return defaultAccessor;
-    _throwError(dir, 'No valid value accessor for form control with');
-    return null;
-}
-//# sourceMappingURL=shared.js.map
-
-/***/ }),
+/* 48 */,
 /* 49 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -9084,7 +8560,7 @@ function createOfflineCompileUrlResolver() {
  * A default provider for {@link PACKAGE_ROOT_URL} that maps to '/'.
  */
 var /** @type {?} */ DEFAULT_PACKAGE_URL_PROVIDER = {
-    provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* PACKAGE_ROOT_URL */],
+    provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* PACKAGE_ROOT_URL */],
     useValue: '/'
 };
 /**
@@ -9140,7 +8616,7 @@ var UrlResolver = (function () {
     };
     /** @nocollapse */
     UrlResolver.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["_6" /* PACKAGE_ROOT_URL */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* PACKAGE_ROOT_URL */],] },] },
     ]; };
     UrlResolver = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__injectable__["a" /* CompilerInjectable */])(), 
@@ -9547,101 +9023,7 @@ function getHandleEventMethodName(elementIndex) {
 //# sourceMappingURL=util.js.map
 
 /***/ }),
-/* 58 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__abstract_control_directive__ = __webpack_require__(182);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgControl; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-/**
- * @return {?}
- */
-function unimplemented() {
-    throw new Error('unimplemented');
-}
-/**
- * A base class that all control directive extend.
- * It binds a {\@link FormControl} object to a DOM element.
- *
- * Used internally by Angular forms.
- *
- * \@stable
- * @abstract
- */
-var NgControl = (function (_super) {
-    __extends(NgControl, _super);
-    function NgControl() {
-        _super.apply(this, arguments);
-        /** @internal */
-        this._parent = null;
-        this.name = null;
-        this.valueAccessor = null;
-        /** @internal */
-        this._rawValidators = [];
-        /** @internal */
-        this._rawAsyncValidators = [];
-    }
-    Object.defineProperty(NgControl.prototype, "validator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return (unimplemented()); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgControl.prototype, "asyncValidator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return (unimplemented()); },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @abstract
-     * @param {?} newValue
-     * @return {?}
-     */
-    NgControl.prototype.viewToModelUpdate = function (newValue) { };
-    return NgControl;
-}(__WEBPACK_IMPORTED_MODULE_0__abstract_control_directive__["a" /* AbstractControlDirective */]));
-function NgControl_tsickle_Closure_declarations() {
-    /**
-     * \@internal
-     * @type {?}
-     */
-    NgControl.prototype._parent;
-    /** @type {?} */
-    NgControl.prototype.name;
-    /** @type {?} */
-    NgControl.prototype.valueAccessor;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    NgControl.prototype._rawValidators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    NgControl.prototype._rawAsyncValidators;
-}
-//# sourceMappingURL=ng_control.js.map
-
-/***/ }),
+/* 58 */,
 /* 59 */,
 /* 60 */,
 /* 61 */,
@@ -11710,364 +11092,8 @@ function makePropDecorator(name, props, parentClass) {
 //# sourceMappingURL=decorators.js.map
 
 /***/ }),
-/* 67 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_Subject__ = __webpack_require__(147);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_Subject__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable__ = __webpack_require__(74);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_Observable__);
-/* unused harmony reexport Observable */
-/* unused harmony reexport Subject */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EventEmitter; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-/**
- * Use by directives and components to emit custom Events.
- *
- * ### Examples
- *
- * In the following example, `Zippy` alternatively emits `open` and `close` events when its
- * title gets clicked:
- *
- * ```
- * \@Component({
- *   selector: 'zippy',
- *   template: `
- *   <div class="zippy">
- *     <div (click)="toggle()">Toggle</div>
- *     <div [hidden]="!visible">
- *       <ng-content></ng-content>
- *     </div>
- *  </div>`})
- * export class Zippy {
- *   visible: boolean = true;
- *   \@Output() open: EventEmitter<any> = new EventEmitter();
- *   \@Output() close: EventEmitter<any> = new EventEmitter();
- *
- *   toggle() {
- *     this.visible = !this.visible;
- *     if (this.visible) {
- *       this.open.emit(null);
- *     } else {
- *       this.close.emit(null);
- *     }
- *   }
- * }
- * ```
- *
- * The events payload can be accessed by the parameter `$event` on the components output event
- * handler:
- *
- * ```
- * <zippy (open)="onOpen($event)" (close)="onClose($event)"></zippy>
- * ```
- *
- * Uses Rx.Observable but provides an adapter to make it work as specified here:
- * https://github.com/jhusain/observable-spec
- *
- * Once a reference implementation of the spec is available, switch to it.
- * \@stable
- */
-var EventEmitter = (function (_super) {
-    __extends(EventEmitter, _super);
-    /**
-     * Creates an instance of [EventEmitter], which depending on [isAsync],
-     * delivers events synchronously or asynchronously.
-     * @param {?=} isAsync
-     */
-    function EventEmitter(isAsync) {
-        if (isAsync === void 0) { isAsync = false; }
-        _super.call(this);
-        this.__isAsync = isAsync;
-    }
-    /**
-     * @param {?=} value
-     * @return {?}
-     */
-    EventEmitter.prototype.emit = function (value) { _super.prototype.next.call(this, value); };
-    /**
-     * @param {?=} generatorOrNext
-     * @param {?=} error
-     * @param {?=} complete
-     * @return {?}
-     */
-    EventEmitter.prototype.subscribe = function (generatorOrNext, error, complete) {
-        var /** @type {?} */ schedulerFn;
-        var /** @type {?} */ errorFn = function (err) { return null; };
-        var /** @type {?} */ completeFn = function () { return null; };
-        if (generatorOrNext && typeof generatorOrNext === 'object') {
-            schedulerFn = this.__isAsync ? function (value) {
-                setTimeout(function () { return generatorOrNext.next(value); });
-            } : function (value) { generatorOrNext.next(value); };
-            if (generatorOrNext.error) {
-                errorFn = this.__isAsync ? function (err) { setTimeout(function () { return generatorOrNext.error(err); }); } :
-                    function (err) { generatorOrNext.error(err); };
-            }
-            if (generatorOrNext.complete) {
-                completeFn = this.__isAsync ? function () { setTimeout(function () { return generatorOrNext.complete(); }); } :
-                    function () { generatorOrNext.complete(); };
-            }
-        }
-        else {
-            schedulerFn = this.__isAsync ? function (value) { setTimeout(function () { return generatorOrNext(value); }); } :
-                function (value) { generatorOrNext(value); };
-            if (error) {
-                errorFn =
-                    this.__isAsync ? function (err) { setTimeout(function () { return error(err); }); } : function (err) { error(err); };
-            }
-            if (complete) {
-                completeFn =
-                    this.__isAsync ? function () { setTimeout(function () { return complete(); }); } : function () { complete(); };
-            }
-        }
-        return _super.prototype.subscribe.call(this, schedulerFn, errorFn, completeFn);
-    };
-    return EventEmitter;
-}(__WEBPACK_IMPORTED_MODULE_0_rxjs_Subject__["Subject"]));
-function EventEmitter_tsickle_Closure_declarations() {
-    /** @type {?} */
-    EventEmitter.prototype.__isAsync;
-}
-//# sourceMappingURL=async.js.map
-
-/***/ }),
-/* 68 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(global) {/* unused harmony export scheduleMicroTask */
-/* unused harmony export global */
-/* unused harmony export getTypeNameForDebugging */
-/* harmony export (immutable) */ __webpack_exports__["a"] = isPresent;
-/* harmony export (immutable) */ __webpack_exports__["b"] = isBlank;
-/* unused harmony export isStrictStringMap */
-/* unused harmony export stringify */
-/* unused harmony export NumberWrapper */
-/* harmony export (immutable) */ __webpack_exports__["c"] = looseIdentical;
-/* harmony export (immutable) */ __webpack_exports__["e"] = isJsObject;
-/* unused harmony export print */
-/* unused harmony export warn */
-/* unused harmony export setValueOnPath */
-/* harmony export (immutable) */ __webpack_exports__["f"] = getSymbolIterator;
-/* harmony export (immutable) */ __webpack_exports__["d"] = isPrimitive;
-/* unused harmony export escapeRegExp */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var /** @type {?} */ globalScope;
-if (typeof window === 'undefined') {
-    if (typeof WorkerGlobalScope !== 'undefined' && self instanceof WorkerGlobalScope) {
-        // TODO: Replace any with WorkerGlobalScope from lib.webworker.d.ts #3492
-        globalScope = (self);
-    }
-    else {
-        globalScope = (global);
-    }
-}
-else {
-    globalScope = (window);
-}
-/**
- * @param {?} fn
- * @return {?}
- */
-function scheduleMicroTask(fn) {
-    Zone.current.scheduleMicroTask('scheduleMicrotask', fn);
-}
-// Need to declare a new variable for global here since TypeScript
-// exports the original value of the symbol.
-var /** @type {?} */ _global = globalScope;
-
-/**
- * @param {?} type
- * @return {?}
- */
-function getTypeNameForDebugging(type) {
-    return type['name'] || typeof type;
-}
-// TODO: remove calls to assert in production environment
-// Note: Can't just export this and import in in other files
-// as `assert` is a reserved keyword in Dart
-_global.assert = function assert(condition) {
-    // TODO: to be fixed properly via #2830, noop for now
-};
-/**
- * @param {?} obj
- * @return {?}
- */
-function isPresent(obj) {
-    return obj != null;
-}
-/**
- * @param {?} obj
- * @return {?}
- */
-function isBlank(obj) {
-    return obj == null;
-}
-var /** @type {?} */ STRING_MAP_PROTO = Object.getPrototypeOf({});
-/**
- * @param {?} obj
- * @return {?}
- */
-function isStrictStringMap(obj) {
-    return typeof obj === 'object' && obj !== null && Object.getPrototypeOf(obj) === STRING_MAP_PROTO;
-}
-/**
- * @param {?} token
- * @return {?}
- */
-function stringify(token) {
-    if (typeof token === 'string') {
-        return token;
-    }
-    if (token == null) {
-        return '' + token;
-    }
-    if (token.overriddenName) {
-        return "" + token.overriddenName;
-    }
-    if (token.name) {
-        return "" + token.name;
-    }
-    var /** @type {?} */ res = token.toString();
-    var /** @type {?} */ newLineIndex = res.indexOf('\n');
-    return newLineIndex === -1 ? res : res.substring(0, newLineIndex);
-}
-var NumberWrapper = (function () {
-    function NumberWrapper() {
-    }
-    /**
-     * @param {?} text
-     * @return {?}
-     */
-    NumberWrapper.parseIntAutoRadix = function (text) {
-        var /** @type {?} */ result = parseInt(text);
-        if (isNaN(result)) {
-            throw new Error('Invalid integer literal when parsing ' + text);
-        }
-        return result;
-    };
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    NumberWrapper.isNumeric = function (value) { return !isNaN(value - parseFloat(value)); };
-    return NumberWrapper;
-}());
-/**
- * @param {?} a
- * @param {?} b
- * @return {?}
- */
-function looseIdentical(a, b) {
-    return a === b || typeof a === 'number' && typeof b === 'number' && isNaN(a) && isNaN(b);
-}
-/**
- * @param {?} o
- * @return {?}
- */
-function isJsObject(o) {
-    return o !== null && (typeof o === 'function' || typeof o === 'object');
-}
-/**
- * @param {?} obj
- * @return {?}
- */
-function print(obj) {
-    // tslint:disable-next-line:no-console
-    console.log(obj);
-}
-/**
- * @param {?} obj
- * @return {?}
- */
-function warn(obj) {
-    console.warn(obj);
-}
-/**
- * @param {?} global
- * @param {?} path
- * @param {?} value
- * @return {?}
- */
-function setValueOnPath(global, path, value) {
-    var /** @type {?} */ parts = path.split('.');
-    var /** @type {?} */ obj = global;
-    while (parts.length > 1) {
-        var /** @type {?} */ name_1 = parts.shift();
-        if (obj.hasOwnProperty(name_1) && obj[name_1] != null) {
-            obj = obj[name_1];
-        }
-        else {
-            obj = obj[name_1] = {};
-        }
-    }
-    if (obj === undefined || obj === null) {
-        obj = {};
-    }
-    obj[parts.shift()] = value;
-}
-var /** @type {?} */ _symbolIterator = null;
-/**
- * @return {?}
- */
-function getSymbolIterator() {
-    if (!_symbolIterator) {
-        if (((globalScope)).Symbol && Symbol.iterator) {
-            _symbolIterator = Symbol.iterator;
-        }
-        else {
-            // es6-shim specific logic
-            var /** @type {?} */ keys = Object.getOwnPropertyNames(Map.prototype);
-            for (var /** @type {?} */ i = 0; i < keys.length; ++i) {
-                var /** @type {?} */ key = keys[i];
-                if (key !== 'entries' && key !== 'size' &&
-                    ((Map)).prototype[key] === Map.prototype['entries']) {
-                    _symbolIterator = key;
-                }
-            }
-        }
-    }
-    return _symbolIterator;
-}
-/**
- * @param {?} obj
- * @return {?}
- */
-function isPrimitive(obj) {
-    return !isJsObject(obj);
-}
-/**
- * @param {?} s
- * @return {?}
- */
-function escapeRegExp(s) {
-    return s.replace(/([.*+?^=!:${}()|[\]\/\\])/g, '\\$1');
-}
-//# sourceMappingURL=lang.js.map
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(41)))
-
-/***/ }),
+/* 67 */,
+/* 68 */,
 /* 69 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -12089,7 +11115,7 @@ function escapeRegExp(s) {
 /**
  * @stable
  */
-var /** @type {?} */ EVENT_MANAGER_PLUGINS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('EventManagerPlugins');
+var /** @type {?} */ EVENT_MANAGER_PLUGINS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('EventManagerPlugins');
 /**
  * \@stable
  */
@@ -12150,12 +11176,12 @@ var EventManager = (function () {
         throw new Error("No event manager plugin found for event " + eventName);
     };
     EventManager.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     EventManager.ctorParameters = function () { return [
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [EVENT_MANAGER_PLUGINS,] },] },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgZone */], },
+        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [EVENT_MANAGER_PLUGINS,] },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* NgZone */], },
     ]; };
     return EventManager;
 }());
@@ -13646,9 +12672,9 @@ var DirectiveNormalizer = (function () {
         }
         var /** @type {?} */ styles = templateMetadataStyles.styles.concat(templateStyles.styles);
         var /** @type {?} */ styleUrls = templateMetadataStyles.styleUrls.concat(templateStyles.styleUrls);
-        if (encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated && styles.length === 0 &&
+        if (encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated && styles.length === 0 &&
             styleUrls.length === 0) {
-            encapsulation = __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].None;
+            encapsulation = __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].None;
         }
         return new __WEBPACK_IMPORTED_MODULE_1__compile_metadata__["p" /* CompileTemplateMetadata */]({
             encapsulation: encapsulation,
@@ -13864,7 +12890,7 @@ var DirectiveResolver = (function () {
      * @return {?}
      */
     DirectiveResolver.prototype.isDirective = function (type) {
-        var /** @type {?} */ typeMetadata = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(type));
+        var /** @type {?} */ typeMetadata = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(type));
         return typeMetadata && typeMetadata.some(isDirectiveMetadata);
     };
     /**
@@ -13875,7 +12901,7 @@ var DirectiveResolver = (function () {
      */
     DirectiveResolver.prototype.resolve = function (type, throwIfNotFound) {
         if (throwIfNotFound === void 0) { throwIfNotFound = true; }
-        var /** @type {?} */ typeMetadata = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(type));
+        var /** @type {?} */ typeMetadata = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(type));
         if (typeMetadata) {
             var /** @type {?} */ metadata = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(typeMetadata, isDirectiveMetadata);
             if (metadata) {
@@ -13900,7 +12926,7 @@ var DirectiveResolver = (function () {
         var /** @type {?} */ host = {};
         var /** @type {?} */ queries = {};
         Object.keys(propertyMetadata).forEach(function (propName) {
-            var /** @type {?} */ input = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(propertyMetadata[propName], function (a) { return a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */]; });
+            var /** @type {?} */ input = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(propertyMetadata[propName], function (a) { return a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */]; });
             if (input) {
                 if (input.bindingPropertyName) {
                     inputs.push(propName + ": " + input.bindingPropertyName);
@@ -13909,7 +12935,7 @@ var DirectiveResolver = (function () {
                     inputs.push(propName);
                 }
             }
-            var /** @type {?} */ output = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(propertyMetadata[propName], function (a) { return a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* Output */]; });
+            var /** @type {?} */ output = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(propertyMetadata[propName], function (a) { return a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* Output */]; });
             if (output) {
                 if (output.bindingPropertyName) {
                     outputs.push(propName + ": " + output.bindingPropertyName);
@@ -13918,7 +12944,7 @@ var DirectiveResolver = (function () {
                     outputs.push(propName);
                 }
             }
-            var /** @type {?} */ hostBindings = propertyMetadata[propName].filter(function (a) { return a && a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_18" /* HostBinding */]; });
+            var /** @type {?} */ hostBindings = propertyMetadata[propName].filter(function (a) { return a && a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* HostBinding */]; });
             hostBindings.forEach(function (hostBinding) {
                 if (hostBinding.hostPropertyName) {
                     var /** @type {?} */ startWith = hostBinding.hostPropertyName[0];
@@ -13934,12 +12960,12 @@ var DirectiveResolver = (function () {
                     host[("[" + propName + "]")] = propName;
                 }
             });
-            var /** @type {?} */ hostListeners = propertyMetadata[propName].filter(function (a) { return a && a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_19" /* HostListener */]; });
+            var /** @type {?} */ hostListeners = propertyMetadata[propName].filter(function (a) { return a && a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* HostListener */]; });
             hostListeners.forEach(function (hostListener) {
                 var /** @type {?} */ args = hostListener.args || [];
                 host[("(" + hostListener.eventName + ")")] = propName + "(" + args.join(',') + ")";
             });
-            var /** @type {?} */ query = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(propertyMetadata[propName], function (a) { return a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* Query */]; });
+            var /** @type {?} */ query = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(propertyMetadata[propName], function (a) { return a instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_26" /* Query */]; });
             if (query) {
                 queries[propName] = query;
             }
@@ -13983,8 +13009,8 @@ var DirectiveResolver = (function () {
         var /** @type {?} */ mergedOutputs = this._dedupeBindings(directive.outputs ? directive.outputs.concat(outputs) : outputs);
         var /** @type {?} */ mergedHost = directive.host ? __WEBPACK_IMPORTED_MODULE_1__facade_collection__["a" /* StringMapWrapper */].merge(directive.host, host) : host;
         var /** @type {?} */ mergedQueries = directive.queries ? __WEBPACK_IMPORTED_MODULE_1__facade_collection__["a" /* StringMapWrapper */].merge(directive.queries, queries) : queries;
-        if (directive instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */]) {
-            return new __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */]({
+        if (directive instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */]) {
+            return new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */]({
                 selector: directive.selector,
                 inputs: mergedInputs,
                 outputs: mergedOutputs,
@@ -14006,7 +13032,7 @@ var DirectiveResolver = (function () {
             });
         }
         else {
-            return new __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */]({
+            return new __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */]({
                 selector: directive.selector,
                 inputs: mergedInputs,
                 outputs: mergedOutputs,
@@ -14032,7 +13058,7 @@ function DirectiveResolver_tsickle_Closure_declarations() {
  * @return {?}
  */
 function isDirectiveMetadata(type) {
-    return type instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */];
+    return type instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */];
 }
 //# sourceMappingURL=directive_resolver.js.map
 
@@ -14653,7 +13679,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
-var /** @type {?} */ ERROR_COLLECTOR_TOKEN = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('ErrorCollector');
+var /** @type {?} */ ERROR_COLLECTOR_TOKEN = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('ErrorCollector');
 var CompileMetadataResolver = (function () {
     /**
      * @param {?} _ngModuleResolver
@@ -14722,11 +13748,11 @@ var CompileMetadataResolver = (function () {
      * @return {?}
      */
     CompileMetadataResolver.prototype._getAnimationStateMetadata = function (value) {
-        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* AnimationStateDeclarationMetadata */]) {
+        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* AnimationStateDeclarationMetadata */]) {
             var /** @type {?} */ styles = this._getAnimationStyleMetadata(value.styles);
             return new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["b" /* CompileAnimationStateDeclarationMetadata */](value.stateNameExpr, styles);
         }
-        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_10" /* AnimationStateTransitionMetadata */]) {
+        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* AnimationStateTransitionMetadata */]) {
             return new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["n" /* CompileAnimationStateTransitionMetadata */](value.stateChangeExpr, this._getAnimationMetadata(value.steps));
         }
         return null;
@@ -14744,20 +13770,20 @@ var CompileMetadataResolver = (function () {
      */
     CompileMetadataResolver.prototype._getAnimationMetadata = function (value) {
         var _this = this;
-        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_11" /* AnimationStyleMetadata */]) {
+        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_18" /* AnimationStyleMetadata */]) {
             return this._getAnimationStyleMetadata(value);
         }
-        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_12" /* AnimationKeyframesSequenceMetadata */]) {
+        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_19" /* AnimationKeyframesSequenceMetadata */]) {
             return new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["h" /* CompileAnimationKeyframesSequenceMetadata */](value.steps.map(function (entry) { return _this._getAnimationStyleMetadata(entry); }));
         }
-        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* AnimationAnimateMetadata */]) {
+        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* AnimationAnimateMetadata */]) {
             var /** @type {?} */ animateData = (this
                 ._getAnimationMetadata(value.styles));
             return new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["g" /* CompileAnimationAnimateMetadata */](value.timings, animateData);
         }
-        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* AnimationWithStepsMetadata */]) {
+        if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_21" /* AnimationWithStepsMetadata */]) {
             var /** @type {?} */ steps = value.steps.map(function (step) { return _this._getAnimationMetadata(step); });
-            if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* AnimationGroupMetadata */]) {
+            if (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_22" /* AnimationGroupMetadata */]) {
                 return new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["d" /* CompileAnimationGroupMetadata */](steps);
             }
             return new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["c" /* CompileAnimationSequenceMetadata */](steps);
@@ -14788,7 +13814,7 @@ var CompileMetadataResolver = (function () {
         if (this._directiveCache.has(directiveType)) {
             return;
         }
-        directiveType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(directiveType);
+        directiveType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(directiveType);
         var _a = this.getNonNormalizedDirectiveMetadata(directiveType), annotation = _a.annotation, metadata = _a.metadata;
         var /** @type {?} */ createDirectiveMetadata = function (templateMetadata) {
             var /** @type {?} */ normalizedDirMeta = new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["o" /* CompileDirectiveMetadata */]({
@@ -14849,13 +13875,13 @@ var CompileMetadataResolver = (function () {
      */
     CompileMetadataResolver.prototype.getNonNormalizedDirectiveMetadata = function (directiveType) {
         var _this = this;
-        directiveType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(directiveType);
+        directiveType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(directiveType);
         var /** @type {?} */ dirMeta = this._directiveResolver.resolve(directiveType);
         if (!dirMeta) {
             return null;
         }
         var /** @type {?} */ nonNormalizedTemplateMetadata;
-        if (dirMeta instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */]) {
+        if (dirMeta instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */]) {
             // component
             __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__assertions__["b" /* assertArrayOfStrings */])('styles', dirMeta.styles);
             __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__assertions__["b" /* assertArrayOfStrings */])('styleUrls', dirMeta.styleUrls);
@@ -14877,7 +13903,7 @@ var CompileMetadataResolver = (function () {
         var /** @type {?} */ viewProviders = [];
         var /** @type {?} */ entryComponentMetadata = [];
         var /** @type {?} */ selector = dirMeta.selector;
-        if (dirMeta instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */]) {
+        if (dirMeta instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */]) {
             // Component
             changeDetectionStrategy = dirMeta.changeDetection;
             if (dirMeta.viewProviders) {
@@ -15007,7 +14033,7 @@ var CompileMetadataResolver = (function () {
     CompileMetadataResolver.prototype.getNgModuleMetadata = function (moduleType, throwIfNotFound) {
         var _this = this;
         if (throwIfNotFound === void 0) { throwIfNotFound = true; }
-        moduleType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(moduleType);
+        moduleType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(moduleType);
         var /** @type {?} */ compileMeta = this._ngModuleCache.get(moduleType);
         if (compileMeta) {
             return compileMeta;
@@ -15230,7 +14256,7 @@ var CompileMetadataResolver = (function () {
      * @return {?}
      */
     CompileMetadataResolver.prototype._getIdentifierMetadata = function (type) {
-        type = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(type);
+        type = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(type);
         return { reference: type };
     };
     /**
@@ -15241,7 +14267,7 @@ var CompileMetadataResolver = (function () {
         var /** @type {?} */ annotations = this._reflector.annotations(type);
         // Note: We need an exact check here as @Component / @Directive / ... inherit
         // from @CompilerInjectable!
-        return annotations.some(function (ann) { return ann.constructor === __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */]; });
+        return annotations.some(function (ann) { return ann.constructor === __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */]; });
     };
     /**
      * @param {?} type
@@ -15284,7 +14310,7 @@ var CompileMetadataResolver = (function () {
      */
     CompileMetadataResolver.prototype._getFactoryMetadata = function (factory, dependencies) {
         if (dependencies === void 0) { dependencies = null; }
-        factory = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(factory);
+        factory = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(factory);
         return { reference: factory, diDeps: this._getDependenciesMetadata(factory, dependencies) };
     };
     /**
@@ -15327,7 +14353,7 @@ var CompileMetadataResolver = (function () {
      * @return {?}
      */
     CompileMetadataResolver.prototype._loadPipeMetadata = function (pipeType) {
-        pipeType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(pipeType);
+        pipeType = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(pipeType);
         var /** @type {?} */ pipeAnnotation = this._pipeResolver.resolve(pipeType);
         var /** @type {?} */ pipeMeta = new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["t" /* CompilePipeMetadata */]({
             type: this._getTypeMetadata(pipeType),
@@ -15356,23 +14382,23 @@ var CompileMetadataResolver = (function () {
             var /** @type {?} */ token = null;
             if (Array.isArray(param)) {
                 param.forEach(function (paramEntry) {
-                    if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */]) {
+                    if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* Host */]) {
                         isHost = true;
                     }
-                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */]) {
+                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_24" /* Self */]) {
                         isSelf = true;
                     }
-                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */]) {
+                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* SkipSelf */]) {
                         isSkipSelf = true;
                     }
-                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */]) {
+                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */]) {
                         isOptional = true;
                     }
-                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* Attribute */]) {
+                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* Attribute */]) {
                         isAttribute = true;
                         token = paramEntry.attributeName;
                     }
-                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */]) {
+                    else if (paramEntry instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */]) {
                         token = paramEntry.token;
                     }
                     else if (isValidType(paramEntry) && __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__facade_lang__["d" /* isBlank */])(token)) {
@@ -15407,7 +14433,7 @@ var CompileMetadataResolver = (function () {
      * @return {?}
      */
     CompileMetadataResolver.prototype._getTokenMetadata = function (token) {
-        token = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(token);
+        token = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(token);
         var /** @type {?} */ compileToken;
         if (typeof token === 'string') {
             compileToken = { value: token };
@@ -15433,7 +14459,7 @@ var CompileMetadataResolver = (function () {
                 _this._getProvidersMetadata(provider, targetEntryComponents, debugInfo, compileProviders);
             }
             else {
-                provider = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(provider);
+                provider = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(provider);
                 var /** @type {?} */ providerMeta = void 0;
                 if (provider && typeof provider == 'object' && provider.hasOwnProperty('provide')) {
                     providerMeta = new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["u" /* ProviderMeta */](provider.provide, provider);
@@ -15598,7 +14624,7 @@ var CompileMetadataResolver = (function () {
         { type: __WEBPACK_IMPORTED_MODULE_13__schema_element_schema_registry__["a" /* ElementSchemaRegistry */], },
         { type: __WEBPACK_IMPORTED_MODULE_4__directive_normalizer__["a" /* DirectiveNormalizer */], },
         { type: __WEBPACK_IMPORTED_MODULE_12__private_import_core__["K" /* ReflectorReader */], },
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [ERROR_COLLECTOR_TOKEN,] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [ERROR_COLLECTOR_TOKEN,] },] },
     ]; };
     CompileMetadataResolver = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_8__injectable__["a" /* CompilerInjectable */])(), 
@@ -15648,7 +14674,7 @@ function flattenArray(tree, out) {
     if (out === void 0) { out = []; }
     if (tree) {
         for (var /** @type {?} */ i = 0; i < tree.length; i++) {
-            var /** @type {?} */ item = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(tree[i]);
+            var /** @type {?} */ item = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(tree[i]);
             if (Array.isArray(item)) {
                 flattenArray(item, out);
             }
@@ -15681,7 +14707,7 @@ function flattenAndDedupeArray(tree) {
  * @return {?}
  */
 function isValidType(value) {
-    return (value instanceof __WEBPACK_IMPORTED_MODULE_1__aot_static_symbol__["a" /* StaticSymbol */]) || (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_17" /* Type */]);
+    return (value instanceof __WEBPACK_IMPORTED_MODULE_1__aot_static_symbol__["a" /* StaticSymbol */]) || (value instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["_25" /* Type */]);
 }
 /**
  * @param {?} reflector
@@ -15863,7 +14889,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
  * @return {?}
  */
 function _isPipeMetadata(type) {
-    return type instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */];
+    return type instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */];
 }
 /**
  * Resolve a `Type` for {\@link Pipe}.
@@ -15885,7 +14911,7 @@ var PipeResolver = (function () {
      * @return {?}
      */
     PipeResolver.prototype.isPipe = function (type) {
-        var /** @type {?} */ typeMetadata = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(type));
+        var /** @type {?} */ typeMetadata = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(type));
         return typeMetadata && typeMetadata.some(_isPipeMetadata);
     };
     /**
@@ -15896,7 +14922,7 @@ var PipeResolver = (function () {
      */
     PipeResolver.prototype.resolve = function (type, throwIfNotFound) {
         if (throwIfNotFound === void 0) { throwIfNotFound = true; }
-        var /** @type {?} */ metas = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* resolveForwardRef */])(type));
+        var /** @type {?} */ metas = this._reflector.annotations(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* resolveForwardRef */])(type));
         if (metas) {
             var /** @type {?} */ annotation = __WEBPACK_IMPORTED_MODULE_1__facade_collection__["b" /* ListWrapper */].findLast(metas, _isPipeMetadata);
             if (annotation) {
@@ -16030,7 +15056,7 @@ var /** @type {?} */ TEXT_CSS_SELECTOR = __WEBPACK_IMPORTED_MODULE_16__selector_
  *
  * This is currently an internal-only feature and not meant for general use.
  */
-var /** @type {?} */ TEMPLATE_TRANSFORMS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('TemplateTransforms');
+var /** @type {?} */ TEMPLATE_TRANSFORMS = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('TemplateTransforms');
 var TemplateParseError = (function (_super) {
     __extends(TemplateParseError, _super);
     /**
@@ -16201,7 +15227,7 @@ var TemplateParser = (function () {
         { type: __WEBPACK_IMPORTED_MODULE_15__schema_element_schema_registry__["a" /* ElementSchemaRegistry */], },
         { type: __WEBPACK_IMPORTED_MODULE_4__i18n_i18n_html_parser__["a" /* I18NHtmlParser */], },
         { type: __WEBPACK_IMPORTED_MODULE_13__private_import_core__["F" /* Console */], },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [TEMPLATE_TRANSFORMS,] },] },
+        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [TEMPLATE_TRANSFORMS,] },] },
     ]; };
     TemplateParser = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__injectable__["a" /* CompilerInjectable */])(), 
@@ -17536,1280 +16562,11 @@ var CompilerFactory = (function () {
 //# sourceMappingURL=compiler.js.map
 
 /***/ }),
-/* 87 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__shared__ = __webpack_require__(48);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AbstractFormGroupDirective; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-/**
- * This is a base class for code shared between {\@link NgModelGroup} and {\@link FormGroupName}.
- *
- * \@stable
- */
-var AbstractFormGroupDirective = (function (_super) {
-    __extends(AbstractFormGroupDirective, _super);
-    function AbstractFormGroupDirective() {
-        _super.apply(this, arguments);
-    }
-    /**
-     * @return {?}
-     */
-    AbstractFormGroupDirective.prototype.ngOnInit = function () {
-        this._checkParentType();
-        this.formDirective.addFormGroup(this);
-    };
-    /**
-     * @return {?}
-     */
-    AbstractFormGroupDirective.prototype.ngOnDestroy = function () {
-        if (this.formDirective) {
-            this.formDirective.removeFormGroup(this);
-        }
-    };
-    Object.defineProperty(AbstractFormGroupDirective.prototype, "control", {
-        /**
-         * Get the {\@link FormGroup} backing this binding.
-         * @return {?}
-         */
-        get: function () { return this.formDirective.getFormGroup(this); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractFormGroupDirective.prototype, "path", {
-        /**
-         * Get the path to this control group.
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__shared__["c" /* controlPath */])(this.name, this._parent); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractFormGroupDirective.prototype, "formDirective", {
-        /**
-         * Get the {\@link Form} to which this group belongs.
-         * @return {?}
-         */
-        get: function () { return this._parent ? this._parent.formDirective : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractFormGroupDirective.prototype, "validator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__shared__["a" /* composeValidators */])(this._validators); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractFormGroupDirective.prototype, "asyncValidator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__shared__["b" /* composeAsyncValidators */])(this._asyncValidators); },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * \@internal
-     * @return {?}
-     */
-    AbstractFormGroupDirective.prototype._checkParentType = function () { };
-    return AbstractFormGroupDirective;
-}(__WEBPACK_IMPORTED_MODULE_0__control_container__["a" /* ControlContainer */]));
-function AbstractFormGroupDirective_tsickle_Closure_declarations() {
-    /**
-     * \@internal
-     * @type {?}
-     */
-    AbstractFormGroupDirective.prototype._parent;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    AbstractFormGroupDirective.prototype._validators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    AbstractFormGroupDirective.prototype._asyncValidators;
-}
-//# sourceMappingURL=abstract_form_group_directive.js.map
-
-/***/ }),
-/* 88 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_async__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__model__ = __webpack_require__(133);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__shared__ = __webpack_require__(48);
-/* unused harmony export formDirectiveProvider */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgForm; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-var /** @type {?} */ formDirectiveProvider = {
-    provide: __WEBPACK_IMPORTED_MODULE_4__control_container__["a" /* ControlContainer */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return NgForm; })
-};
-var /** @type {?} */ resolvedPromise = Promise.resolve(null);
-/**
- * \@whatItDoes Creates a top-level {\@link FormGroup} instance and binds it to a form
- * to track aggregate form value and validation status.
- *
- * \@howToUse
- *
- * As soon as you import the `FormsModule`, this directive becomes active by default on
- * all `<form>` tags.  You don't need to add a special selector.
- *
- * You can export the directive into a local template variable using `ngForm` as the key
- * (ex: `#myForm="ngForm"`). This is optional, but useful.  Many properties from the underlying
- * {\@link FormGroup} instance are duplicated on the directive itself, so a reference to it
- * will give you access to the aggregate value and validity status of the form, as well as
- * user interaction properties like `dirty` and `touched`.
- *
- * To register child controls with the form, you'll want to use {\@link NgModel} with a
- * `name` attribute.  You can also use {\@link NgModelGroup} if you'd like to create
- * sub-groups within the form.
- *
- * You can listen to the directive's `ngSubmit` event to be notified when the user has
- * triggered a form submission. The `ngSubmit` event will be emitted with the original form
- * submission event.
- *
- * {\@example forms/ts/simpleForm/simple_form_example.ts region='Component'}
- *
- * * **npm package**: `\@angular/forms`
- *
- * * **NgModule**: `FormsModule`
- *
- *  \@stable
- */
-var NgForm = (function (_super) {
-    __extends(NgForm, _super);
-    /**
-     * @param {?} validators
-     * @param {?} asyncValidators
-     */
-    function NgForm(validators, asyncValidators) {
-        _super.call(this);
-        this._submitted = false;
-        this.ngSubmit = new __WEBPACK_IMPORTED_MODULE_1__facade_async__["a" /* EventEmitter */]();
-        this.form =
-            new __WEBPACK_IMPORTED_MODULE_2__model__["a" /* FormGroup */]({}, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["a" /* composeValidators */])(validators), __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["b" /* composeAsyncValidators */])(asyncValidators));
-    }
-    Object.defineProperty(NgForm.prototype, "submitted", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._submitted; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgForm.prototype, "formDirective", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgForm.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.form; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgForm.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () { return []; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgForm.prototype, "controls", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.form.controls; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    NgForm.prototype.addControl = function (dir) {
-        var _this = this;
-        resolvedPromise.then(function () {
-            var /** @type {?} */ container = _this._findContainer(dir.path);
-            dir._control = (container.registerControl(dir.name, dir.control));
-            __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["f" /* setUpControl */])(dir.control, dir);
-            dir.control.updateValueAndValidity({ emitEvent: false });
-        });
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    NgForm.prototype.getControl = function (dir) { return (this.form.get(dir.path)); };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    NgForm.prototype.removeControl = function (dir) {
-        var _this = this;
-        resolvedPromise.then(function () {
-            var /** @type {?} */ container = _this._findContainer(dir.path);
-            if (container) {
-                container.removeControl(dir.name);
-            }
-        });
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    NgForm.prototype.addFormGroup = function (dir) {
-        var _this = this;
-        resolvedPromise.then(function () {
-            var /** @type {?} */ container = _this._findContainer(dir.path);
-            var /** @type {?} */ group = new __WEBPACK_IMPORTED_MODULE_2__model__["a" /* FormGroup */]({});
-            __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["g" /* setUpFormContainer */])(group, dir);
-            container.registerControl(dir.name, group);
-            group.updateValueAndValidity({ emitEvent: false });
-        });
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    NgForm.prototype.removeFormGroup = function (dir) {
-        var _this = this;
-        resolvedPromise.then(function () {
-            var /** @type {?} */ container = _this._findContainer(dir.path);
-            if (container) {
-                container.removeControl(dir.name);
-            }
-        });
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    NgForm.prototype.getFormGroup = function (dir) { return (this.form.get(dir.path)); };
-    /**
-     * @param {?} dir
-     * @param {?} value
-     * @return {?}
-     */
-    NgForm.prototype.updateModel = function (dir, value) {
-        var _this = this;
-        resolvedPromise.then(function () {
-            var /** @type {?} */ ctrl = (_this.form.get(dir.path));
-            ctrl.setValue(value);
-        });
-    };
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    NgForm.prototype.setValue = function (value) { this.control.setValue(value); };
-    /**
-     * @param {?} $event
-     * @return {?}
-     */
-    NgForm.prototype.onSubmit = function ($event) {
-        this._submitted = true;
-        this.ngSubmit.emit($event);
-        return false;
-    };
-    /**
-     * @return {?}
-     */
-    NgForm.prototype.onReset = function () { this.resetForm(); };
-    /**
-     * @param {?=} value
-     * @return {?}
-     */
-    NgForm.prototype.resetForm = function (value) {
-        if (value === void 0) { value = undefined; }
-        this.form.reset(value);
-        this._submitted = false;
-    };
-    /**
-     * \@internal
-     * @param {?} path
-     * @return {?}
-     */
-    NgForm.prototype._findContainer = function (path) {
-        path.pop();
-        return path.length ? (this.form.get(path)) : this.form;
-    };
-    NgForm.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'form:not([ngNoForm]):not([formGroup]),ngForm,[ngForm]',
-                    providers: [formDirectiveProvider],
-                    host: { '(submit)': 'onSubmit($event)', '(reset)': 'onReset()' },
-                    outputs: ['ngSubmit'],
-                    exportAs: 'ngForm'
-                },] },
-    ];
-    /** @nocollapse */
-    NgForm.ctorParameters = function () { return [
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-    ]; };
-    return NgForm;
-}(__WEBPACK_IMPORTED_MODULE_4__control_container__["a" /* ControlContainer */]));
-function NgForm_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgForm.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgForm.ctorParameters;
-    /** @type {?} */
-    NgForm.prototype._submitted;
-    /** @type {?} */
-    NgForm.prototype.form;
-    /** @type {?} */
-    NgForm.prototype.ngSubmit;
-}
-//# sourceMappingURL=ng_form.js.map
-
-/***/ }),
-/* 89 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__ = __webpack_require__(25);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ng_control__ = __webpack_require__(58);
-/* unused harmony export RADIO_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RadioControlRegistry; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return RadioControlValueAccessor; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-var /** @type {?} */ RADIO_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return RadioControlValueAccessor; }),
-    multi: true
-};
-/**
- * Internal class used by Angular to uncheck radio buttons with the matching name.
- */
-var RadioControlRegistry = (function () {
-    function RadioControlRegistry() {
-        this._accessors = [];
-    }
-    /**
-     * @param {?} control
-     * @param {?} accessor
-     * @return {?}
-     */
-    RadioControlRegistry.prototype.add = function (control, accessor) {
-        this._accessors.push([control, accessor]);
-    };
-    /**
-     * @param {?} accessor
-     * @return {?}
-     */
-    RadioControlRegistry.prototype.remove = function (accessor) {
-        for (var /** @type {?} */ i = this._accessors.length - 1; i >= 0; --i) {
-            if (this._accessors[i][1] === accessor) {
-                this._accessors.splice(i, 1);
-                return;
-            }
-        }
-    };
-    /**
-     * @param {?} accessor
-     * @return {?}
-     */
-    RadioControlRegistry.prototype.select = function (accessor) {
-        var _this = this;
-        this._accessors.forEach(function (c) {
-            if (_this._isSameGroup(c, accessor) && c[1] !== accessor) {
-                c[1].fireUncheck(accessor.value);
-            }
-        });
-    };
-    /**
-     * @param {?} controlPair
-     * @param {?} accessor
-     * @return {?}
-     */
-    RadioControlRegistry.prototype._isSameGroup = function (controlPair, accessor) {
-        if (!controlPair[0].control)
-            return false;
-        return controlPair[0]._parent === accessor._control._parent &&
-            controlPair[1].name === accessor.name;
-    };
-    RadioControlRegistry.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
-    ];
-    /** @nocollapse */
-    RadioControlRegistry.ctorParameters = function () { return []; };
-    return RadioControlRegistry;
-}());
-function RadioControlRegistry_tsickle_Closure_declarations() {
-    /** @type {?} */
-    RadioControlRegistry.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    RadioControlRegistry.ctorParameters;
-    /** @type {?} */
-    RadioControlRegistry.prototype._accessors;
-}
-/**
- * \@whatItDoes Writes radio control values and listens to radio control changes.
- *
- * Used by {\@link NgModel}, {\@link FormControlDirective}, and {\@link FormControlName}
- * to keep the view synced with the {\@link FormControl} model.
- *
- * \@howToUse
- *
- * If you have imported the {\@link FormsModule} or the {\@link ReactiveFormsModule}, this
- * value accessor will be active on any radio control that has a form directive. You do
- * **not** need to add a special selector to activate it.
- *
- * ### How to use radio buttons with form directives
- *
- * To use radio buttons in a template-driven form, you'll want to ensure that radio buttons
- * in the same group have the same `name` attribute.  Radio buttons with different `name`
- * attributes do not affect each other.
- *
- * {\@example forms/ts/radioButtons/radio_button_example.ts region='TemplateDriven'}
- *
- * When using radio buttons in a reactive form, radio buttons in the same group should have the
- * same `formControlName`. You can also add a `name` attribute, but it's optional.
- *
- * {\@example forms/ts/reactiveRadioButtons/reactive_radio_button_example.ts region='Reactive'}
- *
- *  * **npm package**: `\@angular/forms`
- *
- *  \@stable
- */
-var RadioControlValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     * @param {?} _registry
-     * @param {?} _injector
-     */
-    function RadioControlValueAccessor(_renderer, _elementRef, _registry, _injector) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        this._registry = _registry;
-        this._injector = _injector;
-        this.onChange = function () { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.ngOnInit = function () {
-        this._control = this._injector.get(__WEBPACK_IMPORTED_MODULE_2__ng_control__["a" /* NgControl */]);
-        this._checkName();
-        this._registry.add(this._control, this);
-    };
-    /**
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.ngOnDestroy = function () { this._registry.remove(this); };
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.writeValue = function (value) {
-        this._state = value === this.value;
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'checked', this._state);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.registerOnChange = function (fn) {
-        var _this = this;
-        this._fn = fn;
-        this.onChange = function () {
-            fn(_this.value);
-            _this._registry.select(_this);
-        };
-    };
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.fireUncheck = function (value) { this.writeValue(value); };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    /**
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype._checkName = function () {
-        if (this.name && this.formControlName && this.name !== this.formControlName) {
-            this._throwNameError();
-        }
-        if (!this.name && this.formControlName)
-            this.name = this.formControlName;
-    };
-    /**
-     * @return {?}
-     */
-    RadioControlValueAccessor.prototype._throwNameError = function () {
-        throw new Error("\n      If you define both a name and a formControlName attribute on your radio button, their values\n      must match. Ex: <input type=\"radio\" formControlName=\"food\" name=\"food\">\n    ");
-    };
-    RadioControlValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'input[type=radio][formControlName],input[type=radio][formControl],input[type=radio][ngModel]',
-                    host: { '(change)': 'onChange()', '(blur)': 'onTouched()' },
-                    providers: [RADIO_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    RadioControlValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-        { type: RadioControlRegistry, },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Injector */], },
-    ]; };
-    RadioControlValueAccessor.propDecorators = {
-        'name': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-        'formControlName': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-        'value': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-    };
-    return RadioControlValueAccessor;
-}());
-function RadioControlValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    RadioControlValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    RadioControlValueAccessor.ctorParameters;
-    /** @type {?} */
-    RadioControlValueAccessor.propDecorators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    RadioControlValueAccessor.prototype._state;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    RadioControlValueAccessor.prototype._control;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    RadioControlValueAccessor.prototype._fn;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype.onChange;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype.name;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype.formControlName;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype.value;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype._renderer;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype._elementRef;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype._registry;
-    /** @type {?} */
-    RadioControlValueAccessor.prototype._injector;
-}
-//# sourceMappingURL=radio_control_value_accessor.js.map
-
-/***/ }),
-/* 90 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_async__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__facade_collection__ = __webpack_require__(281);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__reactive_errors__ = __webpack_require__(130);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__shared__ = __webpack_require__(48);
-/* unused harmony export formDirectiveProvider */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormGroupDirective; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-
-var /** @type {?} */ formDirectiveProvider = {
-    provide: __WEBPACK_IMPORTED_MODULE_4__control_container__["a" /* ControlContainer */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return FormGroupDirective; })
-};
-/**
- * \@whatItDoes Binds an existing {\@link FormGroup} to a DOM element.
- *
- * \@howToUse
- *
- * This directive accepts an existing {\@link FormGroup} instance. It will then use this
- * {\@link FormGroup} instance to match any child {\@link FormControl}, {\@link FormGroup},
- * and {\@link FormArray} instances to child {\@link FormControlName}, {\@link FormGroupName},
- * and {\@link FormArrayName} directives.
- *
- * **Set value**: You can set the form's initial value when instantiating the
- * {\@link FormGroup}, or you can set it programmatically later using the {\@link FormGroup}'s
- * {\@link AbstractControl.setValue} or {\@link AbstractControl.patchValue} methods.
- *
- * **Listen to value**: If you want to listen to changes in the value of the form, you can subscribe
- * to the {\@link FormGroup}'s {\@link AbstractControl.valueChanges} event.  You can also listen to
- * its {\@link AbstractControl.statusChanges} event to be notified when the validation status is
- * re-calculated.
- *
- * Furthermore, you can listen to the directive's `ngSubmit` event to be notified when the user has
- * triggered a form submission. The `ngSubmit` event will be emitted with the original form
- * submission event.
- *
- * ### Example
- *
- * In this example, we create form controls for first name and last name.
- *
- * {\@example forms/ts/simpleFormGroup/simple_form_group_example.ts region='Component'}
- *
- * **npm package**: `\@angular/forms`
- *
- * **NgModule**: {\@link ReactiveFormsModule}
- *
- *  \@stable
- */
-var FormGroupDirective = (function (_super) {
-    __extends(FormGroupDirective, _super);
-    /**
-     * @param {?} _validators
-     * @param {?} _asyncValidators
-     */
-    function FormGroupDirective(_validators, _asyncValidators) {
-        _super.call(this);
-        this._validators = _validators;
-        this._asyncValidators = _asyncValidators;
-        this._submitted = false;
-        this.directives = [];
-        this.form = null;
-        this.ngSubmit = new __WEBPACK_IMPORTED_MODULE_1__facade_async__["a" /* EventEmitter */]();
-    }
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    FormGroupDirective.prototype.ngOnChanges = function (changes) {
-        this._checkFormPresent();
-        if (changes.hasOwnProperty('form')) {
-            this._updateValidators();
-            this._updateDomValue();
-            this._updateRegistrations();
-        }
-    };
-    Object.defineProperty(FormGroupDirective.prototype, "submitted", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._submitted; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormGroupDirective.prototype, "formDirective", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormGroupDirective.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.form; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormGroupDirective.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () { return []; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.addControl = function (dir) {
-        var /** @type {?} */ ctrl = this.form.get(dir.path);
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["f" /* setUpControl */])(ctrl, dir);
-        ctrl.updateValueAndValidity({ emitEvent: false });
-        this.directives.push(dir);
-        return ctrl;
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.getControl = function (dir) { return (this.form.get(dir.path)); };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.removeControl = function (dir) { __WEBPACK_IMPORTED_MODULE_2__facade_collection__["b" /* ListWrapper */].remove(this.directives, dir); };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.addFormGroup = function (dir) {
-        var /** @type {?} */ ctrl = this.form.get(dir.path);
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["g" /* setUpFormContainer */])(ctrl, dir);
-        ctrl.updateValueAndValidity({ emitEvent: false });
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.removeFormGroup = function (dir) { };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.getFormGroup = function (dir) { return (this.form.get(dir.path)); };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.addFormArray = function (dir) {
-        var /** @type {?} */ ctrl = this.form.get(dir.path);
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["g" /* setUpFormContainer */])(ctrl, dir);
-        ctrl.updateValueAndValidity({ emitEvent: false });
-    };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.removeFormArray = function (dir) { };
-    /**
-     * @param {?} dir
-     * @return {?}
-     */
-    FormGroupDirective.prototype.getFormArray = function (dir) { return (this.form.get(dir.path)); };
-    /**
-     * @param {?} dir
-     * @param {?} value
-     * @return {?}
-     */
-    FormGroupDirective.prototype.updateModel = function (dir, value) {
-        var /** @type {?} */ ctrl = (this.form.get(dir.path));
-        ctrl.setValue(value);
-    };
-    /**
-     * @param {?} $event
-     * @return {?}
-     */
-    FormGroupDirective.prototype.onSubmit = function ($event) {
-        this._submitted = true;
-        this.ngSubmit.emit($event);
-        return false;
-    };
-    /**
-     * @return {?}
-     */
-    FormGroupDirective.prototype.onReset = function () { this.resetForm(); };
-    /**
-     * @param {?=} value
-     * @return {?}
-     */
-    FormGroupDirective.prototype.resetForm = function (value) {
-        if (value === void 0) { value = undefined; }
-        this.form.reset(value);
-        this._submitted = false;
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormGroupDirective.prototype._updateDomValue = function () {
-        var _this = this;
-        this.directives.forEach(function (dir) {
-            var /** @type {?} */ newCtrl = _this.form.get(dir.path);
-            if (dir._control !== newCtrl) {
-                __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["h" /* cleanUpControl */])(dir._control, dir);
-                if (newCtrl)
-                    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["f" /* setUpControl */])(newCtrl, dir);
-                dir._control = newCtrl;
-            }
-        });
-        this.form._updateTreeValidity({ emitEvent: false });
-    };
-    /**
-     * @return {?}
-     */
-    FormGroupDirective.prototype._updateRegistrations = function () {
-        var _this = this;
-        this.form._registerOnCollectionChange(function () { return _this._updateDomValue(); });
-        if (this._oldForm)
-            this._oldForm._registerOnCollectionChange(function () { });
-        this._oldForm = this.form;
-    };
-    /**
-     * @return {?}
-     */
-    FormGroupDirective.prototype._updateValidators = function () {
-        var /** @type {?} */ sync = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["a" /* composeValidators */])(this._validators);
-        this.form.validator = __WEBPACK_IMPORTED_MODULE_3__validators__["a" /* Validators */].compose([this.form.validator, sync]);
-        var /** @type {?} */ async = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["b" /* composeAsyncValidators */])(this._asyncValidators);
-        this.form.asyncValidator = __WEBPACK_IMPORTED_MODULE_3__validators__["a" /* Validators */].composeAsync([this.form.asyncValidator, async]);
-    };
-    /**
-     * @return {?}
-     */
-    FormGroupDirective.prototype._checkFormPresent = function () {
-        if (!this.form) {
-            __WEBPACK_IMPORTED_MODULE_5__reactive_errors__["a" /* ReactiveErrors */].missingFormException();
-        }
-    };
-    FormGroupDirective.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: '[formGroup]',
-                    providers: [formDirectiveProvider],
-                    host: { '(submit)': 'onSubmit($event)', '(reset)': 'onReset()' },
-                    exportAs: 'ngForm'
-                },] },
-    ];
-    /** @nocollapse */
-    FormGroupDirective.ctorParameters = function () { return [
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-    ]; };
-    FormGroupDirective.propDecorators = {
-        'form': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['formGroup',] },],
-        'ngSubmit': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* Output */] },],
-    };
-    return FormGroupDirective;
-}(__WEBPACK_IMPORTED_MODULE_4__control_container__["a" /* ControlContainer */]));
-function FormGroupDirective_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormGroupDirective.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormGroupDirective.ctorParameters;
-    /** @type {?} */
-    FormGroupDirective.propDecorators;
-    /** @type {?} */
-    FormGroupDirective.prototype._submitted;
-    /** @type {?} */
-    FormGroupDirective.prototype._oldForm;
-    /** @type {?} */
-    FormGroupDirective.prototype.directives;
-    /** @type {?} */
-    FormGroupDirective.prototype.form;
-    /** @type {?} */
-    FormGroupDirective.prototype.ngSubmit;
-    /** @type {?} */
-    FormGroupDirective.prototype._validators;
-    /** @type {?} */
-    FormGroupDirective.prototype._asyncValidators;
-}
-//# sourceMappingURL=form_group_directive.js.map
-
-/***/ }),
-/* 91 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__abstract_form_group_directive__ = __webpack_require__(87);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__reactive_errors__ = __webpack_require__(130);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__shared__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__form_group_directive__ = __webpack_require__(90);
-/* unused harmony export formGroupNameProvider */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormGroupName; });
-/* unused harmony export formArrayNameProvider */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return FormArrayName; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-
-var /** @type {?} */ formGroupNameProvider = {
-    provide: __WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return FormGroupName; })
-};
-/**
- * \@whatItDoes Syncs a nested {\@link FormGroup} to a DOM element.
- *
- * \@howToUse
- *
- * This directive can only be used with a parent {\@link FormGroupDirective} (selector:
- * `[formGroup]`).
- *
- * It accepts the string name of the nested {\@link FormGroup} you want to link, and
- * will look for a {\@link FormGroup} registered with that name in the parent
- * {\@link FormGroup} instance you passed into {\@link FormGroupDirective}.
- *
- * Nested form groups can come in handy when you want to validate a sub-group of a
- * form separately from the rest or when you'd like to group the values of certain
- * controls into their own nested object.
- *
- * **Access the group**: You can access the associated {\@link FormGroup} using the
- * {\@link AbstractControl.get} method. Ex: `this.form.get('name')`.
- *
- * You can also access individual controls within the group using dot syntax.
- * Ex: `this.form.get('name.first')`
- *
- * **Get the value**: the `value` property is always synced and available on the
- * {\@link FormGroup}. See a full list of available properties in {\@link AbstractControl}.
- *
- * **Set the value**: You can set an initial value for each child control when instantiating
- * the {\@link FormGroup}, or you can set it programmatically later using
- * {\@link AbstractControl.setValue} or {\@link AbstractControl.patchValue}.
- *
- * **Listen to value**: If you want to listen to changes in the value of the group, you can
- * subscribe to the {\@link AbstractControl.valueChanges} event.  You can also listen to
- * {\@link AbstractControl.statusChanges} to be notified when the validation status is
- * re-calculated.
- *
- * ### Example
- *
- * {\@example forms/ts/nestedFormGroup/nested_form_group_example.ts region='Component'}
- *
- * * **npm package**: `\@angular/forms`
- *
- * * **NgModule**: `ReactiveFormsModule`
- *
- * \@stable
- */
-var FormGroupName = (function (_super) {
-    __extends(FormGroupName, _super);
-    /**
-     * @param {?} parent
-     * @param {?} validators
-     * @param {?} asyncValidators
-     */
-    function FormGroupName(parent, validators, asyncValidators) {
-        _super.call(this);
-        this._parent = parent;
-        this._validators = validators;
-        this._asyncValidators = asyncValidators;
-    }
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormGroupName.prototype._checkParentType = function () {
-        if (_hasInvalidParent(this._parent)) {
-            __WEBPACK_IMPORTED_MODULE_4__reactive_errors__["a" /* ReactiveErrors */].groupParentException();
-        }
-    };
-    FormGroupName.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[formGroupName]', providers: [formGroupNameProvider] },] },
-    ];
-    /** @nocollapse */
-    FormGroupName.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_1__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-    ]; };
-    FormGroupName.propDecorators = {
-        'name': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['formGroupName',] },],
-    };
-    return FormGroupName;
-}(__WEBPACK_IMPORTED_MODULE_2__abstract_form_group_directive__["a" /* AbstractFormGroupDirective */]));
-function FormGroupName_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormGroupName.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormGroupName.ctorParameters;
-    /** @type {?} */
-    FormGroupName.propDecorators;
-    /** @type {?} */
-    FormGroupName.prototype.name;
-}
-var /** @type {?} */ formArrayNameProvider = {
-    provide: __WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return FormArrayName; })
-};
-/**
- * \@whatItDoes Syncs a nested {\@link FormArray} to a DOM element.
- *
- * \@howToUse
- *
- * This directive is designed to be used with a parent {\@link FormGroupDirective} (selector:
- * `[formGroup]`).
- *
- * It accepts the string name of the nested {\@link FormArray} you want to link, and
- * will look for a {\@link FormArray} registered with that name in the parent
- * {\@link FormGroup} instance you passed into {\@link FormGroupDirective}.
- *
- * Nested form arrays can come in handy when you have a group of form controls but
- * you're not sure how many there will be. Form arrays allow you to create new
- * form controls dynamically.
- *
- * **Access the array**: You can access the associated {\@link FormArray} using the
- * {\@link AbstractControl.get} method on the parent {\@link FormGroup}.
- * Ex: `this.form.get('cities')`.
- *
- * **Get the value**: the `value` property is always synced and available on the
- * {\@link FormArray}. See a full list of available properties in {\@link AbstractControl}.
- *
- * **Set the value**: You can set an initial value for each child control when instantiating
- * the {\@link FormArray}, or you can set the value programmatically later using the
- * {\@link FormArray}'s {\@link AbstractControl.setValue} or {\@link AbstractControl.patchValue}
- * methods.
- *
- * **Listen to value**: If you want to listen to changes in the value of the array, you can
- * subscribe to the {\@link FormArray}'s {\@link AbstractControl.valueChanges} event.  You can also
- * listen to its {\@link AbstractControl.statusChanges} event to be notified when the validation
- * status is re-calculated.
- *
- * **Add new controls**: You can add new controls to the {\@link FormArray} dynamically by
- * calling its {\@link FormArray.push} method.
- *  Ex: `this.form.get('cities').push(new FormControl());`
- *
- * ### Example
- *
- * {\@example forms/ts/nestedFormArray/nested_form_array_example.ts region='Component'}
- *
- * * **npm package**: `\@angular/forms`
- *
- * * **NgModule**: `ReactiveFormsModule`
- *
- * \@stable
- */
-var FormArrayName = (function (_super) {
-    __extends(FormArrayName, _super);
-    /**
-     * @param {?} parent
-     * @param {?} validators
-     * @param {?} asyncValidators
-     */
-    function FormArrayName(parent, validators, asyncValidators) {
-        _super.call(this);
-        this._parent = parent;
-        this._validators = validators;
-        this._asyncValidators = asyncValidators;
-    }
-    /**
-     * @return {?}
-     */
-    FormArrayName.prototype.ngOnInit = function () {
-        this._checkParentType();
-        this.formDirective.addFormArray(this);
-    };
-    /**
-     * @return {?}
-     */
-    FormArrayName.prototype.ngOnDestroy = function () {
-        if (this.formDirective) {
-            this.formDirective.removeFormArray(this);
-        }
-    };
-    Object.defineProperty(FormArrayName.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.formDirective.getFormArray(this); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormArrayName.prototype, "formDirective", {
-        /**
-         * @return {?}
-         */
-        get: function () {
-            return this._parent ? (this._parent.formDirective) : null;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormArrayName.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["c" /* controlPath */])(this.name, this._parent); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormArrayName.prototype, "validator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["a" /* composeValidators */])(this._validators); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormArrayName.prototype, "asyncValidator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__shared__["b" /* composeAsyncValidators */])(this._asyncValidators); },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @return {?}
-     */
-    FormArrayName.prototype._checkParentType = function () {
-        if (_hasInvalidParent(this._parent)) {
-            __WEBPACK_IMPORTED_MODULE_4__reactive_errors__["a" /* ReactiveErrors */].arrayParentException();
-        }
-    };
-    FormArrayName.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[formArrayName]', providers: [formArrayNameProvider] },] },
-    ];
-    /** @nocollapse */
-    FormArrayName.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_1__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-    ]; };
-    FormArrayName.propDecorators = {
-        'name': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['formArrayName',] },],
-    };
-    return FormArrayName;
-}(__WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */]));
-function FormArrayName_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormArrayName.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormArrayName.ctorParameters;
-    /** @type {?} */
-    FormArrayName.propDecorators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    FormArrayName.prototype._parent;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    FormArrayName.prototype._validators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    FormArrayName.prototype._asyncValidators;
-    /** @type {?} */
-    FormArrayName.prototype.name;
-}
-/**
- * @param {?} parent
- * @return {?}
- */
-function _hasInvalidParent(parent) {
-    return !(parent instanceof FormGroupName) && !(parent instanceof __WEBPACK_IMPORTED_MODULE_6__form_group_directive__["a" /* FormGroupDirective */]) &&
-        !(parent instanceof FormArrayName);
-}
-//# sourceMappingURL=form_group_name.js.map
-
-/***/ }),
+/* 87 */,
+/* 88 */,
+/* 89 */,
+/* 90 */,
+/* 91 */,
 /* 92 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -19221,11 +16978,11 @@ var NgLocaleLocalization = (function (_super) {
         }
     };
     NgLocaleLocalization.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     NgLocaleLocalization.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* LOCALE_ID */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* LOCALE_ID */],] },] },
     ]; };
     return NgLocaleLocalization;
 }(NgLocalization));
@@ -19776,7 +17533,7 @@ var LocationStrategy = (function () {
  *
  * @stable
  */
-var /** @type {?} */ APP_BASE_HREF = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('appBaseHref');
+var /** @type {?} */ APP_BASE_HREF = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('appBaseHref');
 //# sourceMappingURL=location_strategy.js.map
 
 /***/ }),
@@ -21916,14 +19673,14 @@ var DomElementSchemaRegistry = (function (_super) {
      * @return {?}
      */
     DomElementSchemaRegistry.prototype.hasProperty = function (tagName, propName, schemaMetas) {
-        if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_7" /* NO_ERRORS_SCHEMA */].name; })) {
+        if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* NO_ERRORS_SCHEMA */].name; })) {
             return true;
         }
         if (tagName.indexOf('-') > -1) {
             if (tagName === 'ng-container' || tagName === 'ng-content') {
                 return false;
             }
-            if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* CUSTOM_ELEMENTS_SCHEMA */].name; })) {
+            if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* CUSTOM_ELEMENTS_SCHEMA */].name; })) {
                 // Can't tell now as we don't know which properties a custom element will get
                 // once it is instantiated
                 return true;
@@ -21938,14 +19695,14 @@ var DomElementSchemaRegistry = (function (_super) {
      * @return {?}
      */
     DomElementSchemaRegistry.prototype.hasElement = function (tagName, schemaMetas) {
-        if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_7" /* NO_ERRORS_SCHEMA */].name; })) {
+        if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* NO_ERRORS_SCHEMA */].name; })) {
             return true;
         }
         if (tagName.indexOf('-') > -1) {
             if (tagName === 'ng-container' || tagName === 'ng-content') {
                 return true;
             }
-            if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_8" /* CUSTOM_ELEMENTS_SCHEMA */].name; })) {
+            if (schemaMetas.some(function (schema) { return schema.name === __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* CUSTOM_ELEMENTS_SCHEMA */].name; })) {
                 // Allow any custom elements
                 return true;
             }
@@ -21980,7 +19737,7 @@ var DomElementSchemaRegistry = (function (_super) {
             return ctx;
         }
         ctx = __WEBPACK_IMPORTED_MODULE_3__dom_security_schema__["a" /* SECURITY_SCHEMA */]['*|' + propName];
-        return ctx ? ctx : __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].NONE;
+        return ctx ? ctx : __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].NONE;
     };
     /**
      * @param {?} propName
@@ -22721,7 +20478,7 @@ var StyleCompiler = (function () {
      */
     StyleCompiler.prototype._compileStyles = function (comp, stylesheet, isComponentStylesheet) {
         var _this = this;
-        var /** @type {?} */ shim = comp.template.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated;
+        var /** @type {?} */ shim = comp.template.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated;
         var /** @type {?} */ styleExpressions = stylesheet.styles.map(function (plainStyle) { return __WEBPACK_IMPORTED_MODULE_3__output_output_ast__["f" /* literal */](_this._shimIfNeeded(plainStyle, shim)); });
         var /** @type {?} */ dependencies = [];
         for (var /** @type {?} */ i = 0; i < stylesheet.styleUrls.length; i++) {
@@ -24011,7 +21768,7 @@ function selectOrCreateRenderHostElement(renderer, elementName, attrs, rootSelec
         for (var /** @type {?} */ i = 0; i < attrs.length; i += 2) {
             renderer.setElementAttribute(hostElement, attrs.get(i), attrs.get(i + 1));
         }
-        renderer.setElementAttribute(hostElement, 'ng-version', __WEBPACK_IMPORTED_MODULE_7__version__["b" /* VERSION */].full);
+        renderer.setElementAttribute(hostElement, 'ng-version', __WEBPACK_IMPORTED_MODULE_7__version__["a" /* VERSION */].full);
     }
     else {
         hostElement = createRenderElement(renderer, null, elementName, attrs, debugInfo);
@@ -24993,2749 +22750,13 @@ function NgZone_tsickle_Closure_declarations() {
 //# sourceMappingURL=ng_zone.js.map
 
 /***/ }),
-/* 127 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__ = __webpack_require__(25);
-/* unused harmony export CHECKBOX_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CheckboxControlValueAccessor; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-var /** @type {?} */ CHECKBOX_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return CheckboxControlValueAccessor; }),
-    multi: true,
-};
-/**
- * The accessor for writing a value and listening to changes on a checkbox input element.
- *
- *  ### Example
- *  ```
- *  <input type="checkbox" name="rememberLogin" ngModel>
- *  ```
- *
- *  \@stable
- */
-var CheckboxControlValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     */
-    function CheckboxControlValueAccessor(_renderer, _elementRef) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        this.onChange = function (_) { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    CheckboxControlValueAccessor.prototype.writeValue = function (value) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'checked', value);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    CheckboxControlValueAccessor.prototype.registerOnChange = function (fn) { this.onChange = fn; };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    CheckboxControlValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    CheckboxControlValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    CheckboxControlValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'input[type=checkbox][formControlName],input[type=checkbox][formControl],input[type=checkbox][ngModel]',
-                    host: { '(change)': 'onChange($event.target.checked)', '(blur)': 'onTouched()' },
-                    providers: [CHECKBOX_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    CheckboxControlValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-    ]; };
-    return CheckboxControlValueAccessor;
-}());
-function CheckboxControlValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    CheckboxControlValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    CheckboxControlValueAccessor.ctorParameters;
-    /** @type {?} */
-    CheckboxControlValueAccessor.prototype.onChange;
-    /** @type {?} */
-    CheckboxControlValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    CheckboxControlValueAccessor.prototype._renderer;
-    /** @type {?} */
-    CheckboxControlValueAccessor.prototype._elementRef;
-}
-//# sourceMappingURL=checkbox_value_accessor.js.map
-
-/***/ }),
-/* 128 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__ = __webpack_require__(25);
-/* unused harmony export DEFAULT_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DefaultValueAccessor; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-var /** @type {?} */ DEFAULT_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return DefaultValueAccessor; }),
-    multi: true
-};
-/**
- * The default accessor for writing a value and listening to changes that is used by the
- * {\@link NgModel}, {\@link FormControlDirective}, and {\@link FormControlName} directives.
- *
- *  ### Example
- *  ```
- *  <input type="text" name="searchQuery" ngModel>
- *  ```
- *
- *  \@stable
- */
-var DefaultValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     */
-    function DefaultValueAccessor(_renderer, _elementRef) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        this.onChange = function (_) { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    DefaultValueAccessor.prototype.writeValue = function (value) {
-        var /** @type {?} */ normalizedValue = value == null ? '' : value;
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'value', normalizedValue);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    DefaultValueAccessor.prototype.registerOnChange = function (fn) { this.onChange = fn; };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    DefaultValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    DefaultValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    DefaultValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'input:not([type=checkbox])[formControlName],textarea[formControlName],input:not([type=checkbox])[formControl],textarea[formControl],input:not([type=checkbox])[ngModel],textarea[ngModel],[ngDefaultControl]',
-                    // TODO: vsavkin replace the above selector with the one below it once
-                    // https://github.com/angular/angular/issues/3011 is implemented
-                    // selector: '[ngControl],[ngModel],[ngFormControl]',
-                    host: { '(input)': 'onChange($event.target.value)', '(blur)': 'onTouched()' },
-                    providers: [DEFAULT_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    DefaultValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-    ]; };
-    return DefaultValueAccessor;
-}());
-function DefaultValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    DefaultValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    DefaultValueAccessor.ctorParameters;
-    /** @type {?} */
-    DefaultValueAccessor.prototype.onChange;
-    /** @type {?} */
-    DefaultValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    DefaultValueAccessor.prototype._renderer;
-    /** @type {?} */
-    DefaultValueAccessor.prototype._elementRef;
-}
-//# sourceMappingURL=default_value_accessor.js.map
-
-/***/ }),
-/* 129 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__abstract_form_group_directive__ = __webpack_require__(87);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ng_form__ = __webpack_require__(88);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__template_driven_errors__ = __webpack_require__(279);
-/* unused harmony export modelGroupProvider */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgModelGroup; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-var /** @type {?} */ modelGroupProvider = {
-    provide: __WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return NgModelGroup; })
-};
-/**
- * \@whatItDoes Creates and binds a {\@link FormGroup} instance to a DOM element.
- *
- * \@howToUse
- *
- * This directive can only be used as a child of {\@link NgForm} (or in other words,
- * within `<form>` tags).
- *
- * Use this directive if you'd like to create a sub-group within a form. This can
- * come in handy if you want to validate a sub-group of your form separately from
- * the rest of your form, or if some values in your domain model make more sense to
- * consume together in a nested object.
- *
- * Pass in the name you'd like this sub-group to have and it will become the key
- * for the sub-group in the form's full value. You can also export the directive into
- * a local template variable using `ngModelGroup` (ex: `#myGroup="ngModelGroup"`).
- *
- * {\@example forms/ts/ngModelGroup/ng_model_group_example.ts region='Component'}
- *
- * * **npm package**: `\@angular/forms`
- *
- * * **NgModule**: `FormsModule`
- *
- * \@stable
- */
-var NgModelGroup = (function (_super) {
-    __extends(NgModelGroup, _super);
-    /**
-     * @param {?} parent
-     * @param {?} validators
-     * @param {?} asyncValidators
-     */
-    function NgModelGroup(parent, validators, asyncValidators) {
-        _super.call(this);
-        this._parent = parent;
-        this._validators = validators;
-        this._asyncValidators = asyncValidators;
-    }
-    /**
-     * \@internal
-     * @return {?}
-     */
-    NgModelGroup.prototype._checkParentType = function () {
-        if (!(this._parent instanceof NgModelGroup) && !(this._parent instanceof __WEBPACK_IMPORTED_MODULE_4__ng_form__["a" /* NgForm */])) {
-            __WEBPACK_IMPORTED_MODULE_5__template_driven_errors__["a" /* TemplateDrivenErrors */].modelGroupParentException();
-        }
-    };
-    NgModelGroup.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngModelGroup]', providers: [modelGroupProvider], exportAs: 'ngModelGroup' },] },
-    ];
-    /** @nocollapse */
-    NgModelGroup.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_3__control_container__["a" /* ControlContainer */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_1__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-    ]; };
-    NgModelGroup.propDecorators = {
-        'name': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngModelGroup',] },],
-    };
-    return NgModelGroup;
-}(__WEBPACK_IMPORTED_MODULE_2__abstract_form_group_directive__["a" /* AbstractFormGroupDirective */]));
-function NgModelGroup_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgModelGroup.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgModelGroup.ctorParameters;
-    /** @type {?} */
-    NgModelGroup.propDecorators;
-    /** @type {?} */
-    NgModelGroup.prototype.name;
-}
-//# sourceMappingURL=ng_model_group.js.map
-
-/***/ }),
-/* 130 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__error_examples__ = __webpack_require__(278);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ReactiveErrors; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-var ReactiveErrors = (function () {
-    function ReactiveErrors() {
-    }
-    /**
-     * @return {?}
-     */
-    ReactiveErrors.controlParentException = function () {
-        throw new Error("formControlName must be used with a parent formGroup directive.  You'll want to add a formGroup\n       directive and pass it an existing FormGroup instance (you can create one in your class).\n\n      Example:\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formControlName);
-    };
-    /**
-     * @return {?}
-     */
-    ReactiveErrors.ngModelGroupException = function () {
-        throw new Error("formControlName cannot be used with an ngModelGroup parent. It is only compatible with parents\n       that also have a \"form\" prefix: formGroupName, formArrayName, or formGroup.\n\n       Option 1:  Update the parent to be formGroupName (reactive form strategy)\n\n        " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formGroupName + "\n\n        Option 2: Use ngModel instead of formControlName (template-driven strategy)\n\n        " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].ngModelGroup);
-    };
-    /**
-     * @return {?}
-     */
-    ReactiveErrors.missingFormException = function () {
-        throw new Error("formGroup expects a FormGroup instance. Please pass one in.\n\n       Example:\n\n       " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formControlName);
-    };
-    /**
-     * @return {?}
-     */
-    ReactiveErrors.groupParentException = function () {
-        throw new Error("formGroupName must be used with a parent formGroup directive.  You'll want to add a formGroup\n      directive and pass it an existing FormGroup instance (you can create one in your class).\n\n      Example:\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formGroupName);
-    };
-    /**
-     * @return {?}
-     */
-    ReactiveErrors.arrayParentException = function () {
-        throw new Error("formArrayName must be used with a parent formGroup directive.  You'll want to add a formGroup\n       directive and pass it an existing FormGroup instance (you can create one in your class).\n\n        Example:\n\n        " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formArrayName);
-    };
-    /**
-     * @return {?}
-     */
-    ReactiveErrors.disabledAttrWarning = function () {
-        console.warn("\n      It looks like you're using the disabled attribute with a reactive form directive. If you set disabled to true\n      when you set up this control in your component class, the disabled attribute will actually be set in the DOM for\n      you. We recommend using this approach to avoid 'changed after checked' errors.\n       \n      Example: \n      form = new FormGroup({\n        first: new FormControl({value: 'Nancy', disabled: true}, Validators.required),\n        last: new FormControl('Drew', Validators.required)\n      });\n    ");
-    };
-    return ReactiveErrors;
-}());
-//# sourceMappingURL=reactive_errors.js.map
-
-/***/ }),
-/* 131 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_lang__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__control_value_accessor__ = __webpack_require__(25);
-/* unused harmony export SELECT_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SelectControlValueAccessor; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NgSelectOption; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-var /** @type {?} */ SELECT_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_2__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return SelectControlValueAccessor; }),
-    multi: true
-};
-/**
- * @param {?} id
- * @param {?} value
- * @return {?}
- */
-function _buildValueString(id, value) {
-    if (id == null)
-        return "" + value;
-    if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_lang__["d" /* isPrimitive */])(value))
-        value = 'Object';
-    return (id + ": " + value).slice(0, 50);
-}
-/**
- * @param {?} valueString
- * @return {?}
- */
-function _extractId(valueString) {
-    return valueString.split(':')[0];
-}
-/**
- * \@whatItDoes Writes values and listens to changes on a select element.
- *
- * Used by {\@link NgModel}, {\@link FormControlDirective}, and {\@link FormControlName}
- * to keep the view synced with the {\@link FormControl} model.
- *
- * \@howToUse
- *
- * If you have imported the {\@link FormsModule} or the {\@link ReactiveFormsModule}, this
- * value accessor will be active on any select control that has a form directive. You do
- * **not** need to add a special selector to activate it.
- *
- * ### How to use select controls with form directives
- *
- * To use a select in a template-driven form, simply add an `ngModel` and a `name`
- * attribute to the main `<select>` tag.
- *
- * If your option values are simple strings, you can bind to the normal `value` property
- * on the option.  If your option values happen to be objects (and you'd like to save the
- * selection in your form as an object), use `ngValue` instead:
- *
- * {\@example forms/ts/selectControl/select_control_example.ts region='Component'}
- *
- * In reactive forms, you'll also want to add your form directive (`formControlName` or
- * `formControl`) on the main `<select>` tag. Like in the former example, you have the
- * choice of binding to the  `value` or `ngValue` property on the select's options.
- *
- * {\@example forms/ts/reactiveSelectControl/reactive_select_control_example.ts region='Component'}
- *
- * Note: We listen to the 'change' event because 'input' events aren't fired
- * for selects in Firefox and IE:
- * https://bugzilla.mozilla.org/show_bug.cgi?id=1024350
- * https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/4660045/
- *
- * * **npm package**: `\@angular/forms`
- *
- * \@stable
- */
-var SelectControlValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     */
-    function SelectControlValueAccessor(_renderer, _elementRef) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        /** @internal */
-        this._optionMap = new Map();
-        /** @internal */
-        this._idCounter = 0;
-        this.onChange = function (_) { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype.writeValue = function (value) {
-        this.value = value;
-        var /** @type {?} */ id = this._getOptionId(value);
-        if (id == null) {
-            this._renderer.setElementProperty(this._elementRef.nativeElement, 'selectedIndex', -1);
-        }
-        var /** @type {?} */ valueString = _buildValueString(id, value);
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'value', valueString);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype.registerOnChange = function (fn) {
-        var _this = this;
-        this.onChange = function (valueString) {
-            _this.value = valueString;
-            fn(_this._getOptionValue(valueString));
-        };
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype._registerOption = function () { return (this._idCounter++).toString(); };
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype._getOptionId = function (value) {
-        for (var _i = 0, _a = Array.from(this._optionMap.keys()); _i < _a.length; _i++) {
-            var id = _a[_i];
-            if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_lang__["c" /* looseIdentical */])(this._optionMap.get(id), value))
-                return id;
-        }
-        return null;
-    };
-    /**
-     * \@internal
-     * @param {?} valueString
-     * @return {?}
-     */
-    SelectControlValueAccessor.prototype._getOptionValue = function (valueString) {
-        var /** @type {?} */ id = _extractId(valueString);
-        return this._optionMap.has(id) ? this._optionMap.get(id) : valueString;
-    };
-    SelectControlValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'select:not([multiple])[formControlName],select:not([multiple])[formControl],select:not([multiple])[ngModel]',
-                    host: { '(change)': 'onChange($event.target.value)', '(blur)': 'onTouched()' },
-                    providers: [SELECT_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    SelectControlValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-    ]; };
-    return SelectControlValueAccessor;
-}());
-function SelectControlValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    SelectControlValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    SelectControlValueAccessor.ctorParameters;
-    /** @type {?} */
-    SelectControlValueAccessor.prototype.value;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    SelectControlValueAccessor.prototype._optionMap;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    SelectControlValueAccessor.prototype._idCounter;
-    /** @type {?} */
-    SelectControlValueAccessor.prototype.onChange;
-    /** @type {?} */
-    SelectControlValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    SelectControlValueAccessor.prototype._renderer;
-    /** @type {?} */
-    SelectControlValueAccessor.prototype._elementRef;
-}
-/**
- * \@whatItDoes Marks `<option>` as dynamic, so Angular can be notified when options change.
- *
- * \@howToUse
- *
- * See docs for {\@link SelectControlValueAccessor} for usage examples.
- *
- * \@stable
- */
-var NgSelectOption = (function () {
-    /**
-     * @param {?} _element
-     * @param {?} _renderer
-     * @param {?} _select
-     */
-    function NgSelectOption(_element, _renderer, _select) {
-        this._element = _element;
-        this._renderer = _renderer;
-        this._select = _select;
-        if (this._select)
-            this.id = this._select._registerOption();
-    }
-    Object.defineProperty(NgSelectOption.prototype, "ngValue", {
-        /**
-         * @param {?} value
-         * @return {?}
-         */
-        set: function (value) {
-            if (this._select == null)
-                return;
-            this._select._optionMap.set(this.id, value);
-            this._setElementValue(_buildValueString(this.id, value));
-            this._select.writeValue(this._select.value);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgSelectOption.prototype, "value", {
-        /**
-         * @param {?} value
-         * @return {?}
-         */
-        set: function (value) {
-            this._setElementValue(value);
-            if (this._select)
-                this._select.writeValue(this._select.value);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    NgSelectOption.prototype._setElementValue = function (value) {
-        this._renderer.setElementProperty(this._element.nativeElement, 'value', value);
-    };
-    /**
-     * @return {?}
-     */
-    NgSelectOption.prototype.ngOnDestroy = function () {
-        if (this._select) {
-            this._select._optionMap.delete(this.id);
-            this._select.writeValue(this._select.value);
-        }
-    };
-    NgSelectOption.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: 'option' },] },
-    ];
-    /** @nocollapse */
-    NgSelectOption.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: SelectControlValueAccessor, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] },] },
-    ]; };
-    NgSelectOption.propDecorators = {
-        'ngValue': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngValue',] },],
-        'value': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['value',] },],
-    };
-    return NgSelectOption;
-}());
-function NgSelectOption_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgSelectOption.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgSelectOption.ctorParameters;
-    /** @type {?} */
-    NgSelectOption.propDecorators;
-    /** @type {?} */
-    NgSelectOption.prototype.id;
-    /** @type {?} */
-    NgSelectOption.prototype._element;
-    /** @type {?} */
-    NgSelectOption.prototype._renderer;
-    /** @type {?} */
-    NgSelectOption.prototype._select;
-}
-//# sourceMappingURL=select_control_value_accessor.js.map
-
-/***/ }),
-/* 132 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_lang__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__control_value_accessor__ = __webpack_require__(25);
-/* unused harmony export SELECT_MULTIPLE_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SelectMultipleControlValueAccessor; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NgSelectMultipleOption; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-var /** @type {?} */ SELECT_MULTIPLE_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_2__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return SelectMultipleControlValueAccessor; }),
-    multi: true
-};
-/**
- * @param {?} id
- * @param {?} value
- * @return {?}
- */
-function _buildValueString(id, value) {
-    if (id == null)
-        return "" + value;
-    if (typeof value === 'string')
-        value = "'" + value + "'";
-    if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_lang__["d" /* isPrimitive */])(value))
-        value = 'Object';
-    return (id + ": " + value).slice(0, 50);
-}
-/**
- * @param {?} valueString
- * @return {?}
- */
-function _extractId(valueString) {
-    return valueString.split(':')[0];
-}
-/**
- * Mock interface for HTMLCollection
- * @abstract
- */
-var HTMLCollection = (function () {
-    function HTMLCollection() {
-    }
-    /**
-     * @abstract
-     * @param {?} _
-     * @return {?}
-     */
-    HTMLCollection.prototype.item = function (_) { };
-    return HTMLCollection;
-}());
-function HTMLCollection_tsickle_Closure_declarations() {
-    /** @type {?} */
-    HTMLCollection.prototype.length;
-}
-/**
- * The accessor for writing a value and listening to changes on a select element.
- *
- * \@stable
- */
-var SelectMultipleControlValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     */
-    function SelectMultipleControlValueAccessor(_renderer, _elementRef) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        /** @internal */
-        this._optionMap = new Map();
-        /** @internal */
-        this._idCounter = 0;
-        this.onChange = function (_) { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype.writeValue = function (value) {
-        var _this = this;
-        this.value = value;
-        var /** @type {?} */ optionSelectedStateSetter;
-        if (Array.isArray(value)) {
-            // convert values to ids
-            var /** @type {?} */ ids_1 = value.map(function (v) { return _this._getOptionId(v); });
-            optionSelectedStateSetter = function (opt, o) { opt._setSelected(ids_1.indexOf(o.toString()) > -1); };
-        }
-        else {
-            optionSelectedStateSetter = function (opt, o) { opt._setSelected(false); };
-        }
-        this._optionMap.forEach(optionSelectedStateSetter);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype.registerOnChange = function (fn) {
-        var _this = this;
-        this.onChange = function (_) {
-            var /** @type {?} */ selected = [];
-            if (_.hasOwnProperty('selectedOptions')) {
-                var /** @type {?} */ options = _.selectedOptions;
-                for (var /** @type {?} */ i = 0; i < options.length; i++) {
-                    var /** @type {?} */ opt = options.item(i);
-                    var /** @type {?} */ val = _this._getOptionValue(opt.value);
-                    selected.push(val);
-                }
-            }
-            else {
-                var /** @type {?} */ options = (_.options);
-                for (var /** @type {?} */ i = 0; i < options.length; i++) {
-                    var /** @type {?} */ opt = options.item(i);
-                    if (opt.selected) {
-                        var /** @type {?} */ val = _this._getOptionValue(opt.value);
-                        selected.push(val);
-                    }
-                }
-            }
-            _this.value = selected;
-            fn(selected);
-        };
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype._registerOption = function (value) {
-        var /** @type {?} */ id = (this._idCounter++).toString();
-        this._optionMap.set(id, value);
-        return id;
-    };
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype._getOptionId = function (value) {
-        for (var _i = 0, _a = Array.from(this._optionMap.keys()); _i < _a.length; _i++) {
-            var id = _a[_i];
-            if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_lang__["c" /* looseIdentical */])(this._optionMap.get(id)._value, value))
-                return id;
-        }
-        return null;
-    };
-    /**
-     * \@internal
-     * @param {?} valueString
-     * @return {?}
-     */
-    SelectMultipleControlValueAccessor.prototype._getOptionValue = function (valueString) {
-        var /** @type {?} */ id = _extractId(valueString);
-        return this._optionMap.has(id) ? this._optionMap.get(id)._value : valueString;
-    };
-    SelectMultipleControlValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'select[multiple][formControlName],select[multiple][formControl],select[multiple][ngModel]',
-                    host: { '(change)': 'onChange($event.target)', '(blur)': 'onTouched()' },
-                    providers: [SELECT_MULTIPLE_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    SelectMultipleControlValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-    ]; };
-    return SelectMultipleControlValueAccessor;
-}());
-function SelectMultipleControlValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    SelectMultipleControlValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    SelectMultipleControlValueAccessor.ctorParameters;
-    /** @type {?} */
-    SelectMultipleControlValueAccessor.prototype.value;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    SelectMultipleControlValueAccessor.prototype._optionMap;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    SelectMultipleControlValueAccessor.prototype._idCounter;
-    /** @type {?} */
-    SelectMultipleControlValueAccessor.prototype.onChange;
-    /** @type {?} */
-    SelectMultipleControlValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    SelectMultipleControlValueAccessor.prototype._renderer;
-    /** @type {?} */
-    SelectMultipleControlValueAccessor.prototype._elementRef;
-}
-/**
- * Marks `<option>` as dynamic, so Angular can be notified when options change.
- *
- * ### Example
- *
- * ```
- * <select multiple name="city" ngModel>
- *   <option *ngFor="let c of cities" [value]="c"></option>
- * </select>
- * ```
- */
-var NgSelectMultipleOption = (function () {
-    /**
-     * @param {?} _element
-     * @param {?} _renderer
-     * @param {?} _select
-     */
-    function NgSelectMultipleOption(_element, _renderer, _select) {
-        this._element = _element;
-        this._renderer = _renderer;
-        this._select = _select;
-        if (this._select) {
-            this.id = this._select._registerOption(this);
-        }
-    }
-    Object.defineProperty(NgSelectMultipleOption.prototype, "ngValue", {
-        /**
-         * @param {?} value
-         * @return {?}
-         */
-        set: function (value) {
-            if (this._select == null)
-                return;
-            this._value = value;
-            this._setElementValue(_buildValueString(this.id, value));
-            this._select.writeValue(this._select.value);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgSelectMultipleOption.prototype, "value", {
-        /**
-         * @param {?} value
-         * @return {?}
-         */
-        set: function (value) {
-            if (this._select) {
-                this._value = value;
-                this._setElementValue(_buildValueString(this.id, value));
-                this._select.writeValue(this._select.value);
-            }
-            else {
-                this._setElementValue(value);
-            }
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    NgSelectMultipleOption.prototype._setElementValue = function (value) {
-        this._renderer.setElementProperty(this._element.nativeElement, 'value', value);
-    };
-    /**
-     * \@internal
-     * @param {?} selected
-     * @return {?}
-     */
-    NgSelectMultipleOption.prototype._setSelected = function (selected) {
-        this._renderer.setElementProperty(this._element.nativeElement, 'selected', selected);
-    };
-    /**
-     * @return {?}
-     */
-    NgSelectMultipleOption.prototype.ngOnDestroy = function () {
-        if (this._select) {
-            this._select._optionMap.delete(this.id);
-            this._select.writeValue(this._select.value);
-        }
-    };
-    NgSelectMultipleOption.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: 'option' },] },
-    ];
-    /** @nocollapse */
-    NgSelectMultipleOption.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: SelectMultipleControlValueAccessor, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] },] },
-    ]; };
-    NgSelectMultipleOption.propDecorators = {
-        'ngValue': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngValue',] },],
-        'value': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['value',] },],
-    };
-    return NgSelectMultipleOption;
-}());
-function NgSelectMultipleOption_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgSelectMultipleOption.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgSelectMultipleOption.ctorParameters;
-    /** @type {?} */
-    NgSelectMultipleOption.propDecorators;
-    /** @type {?} */
-    NgSelectMultipleOption.prototype.id;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    NgSelectMultipleOption.prototype._value;
-    /** @type {?} */
-    NgSelectMultipleOption.prototype._element;
-    /** @type {?} */
-    NgSelectMultipleOption.prototype._renderer;
-    /** @type {?} */
-    NgSelectMultipleOption.prototype._select;
-}
-//# sourceMappingURL=select_multiple_control_value_accessor.js.map
-
-/***/ }),
-/* 133 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise__ = __webpack_require__(614);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives_shared__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__facade_async__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__private_import_core__ = __webpack_require__(283);
-/* unused harmony export VALID */
-/* unused harmony export INVALID */
-/* unused harmony export PENDING */
-/* unused harmony export DISABLED */
-/* unused harmony export AbstractControl */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return FormControl; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormGroup; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return FormArray; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-/**
- * Indicates that a FormControl is valid, i.e. that no errors exist in the input value.
- */
-var /** @type {?} */ VALID = 'VALID';
-/**
- * Indicates that a FormControl is invalid, i.e. that an error exists in the input value.
- */
-var /** @type {?} */ INVALID = 'INVALID';
-/**
- * Indicates that a FormControl is pending, i.e. that async validation is occurring and
- * errors are not yet available for the input value.
- */
-var /** @type {?} */ PENDING = 'PENDING';
-/**
- * Indicates that a FormControl is disabled, i.e. that the control is exempt from ancestor
- * calculations of validity or value.
- */
-var /** @type {?} */ DISABLED = 'DISABLED';
-/**
- * @param {?} control
- * @param {?} path
- * @param {?} delimiter
- * @return {?}
- */
-function _find(control, path, delimiter) {
-    if (path == null)
-        return null;
-    if (!(path instanceof Array)) {
-        path = ((path)).split(delimiter);
-    }
-    if (path instanceof Array && (path.length === 0))
-        return null;
-    return ((path)).reduce(function (v, name) {
-        if (v instanceof FormGroup) {
-            return v.controls[name] || null;
-        }
-        if (v instanceof FormArray) {
-            return v.at(/** @type {?} */ (name)) || null;
-        }
-        return null;
-    }, control);
-}
-/**
- * @param {?} r
- * @return {?}
- */
-function toObservable(r) {
-    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__private_import_core__["a" /* isPromise */])(r) ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise__["fromPromise"])(r) : r;
-}
-/**
- * @param {?} validator
- * @return {?}
- */
-function coerceToValidator(validator) {
-    return Array.isArray(validator) ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__directives_shared__["a" /* composeValidators */])(validator) : validator;
-}
-/**
- * @param {?} asyncValidator
- * @return {?}
- */
-function coerceToAsyncValidator(asyncValidator) {
-    return Array.isArray(asyncValidator) ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__directives_shared__["b" /* composeAsyncValidators */])(asyncValidator) : asyncValidator;
-}
-/**
- * \@whatItDoes This is the base class for {\@link FormControl}, {\@link FormGroup}, and
- * {\@link FormArray}.
- *
- * It provides some of the shared behavior that all controls and groups of controls have, like
- * running validators, calculating status, and resetting state. It also defines the properties
- * that are shared between all sub-classes, like `value`, `valid`, and `dirty`. It shouldn't be
- * instantiated directly.
- *
- * \@stable
- * @abstract
- */
-var AbstractControl = (function () {
-    /**
-     * @param {?} validator
-     * @param {?} asyncValidator
-     */
-    function AbstractControl(validator, asyncValidator) {
-        this.validator = validator;
-        this.asyncValidator = asyncValidator;
-        /** @internal */
-        this._onCollectionChange = function () { };
-        this._pristine = true;
-        this._touched = false;
-        /** @internal */
-        this._onDisabledChange = [];
-    }
-    Object.defineProperty(AbstractControl.prototype, "value", {
-        /**
-         * The value of the control.
-         * @return {?}
-         */
-        get: function () { return this._value; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "parent", {
-        /**
-         * The parent control.
-         * @return {?}
-         */
-        get: function () { return this._parent; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "status", {
-        /**
-         * The validation status of the control. There are four possible
-         * validation statuses:
-         *
-         * * **VALID**:  control has passed all validation checks
-         * * **INVALID**: control has failed at least one validation check
-         * * **PENDING**: control is in the midst of conducting a validation check
-         * * **DISABLED**: control is exempt from validation checks
-         *
-         * These statuses are mutually exclusive, so a control cannot be
-         * both valid AND invalid or invalid AND disabled.
-         * @return {?}
-         */
-        get: function () { return this._status; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "valid", {
-        /**
-         * A control is `valid` when its `status === VALID`.
-         *
-         * In order to have this status, the control must have passed all its
-         * validation checks.
-         * @return {?}
-         */
-        get: function () { return this._status === VALID; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "invalid", {
-        /**
-         * A control is `invalid` when its `status === INVALID`.
-         *
-         * In order to have this status, the control must have failed
-         * at least one of its validation checks.
-         * @return {?}
-         */
-        get: function () { return this._status === INVALID; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "pending", {
-        /**
-         * A control is `pending` when its `status === PENDING`.
-         *
-         * In order to have this status, the control must be in the
-         * middle of conducting a validation check.
-         * @return {?}
-         */
-        get: function () { return this._status == PENDING; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "disabled", {
-        /**
-         * A control is `disabled` when its `status === DISABLED`.
-         *
-         * Disabled controls are exempt from validation checks and
-         * are not included in the aggregate value of their ancestor
-         * controls.
-         * @return {?}
-         */
-        get: function () { return this._status === DISABLED; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "enabled", {
-        /**
-         * A control is `enabled` as long as its `status !== DISABLED`.
-         *
-         * In other words, it has a status of `VALID`, `INVALID`, or
-         * `PENDING`.
-         * @return {?}
-         */
-        get: function () { return this._status !== DISABLED; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "errors", {
-        /**
-         * Returns any errors generated by failing validation. If there
-         * are no errors, it will return null.
-         * @return {?}
-         */
-        get: function () { return this._errors; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "pristine", {
-        /**
-         * A control is `pristine` if the user has not yet changed
-         * the value in the UI.
-         *
-         * Note that programmatic changes to a control's value will
-         * *not* mark it dirty.
-         * @return {?}
-         */
-        get: function () { return this._pristine; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "dirty", {
-        /**
-         * A control is `dirty` if the user has changed the value
-         * in the UI.
-         *
-         * Note that programmatic changes to a control's value will
-         * *not* mark it dirty.
-         * @return {?}
-         */
-        get: function () { return !this.pristine; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "touched", {
-        /**
-         * A control is marked `touched` once the user has triggered
-         * a `blur` event on it.
-         * @return {?}
-         */
-        get: function () { return this._touched; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "untouched", {
-        /**
-         * A control is `untouched` if the user has not yet triggered
-         * a `blur` event on it.
-         * @return {?}
-         */
-        get: function () { return !this._touched; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "valueChanges", {
-        /**
-         * Emits an event every time the value of the control changes, in
-         * the UI or programmatically.
-         * @return {?}
-         */
-        get: function () { return this._valueChanges; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControl.prototype, "statusChanges", {
-        /**
-         * Emits an event every time the validation status of the control
-         * is re-calculated.
-         * @return {?}
-         */
-        get: function () { return this._statusChanges; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * Sets the synchronous validators that are active on this control.  Calling
-     * this will overwrite any existing sync validators.
-     * @param {?} newValidator
-     * @return {?}
-     */
-    AbstractControl.prototype.setValidators = function (newValidator) {
-        this.validator = coerceToValidator(newValidator);
-    };
-    /**
-     * Sets the async validators that are active on this control. Calling this
-     * will overwrite any existing async validators.
-     * @param {?} newValidator
-     * @return {?}
-     */
-    AbstractControl.prototype.setAsyncValidators = function (newValidator) {
-        this.asyncValidator = coerceToAsyncValidator(newValidator);
-    };
-    /**
-     * Empties out the sync validator list.
-     * @return {?}
-     */
-    AbstractControl.prototype.clearValidators = function () { this.validator = null; };
-    /**
-     * Empties out the async validator list.
-     * @return {?}
-     */
-    AbstractControl.prototype.clearAsyncValidators = function () { this.asyncValidator = null; };
-    /**
-     * Marks the control as `touched`.
-     *
-     * This will also mark all direct ancestors as `touched` to maintain
-     * the model.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.markAsTouched = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._touched = true;
-        if (this._parent && !onlySelf) {
-            this._parent.markAsTouched({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * Marks the control as `untouched`.
-     *
-     * If the control has any children, it will also mark all children as `untouched`
-     * to maintain the model, and re-calculate the `touched` status of all parent
-     * controls.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.markAsUntouched = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._touched = false;
-        this._forEachChild(function (control) { control.markAsUntouched({ onlySelf: true }); });
-        if (this._parent && !onlySelf) {
-            this._parent._updateTouched({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * Marks the control as `dirty`.
-     *
-     * This will also mark all direct ancestors as `dirty` to maintain
-     * the model.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.markAsDirty = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._pristine = false;
-        if (this._parent && !onlySelf) {
-            this._parent.markAsDirty({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * Marks the control as `pristine`.
-     *
-     * If the control has any children, it will also mark all children as `pristine`
-     * to maintain the model, and re-calculate the `pristine` status of all parent
-     * controls.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.markAsPristine = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._pristine = true;
-        this._forEachChild(function (control) { control.markAsPristine({ onlySelf: true }); });
-        if (this._parent && !onlySelf) {
-            this._parent._updatePristine({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * Marks the control as `pending`.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.markAsPending = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._status = PENDING;
-        if (this._parent && !onlySelf) {
-            this._parent.markAsPending({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * Disables the control. This means the control will be exempt from validation checks and
-     * excluded from the aggregate value of any parent. Its status is `DISABLED`.
-     *
-     * If the control has children, all children will be disabled to maintain the model.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.disable = function (_a) {
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._status = DISABLED;
-        this._errors = null;
-        this._forEachChild(function (control) { control.disable({ onlySelf: true }); });
-        this._updateValue();
-        if (emitEvent !== false) {
-            this._valueChanges.emit(this._value);
-            this._statusChanges.emit(this._status);
-        }
-        this._updateAncestors(onlySelf);
-        this._onDisabledChange.forEach(function (changeFn) { return changeFn(true); });
-    };
-    /**
-     * Enables the control. This means the control will be included in validation checks and
-     * the aggregate value of its parent. Its status is re-calculated based on its value and
-     * its validators.
-     *
-     * If the control has children, all children will be enabled.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.enable = function (_a) {
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._status = VALID;
-        this._forEachChild(function (control) { control.enable({ onlySelf: true }); });
-        this.updateValueAndValidity({ onlySelf: true, emitEvent: emitEvent });
-        this._updateAncestors(onlySelf);
-        this._onDisabledChange.forEach(function (changeFn) { return changeFn(false); });
-    };
-    /**
-     * @param {?} onlySelf
-     * @return {?}
-     */
-    AbstractControl.prototype._updateAncestors = function (onlySelf) {
-        if (this._parent && !onlySelf) {
-            this._parent.updateValueAndValidity();
-            this._parent._updatePristine();
-            this._parent._updateTouched();
-        }
-    };
-    /**
-     * @param {?} parent
-     * @return {?}
-     */
-    AbstractControl.prototype.setParent = function (parent) { this._parent = parent; };
-    /**
-     * Sets the value of the control. Abstract method (implemented in sub-classes).
-     * @abstract
-     * @param {?} value
-     * @param {?=} options
-     * @return {?}
-     */
-    AbstractControl.prototype.setValue = function (value, options) { };
-    /**
-     * Patches the value of the control. Abstract method (implemented in sub-classes).
-     * @abstract
-     * @param {?} value
-     * @param {?=} options
-     * @return {?}
-     */
-    AbstractControl.prototype.patchValue = function (value, options) { };
-    /**
-     * Resets the control. Abstract method (implemented in sub-classes).
-     * @abstract
-     * @param {?=} value
-     * @param {?=} options
-     * @return {?}
-     */
-    AbstractControl.prototype.reset = function (value, options) { };
-    /**
-     * Re-calculates the value and validation status of the control.
-     *
-     * By default, it will also update the value and validity of its ancestors.
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype.updateValueAndValidity = function (_a) {
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._setInitialStatus();
-        this._updateValue();
-        if (this.enabled) {
-            this._errors = this._runValidator();
-            this._status = this._calculateStatus();
-            if (this._status === VALID || this._status === PENDING) {
-                this._runAsyncValidator(emitEvent);
-            }
-        }
-        if (emitEvent !== false) {
-            this._valueChanges.emit(this._value);
-            this._statusChanges.emit(this._status);
-        }
-        if (this._parent && !onlySelf) {
-            this._parent.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-        }
-    };
-    /**
-     * \@internal
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype._updateTreeValidity = function (_a) {
-        var emitEvent = (_a === void 0 ? { emitEvent: true } : _a).emitEvent;
-        this._forEachChild(function (ctrl) { return ctrl._updateTreeValidity({ emitEvent: emitEvent }); });
-        this.updateValueAndValidity({ onlySelf: true, emitEvent: emitEvent });
-    };
-    /**
-     * @return {?}
-     */
-    AbstractControl.prototype._setInitialStatus = function () { this._status = this._allControlsDisabled() ? DISABLED : VALID; };
-    /**
-     * @return {?}
-     */
-    AbstractControl.prototype._runValidator = function () {
-        return this.validator ? this.validator(this) : null;
-    };
-    /**
-     * @param {?} emitEvent
-     * @return {?}
-     */
-    AbstractControl.prototype._runAsyncValidator = function (emitEvent) {
-        var _this = this;
-        if (this.asyncValidator) {
-            this._status = PENDING;
-            this._cancelExistingSubscription();
-            var /** @type {?} */ obs = toObservable(this.asyncValidator(this));
-            if (!(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__private_import_core__["b" /* isObservable */])(obs))) {
-                throw new Error("expected the following validator to return Promise or Observable: " + this.asyncValidator + ". If you are using FormBuilder; did you forget to brace your validators in an array?");
-            }
-            this._asyncValidationSubscription =
-                obs.subscribe({ next: function (res) { return _this.setErrors(res, { emitEvent: emitEvent }); } });
-        }
-    };
-    /**
-     * @return {?}
-     */
-    AbstractControl.prototype._cancelExistingSubscription = function () {
-        if (this._asyncValidationSubscription) {
-            this._asyncValidationSubscription.unsubscribe();
-        }
-    };
-    /**
-     * Sets errors on a form control.
-     *
-     * This is used when validations are run manually by the user, rather than automatically.
-     *
-     * Calling `setErrors` will also update the validity of the parent control.
-     *
-     * ### Example
-     *
-     * ```
-     * const login = new FormControl("someLogin");
-     * login.setErrors({
-     *   "notUnique": true
-     * });
-     *
-     * expect(login.valid).toEqual(false);
-     * expect(login.errors).toEqual({"notUnique": true});
-     *
-     * login.setValue("someOtherLogin");
-     *
-     * expect(login.valid).toEqual(true);
-     * ```
-     * @param {?} errors
-     * @param {?=} __1
-     * @return {?}
-     */
-    AbstractControl.prototype.setErrors = function (errors, _a) {
-        var emitEvent = (_a === void 0 ? {} : _a).emitEvent;
-        this._errors = errors;
-        this._updateControlsErrors(emitEvent !== false);
-    };
-    /**
-     * Retrieves a child control given the control's name or path.
-     *
-     * Paths can be passed in as an array or a string delimited by a dot.
-     *
-     * To get a control nested within a `person` sub-group:
-     *
-     * * `this.form.get('person.name');`
-     *
-     * -OR-
-     *
-     * * `this.form.get(['person', 'name']);`
-     * @param {?} path
-     * @return {?}
-     */
-    AbstractControl.prototype.get = function (path) { return _find(this, path, '.'); };
-    /**
-     * Returns true if the control with the given path has the error specified. Otherwise
-     * returns null or undefined.
-     *
-     * If no path is given, it checks for the error on the present control.
-     * @param {?} errorCode
-     * @param {?=} path
-     * @return {?}
-     */
-    AbstractControl.prototype.getError = function (errorCode, path) {
-        if (path === void 0) { path = null; }
-        var /** @type {?} */ control = path ? this.get(path) : this;
-        return control && control._errors ? control._errors[errorCode] : null;
-    };
-    /**
-     * Returns true if the control with the given path has the error specified. Otherwise
-     * returns false.
-     *
-     * If no path is given, it checks for the error on the present control.
-     * @param {?} errorCode
-     * @param {?=} path
-     * @return {?}
-     */
-    AbstractControl.prototype.hasError = function (errorCode, path) {
-        if (path === void 0) { path = null; }
-        return !!this.getError(errorCode, path);
-    };
-    Object.defineProperty(AbstractControl.prototype, "root", {
-        /**
-         * Retrieves the top-level ancestor of this control.
-         * @return {?}
-         */
-        get: function () {
-            var /** @type {?} */ x = this;
-            while (x._parent) {
-                x = x._parent;
-            }
-            return x;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * \@internal
-     * @param {?} emitEvent
-     * @return {?}
-     */
-    AbstractControl.prototype._updateControlsErrors = function (emitEvent) {
-        this._status = this._calculateStatus();
-        if (emitEvent) {
-            this._statusChanges.emit(this._status);
-        }
-        if (this._parent) {
-            this._parent._updateControlsErrors(emitEvent);
-        }
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    AbstractControl.prototype._initObservables = function () {
-        this._valueChanges = new __WEBPACK_IMPORTED_MODULE_2__facade_async__["a" /* EventEmitter */]();
-        this._statusChanges = new __WEBPACK_IMPORTED_MODULE_2__facade_async__["a" /* EventEmitter */]();
-    };
-    /**
-     * @return {?}
-     */
-    AbstractControl.prototype._calculateStatus = function () {
-        if (this._allControlsDisabled())
-            return DISABLED;
-        if (this._errors)
-            return INVALID;
-        if (this._anyControlsHaveStatus(PENDING))
-            return PENDING;
-        if (this._anyControlsHaveStatus(INVALID))
-            return INVALID;
-        return VALID;
-    };
-    /**
-     * \@internal
-     * @abstract
-     * @return {?}
-     */
-    AbstractControl.prototype._updateValue = function () { };
-    /**
-     * \@internal
-     * @abstract
-     * @param {?} cb
-     * @return {?}
-     */
-    AbstractControl.prototype._forEachChild = function (cb) { };
-    /**
-     * \@internal
-     * @abstract
-     * @param {?} condition
-     * @return {?}
-     */
-    AbstractControl.prototype._anyControls = function (condition) { };
-    /**
-     * \@internal
-     * @abstract
-     * @return {?}
-     */
-    AbstractControl.prototype._allControlsDisabled = function () { };
-    /**
-     * \@internal
-     * @param {?} status
-     * @return {?}
-     */
-    AbstractControl.prototype._anyControlsHaveStatus = function (status) {
-        return this._anyControls(function (control) { return control.status === status; });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    AbstractControl.prototype._anyControlsDirty = function () {
-        return this._anyControls(function (control) { return control.dirty; });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    AbstractControl.prototype._anyControlsTouched = function () {
-        return this._anyControls(function (control) { return control.touched; });
-    };
-    /**
-     * \@internal
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype._updatePristine = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._pristine = !this._anyControlsDirty();
-        if (this._parent && !onlySelf) {
-            this._parent._updatePristine({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * \@internal
-     * @param {?=} __0
-     * @return {?}
-     */
-    AbstractControl.prototype._updateTouched = function (_a) {
-        var onlySelf = (_a === void 0 ? {} : _a).onlySelf;
-        this._touched = this._anyControlsTouched();
-        if (this._parent && !onlySelf) {
-            this._parent._updateTouched({ onlySelf: onlySelf });
-        }
-    };
-    /**
-     * \@internal
-     * @param {?} formState
-     * @return {?}
-     */
-    AbstractControl.prototype._isBoxedValue = function (formState) {
-        return typeof formState === 'object' && formState !== null &&
-            Object.keys(formState).length === 2 && 'value' in formState && 'disabled' in formState;
-    };
-    /**
-     * \@internal
-     * @param {?} fn
-     * @return {?}
-     */
-    AbstractControl.prototype._registerOnCollectionChange = function (fn) { this._onCollectionChange = fn; };
-    return AbstractControl;
-}());
-function AbstractControl_tsickle_Closure_declarations() {
-    /**
-     * \@internal
-     * @type {?}
-     */
-    AbstractControl.prototype._value;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    AbstractControl.prototype._onCollectionChange;
-    /** @type {?} */
-    AbstractControl.prototype._valueChanges;
-    /** @type {?} */
-    AbstractControl.prototype._statusChanges;
-    /** @type {?} */
-    AbstractControl.prototype._status;
-    /** @type {?} */
-    AbstractControl.prototype._errors;
-    /** @type {?} */
-    AbstractControl.prototype._pristine;
-    /** @type {?} */
-    AbstractControl.prototype._touched;
-    /** @type {?} */
-    AbstractControl.prototype._parent;
-    /** @type {?} */
-    AbstractControl.prototype._asyncValidationSubscription;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    AbstractControl.prototype._onDisabledChange;
-    /** @type {?} */
-    AbstractControl.prototype.validator;
-    /** @type {?} */
-    AbstractControl.prototype.asyncValidator;
-}
-/**
- * \@whatItDoes Tracks the value and validation status of an individual form control.
- *
- * It is one of the three fundamental building blocks of Angular forms, along with
- * {\@link FormGroup} and {\@link FormArray}.
- *
- * \@howToUse
- *
- * When instantiating a {\@link FormControl}, you can pass in an initial value as the
- * first argument. Example:
- *
- * ```ts
- * const ctrl = new FormControl('some value');
- * console.log(ctrl.value);     // 'some value'
- * ```
- *
- * You can also initialize the control with a form state object on instantiation,
- * which includes both the value and whether or not the control is disabled.
- * You can't use the value key without the disabled key; both are required
- * to use this way of initialization.
- *
- * ```ts
- * const ctrl = new FormControl({value: 'n/a', disabled: true});
- * console.log(ctrl.value);     // 'n/a'
- * console.log(ctrl.status);   // 'DISABLED'
- * ```
- *
- * To include a sync validator (or an array of sync validators) with the control,
- * pass it in as the second argument. Async validators are also supported, but
- * have to be passed in separately as the third arg.
- *
- * ```ts
- * const ctrl = new FormControl('', Validators.required);
- * console.log(ctrl.value);     // ''
- * console.log(ctrl.status);   // 'INVALID'
- * ```
- *
- * See its superclass, {\@link AbstractControl}, for more properties and methods.
- *
- * * **npm package**: `\@angular/forms`
- *
- * \@stable
- */
-var FormControl = (function (_super) {
-    __extends(FormControl, _super);
-    /**
-     * @param {?=} formState
-     * @param {?=} validator
-     * @param {?=} asyncValidator
-     */
-    function FormControl(formState, validator, asyncValidator) {
-        if (formState === void 0) { formState = null; }
-        if (validator === void 0) { validator = null; }
-        if (asyncValidator === void 0) { asyncValidator = null; }
-        _super.call(this, coerceToValidator(validator), coerceToAsyncValidator(asyncValidator));
-        /** @internal */
-        this._onChange = [];
-        this._applyFormState(formState);
-        this.updateValueAndValidity({ onlySelf: true, emitEvent: false });
-        this._initObservables();
-    }
-    /**
-     * Set the value of the form control to `value`.
-     *
-     * If `onlySelf` is `true`, this change will only affect the validation of this `FormControl`
-     * and not its parent component. This defaults to false.
-     *
-     * If `emitEvent` is `true`, this
-     * change will cause a `valueChanges` event on the `FormControl` to be emitted. This defaults
-     * to true (as it falls through to `updateValueAndValidity`).
-     *
-     * If `emitModelToViewChange` is `true`, the view will be notified about the new value
-     * via an `onChange` event. This is the default behavior if `emitModelToViewChange` is not
-     * specified.
-     *
-     * If `emitViewToModelChange` is `true`, an ngModelChange event will be fired to update the
-     * model.  This is the default behavior if `emitViewToModelChange` is not specified.
-     * @param {?} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormControl.prototype.setValue = function (value, _a) {
-        var _this = this;
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent, emitModelToViewChange = _b.emitModelToViewChange, emitViewToModelChange = _b.emitViewToModelChange;
-        this._value = value;
-        if (this._onChange.length && emitModelToViewChange !== false) {
-            this._onChange.forEach(function (changeFn) { return changeFn(_this._value, emitViewToModelChange !== false); });
-        }
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-    };
-    /**
-     * Patches the value of a control.
-     *
-     * This function is functionally the same as {\@link FormControl.setValue} at this level.
-     * It exists for symmetry with {\@link FormGroup.patchValue} on `FormGroups` and `FormArrays`,
-     * where it does behave differently.
-     * @param {?} value
-     * @param {?=} options
-     * @return {?}
-     */
-    FormControl.prototype.patchValue = function (value, options) {
-        if (options === void 0) { options = {}; }
-        this.setValue(value, options);
-    };
-    /**
-     * Resets the form control. This means by default:
-     *
-     * * it is marked as `pristine`
-     * * it is marked as `untouched`
-     * * value is set to null
-     *
-     * You can also reset to a specific form state by passing through a standalone
-     * value or a form state object that contains both a value and a disabled state
-     * (these are the only two properties that cannot be calculated).
-     *
-     * Ex:
-     *
-     * ```ts
-     * this.control.reset('Nancy');
-     *
-     * console.log(this.control.value);  // 'Nancy'
-     * ```
-     *
-     * OR
-     *
-     * ```
-     * this.control.reset({value: 'Nancy', disabled: true});
-     *
-     * console.log(this.control.value);  // 'Nancy'
-     * console.log(this.control.status);  // 'DISABLED'
-     * ```
-     * @param {?=} formState
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormControl.prototype.reset = function (formState, _a) {
-        if (formState === void 0) { formState = null; }
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._applyFormState(formState);
-        this.markAsPristine({ onlySelf: onlySelf });
-        this.markAsUntouched({ onlySelf: onlySelf });
-        this.setValue(this._value, { onlySelf: onlySelf, emitEvent: emitEvent });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormControl.prototype._updateValue = function () { };
-    /**
-     * \@internal
-     * @param {?} condition
-     * @return {?}
-     */
-    FormControl.prototype._anyControls = function (condition) { return false; };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormControl.prototype._allControlsDisabled = function () { return this.disabled; };
-    /**
-     * Register a listener for change events.
-     * @param {?} fn
-     * @return {?}
-     */
-    FormControl.prototype.registerOnChange = function (fn) { this._onChange.push(fn); };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormControl.prototype._clearChangeFns = function () {
-        this._onChange = [];
-        this._onDisabledChange = [];
-        this._onCollectionChange = function () { };
-    };
-    /**
-     * Register a listener for disabled events.
-     * @param {?} fn
-     * @return {?}
-     */
-    FormControl.prototype.registerOnDisabledChange = function (fn) {
-        this._onDisabledChange.push(fn);
-    };
-    /**
-     * \@internal
-     * @param {?} cb
-     * @return {?}
-     */
-    FormControl.prototype._forEachChild = function (cb) { };
-    /**
-     * @param {?} formState
-     * @return {?}
-     */
-    FormControl.prototype._applyFormState = function (formState) {
-        if (this._isBoxedValue(formState)) {
-            this._value = formState.value;
-            formState.disabled ? this.disable({ onlySelf: true, emitEvent: false }) :
-                this.enable({ onlySelf: true, emitEvent: false });
-        }
-        else {
-            this._value = formState;
-        }
-    };
-    return FormControl;
-}(AbstractControl));
-function FormControl_tsickle_Closure_declarations() {
-    /**
-     * \@internal
-     * @type {?}
-     */
-    FormControl.prototype._onChange;
-}
-/**
- * \@whatItDoes Tracks the value and validity state of a group of {\@link FormControl}
- * instances.
- *
- * A `FormGroup` aggregates the values of each child {\@link FormControl} into one object,
- * with each control name as the key.  It calculates its status by reducing the statuses
- * of its children. For example, if one of the controls in a group is invalid, the entire
- * group becomes invalid.
- *
- * `FormGroup` is one of the three fundamental building blocks used to define forms in Angular,
- * along with {\@link FormControl} and {\@link FormArray}.
- *
- * \@howToUse
- *
- * When instantiating a {\@link FormGroup}, pass in a collection of child controls as the first
- * argument. The key for each child will be the name under which it is registered.
- *
- * ### Example
- *
- * ```
- * const form = new FormGroup({
- *   first: new FormControl('Nancy', Validators.minLength(2)),
- *   last: new FormControl('Drew'),
- * });
- *
- * console.log(form.value);   // {first: 'Nancy', last; 'Drew'}
- * console.log(form.status);  // 'VALID'
- * ```
- *
- * You can also include group-level validators as the second arg, or group-level async
- * validators as the third arg. These come in handy when you want to perform validation
- * that considers the value of more than one child control.
- *
- * ### Example
- *
- * ```
- * const form = new FormGroup({
- *   password: new FormControl('', Validators.minLength(2)),
- *   passwordConfirm: new FormControl('', Validators.minLength(2)),
- * }, passwordMatchValidator);
- *
- *
- * function passwordMatchValidator(g: FormGroup) {
- *    return g.get('password').value === g.get('passwordConfirm').value
- *       ? null : {'mismatch': true};
- * }
- * ```
- *
- * * **npm package**: `\@angular/forms`
- *
- * \@stable
- */
-var FormGroup = (function (_super) {
-    __extends(FormGroup, _super);
-    /**
-     * @param {?} controls
-     * @param {?=} validator
-     * @param {?=} asyncValidator
-     */
-    function FormGroup(controls, validator, asyncValidator) {
-        if (validator === void 0) { validator = null; }
-        if (asyncValidator === void 0) { asyncValidator = null; }
-        _super.call(this, validator, asyncValidator);
-        this.controls = controls;
-        this._initObservables();
-        this._setUpControls();
-        this.updateValueAndValidity({ onlySelf: true, emitEvent: false });
-    }
-    /**
-     * Registers a control with the group's list of controls.
-     *
-     * This method does not update value or validity of the control, so for
-     * most cases you'll want to use {\@link FormGroup.addControl} instead.
-     * @param {?} name
-     * @param {?} control
-     * @return {?}
-     */
-    FormGroup.prototype.registerControl = function (name, control) {
-        if (this.controls[name])
-            return this.controls[name];
-        this.controls[name] = control;
-        control.setParent(this);
-        control._registerOnCollectionChange(this._onCollectionChange);
-        return control;
-    };
-    /**
-     * Add a control to this group.
-     * @param {?} name
-     * @param {?} control
-     * @return {?}
-     */
-    FormGroup.prototype.addControl = function (name, control) {
-        this.registerControl(name, control);
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    /**
-     * Remove a control from this group.
-     * @param {?} name
-     * @return {?}
-     */
-    FormGroup.prototype.removeControl = function (name) {
-        if (this.controls[name])
-            this.controls[name]._registerOnCollectionChange(function () { });
-        delete (this.controls[name]);
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    /**
-     * Replace an existing control.
-     * @param {?} name
-     * @param {?} control
-     * @return {?}
-     */
-    FormGroup.prototype.setControl = function (name, control) {
-        if (this.controls[name])
-            this.controls[name]._registerOnCollectionChange(function () { });
-        delete (this.controls[name]);
-        if (control)
-            this.registerControl(name, control);
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    /**
-     * Check whether there is an enabled control with the given name in the group.
-     *
-     * It will return false for disabled controls. If you'd like to check for
-     * existence in the group only, use {\@link AbstractControl.get} instead.
-     * @param {?} controlName
-     * @return {?}
-     */
-    FormGroup.prototype.contains = function (controlName) {
-        return this.controls.hasOwnProperty(controlName) && this.controls[controlName].enabled;
-    };
-    /**
-     *  Sets the value of the {\@link FormGroup}. It accepts an object that matches
-     *  the structure of the group, with control names as keys.
-     *
-     * This method performs strict checks, so it will throw an error if you try
-     * to set the value of a control that doesn't exist or if you exclude the
-     * value of a control.
-     *
-     *  ### Example
-     *
-     *  ```
-     *  const form = new FormGroup({
-     *     first: new FormControl(),
-     *     last: new FormControl()
-     *  });
-     *  console.log(form.value);   // {first: null, last: null}
-     *
-     *  form.setValue({first: 'Nancy', last: 'Drew'});
-     *  console.log(form.value);   // {first: 'Nancy', last: 'Drew'}
-     *
-     *  ```
-     * @param {?} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormGroup.prototype.setValue = function (value, _a) {
-        var _this = this;
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._checkAllValuesPresent(value);
-        Object.keys(value).forEach(function (name) {
-            _this._throwIfControlMissing(name);
-            _this.controls[name].setValue(value[name], { onlySelf: true, emitEvent: emitEvent });
-        });
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-    };
-    /**
-     *  Patches the value of the {\@link FormGroup}. It accepts an object with control
-     *  names as keys, and will do its best to match the values to the correct controls
-     *  in the group.
-     *
-     *  It accepts both super-sets and sub-sets of the group without throwing an error.
-     *
-     *  ### Example
-     *
-     *  ```
-     *  const form = new FormGroup({
-     *     first: new FormControl(),
-     *     last: new FormControl()
-     *  });
-     *  console.log(form.value);   // {first: null, last: null}
-     *
-     *  form.patchValue({first: 'Nancy'});
-     *  console.log(form.value);   // {first: 'Nancy', last: null}
-     *
-     *  ```
-     * @param {?} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormGroup.prototype.patchValue = function (value, _a) {
-        var _this = this;
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        Object.keys(value).forEach(function (name) {
-            if (_this.controls[name]) {
-                _this.controls[name].patchValue(value[name], { onlySelf: true, emitEvent: emitEvent });
-            }
-        });
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-    };
-    /**
-     * Resets the {\@link FormGroup}. This means by default:
-     *
-     * * The group and all descendants are marked `pristine`
-     * * The group and all descendants are marked `untouched`
-     * * The value of all descendants will be null or null maps
-     *
-     * You can also reset to a specific form state by passing in a map of states
-     * that matches the structure of your form, with control names as keys. The state
-     * can be a standalone value or a form state object with both a value and a disabled
-     * status.
-     *
-     * ### Example
-     *
-     * ```ts
-     * this.form.reset({first: 'name', last: 'last name'});
-     *
-     * console.log(this.form.value);  // {first: 'name', last: 'last name'}
-     * ```
-     *
-     * - OR -
-     *
-     * ```
-     * this.form.reset({
-     *   first: {value: 'name', disabled: true},
-     *   last: 'last'
-     * });
-     *
-     * console.log(this.form.value);  // {first: 'name', last: 'last name'}
-     * console.log(this.form.get('first').status);  // 'DISABLED'
-     * ```
-     * @param {?=} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormGroup.prototype.reset = function (value, _a) {
-        if (value === void 0) { value = {}; }
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._forEachChild(function (control, name) {
-            control.reset(value[name], { onlySelf: true, emitEvent: emitEvent });
-        });
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-        this._updatePristine({ onlySelf: onlySelf });
-        this._updateTouched({ onlySelf: onlySelf });
-    };
-    /**
-     * The aggregate value of the {\@link FormGroup}, including any disabled controls.
-     *
-     * If you'd like to include all values regardless of disabled status, use this method.
-     * Otherwise, the `value` property is the best way to get the value of the group.
-     * @return {?}
-     */
-    FormGroup.prototype.getRawValue = function () {
-        return this._reduceChildren({}, function (acc, control, name) {
-            acc[name] = control instanceof FormControl ? control.value : ((control)).getRawValue();
-            return acc;
-        });
-    };
-    /**
-     * \@internal
-     * @param {?} name
-     * @return {?}
-     */
-    FormGroup.prototype._throwIfControlMissing = function (name) {
-        if (!Object.keys(this.controls).length) {
-            throw new Error("\n        There are no form controls registered with this group yet.  If you're using ngModel,\n        you may want to check next tick (e.g. use setTimeout).\n      ");
-        }
-        if (!this.controls[name]) {
-            throw new Error("Cannot find form control with name: " + name + ".");
-        }
-    };
-    /**
-     * \@internal
-     * @param {?} cb
-     * @return {?}
-     */
-    FormGroup.prototype._forEachChild = function (cb) {
-        var _this = this;
-        Object.keys(this.controls).forEach(function (k) { return cb(_this.controls[k], k); });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormGroup.prototype._setUpControls = function () {
-        var _this = this;
-        this._forEachChild(function (control) {
-            control.setParent(_this);
-            control._registerOnCollectionChange(_this._onCollectionChange);
-        });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormGroup.prototype._updateValue = function () { this._value = this._reduceValue(); };
-    /**
-     * \@internal
-     * @param {?} condition
-     * @return {?}
-     */
-    FormGroup.prototype._anyControls = function (condition) {
-        var _this = this;
-        var /** @type {?} */ res = false;
-        this._forEachChild(function (control, name) {
-            res = res || (_this.contains(name) && condition(control));
-        });
-        return res;
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormGroup.prototype._reduceValue = function () {
-        var _this = this;
-        return this._reduceChildren({}, function (acc, control, name) {
-            if (control.enabled || _this.disabled) {
-                acc[name] = control.value;
-            }
-            return acc;
-        });
-    };
-    /**
-     * \@internal
-     * @param {?} initValue
-     * @param {?} fn
-     * @return {?}
-     */
-    FormGroup.prototype._reduceChildren = function (initValue, fn) {
-        var /** @type {?} */ res = initValue;
-        this._forEachChild(function (control, name) { res = fn(res, control, name); });
-        return res;
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormGroup.prototype._allControlsDisabled = function () {
-        for (var _i = 0, _a = Object.keys(this.controls); _i < _a.length; _i++) {
-            var controlName = _a[_i];
-            if (this.controls[controlName].enabled) {
-                return false;
-            }
-        }
-        return Object.keys(this.controls).length > 0 || this.disabled;
-    };
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    FormGroup.prototype._checkAllValuesPresent = function (value) {
-        this._forEachChild(function (control, name) {
-            if (value[name] === undefined) {
-                throw new Error("Must supply a value for form control with name: '" + name + "'.");
-            }
-        });
-    };
-    return FormGroup;
-}(AbstractControl));
-function FormGroup_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormGroup.prototype.controls;
-}
-/**
- * \@whatItDoes Tracks the value and validity state of an array of {\@link FormControl},
- * {\@link FormGroup} or {\@link FormArray} instances.
- *
- * A `FormArray` aggregates the values of each child {\@link FormControl} into an array.
- * It calculates its status by reducing the statuses of its children. For example, if one of
- * the controls in a `FormArray` is invalid, the entire array becomes invalid.
- *
- * `FormArray` is one of the three fundamental building blocks used to define forms in Angular,
- * along with {\@link FormControl} and {\@link FormGroup}.
- *
- * \@howToUse
- *
- * When instantiating a {\@link FormArray}, pass in an array of child controls as the first
- * argument.
- *
- * ### Example
- *
- * ```
- * const arr = new FormArray([
- *   new FormControl('Nancy', Validators.minLength(2)),
- *   new FormControl('Drew'),
- * ]);
- *
- * console.log(arr.value);   // ['Nancy', 'Drew']
- * console.log(arr.status);  // 'VALID'
- * ```
- *
- * You can also include array-level validators as the second arg, or array-level async
- * validators as the third arg. These come in handy when you want to perform validation
- * that considers the value of more than one child control.
- *
- * ### Adding or removing controls
- *
- * To change the controls in the array, use the `push`, `insert`, or `removeAt` methods
- * in `FormArray` itself. These methods ensure the controls are properly tracked in the
- * form's hierarchy. Do not modify the array of `AbstractControl`s used to instantiate
- * the `FormArray` directly, as that will result in strange and unexpected behavior such
- * as broken change detection.
- *
- * * **npm package**: `\@angular/forms`
- *
- * \@stable
- */
-var FormArray = (function (_super) {
-    __extends(FormArray, _super);
-    /**
-     * @param {?} controls
-     * @param {?=} validator
-     * @param {?=} asyncValidator
-     */
-    function FormArray(controls, validator, asyncValidator) {
-        if (validator === void 0) { validator = null; }
-        if (asyncValidator === void 0) { asyncValidator = null; }
-        _super.call(this, validator, asyncValidator);
-        this.controls = controls;
-        this._initObservables();
-        this._setUpControls();
-        this.updateValueAndValidity({ onlySelf: true, emitEvent: false });
-    }
-    /**
-     * Get the {\@link AbstractControl} at the given `index` in the array.
-     * @param {?} index
-     * @return {?}
-     */
-    FormArray.prototype.at = function (index) { return this.controls[index]; };
-    /**
-     * Insert a new {\@link AbstractControl} at the end of the array.
-     * @param {?} control
-     * @return {?}
-     */
-    FormArray.prototype.push = function (control) {
-        this.controls.push(control);
-        this._registerControl(control);
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    /**
-     * Insert a new {\@link AbstractControl} at the given `index` in the array.
-     * @param {?} index
-     * @param {?} control
-     * @return {?}
-     */
-    FormArray.prototype.insert = function (index, control) {
-        this.controls.splice(index, 0, control);
-        this._registerControl(control);
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    /**
-     * Remove the control at the given `index` in the array.
-     * @param {?} index
-     * @return {?}
-     */
-    FormArray.prototype.removeAt = function (index) {
-        if (this.controls[index])
-            this.controls[index]._registerOnCollectionChange(function () { });
-        this.controls.splice(index, 1);
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    /**
-     * Replace an existing control.
-     * @param {?} index
-     * @param {?} control
-     * @return {?}
-     */
-    FormArray.prototype.setControl = function (index, control) {
-        if (this.controls[index])
-            this.controls[index]._registerOnCollectionChange(function () { });
-        this.controls.splice(index, 1);
-        if (control) {
-            this.controls.splice(index, 0, control);
-            this._registerControl(control);
-        }
-        this.updateValueAndValidity();
-        this._onCollectionChange();
-    };
-    Object.defineProperty(FormArray.prototype, "length", {
-        /**
-         * Length of the control array.
-         * @return {?}
-         */
-        get: function () { return this.controls.length; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     *  Sets the value of the {\@link FormArray}. It accepts an array that matches
-     *  the structure of the control.
-     *
-     * This method performs strict checks, so it will throw an error if you try
-     * to set the value of a control that doesn't exist or if you exclude the
-     * value of a control.
-     *
-     *  ### Example
-     *
-     *  ```
-     *  const arr = new FormArray([
-     *     new FormControl(),
-     *     new FormControl()
-     *  ]);
-     *  console.log(arr.value);   // [null, null]
-     *
-     *  arr.setValue(['Nancy', 'Drew']);
-     *  console.log(arr.value);   // ['Nancy', 'Drew']
-     *  ```
-     * @param {?} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormArray.prototype.setValue = function (value, _a) {
-        var _this = this;
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._checkAllValuesPresent(value);
-        value.forEach(function (newValue, index) {
-            _this._throwIfControlMissing(index);
-            _this.at(index).setValue(newValue, { onlySelf: true, emitEvent: emitEvent });
-        });
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-    };
-    /**
-     *  Patches the value of the {\@link FormArray}. It accepts an array that matches the
-     *  structure of the control, and will do its best to match the values to the correct
-     *  controls in the group.
-     *
-     *  It accepts both super-sets and sub-sets of the array without throwing an error.
-     *
-     *  ### Example
-     *
-     *  ```
-     *  const arr = new FormArray([
-     *     new FormControl(),
-     *     new FormControl()
-     *  ]);
-     *  console.log(arr.value);   // [null, null]
-     *
-     *  arr.patchValue(['Nancy']);
-     *  console.log(arr.value);   // ['Nancy', null]
-     *  ```
-     * @param {?} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormArray.prototype.patchValue = function (value, _a) {
-        var _this = this;
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        value.forEach(function (newValue, index) {
-            if (_this.at(index)) {
-                _this.at(index).patchValue(newValue, { onlySelf: true, emitEvent: emitEvent });
-            }
-        });
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-    };
-    /**
-     * Resets the {\@link FormArray}. This means by default:
-     *
-     * * The array and all descendants are marked `pristine`
-     * * The array and all descendants are marked `untouched`
-     * * The value of all descendants will be null or null maps
-     *
-     * You can also reset to a specific form state by passing in an array of states
-     * that matches the structure of the control. The state can be a standalone value
-     * or a form state object with both a value and a disabled status.
-     *
-     * ### Example
-     *
-     * ```ts
-     * this.arr.reset(['name', 'last name']);
-     *
-     * console.log(this.arr.value);  // ['name', 'last name']
-     * ```
-     *
-     * - OR -
-     *
-     * ```
-     * this.arr.reset([
-     *   {value: 'name', disabled: true},
-     *   'last'
-     * ]);
-     *
-     * console.log(this.arr.value);  // ['name', 'last name']
-     * console.log(this.arr.get(0).status);  // 'DISABLED'
-     * ```
-     * @param {?=} value
-     * @param {?=} __1
-     * @return {?}
-     */
-    FormArray.prototype.reset = function (value, _a) {
-        if (value === void 0) { value = []; }
-        var _b = _a === void 0 ? {} : _a, onlySelf = _b.onlySelf, emitEvent = _b.emitEvent;
-        this._forEachChild(function (control, index) {
-            control.reset(value[index], { onlySelf: true, emitEvent: emitEvent });
-        });
-        this.updateValueAndValidity({ onlySelf: onlySelf, emitEvent: emitEvent });
-        this._updatePristine({ onlySelf: onlySelf });
-        this._updateTouched({ onlySelf: onlySelf });
-    };
-    /**
-     * The aggregate value of the array, including any disabled controls.
-     *
-     * If you'd like to include all values regardless of disabled status, use this method.
-     * Otherwise, the `value` property is the best way to get the value of the array.
-     * @return {?}
-     */
-    FormArray.prototype.getRawValue = function () {
-        return this.controls.map(function (control) {
-            return control instanceof FormControl ? control.value : ((control)).getRawValue();
-        });
-    };
-    /**
-     * \@internal
-     * @param {?} index
-     * @return {?}
-     */
-    FormArray.prototype._throwIfControlMissing = function (index) {
-        if (!this.controls.length) {
-            throw new Error("\n        There are no form controls registered with this array yet.  If you're using ngModel,\n        you may want to check next tick (e.g. use setTimeout).\n      ");
-        }
-        if (!this.at(index)) {
-            throw new Error("Cannot find form control at index " + index);
-        }
-    };
-    /**
-     * \@internal
-     * @param {?} cb
-     * @return {?}
-     */
-    FormArray.prototype._forEachChild = function (cb) {
-        this.controls.forEach(function (control, index) { cb(control, index); });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormArray.prototype._updateValue = function () {
-        var _this = this;
-        this._value = this.controls.filter(function (control) { return control.enabled || _this.disabled; })
-            .map(function (control) { return control.value; });
-    };
-    /**
-     * \@internal
-     * @param {?} condition
-     * @return {?}
-     */
-    FormArray.prototype._anyControls = function (condition) {
-        return this.controls.some(function (control) { return control.enabled && condition(control); });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormArray.prototype._setUpControls = function () {
-        var _this = this;
-        this._forEachChild(function (control) { return _this._registerControl(control); });
-    };
-    /**
-     * \@internal
-     * @param {?} value
-     * @return {?}
-     */
-    FormArray.prototype._checkAllValuesPresent = function (value) {
-        this._forEachChild(function (control, i) {
-            if (value[i] === undefined) {
-                throw new Error("Must supply a value for form control at index: " + i + ".");
-            }
-        });
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    FormArray.prototype._allControlsDisabled = function () {
-        for (var _i = 0, _a = this.controls; _i < _a.length; _i++) {
-            var control = _a[_i];
-            if (control.enabled)
-                return false;
-        }
-        return this.controls.length > 0 || this.disabled;
-    };
-    /**
-     * @param {?} control
-     * @return {?}
-     */
-    FormArray.prototype._registerControl = function (control) {
-        control.setParent(this);
-        control._registerOnCollectionChange(this._onCollectionChange);
-    };
-    return FormArray;
-}(AbstractControl));
-function FormArray_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormArray.prototype.controls;
-}
-//# sourceMappingURL=model.js.map
-
-/***/ }),
+/* 127 */,
+/* 128 */,
+/* 129 */,
+/* 130 */,
+/* 131 */,
+/* 132 */,
+/* 133 */,
 /* 134 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -27922,7 +22943,7 @@ var BaseResponseOptions = (function (_super) {
         _super.call(this, { status: 200, statusText: 'Ok', type: __WEBPACK_IMPORTED_MODULE_1__enums__["d" /* ResponseType */].Default, headers: new __WEBPACK_IMPORTED_MODULE_2__headers__["a" /* Headers */]() });
     }
     BaseResponseOptions.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     BaseResponseOptions.ctorParameters = function () { return []; };
@@ -28268,7 +23289,7 @@ function URLSearchParams_tsickle_Closure_declarations() {
  *
  * @stable
  */
-var /** @type {?} */ DOCUMENT = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('DocumentToken');
+var /** @type {?} */ DOCUMENT = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('DocumentToken');
 //# sourceMappingURL=dom_tokens.js.map
 
 /***/ }),
@@ -28499,7 +23520,7 @@ var Location = (function () {
     function Location(platformStrategy) {
         var _this = this;
         /** @internal */
-        this._subject = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["G" /* EventEmitter */]();
+        this._subject = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["K" /* EventEmitter */]();
         this._platformStrategy = platformStrategy;
         var browserBaseHref = this._platformStrategy.getBaseHref();
         this._baseHref = Location.stripTrailingSlash(_stripIndexHtml(browserBaseHref));
@@ -28640,7 +23661,7 @@ var Location = (function () {
      */
     Location.stripTrailingSlash = function (url) { return url.replace(/\/$/, ''); };
     Location.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     Location.ctorParameters = function () { return [
@@ -28696,7 +23717,7 @@ function _stripIndexHtml(url) {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PlatformLocation; });
-/* unused harmony export LOCATION_INITIALIZED */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return LOCATION_INITIALIZED; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -28808,7 +23829,7 @@ var PlatformLocation = (function () {
  * @whatItDoes indicates when a location is initialized
  * @experimental
  */
-var /** @type {?} */ LOCATION_INITIALIZED = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('Location Initialized');
+var /** @type {?} */ LOCATION_INITIALIZED = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('Location Initialized');
 //# sourceMappingURL=platform_location.js.map
 
 /***/ }),
@@ -29722,38 +24743,38 @@ var StaticReflector = (function () {
     StaticReflector.prototype.initializeConversionMap = function () {
         var coreDecorators = ANGULAR_IMPORT_LOCATIONS.coreDecorators, diDecorators = ANGULAR_IMPORT_LOCATIONS.diDecorators, diMetadata = ANGULAR_IMPORT_LOCATIONS.diMetadata, diOpaqueToken = ANGULAR_IMPORT_LOCATIONS.diOpaqueToken, animationMetadata = ANGULAR_IMPORT_LOCATIONS.animationMetadata, provider = ANGULAR_IMPORT_LOCATIONS.provider;
         this.opaqueToken = this.findDeclaration(diOpaqueToken, 'OpaqueToken');
-        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Host'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Injectable'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Self'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'SkipSelf'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Inject'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Optional'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Attribute'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* Attribute */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ContentChild'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_21" /* ContentChild */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ContentChildren'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_22" /* ContentChildren */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ViewChild'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_23" /* ViewChild */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ViewChildren'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_24" /* ViewChildren */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Input'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Output'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* Output */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Pipe'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'HostBinding'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_18" /* HostBinding */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'HostListener'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_19" /* HostListener */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Directive'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Component'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Component */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Host'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* Host */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Injectable'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Self'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_24" /* Self */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'SkipSelf'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* SkipSelf */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Inject'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diDecorators, 'Optional'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Attribute'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* Attribute */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ContentChild'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_27" /* ContentChild */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ContentChildren'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ContentChildren */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ViewChild'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_28" /* ViewChild */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'ViewChildren'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_29" /* ViewChildren */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Input'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Output'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* Output */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Pipe'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'HostBinding'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_3" /* HostBinding */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'HostListener'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_2" /* HostListener */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Directive'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'Component'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Component */]);
         this._registerDecoratorOrConstructor(this.findDeclaration(coreDecorators, 'NgModule'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* NgModule */]);
         // Note: Some metadata classes can be used directly with Provider.deps.
-        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'Host'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'Self'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'SkipSelf'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */]);
-        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'Optional'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'trigger'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_25" /* trigger */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'state'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_26" /* state */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'transition'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_27" /* transition */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'style'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_28" /* style */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'animate'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_29" /* animate */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'keyframes'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_30" /* keyframes */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'sequence'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_31" /* sequence */]);
-        this._registerFunction(this.findDeclaration(animationMetadata, 'group'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_32" /* group */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'Host'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* Host */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'Self'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_24" /* Self */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'SkipSelf'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* SkipSelf */]);
+        this._registerDecoratorOrConstructor(this.findDeclaration(diMetadata, 'Optional'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'trigger'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_30" /* trigger */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'state'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_31" /* state */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'transition'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_32" /* transition */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'style'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_33" /* style */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'animate'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* animate */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'keyframes'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_35" /* keyframes */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'sequence'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_36" /* sequence */]);
+        this._registerFunction(this.findDeclaration(animationMetadata, 'group'), __WEBPACK_IMPORTED_MODULE_0__angular_core__["_37" /* group */]);
     };
     /**
      * getStaticSymbol produces a Type whose metadata is known but whose implementation is not loaded.
@@ -34032,7 +29053,7 @@ function NoOpAnimationPlayer_tsickle_Closure_declarations() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_util_lang__ = __webpack_require__(181);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__di__ = __webpack_require__(24);
-/* unused harmony export APP_INITIALIZER */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return APP_INITIALIZER; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ApplicationInitStatus; });
 /**
  * @license
@@ -35916,7 +30937,7 @@ function Console_tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__facade_lang__ = __webpack_require__(3);
-/* harmony export (immutable) */ __webpack_exports__["b"] = forwardRef;
+/* unused harmony export forwardRef */
 /* harmony export (immutable) */ __webpack_exports__["a"] = resolveForwardRef;
 /**
  * @license
@@ -37515,1390 +32536,13 @@ function isObservable(obj) {
 //# sourceMappingURL=lang.js.map
 
 /***/ }),
-/* 182 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AbstractControlDirective; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-/**
- * Base class for control directives.
- *
- * Only used internally in the forms module.
- *
- * \@stable
- * @abstract
- */
-var AbstractControlDirective = (function () {
-    function AbstractControlDirective() {
-    }
-    Object.defineProperty(AbstractControlDirective.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { throw new Error('unimplemented'); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "value", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.value : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "valid", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.valid : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "invalid", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.invalid : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "pending", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.pending : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "errors", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.errors : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "pristine", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.pristine : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "dirty", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.dirty : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "touched", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.touched : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "untouched", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.untouched : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "disabled", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.disabled : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "enabled", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.enabled : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "statusChanges", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.statusChanges : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "valueChanges", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.control ? this.control.valueChanges : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlDirective.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () { return null; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?=} value
-     * @return {?}
-     */
-    AbstractControlDirective.prototype.reset = function (value) {
-        if (value === void 0) { value = undefined; }
-        if (this.control)
-            this.control.reset(value);
-    };
-    /**
-     * @param {?} errorCode
-     * @param {?=} path
-     * @return {?}
-     */
-    AbstractControlDirective.prototype.hasError = function (errorCode, path) {
-        if (path === void 0) { path = null; }
-        return this.control ? this.control.hasError(errorCode, path) : false;
-    };
-    /**
-     * @param {?} errorCode
-     * @param {?=} path
-     * @return {?}
-     */
-    AbstractControlDirective.prototype.getError = function (errorCode, path) {
-        if (path === void 0) { path = null; }
-        return this.control ? this.control.getError(errorCode, path) : null;
-    };
-    return AbstractControlDirective;
-}());
-//# sourceMappingURL=abstract_control_directive.js.map
-
-/***/ }),
-/* 183 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ng_control__ = __webpack_require__(58);
-/* unused harmony export AbstractControlStatus */
-/* unused harmony export ngControlStatusHost */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgControlStatus; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NgControlStatusGroup; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-var AbstractControlStatus = (function () {
-    /**
-     * @param {?} cd
-     */
-    function AbstractControlStatus(cd) {
-        this._cd = cd;
-    }
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassUntouched", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.untouched : false; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassTouched", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.touched : false; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassPristine", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.pristine : false; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassDirty", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.dirty : false; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassValid", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.valid : false; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassInvalid", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.invalid : false; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(AbstractControlStatus.prototype, "ngClassPending", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._cd.control ? this._cd.control.pending : false; },
-        enumerable: true,
-        configurable: true
-    });
-    return AbstractControlStatus;
-}());
-function AbstractControlStatus_tsickle_Closure_declarations() {
-    /** @type {?} */
-    AbstractControlStatus.prototype._cd;
-}
-var /** @type {?} */ ngControlStatusHost = {
-    '[class.ng-untouched]': 'ngClassUntouched',
-    '[class.ng-touched]': 'ngClassTouched',
-    '[class.ng-pristine]': 'ngClassPristine',
-    '[class.ng-dirty]': 'ngClassDirty',
-    '[class.ng-valid]': 'ngClassValid',
-    '[class.ng-invalid]': 'ngClassInvalid',
-    '[class.ng-pending]': 'ngClassPending',
-};
-/**
- * Directive automatically applied to Angular form controls that sets CSS classes
- * based on control status (valid/invalid/dirty/etc).
- *
- * \@stable
- */
-var NgControlStatus = (function (_super) {
-    __extends(NgControlStatus, _super);
-    /**
-     * @param {?} cd
-     */
-    function NgControlStatus(cd) {
-        _super.call(this, cd);
-    }
-    NgControlStatus.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[formControlName],[ngModel],[formControl]', host: ngControlStatusHost },] },
-    ];
-    /** @nocollapse */
-    NgControlStatus.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_2__ng_control__["a" /* NgControl */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] },] },
-    ]; };
-    return NgControlStatus;
-}(AbstractControlStatus));
-function NgControlStatus_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgControlStatus.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgControlStatus.ctorParameters;
-}
-/**
- * Directive automatically applied to Angular form groups that sets CSS classes
- * based on control status (valid/invalid/dirty/etc).
- *
- * \@stable
- */
-var NgControlStatusGroup = (function (_super) {
-    __extends(NgControlStatusGroup, _super);
-    /**
-     * @param {?} cd
-     */
-    function NgControlStatusGroup(cd) {
-        _super.call(this, cd);
-    }
-    NgControlStatusGroup.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: '[formGroupName],[formArrayName],[ngModelGroup],[formGroup],form:not([ngNoForm]),[ngForm]',
-                    host: ngControlStatusHost
-                },] },
-    ];
-    /** @nocollapse */
-    NgControlStatusGroup.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_1__control_container__["a" /* ControlContainer */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] },] },
-    ]; };
-    return NgControlStatusGroup;
-}(AbstractControlStatus));
-function NgControlStatusGroup_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgControlStatusGroup.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgControlStatusGroup.ctorParameters;
-}
-//# sourceMappingURL=ng_control_status.js.map
-
-/***/ }),
-/* 184 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_async__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__model__ = __webpack_require__(133);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__abstract_form_group_directive__ = __webpack_require__(87);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__control_value_accessor__ = __webpack_require__(25);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__ng_control__ = __webpack_require__(58);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__ng_form__ = __webpack_require__(88);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__ng_model_group__ = __webpack_require__(129);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__shared__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__template_driven_errors__ = __webpack_require__(279);
-/* unused harmony export formControlBinding */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgModel; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-
-
-
-
-
-
-var /** @type {?} */ formControlBinding = {
-    provide: __WEBPACK_IMPORTED_MODULE_7__ng_control__["a" /* NgControl */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return NgModel; })
-};
-/**
- * `ngModel` forces an additional change detection run when its inputs change:
- * E.g.:
- * ```
- * <div>{{myModel.valid}}</div>
- * <input [(ngModel)]="myValue" #myModel="ngModel">
- * ```
- * I.e. `ngModel` can export itself on the element and then be used in the template.
- * Normally, this would result in expressions before the `input` that use the exported directive
- * to have and old value as they have been
- * dirty checked before. As this is a very common case for `ngModel`, we added this second change
- * detection run.
- *
- * Notes:
- * - this is just one extra run no matter how many `ngModel` have been changed.
- * - this is a general problem when using `exportAs` for directives!
- */
-var /** @type {?} */ resolvedPromise = Promise.resolve(null);
-/**
- * \@whatItDoes Creates a {\@link FormControl} instance from a domain model and binds it
- * to a form control element.
- *
- * The {\@link FormControl} instance will track the value, user interaction, and
- * validation status of the control and keep the view synced with the model. If used
- * within a parent form, the directive will also register itself with the form as a child
- * control.
- *
- * \@howToUse
- *
- * This directive can be used by itself or as part of a larger form. All you need is the
- * `ngModel` selector to activate it.
- *
- * It accepts a domain model as an optional {\@link \@Input}. If you have a one-way binding
- * to `ngModel` with `[]` syntax, changing the value of the domain model in the component
- * class will set the value in the view. If you have a two-way binding with `[()]` syntax
- * (also known as 'banana-box syntax'), the value in the UI will always be synced back to
- * the domain model in your class as well.
- *
- * If you wish to inspect the properties of the associated {\@link FormControl} (like
- * validity state), you can also export the directive into a local template variable using
- * `ngModel` as the key (ex: `#myVar="ngModel"`). You can then access the control using the
- * directive's `control` property, but most properties you'll need (like `valid` and `dirty`)
- * will fall through to the control anyway, so you can access them directly. You can see a
- * full list of properties directly available in {\@link AbstractControlDirective}.
- *
- * The following is an example of a simple standalone control using `ngModel`:
- *
- * {\@example forms/ts/simpleNgModel/simple_ng_model_example.ts region='Component'}
- *
- * When using the `ngModel` within `<form>` tags, you'll also need to supply a `name` attribute
- * so that the control can be registered with the parent form under that name.
- *
- * It's worth noting that in the context of a parent form, you often can skip one-way or
- * two-way binding because the parent form will sync the value for you. You can access
- * its properties by exporting it into a local template variable using `ngForm` (ex:
- * `#f="ngForm"`). Then you can pass it where it needs to go on submit.
- *
- * If you do need to populate initial values into your form, using a one-way binding for
- * `ngModel` tends to be sufficient as long as you use the exported form's value rather
- * than the domain model's value on submit.
- *
- * Take a look at an example of using `ngModel` within a form:
- *
- * {\@example forms/ts/simpleForm/simple_form_example.ts region='Component'}
- *
- * To see `ngModel` examples with different form control types, see:
- *
- * * Radio buttons: {\@link RadioControlValueAccessor}
- * * Selects: {\@link SelectControlValueAccessor}
- *
- * **npm package**: `\@angular/forms`
- *
- * **NgModule**: `FormsModule`
- *
- *  \@stable
- */
-var NgModel = (function (_super) {
-    __extends(NgModel, _super);
-    /**
-     * @param {?} parent
-     * @param {?} validators
-     * @param {?} asyncValidators
-     * @param {?} valueAccessors
-     */
-    function NgModel(parent, validators, asyncValidators, valueAccessors) {
-        _super.call(this);
-        /** @internal */
-        this._control = new __WEBPACK_IMPORTED_MODULE_2__model__["b" /* FormControl */]();
-        /** @internal */
-        this._registered = false;
-        this.update = new __WEBPACK_IMPORTED_MODULE_1__facade_async__["a" /* EventEmitter */]();
-        this._parent = parent;
-        this._rawValidators = validators || [];
-        this._rawAsyncValidators = asyncValidators || [];
-        this.valueAccessor = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_10__shared__["d" /* selectValueAccessor */])(this, valueAccessors);
-    }
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    NgModel.prototype.ngOnChanges = function (changes) {
-        this._checkForErrors();
-        if (!this._registered)
-            this._setUpControl();
-        if ('isDisabled' in changes) {
-            this._updateDisabled(changes);
-        }
-        if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_10__shared__["e" /* isPropertyUpdated */])(changes, this.viewModel)) {
-            this._updateValue(this.model);
-            this.viewModel = this.model;
-        }
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype.ngOnDestroy = function () { this.formDirective && this.formDirective.removeControl(this); };
-    Object.defineProperty(NgModel.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._control; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgModel.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () {
-            return this._parent ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_10__shared__["c" /* controlPath */])(this.name, this._parent) : [this.name];
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgModel.prototype, "formDirective", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._parent ? this._parent.formDirective : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgModel.prototype, "validator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* composeValidators */])(this._rawValidators); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(NgModel.prototype, "asyncValidator", {
-        /**
-         * @return {?}
-         */
-        get: function () {
-            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_10__shared__["b" /* composeAsyncValidators */])(this._rawAsyncValidators);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} newValue
-     * @return {?}
-     */
-    NgModel.prototype.viewToModelUpdate = function (newValue) {
-        this.viewModel = newValue;
-        this.update.emit(newValue);
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype._setUpControl = function () {
-        this._isStandalone() ? this._setUpStandalone() :
-            this.formDirective.addControl(this);
-        this._registered = true;
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype._isStandalone = function () {
-        return !this._parent || (this.options && this.options.standalone);
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype._setUpStandalone = function () {
-        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_10__shared__["f" /* setUpControl */])(this._control, this);
-        this._control.updateValueAndValidity({ emitEvent: false });
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype._checkForErrors = function () {
-        if (!this._isStandalone()) {
-            this._checkParentType();
-        }
-        this._checkName();
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype._checkParentType = function () {
-        if (!(this._parent instanceof __WEBPACK_IMPORTED_MODULE_9__ng_model_group__["a" /* NgModelGroup */]) &&
-            this._parent instanceof __WEBPACK_IMPORTED_MODULE_4__abstract_form_group_directive__["a" /* AbstractFormGroupDirective */]) {
-            __WEBPACK_IMPORTED_MODULE_11__template_driven_errors__["a" /* TemplateDrivenErrors */].formGroupNameException();
-        }
-        else if (!(this._parent instanceof __WEBPACK_IMPORTED_MODULE_9__ng_model_group__["a" /* NgModelGroup */]) && !(this._parent instanceof __WEBPACK_IMPORTED_MODULE_8__ng_form__["a" /* NgForm */])) {
-            __WEBPACK_IMPORTED_MODULE_11__template_driven_errors__["a" /* TemplateDrivenErrors */].modelParentException();
-        }
-    };
-    /**
-     * @return {?}
-     */
-    NgModel.prototype._checkName = function () {
-        if (this.options && this.options.name)
-            this.name = this.options.name;
-        if (!this._isStandalone() && !this.name) {
-            __WEBPACK_IMPORTED_MODULE_11__template_driven_errors__["a" /* TemplateDrivenErrors */].missingNameException();
-        }
-    };
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    NgModel.prototype._updateValue = function (value) {
-        var _this = this;
-        resolvedPromise.then(function () { _this.control.setValue(value, { emitViewToModelChange: false }); });
-    };
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    NgModel.prototype._updateDisabled = function (changes) {
-        var _this = this;
-        var /** @type {?} */ disabledValue = changes['isDisabled'].currentValue;
-        var /** @type {?} */ isDisabled = disabledValue === '' || (disabledValue && disabledValue !== 'false');
-        resolvedPromise.then(function () {
-            if (isDisabled && !_this.control.disabled) {
-                _this.control.disable();
-            }
-            else if (!isDisabled && _this.control.disabled) {
-                _this.control.enable();
-            }
-        });
-    };
-    NgModel.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: '[ngModel]:not([formControlName]):not([formControl])',
-                    providers: [formControlBinding],
-                    exportAs: 'ngModel'
-                },] },
-    ];
-    /** @nocollapse */
-    NgModel.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_5__control_container__["a" /* ControlContainer */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_6__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],] },] },
-    ]; };
-    NgModel.propDecorators = {
-        'name': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-        'isDisabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['disabled',] },],
-        'model': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngModel',] },],
-        'options': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngModelOptions',] },],
-        'update': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* Output */], args: ['ngModelChange',] },],
-    };
-    return NgModel;
-}(__WEBPACK_IMPORTED_MODULE_7__ng_control__["a" /* NgControl */]));
-function NgModel_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgModel.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgModel.ctorParameters;
-    /** @type {?} */
-    NgModel.propDecorators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    NgModel.prototype._control;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    NgModel.prototype._registered;
-    /** @type {?} */
-    NgModel.prototype.viewModel;
-    /** @type {?} */
-    NgModel.prototype.name;
-    /** @type {?} */
-    NgModel.prototype.isDisabled;
-    /** @type {?} */
-    NgModel.prototype.model;
-    /** @type {?} */
-    NgModel.prototype.options;
-    /** @type {?} */
-    NgModel.prototype.update;
-}
-//# sourceMappingURL=ng_model.js.map
-
-/***/ }),
-/* 185 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__ = __webpack_require__(25);
-/* unused harmony export NUMBER_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NumberValueAccessor; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-var /** @type {?} */ NUMBER_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return NumberValueAccessor; }),
-    multi: true
-};
-/**
- * The accessor for writing a number value and listening to changes that is used by the
- * {\@link NgModel}, {\@link FormControlDirective}, and {\@link FormControlName} directives.
- *
- *  ### Example
- *  ```
- *  <input type="number" [(ngModel)]="age">
- *  ```
- */
-var NumberValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     */
-    function NumberValueAccessor(_renderer, _elementRef) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        this.onChange = function (_) { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    NumberValueAccessor.prototype.writeValue = function (value) {
-        // The value needs to be normalized for IE9, otherwise it is set to 'null' when null
-        var /** @type {?} */ normalizedValue = value == null ? '' : value;
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'value', normalizedValue);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    NumberValueAccessor.prototype.registerOnChange = function (fn) {
-        this.onChange = function (value) { fn(value == '' ? null : parseFloat(value)); };
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    NumberValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    NumberValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    NumberValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'input[type=number][formControlName],input[type=number][formControl],input[type=number][ngModel]',
-                    host: {
-                        '(change)': 'onChange($event.target.value)',
-                        '(input)': 'onChange($event.target.value)',
-                        '(blur)': 'onTouched()'
-                    },
-                    providers: [NUMBER_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    NumberValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-    ]; };
-    return NumberValueAccessor;
-}());
-function NumberValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NumberValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NumberValueAccessor.ctorParameters;
-    /** @type {?} */
-    NumberValueAccessor.prototype.onChange;
-    /** @type {?} */
-    NumberValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    NumberValueAccessor.prototype._renderer;
-    /** @type {?} */
-    NumberValueAccessor.prototype._elementRef;
-}
-//# sourceMappingURL=number_value_accessor.js.map
-
-/***/ }),
-/* 186 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__ = __webpack_require__(25);
-/* unused harmony export RANGE_VALUE_ACCESSOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RangeValueAccessor; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-var /** @type {?} */ RANGE_VALUE_ACCESSOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return RangeValueAccessor; }),
-    multi: true
-};
-/**
- * The accessor for writing a range value and listening to changes that is used by the
- * {\@link NgModel}, {\@link FormControlDirective}, and {\@link FormControlName} directives.
- *
- *  ### Example
- *  ```
- *  <input type="range" [(ngModel)]="age" >
- *  ```
- */
-var RangeValueAccessor = (function () {
-    /**
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     */
-    function RangeValueAccessor(_renderer, _elementRef) {
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        this.onChange = function (_) { };
-        this.onTouched = function () { };
-    }
-    /**
-     * @param {?} value
-     * @return {?}
-     */
-    RangeValueAccessor.prototype.writeValue = function (value) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'value', parseFloat(value));
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    RangeValueAccessor.prototype.registerOnChange = function (fn) {
-        this.onChange = function (value) { fn(value == '' ? null : parseFloat(value)); };
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    RangeValueAccessor.prototype.registerOnTouched = function (fn) { this.onTouched = fn; };
-    /**
-     * @param {?} isDisabled
-     * @return {?}
-     */
-    RangeValueAccessor.prototype.setDisabledState = function (isDisabled) {
-        this._renderer.setElementProperty(this._elementRef.nativeElement, 'disabled', isDisabled);
-    };
-    RangeValueAccessor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'input[type=range][formControlName],input[type=range][formControl],input[type=range][ngModel]',
-                    host: {
-                        '(change)': 'onChange($event.target.value)',
-                        '(input)': 'onChange($event.target.value)',
-                        '(blur)': 'onTouched()'
-                    },
-                    providers: [RANGE_VALUE_ACCESSOR]
-                },] },
-    ];
-    /** @nocollapse */
-    RangeValueAccessor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-    ]; };
-    return RangeValueAccessor;
-}());
-function RangeValueAccessor_tsickle_Closure_declarations() {
-    /** @type {?} */
-    RangeValueAccessor.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    RangeValueAccessor.ctorParameters;
-    /** @type {?} */
-    RangeValueAccessor.prototype.onChange;
-    /** @type {?} */
-    RangeValueAccessor.prototype.onTouched;
-    /** @type {?} */
-    RangeValueAccessor.prototype._renderer;
-    /** @type {?} */
-    RangeValueAccessor.prototype._elementRef;
-}
-//# sourceMappingURL=range_value_accessor.js.map
-
-/***/ }),
-/* 187 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_async__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__control_value_accessor__ = __webpack_require__(25);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ng_control__ = __webpack_require__(58);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__reactive_errors__ = __webpack_require__(130);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__shared__ = __webpack_require__(48);
-/* unused harmony export formControlBinding */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormControlDirective; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-
-var /** @type {?} */ formControlBinding = {
-    provide: __WEBPACK_IMPORTED_MODULE_4__ng_control__["a" /* NgControl */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return FormControlDirective; })
-};
-/**
- * \@whatItDoes Syncs a standalone {\@link FormControl} instance to a form control element.
- *
- * In other words, this directive ensures that any values written to the {\@link FormControl}
- * instance programmatically will be written to the DOM element (model -> view). Conversely,
- * any values written to the DOM element through user input will be reflected in the
- * {\@link FormControl} instance (view -> model).
- *
- * \@howToUse
- *
- * Use this directive if you'd like to create and manage a {\@link FormControl} instance directly.
- * Simply create a {\@link FormControl}, save it to your component class, and pass it into the
- * {\@link FormControlDirective}.
- *
- * This directive is designed to be used as a standalone control.  Unlike {\@link FormControlName},
- * it does not require that your {\@link FormControl} instance be part of any parent
- * {\@link FormGroup}, and it won't be registered to any {\@link FormGroupDirective} that
- * exists above it.
- *
- * **Get the value**: the `value` property is always synced and available on the
- * {\@link FormControl} instance. See a full list of available properties in
- * {\@link AbstractControl}.
- *
- * **Set the value**: You can pass in an initial value when instantiating the {\@link FormControl},
- * or you can set it programmatically later using {\@link AbstractControl.setValue} or
- * {\@link AbstractControl.patchValue}.
- *
- * **Listen to value**: If you want to listen to changes in the value of the control, you can
- * subscribe to the {\@link AbstractControl.valueChanges} event.  You can also listen to
- * {\@link AbstractControl.statusChanges} to be notified when the validation status is
- * re-calculated.
- *
- * ### Example
- *
- * {\@example forms/ts/simpleFormControl/simple_form_control_example.ts region='Component'}
- *
- * * **npm package**: `\@angular/forms`
- *
- * * **NgModule**: `ReactiveFormsModule`
- *
- *  \@stable
- */
-var FormControlDirective = (function (_super) {
-    __extends(FormControlDirective, _super);
-    /**
-     * @param {?} validators
-     * @param {?} asyncValidators
-     * @param {?} valueAccessors
-     */
-    function FormControlDirective(validators, asyncValidators, valueAccessors) {
-        _super.call(this);
-        this.update = new __WEBPACK_IMPORTED_MODULE_1__facade_async__["a" /* EventEmitter */]();
-        this._rawValidators = validators || [];
-        this._rawAsyncValidators = asyncValidators || [];
-        this.valueAccessor = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["d" /* selectValueAccessor */])(this, valueAccessors);
-    }
-    Object.defineProperty(FormControlDirective.prototype, "isDisabled", {
-        /**
-         * @param {?} isDisabled
-         * @return {?}
-         */
-        set: function (isDisabled) { __WEBPACK_IMPORTED_MODULE_5__reactive_errors__["a" /* ReactiveErrors */].disabledAttrWarning(); },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    FormControlDirective.prototype.ngOnChanges = function (changes) {
-        if (this._isControlChanged(changes)) {
-            __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["f" /* setUpControl */])(this.form, this);
-            if (this.control.disabled && this.valueAccessor.setDisabledState) {
-                this.valueAccessor.setDisabledState(true);
-            }
-            this.form.updateValueAndValidity({ emitEvent: false });
-        }
-        if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["e" /* isPropertyUpdated */])(changes, this.viewModel)) {
-            this.form.setValue(this.model);
-            this.viewModel = this.model;
-        }
-    };
-    Object.defineProperty(FormControlDirective.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () { return []; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlDirective.prototype, "validator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["a" /* composeValidators */])(this._rawValidators); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlDirective.prototype, "asyncValidator", {
-        /**
-         * @return {?}
-         */
-        get: function () {
-            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__shared__["b" /* composeAsyncValidators */])(this._rawAsyncValidators);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlDirective.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this.form; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} newValue
-     * @return {?}
-     */
-    FormControlDirective.prototype.viewToModelUpdate = function (newValue) {
-        this.viewModel = newValue;
-        this.update.emit(newValue);
-    };
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    FormControlDirective.prototype._isControlChanged = function (changes) {
-        return changes.hasOwnProperty('form');
-    };
-    FormControlDirective.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[formControl]', providers: [formControlBinding], exportAs: 'ngForm' },] },
-    ];
-    /** @nocollapse */
-    FormControlDirective.ctorParameters = function () { return [
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_2__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_2__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],] },] },
-    ]; };
-    FormControlDirective.propDecorators = {
-        'form': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['formControl',] },],
-        'model': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngModel',] },],
-        'update': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* Output */], args: ['ngModelChange',] },],
-        'isDisabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['disabled',] },],
-    };
-    return FormControlDirective;
-}(__WEBPACK_IMPORTED_MODULE_4__ng_control__["a" /* NgControl */]));
-function FormControlDirective_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormControlDirective.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormControlDirective.ctorParameters;
-    /** @type {?} */
-    FormControlDirective.propDecorators;
-    /** @type {?} */
-    FormControlDirective.prototype.viewModel;
-    /** @type {?} */
-    FormControlDirective.prototype.form;
-    /** @type {?} */
-    FormControlDirective.prototype.model;
-    /** @type {?} */
-    FormControlDirective.prototype.update;
-}
-//# sourceMappingURL=form_control_directive.js.map
-
-/***/ }),
-/* 188 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_async__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__validators__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__abstract_form_group_directive__ = __webpack_require__(87);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__control_container__ = __webpack_require__(36);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__control_value_accessor__ = __webpack_require__(25);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__ng_control__ = __webpack_require__(58);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__reactive_errors__ = __webpack_require__(130);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__shared__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__form_group_directive__ = __webpack_require__(90);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__form_group_name__ = __webpack_require__(91);
-/* unused harmony export controlNameBinding */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormControlName; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-
-
-
-
-
-
-
-
-
-var /** @type {?} */ controlNameBinding = {
-    provide: __WEBPACK_IMPORTED_MODULE_6__ng_control__["a" /* NgControl */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return FormControlName; })
-};
-/**
- * \@whatItDoes Syncs a {\@link FormControl} in an existing {\@link FormGroup} to a form control
- * element by name.
- *
- * In other words, this directive ensures that any values written to the {\@link FormControl}
- * instance programmatically will be written to the DOM element (model -> view). Conversely,
- * any values written to the DOM element through user input will be reflected in the
- * {\@link FormControl} instance (view -> model).
- *
- * \@howToUse
- *
- * This directive is designed to be used with a parent {\@link FormGroupDirective} (selector:
- * `[formGroup]`).
- *
- * It accepts the string name of the {\@link FormControl} instance you want to
- * link, and will look for a {\@link FormControl} registered with that name in the
- * closest {\@link FormGroup} or {\@link FormArray} above it.
- *
- * **Access the control**: You can access the {\@link FormControl} associated with
- * this directive by using the {\@link AbstractControl.get} method.
- * Ex: `this.form.get('first');`
- *
- * **Get value**: the `value` property is always synced and available on the {\@link FormControl}.
- * See a full list of available properties in {\@link AbstractControl}.
- *
- *  **Set value**: You can set an initial value for the control when instantiating the
- *  {\@link FormControl}, or you can set it programmatically later using
- *  {\@link AbstractControl.setValue} or {\@link AbstractControl.patchValue}.
- *
- * **Listen to value**: If you want to listen to changes in the value of the control, you can
- * subscribe to the {\@link AbstractControl.valueChanges} event.  You can also listen to
- * {\@link AbstractControl.statusChanges} to be notified when the validation status is
- * re-calculated.
- *
- * ### Example
- *
- * In this example, we create form controls for first name and last name.
- *
- * {\@example forms/ts/simpleFormGroup/simple_form_group_example.ts region='Component'}
- *
- * To see `formControlName` examples with different form control types, see:
- *
- * * Radio buttons: {\@link RadioControlValueAccessor}
- * * Selects: {\@link SelectControlValueAccessor}
- *
- * **npm package**: `\@angular/forms`
- *
- * **NgModule**: {\@link ReactiveFormsModule}
- *
- *  \@stable
- */
-var FormControlName = (function (_super) {
-    __extends(FormControlName, _super);
-    /**
-     * @param {?} parent
-     * @param {?} validators
-     * @param {?} asyncValidators
-     * @param {?} valueAccessors
-     */
-    function FormControlName(parent, validators, asyncValidators, valueAccessors) {
-        _super.call(this);
-        this._added = false;
-        this.update = new __WEBPACK_IMPORTED_MODULE_1__facade_async__["a" /* EventEmitter */]();
-        this._parent = parent;
-        this._rawValidators = validators || [];
-        this._rawAsyncValidators = asyncValidators || [];
-        this.valueAccessor = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_8__shared__["d" /* selectValueAccessor */])(this, valueAccessors);
-    }
-    Object.defineProperty(FormControlName.prototype, "isDisabled", {
-        /**
-         * @param {?} isDisabled
-         * @return {?}
-         */
-        set: function (isDisabled) { __WEBPACK_IMPORTED_MODULE_7__reactive_errors__["a" /* ReactiveErrors */].disabledAttrWarning(); },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    FormControlName.prototype.ngOnChanges = function (changes) {
-        if (!this._added)
-            this._setUpControl();
-        if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_8__shared__["e" /* isPropertyUpdated */])(changes, this.viewModel)) {
-            this.viewModel = this.model;
-            this.formDirective.updateModel(this, this.model);
-        }
-    };
-    /**
-     * @return {?}
-     */
-    FormControlName.prototype.ngOnDestroy = function () {
-        if (this.formDirective) {
-            this.formDirective.removeControl(this);
-        }
-    };
-    /**
-     * @param {?} newValue
-     * @return {?}
-     */
-    FormControlName.prototype.viewToModelUpdate = function (newValue) {
-        this.viewModel = newValue;
-        this.update.emit(newValue);
-    };
-    Object.defineProperty(FormControlName.prototype, "path", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_8__shared__["c" /* controlPath */])(this.name, this._parent); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlName.prototype, "formDirective", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._parent ? this._parent.formDirective : null; },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlName.prototype, "validator", {
-        /**
-         * @return {?}
-         */
-        get: function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_8__shared__["a" /* composeValidators */])(this._rawValidators); },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlName.prototype, "asyncValidator", {
-        /**
-         * @return {?}
-         */
-        get: function () {
-            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_8__shared__["b" /* composeAsyncValidators */])(this._rawAsyncValidators);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(FormControlName.prototype, "control", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._control; },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @return {?}
-     */
-    FormControlName.prototype._checkParentType = function () {
-        if (!(this._parent instanceof __WEBPACK_IMPORTED_MODULE_10__form_group_name__["a" /* FormGroupName */]) &&
-            this._parent instanceof __WEBPACK_IMPORTED_MODULE_3__abstract_form_group_directive__["a" /* AbstractFormGroupDirective */]) {
-            __WEBPACK_IMPORTED_MODULE_7__reactive_errors__["a" /* ReactiveErrors */].ngModelGroupException();
-        }
-        else if (!(this._parent instanceof __WEBPACK_IMPORTED_MODULE_10__form_group_name__["a" /* FormGroupName */]) && !(this._parent instanceof __WEBPACK_IMPORTED_MODULE_9__form_group_directive__["a" /* FormGroupDirective */]) &&
-            !(this._parent instanceof __WEBPACK_IMPORTED_MODULE_10__form_group_name__["b" /* FormArrayName */])) {
-            __WEBPACK_IMPORTED_MODULE_7__reactive_errors__["a" /* ReactiveErrors */].controlParentException();
-        }
-    };
-    /**
-     * @return {?}
-     */
-    FormControlName.prototype._setUpControl = function () {
-        this._checkParentType();
-        this._control = this.formDirective.addControl(this);
-        if (this.control.disabled && this.valueAccessor.setDisabledState) {
-            this.valueAccessor.setDisabledState(true);
-        }
-        this._added = true;
-    };
-    FormControlName.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[formControlName]', providers: [controlNameBinding] },] },
-    ];
-    /** @nocollapse */
-    FormControlName.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_4__control_container__["a" /* ControlContainer */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* SkipSelf */] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_2__validators__["b" /* NG_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_2__validators__["c" /* NG_ASYNC_VALIDATORS */],] },] },
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Self */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_5__control_value_accessor__["a" /* NG_VALUE_ACCESSOR */],] },] },
-    ]; };
-    FormControlName.propDecorators = {
-        'name': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['formControlName',] },],
-        'model': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['ngModel',] },],
-        'update': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* Output */], args: ['ngModelChange',] },],
-        'isDisabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['disabled',] },],
-    };
-    return FormControlName;
-}(__WEBPACK_IMPORTED_MODULE_6__ng_control__["a" /* NgControl */]));
-function FormControlName_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormControlName.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormControlName.ctorParameters;
-    /** @type {?} */
-    FormControlName.propDecorators;
-    /** @type {?} */
-    FormControlName.prototype._added;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    FormControlName.prototype.viewModel;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    FormControlName.prototype._control;
-    /** @type {?} */
-    FormControlName.prototype.name;
-    /** @type {?} */
-    FormControlName.prototype.model;
-    /** @type {?} */
-    FormControlName.prototype.update;
-}
-//# sourceMappingURL=form_control_name.js.map
-
-/***/ }),
+/* 182 */,
+/* 183 */,
+/* 184 */,
+/* 185 */,
+/* 186 */,
+/* 187 */,
+/* 188 */,
 /* 189 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -38928,7 +32572,7 @@ var BrowserXhr = (function () {
      */
     BrowserXhr.prototype.build = function () { return ((new XMLHttpRequest())); };
     BrowserXhr.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     BrowserXhr.ctorParameters = function () { return []; };
@@ -39147,7 +32791,7 @@ var BaseRequestOptions = (function (_super) {
         _super.call(this, { method: __WEBPACK_IMPORTED_MODULE_1__enums__["a" /* RequestMethod */].Get, headers: new __WEBPACK_IMPORTED_MODULE_2__headers__["a" /* Headers */]() });
     }
     BaseRequestOptions.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     BaseRequestOptions.ctorParameters = function () { return []; };
@@ -39292,7 +32936,7 @@ function Response_tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_platform_browser__ = __webpack_require__(447);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_platform_browser__["a"]; });
+/* unused harmony reexport BrowserModule */
 /* unused harmony reexport platformBrowser */
 /* unused harmony reexport Title */
 /* unused harmony reexport disableDebugTools */
@@ -39307,7 +32951,7 @@ function Response_tsickle_Closure_declarations() {
 /* unused harmony reexport HammerGestureConfig */
 /* unused harmony reexport DomSanitizer */
 /* unused harmony reexport VERSION */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_platform_browser__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_platform_browser__["a"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -39416,8 +33060,8 @@ function AnimationDriver_tsickle_Closure_declarations() {
 
 
 var /** @type {?} */ CORE_TOKENS = {
-    'ApplicationRef': __WEBPACK_IMPORTED_MODULE_0__angular_core__["K" /* ApplicationRef */],
-    'NgZone': __WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgZone */],
+    'ApplicationRef': __WEBPACK_IMPORTED_MODULE_0__angular_core__["L" /* ApplicationRef */],
+    'NgZone': __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* NgZone */],
 };
 var /** @type {?} */ INSPECT_GLOBAL_NAME = 'ng.probe';
 var /** @type {?} */ CORE_TOKENS_GLOBAL_NAME = 'ng.coreTokens';
@@ -39429,7 +33073,7 @@ var /** @type {?} */ CORE_TOKENS_GLOBAL_NAME = 'ng.coreTokens';
  * @return {?}
  */
 function inspectNativeElement(element) {
-    return __WEBPACK_IMPORTED_MODULE_0__angular_core__["L" /* getDebugNode */](element);
+    return __WEBPACK_IMPORTED_MODULE_0__angular_core__["M" /* getDebugNode */](element);
 }
 /**
  * Deprecated. Use the one from '\@angular/core'.
@@ -39459,7 +33103,7 @@ function NgProbeToken_tsickle_Closure_declarations() {
  * @return {?}
  */
 function _createConditionalRootRenderer(rootRenderer, extraTokens, coreTokens) {
-    return __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */]() ?
+    return __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */]() ?
         _createRootRenderer(rootRenderer, (extraTokens || []).concat(coreTokens || [])) :
         rootRenderer;
 }
@@ -39484,11 +33128,11 @@ function _ngProbeTokensToMap(tokens) {
  * Providers which support debugging Angular applications (e.g. via `ng.probe`).
  */
 var /** @type {?} */ ELEMENT_PROBE_PROVIDERS = [{
-        provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["k" /* RootRenderer */],
+        provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* RootRenderer */],
         useFactory: _createConditionalRootRenderer,
         deps: [
-            __WEBPACK_IMPORTED_MODULE_4__dom_renderer__["b" /* DomRootRenderer */], [NgProbeToken, new __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */]()],
-            [__WEBPACK_IMPORTED_MODULE_0__angular_core__["M" /* NgProbeToken */], new __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */]()]
+            __WEBPACK_IMPORTED_MODULE_4__dom_renderer__["b" /* DomRootRenderer */], [NgProbeToken, new __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */]()],
+            [__WEBPACK_IMPORTED_MODULE_0__angular_core__["N" /* NgProbeToken */], new __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */]()]
         ]
     }];
 //# sourceMappingURL=ng_probe.js.map
@@ -39604,15 +33248,15 @@ var DomRootRenderer_ = (function (_super) {
         _super.call(this, _document, _eventManager, sharedStylesHost, animationDriver, appId);
     }
     DomRootRenderer_.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     DomRootRenderer_.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_4__dom_tokens__["a" /* DOCUMENT */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_4__dom_tokens__["a" /* DOCUMENT */],] },] },
         { type: __WEBPACK_IMPORTED_MODULE_5__events_event_manager__["b" /* EventManager */], },
         { type: __WEBPACK_IMPORTED_MODULE_6__shared_styles_host__["a" /* DomSharedStylesHost */], },
         { type: __WEBPACK_IMPORTED_MODULE_3__animation_driver__["a" /* AnimationDriver */], },
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["N" /* APP_ID */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* APP_ID */],] },] },
     ]; };
     return DomRootRenderer_;
 }(DomRootRenderer));
@@ -39671,10 +33315,10 @@ var DomRenderer = (function () {
         this._animationDriver = _animationDriver;
         this.directRenderer = DIRECT_DOM_RENDERER;
         this._styles = flattenStyles(styleShimId, componentProto.styles, []);
-        if (componentProto.encapsulation !== __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Native) {
+        if (componentProto.encapsulation !== __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Native) {
             this._rootRenderer.sharedStylesHost.addStyles(this._styles);
         }
-        if (this.componentProto.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated) {
+        if (this.componentProto.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated) {
             this._contentAttr = shimContentAttribute(styleShimId);
             this._hostAttr = shimHostAttribute(styleShimId);
         }
@@ -39733,7 +33377,7 @@ var DomRenderer = (function () {
      */
     DomRenderer.prototype.createViewRoot = function (hostElement) {
         var /** @type {?} */ nodesParent;
-        if (this.componentProto.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Native) {
+        if (this.componentProto.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Native) {
             nodesParent = ((hostElement)).createShadowRoot();
             for (var /** @type {?} */ i = 0; i < this._styles.length; i++) {
                 var /** @type {?} */ styleEl = document.createElement('style');
@@ -39808,7 +33452,7 @@ var DomRenderer = (function () {
      * @return {?}
      */
     DomRenderer.prototype.destroyView = function (hostElement, viewAllNodes) {
-        if (this.componentProto.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Native && hostElement) {
+        if (this.componentProto.encapsulation === __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Native && hostElement) {
             this._rootRenderer.sharedStylesHost.removeHost(((hostElement)).shadowRoot);
         }
     };
@@ -40136,7 +33780,7 @@ var /** @type {?} */ EVENT_NAMES = {
  *
  * @experimental
  */
-var /** @type {?} */ HAMMER_GESTURE_CONFIG = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('HammerGestureConfig');
+var /** @type {?} */ HAMMER_GESTURE_CONFIG = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('HammerGestureConfig');
 /**
  * \@experimental
  */
@@ -40159,7 +33803,7 @@ var HammerGestureConfig = (function () {
         return mc;
     };
     HammerGestureConfig.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     HammerGestureConfig.ctorParameters = function () { return []; };
@@ -40226,11 +33870,11 @@ var HammerGesturesPlugin = (function (_super) {
      */
     HammerGesturesPlugin.prototype.isCustomEvent = function (eventName) { return this._config.events.indexOf(eventName) > -1; };
     HammerGesturesPlugin.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     HammerGesturesPlugin.ctorParameters = function () { return [
-        { type: HammerGestureConfig, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [HAMMER_GESTURE_CONFIG,] },] },
+        { type: HammerGestureConfig, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [HAMMER_GESTURE_CONFIG,] },] },
     ]; };
     return HammerGesturesPlugin;
 }(__WEBPACK_IMPORTED_MODULE_1__event_manager__["c" /* EventManagerPlugin */]));
@@ -40302,7 +33946,7 @@ var SharedStylesHost = (function () {
      */
     SharedStylesHost.prototype.getAllStyles = function () { return Array.from(this._stylesSet); };
     SharedStylesHost.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     SharedStylesHost.ctorParameters = function () { return []; };
@@ -40373,11 +34017,11 @@ var DomSharedStylesHost = (function (_super) {
      */
     DomSharedStylesHost.prototype.ngOnDestroy = function () { this._styleNodes.forEach(function (styleNode) { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__dom_adapter__["b" /* getDOM */])().remove(styleNode); }); };
     DomSharedStylesHost.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     DomSharedStylesHost.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_2__dom_tokens__["a" /* DOCUMENT */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_2__dom_tokens__["a" /* DOCUMENT */],] },] },
     ]; };
     return DomSharedStylesHost;
 }(SharedStylesHost));
@@ -40426,20 +34070,20 @@ function DomSharedStylesHost_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 
-var /** @type {?} */ RenderDebugInfo = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].RenderDebugInfo;
-var /** @type {?} */ ReflectionCapabilities = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].ReflectionCapabilities;
-var /** @type {?} */ DebugDomRootRenderer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].DebugDomRootRenderer;
-var /** @type {?} */ reflector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].reflector;
-var /** @type {?} */ NoOpAnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].NoOpAnimationPlayer;
-var /** @type {?} */ AnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationPlayer;
-var /** @type {?} */ AnimationSequencePlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationSequencePlayer;
-var /** @type {?} */ AnimationGroupPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationGroupPlayer;
-var /** @type {?} */ AnimationKeyframe = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationKeyframe;
-var /** @type {?} */ AnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].AnimationStyles;
-var /** @type {?} */ prepareFinalAnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].prepareFinalAnimationStyles;
-var /** @type {?} */ balanceAnimationKeyframes = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].balanceAnimationKeyframes;
-var /** @type {?} */ clearStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].clearStyles;
-var /** @type {?} */ collectAndResolveStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].collectAndResolveStyles;
+var /** @type {?} */ RenderDebugInfo = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].RenderDebugInfo;
+var /** @type {?} */ ReflectionCapabilities = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].ReflectionCapabilities;
+var /** @type {?} */ DebugDomRootRenderer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].DebugDomRootRenderer;
+var /** @type {?} */ reflector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].reflector;
+var /** @type {?} */ NoOpAnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].NoOpAnimationPlayer;
+var /** @type {?} */ AnimationPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationPlayer;
+var /** @type {?} */ AnimationSequencePlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationSequencePlayer;
+var /** @type {?} */ AnimationGroupPlayer = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationGroupPlayer;
+var /** @type {?} */ AnimationKeyframe = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationKeyframe;
+var /** @type {?} */ AnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].AnimationStyles;
+var /** @type {?} */ prepareFinalAnimationStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].prepareFinalAnimationStyles;
+var /** @type {?} */ balanceAnimationKeyframes = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].balanceAnimationKeyframes;
+var /** @type {?} */ clearStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].clearStyles;
+var /** @type {?} */ collectAndResolveStyles = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].collectAndResolveStyles;
 //# sourceMappingURL=private_import_core.js.map
 
 /***/ }),
@@ -40499,7 +34143,7 @@ function sanitizeUrl(url) {
     url = String(url);
     if (url.match(SAFE_URL_PATTERN) || url.match(DATA_URL_PATTERN))
         return url;
-    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])()) {
+    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])()) {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__dom_dom_adapter__["b" /* getDOM */])().log("WARNING: sanitizing unsafe URL value " + url + " (see http://g.co/ng/security#xss)");
     }
     return 'unsafe:' + url;
@@ -40754,7 +34398,7 @@ exports.$$rxSubscriber = exports.rxSubscriber;
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_common__ = __webpack_require__(348);
 /* unused harmony reexport NgLocalization */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["a"]; });
 /* unused harmony reexport NgClass */
 /* unused harmony reexport NgFor */
 /* unused harmony reexport NgIf */
@@ -40778,13 +34422,13 @@ exports.$$rxSubscriber = exports.rxSubscriber;
 /* unused harmony reexport UpperCasePipe */
 /* unused harmony reexport VERSION */
 /* unused harmony reexport Version */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["b"]; });
-/* unused harmony reexport LOCATION_INITIALIZED */
-/* unused harmony reexport LocationStrategy */
-/* unused harmony reexport APP_BASE_HREF */
-/* unused harmony reexport HashLocationStrategy */
-/* unused harmony reexport PathLocationStrategy */
-/* unused harmony reexport Location */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__src_common__["h"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -41028,12 +34672,12 @@ var NgSwitch = (function () {
         }
     };
     NgSwitch.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngSwitch]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngSwitch]' },] },
     ];
     /** @nocollapse */
     NgSwitch.ctorParameters = function () { return []; };
     NgSwitch.propDecorators = {
-        'ngSwitch': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngSwitch': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgSwitch;
 }());
@@ -41100,16 +34744,16 @@ var NgSwitchCase = (function () {
      */
     NgSwitchCase.prototype.ngDoCheck = function () { this._view.enforceState(this.ngSwitch._matchCase(this.ngSwitchCase)); };
     NgSwitchCase.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngSwitchCase]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngSwitchCase]' },] },
     ];
     /** @nocollapse */
     NgSwitchCase.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* TemplateRef */], },
-        { type: NgSwitch, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* TemplateRef */], },
+        { type: NgSwitch, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* Host */] },] },
     ]; };
     NgSwitchCase.propDecorators = {
-        'ngSwitchCase': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngSwitchCase': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgSwitchCase;
 }());
@@ -41163,13 +34807,13 @@ var NgSwitchDefault = (function () {
         ngSwitch._addDefault(new SwitchView(viewContainer, templateRef));
     }
     NgSwitchDefault.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngSwitchDefault]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngSwitchDefault]' },] },
     ];
     /** @nocollapse */
     NgSwitchDefault.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* TemplateRef */], },
-        { type: NgSwitch, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* TemplateRef */], },
+        { type: NgSwitch, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* Host */] },] },
     ]; };
     return NgSwitchDefault;
 }());
@@ -42519,7 +36163,7 @@ function Deserializer_tsickle_Closure_declarations() {
  * @return {?}
  */
 function assertArrayOfStrings(identifier, value) {
-    if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])() || __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__src_facade_lang__["d" /* isBlank */])(value)) {
+    if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])() || __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__src_facade_lang__["d" /* isBlank */])(value)) {
         return;
     }
     if (!Array.isArray(value)) {
@@ -42547,7 +36191,7 @@ function assertInterpolationSymbols(identifier, value) {
     if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__src_facade_lang__["c" /* isPresent */])(value) && !(Array.isArray(value) && value.length == 2)) {
         throw new Error("Expected '" + identifier + "' to be an array, [start, end].");
     }
-    else if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])() && !__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__src_facade_lang__["d" /* isBlank */])(value)) {
+    else if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])() && !__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__src_facade_lang__["d" /* isBlank */])(value)) {
         var /** @type {?} */ start_1 = (value[0]);
         var /** @type {?} */ end_1 = (value[1]);
         // black list checking
@@ -42711,7 +36355,7 @@ function writeToRenderer(view, boundProp, renderElement, renderValue, logBinding
  * @return {?}
  */
 function sanitizedValue(view, boundProp, renderValue, securityContextExpression) {
-    if (boundProp.securityContext === __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].NONE) {
+    if (boundProp.securityContext === __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].NONE) {
         return renderValue; // No sanitization needed.
     }
     if (!boundProp.needsRuntimeSecurityContext) {
@@ -44962,7 +38606,7 @@ var JitCompiler = (function () {
         var /** @type {?} */ createResult = function () {
             var /** @type {?} */ componentFactories = [];
             _this._compileComponents(moduleType, componentFactories);
-            return new __WEBPACK_IMPORTED_MODULE_0__angular_core__["_37" /* ModuleWithComponentFactories */](_this._compileModule(moduleType), componentFactories);
+            return new __WEBPACK_IMPORTED_MODULE_0__angular_core__["_40" /* ModuleWithComponentFactories */](_this._compileModule(moduleType), componentFactories);
         };
         if (isSync) {
             return new __WEBPACK_IMPORTED_MODULE_15__util__["h" /* SyncAsyncResult */](createResult());
@@ -44999,7 +38643,7 @@ var JitCompiler = (function () {
         if (!ngModuleFactory) {
             var /** @type {?} */ moduleMeta_1 = this._metadataResolver.getNgModuleMetadata(moduleType);
             // Always provide a bound Compiler
-            var /** @type {?} */ extraProviders = [this._metadataResolver.getProviderMetadata(new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["u" /* ProviderMeta */](__WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* Compiler */], { useFactory: function () { return new ModuleBoundCompiler(_this, moduleMeta_1.type.reference); } }))];
+            var /** @type {?} */ extraProviders = [this._metadataResolver.getProviderMetadata(new __WEBPACK_IMPORTED_MODULE_3__compile_metadata__["u" /* ProviderMeta */](__WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Compiler */], { useFactory: function () { return new ModuleBoundCompiler(_this, moduleMeta_1.type.reference); } }))];
             var /** @type {?} */ compileResult = this._ngModuleCompiler.compile(moduleMeta_1, extraProviders);
             compileResult.dependencies.forEach(function (dep) {
                 dep.placeholder.reference =
@@ -45237,7 +38881,7 @@ var JitCompiler = (function () {
     };
     JitCompiler = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__injectable__["a" /* CompilerInjectable */])(), 
-        __metadata('design:paramtypes', [__WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Injector */], __WEBPACK_IMPORTED_MODULE_8__metadata_resolver__["a" /* CompileMetadataResolver */], __WEBPACK_IMPORTED_MODULE_14__template_parser_template_parser__["a" /* TemplateParser */], __WEBPACK_IMPORTED_MODULE_13__style_compiler__["a" /* StyleCompiler */], __WEBPACK_IMPORTED_MODULE_16__view_compiler_view_compiler__["d" /* ViewCompiler */], __WEBPACK_IMPORTED_MODULE_9__ng_module_compiler__["a" /* NgModuleCompiler */], __WEBPACK_IMPORTED_MODULE_5__directive_wrapper_compiler__["a" /* DirectiveWrapperCompiler */], __WEBPACK_IMPORTED_MODULE_4__config__["a" /* CompilerConfig */], __WEBPACK_IMPORTED_MODULE_2__animation_animation_parser__["a" /* AnimationParser */]])
+        __metadata('design:paramtypes', [__WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Injector */], __WEBPACK_IMPORTED_MODULE_8__metadata_resolver__["a" /* CompileMetadataResolver */], __WEBPACK_IMPORTED_MODULE_14__template_parser_template_parser__["a" /* TemplateParser */], __WEBPACK_IMPORTED_MODULE_13__style_compiler__["a" /* StyleCompiler */], __WEBPACK_IMPORTED_MODULE_16__view_compiler_view_compiler__["d" /* ViewCompiler */], __WEBPACK_IMPORTED_MODULE_9__ng_module_compiler__["a" /* NgModuleCompiler */], __WEBPACK_IMPORTED_MODULE_5__directive_wrapper_compiler__["a" /* DirectiveWrapperCompiler */], __WEBPACK_IMPORTED_MODULE_4__config__["a" /* CompilerConfig */], __WEBPACK_IMPORTED_MODULE_2__animation_animation_parser__["a" /* AnimationParser */]])
     ], JitCompiler);
     return JitCompiler;
 }());
@@ -45296,7 +38940,7 @@ var CompiledTemplate = (function () {
             return self._viewClass.apply(this, arguments);
         };
         this.proxyComponentFactory = isHost ?
-            new __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ComponentFactory */](selector, this.proxyViewClass, compType.reference) :
+            new __WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ComponentFactory */](selector, this.proxyViewClass, compType.reference) :
             null;
     }
     /**
@@ -46570,7 +40214,7 @@ var BindingParser = (function () {
      */
     BindingParser.prototype.createElementPropertyAst = function (elementSelector, boundProp) {
         if (boundProp.isAnimation) {
-            return new __WEBPACK_IMPORTED_MODULE_6__template_ast__["e" /* BoundElementPropertyAst */](boundProp.name, __WEBPACK_IMPORTED_MODULE_6__template_ast__["f" /* PropertyBindingType */].Animation, __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].NONE, false, boundProp.expression, null, boundProp.sourceSpan);
+            return new __WEBPACK_IMPORTED_MODULE_6__template_ast__["e" /* BoundElementPropertyAst */](boundProp.name, __WEBPACK_IMPORTED_MODULE_6__template_ast__["f" /* PropertyBindingType */].Animation, __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].NONE, false, boundProp.expression, null, boundProp.sourceSpan);
         }
         var /** @type {?} */ unit = null;
         var /** @type {?} */ bindingType;
@@ -46594,13 +40238,13 @@ var BindingParser = (function () {
             else if (parts[0] == CLASS_PREFIX) {
                 boundPropertyName = parts[1];
                 bindingType = __WEBPACK_IMPORTED_MODULE_6__template_ast__["f" /* PropertyBindingType */].Class;
-                securityContexts = [__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].NONE];
+                securityContexts = [__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].NONE];
             }
             else if (parts[0] == STYLE_PREFIX) {
                 unit = parts.length > 2 ? parts[2] : null;
                 boundPropertyName = parts[1];
                 bindingType = __WEBPACK_IMPORTED_MODULE_6__template_ast__["f" /* PropertyBindingType */].Style;
-                securityContexts = [__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].STYLE];
+                securityContexts = [__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].STYLE];
             }
         }
         // If not a special case, use the full property name
@@ -46808,7 +40452,7 @@ function calcPossibleSecurityContexts(registry, selector, propName, isAttribute)
         var /** @type {?} */ possibleElementNames = elementNames.filter(function (elementName) { return !notElementNames.has(elementName); });
         ctxs.push.apply(ctxs, possibleElementNames.map(function (elementName) { return registry.securityContext(elementName, propName, isAttribute); }));
     });
-    return ctxs.length === 0 ? [__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].NONE] : Array.from(new Set(ctxs)).sort();
+    return ctxs.length === 0 ? [__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].NONE] : Array.from(new Set(ctxs)).sort();
 }
 //# sourceMappingURL=binding_parser.js.map
 
@@ -51598,7 +45242,7 @@ function NgModuleInjector_tsickle_Closure_declarations() {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* unused harmony export NgModuleFactoryLoader */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NgModuleFactoryLoader; });
 /* harmony export (immutable) */ __webpack_exports__["a"] = registerModuleFactory;
 /* unused harmony export clearModulesForTest */
 /* unused harmony export getModuleFactory */
@@ -52325,21 +45969,21 @@ function ViewRef__tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__metadata_di__ = __webpack_require__(415);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "o", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["a"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "p", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "o", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["d"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "q", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["f"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "r", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata_di__["g"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__metadata_directives__ = __webpack_require__(416);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "m", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["a"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_1__metadata_directives__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__metadata_lifecycle_hooks__ = __webpack_require__(272);
 /* unused harmony reexport AfterContentChecked */
 /* unused harmony reexport AfterContentInit */
@@ -52350,11 +45994,11 @@ function ViewRef__tsickle_Closure_declarations() {
 /* unused harmony reexport OnDestroy */
 /* unused harmony reexport OnInit */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__ = __webpack_require__(417);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "m", function() { return __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_3__metadata_ng_module__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__metadata_view__ = __webpack_require__(273);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_4__metadata_view__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_4__metadata_view__["b"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -53195,8 +46839,8 @@ var Sanitizer = (function () {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Version; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return VERSION; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return Version; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return VERSION; });
 /**
  * \@whatItDoes Represents the version of Angular
  *
@@ -53246,811 +46890,12 @@ var /** @type {?} */ VERSION = new Version('2.4.10');
 //# sourceMappingURL=version.js.map
 
 /***/ }),
-/* 278 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormErrorExamples; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-var /** @type {?} */ FormErrorExamples = {
-    formControlName: "\n    <div [formGroup]=\"myGroup\">\n      <input formControlName=\"firstName\">\n    </div>\n\n    In your class:\n\n    this.myGroup = new FormGroup({\n       firstName: new FormControl()\n    });",
-    formGroupName: "\n    <div [formGroup]=\"myGroup\">\n       <div formGroupName=\"person\">\n          <input formControlName=\"firstName\">\n       </div>\n    </div>\n\n    In your class:\n\n    this.myGroup = new FormGroup({\n       person: new FormGroup({ firstName: new FormControl() })\n    });",
-    formArrayName: "\n    <div [formGroup]=\"myGroup\">\n      <div formArrayName=\"cities\">\n        <div *ngFor=\"let city of cityArray.controls; let i=index\">\n          <input [formControlName]=\"i\">\n        </div>\n      </div>\n    </div>\n\n    In your class:\n\n    this.cityArray = new FormArray([new FormControl('SF')]);\n    this.myGroup = new FormGroup({\n      cities: this.cityArray\n    });",
-    ngModelGroup: "\n    <form>\n       <div ngModelGroup=\"person\">\n          <input [(ngModel)]=\"person.name\" name=\"firstName\">\n       </div>\n    </form>",
-    ngModelWithFormGroup: "\n    <div [formGroup]=\"myGroup\">\n       <input formControlName=\"firstName\">\n       <input [(ngModel)]=\"showMoreControls\" [ngModelOptions]=\"{standalone: true}\">\n    </div>\n  "
-};
-//# sourceMappingURL=error_examples.js.map
-
-/***/ }),
-/* 279 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__error_examples__ = __webpack_require__(278);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TemplateDrivenErrors; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-var TemplateDrivenErrors = (function () {
-    function TemplateDrivenErrors() {
-    }
-    /**
-     * @return {?}
-     */
-    TemplateDrivenErrors.modelParentException = function () {
-        throw new Error("\n      ngModel cannot be used to register form controls with a parent formGroup directive.  Try using\n      formGroup's partner directive \"formControlName\" instead.  Example:\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formControlName + "\n\n      Or, if you'd like to avoid registering this form control, indicate that it's standalone in ngModelOptions:\n\n      Example:\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].ngModelWithFormGroup);
-    };
-    /**
-     * @return {?}
-     */
-    TemplateDrivenErrors.formGroupNameException = function () {
-        throw new Error("\n      ngModel cannot be used to register form controls with a parent formGroupName or formArrayName directive.\n\n      Option 1: Use formControlName instead of ngModel (reactive strategy):\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formGroupName + "\n\n      Option 2:  Update ngModel's parent be ngModelGroup (template-driven strategy):\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].ngModelGroup);
-    };
-    /**
-     * @return {?}
-     */
-    TemplateDrivenErrors.missingNameException = function () {
-        throw new Error("If ngModel is used within a form tag, either the name attribute must be set or the form\n      control must be defined as 'standalone' in ngModelOptions.\n\n      Example 1: <input [(ngModel)]=\"person.firstName\" name=\"first\">\n      Example 2: <input [(ngModel)]=\"person.firstName\" [ngModelOptions]=\"{standalone: true}\">");
-    };
-    /**
-     * @return {?}
-     */
-    TemplateDrivenErrors.modelGroupParentException = function () {
-        throw new Error("\n      ngModelGroup cannot be used with a parent formGroup directive.\n\n      Option 1: Use formGroupName instead of ngModelGroup (reactive strategy):\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].formGroupName + "\n\n      Option 2:  Use a regular form tag instead of the formGroup directive (template-driven strategy):\n\n      " + __WEBPACK_IMPORTED_MODULE_0__error_examples__["a" /* FormErrorExamples */].ngModelGroup);
-    };
-    return TemplateDrivenErrors;
-}());
-//# sourceMappingURL=template_driven_errors.js.map
-
-/***/ }),
-/* 280 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__validators__ = __webpack_require__(33);
-/* unused harmony export REQUIRED_VALIDATOR */
-/* unused harmony export CHECKBOX_REQUIRED_VALIDATOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RequiredValidator; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return CheckboxRequiredValidator; });
-/* unused harmony export MIN_LENGTH_VALIDATOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return MinLengthValidator; });
-/* unused harmony export MAX_LENGTH_VALIDATOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return MaxLengthValidator; });
-/* unused harmony export PATTERN_VALIDATOR */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return PatternValidator; });
-var __extends = (this && this.__extends) || function (d, b) {
-    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
-    function __() { this.constructor = d; }
-    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-};
-
-
-var /** @type {?} */ REQUIRED_VALIDATOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return RequiredValidator; }),
-    multi: true
-};
-var /** @type {?} */ CHECKBOX_REQUIRED_VALIDATOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return CheckboxRequiredValidator; }),
-    multi: true
-};
-/**
- * A Directive that adds the `required` validator to any controls marked with the
- * `required` attribute, via the {\@link NG_VALIDATORS} binding.
- *
- * ### Example
- *
- * ```
- * <input name="fullName" ngModel required>
- * ```
- *
- * \@stable
- */
-var RequiredValidator = (function () {
-    function RequiredValidator() {
-    }
-    Object.defineProperty(RequiredValidator.prototype, "required", {
-        /**
-         * @return {?}
-         */
-        get: function () { return this._required; },
-        /**
-         * @param {?} value
-         * @return {?}
-         */
-        set: function (value) {
-            this._required = value != null && value !== false && "" + value !== 'false';
-            if (this._onChange)
-                this._onChange();
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @param {?} c
-     * @return {?}
-     */
-    RequiredValidator.prototype.validate = function (c) {
-        return this.required ? __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].required(c) : null;
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    RequiredValidator.prototype.registerOnValidatorChange = function (fn) { this._onChange = fn; };
-    RequiredValidator.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: ':not([type=checkbox])[required][formControlName],:not([type=checkbox])[required][formControl],:not([type=checkbox])[required][ngModel]',
-                    providers: [REQUIRED_VALIDATOR],
-                    host: { '[attr.required]': 'required ? "" : null' }
-                },] },
-    ];
-    /** @nocollapse */
-    RequiredValidator.ctorParameters = function () { return []; };
-    RequiredValidator.propDecorators = {
-        'required': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-    };
-    return RequiredValidator;
-}());
-function RequiredValidator_tsickle_Closure_declarations() {
-    /** @type {?} */
-    RequiredValidator.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    RequiredValidator.ctorParameters;
-    /** @type {?} */
-    RequiredValidator.propDecorators;
-    /** @type {?} */
-    RequiredValidator.prototype._required;
-    /** @type {?} */
-    RequiredValidator.prototype._onChange;
-}
-/**
- * A Directive that adds the `required` validator to checkbox controls marked with the
- * `required` attribute, via the {\@link NG_VALIDATORS} binding.
- *
- * ### Example
- *
- * ```
- * <input type="checkbox" name="active" ngModel required>
- * ```
- *
- * \@experimental
- */
-var CheckboxRequiredValidator = (function (_super) {
-    __extends(CheckboxRequiredValidator, _super);
-    function CheckboxRequiredValidator() {
-        _super.apply(this, arguments);
-    }
-    /**
-     * @param {?} c
-     * @return {?}
-     */
-    CheckboxRequiredValidator.prototype.validate = function (c) {
-        return this.required ? __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].requiredTrue(c) : null;
-    };
-    CheckboxRequiredValidator.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: 'input[type=checkbox][required][formControlName],input[type=checkbox][required][formControl],input[type=checkbox][required][ngModel]',
-                    providers: [CHECKBOX_REQUIRED_VALIDATOR],
-                    host: { '[attr.required]': 'required ? "" : null' }
-                },] },
-    ];
-    /** @nocollapse */
-    CheckboxRequiredValidator.ctorParameters = function () { return []; };
-    return CheckboxRequiredValidator;
-}(RequiredValidator));
-function CheckboxRequiredValidator_tsickle_Closure_declarations() {
-    /** @type {?} */
-    CheckboxRequiredValidator.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    CheckboxRequiredValidator.ctorParameters;
-}
-/**
- * Provider which adds {@link MinLengthValidator} to {@link NG_VALIDATORS}.
- *
- * ## Example:
- *
- * {@example common/forms/ts/validators/validators.ts region='min'}
- */
-var /** @type {?} */ MIN_LENGTH_VALIDATOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return MinLengthValidator; }),
-    multi: true
-};
-/**
- * A directive which installs the {\@link MinLengthValidator} for any `formControlName`,
- * `formControl`, or control with `ngModel` that also has a `minlength` attribute.
- *
- * \@stable
- */
-var MinLengthValidator = (function () {
-    function MinLengthValidator() {
-    }
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    MinLengthValidator.prototype.ngOnChanges = function (changes) {
-        if ('minlength' in changes) {
-            this._createValidator();
-            if (this._onChange)
-                this._onChange();
-        }
-    };
-    /**
-     * @param {?} c
-     * @return {?}
-     */
-    MinLengthValidator.prototype.validate = function (c) {
-        return this.minlength == null ? null : this._validator(c);
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    MinLengthValidator.prototype.registerOnValidatorChange = function (fn) { this._onChange = fn; };
-    /**
-     * @return {?}
-     */
-    MinLengthValidator.prototype._createValidator = function () {
-        this._validator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].minLength(parseInt(this.minlength, 10));
-    };
-    MinLengthValidator.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: '[minlength][formControlName],[minlength][formControl],[minlength][ngModel]',
-                    providers: [MIN_LENGTH_VALIDATOR],
-                    host: { '[attr.minlength]': 'minlength ? minlength : null' }
-                },] },
-    ];
-    /** @nocollapse */
-    MinLengthValidator.ctorParameters = function () { return []; };
-    MinLengthValidator.propDecorators = {
-        'minlength': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-    };
-    return MinLengthValidator;
-}());
-function MinLengthValidator_tsickle_Closure_declarations() {
-    /** @type {?} */
-    MinLengthValidator.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    MinLengthValidator.ctorParameters;
-    /** @type {?} */
-    MinLengthValidator.propDecorators;
-    /** @type {?} */
-    MinLengthValidator.prototype._validator;
-    /** @type {?} */
-    MinLengthValidator.prototype._onChange;
-    /** @type {?} */
-    MinLengthValidator.prototype.minlength;
-}
-/**
- * Provider which adds {@link MaxLengthValidator} to {@link NG_VALIDATORS}.
- *
- * ## Example:
- *
- * {@example common/forms/ts/validators/validators.ts region='max'}
- */
-var /** @type {?} */ MAX_LENGTH_VALIDATOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return MaxLengthValidator; }),
-    multi: true
-};
-/**
- * A directive which installs the {\@link MaxLengthValidator} for any `formControlName,
- * `formControl`,
- * or control with `ngModel` that also has a `maxlength` attribute.
- *
- * \@stable
- */
-var MaxLengthValidator = (function () {
-    function MaxLengthValidator() {
-    }
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    MaxLengthValidator.prototype.ngOnChanges = function (changes) {
-        if ('maxlength' in changes) {
-            this._createValidator();
-            if (this._onChange)
-                this._onChange();
-        }
-    };
-    /**
-     * @param {?} c
-     * @return {?}
-     */
-    MaxLengthValidator.prototype.validate = function (c) {
-        return this.maxlength != null ? this._validator(c) : null;
-    };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    MaxLengthValidator.prototype.registerOnValidatorChange = function (fn) { this._onChange = fn; };
-    /**
-     * @return {?}
-     */
-    MaxLengthValidator.prototype._createValidator = function () {
-        this._validator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].maxLength(parseInt(this.maxlength, 10));
-    };
-    MaxLengthValidator.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: '[maxlength][formControlName],[maxlength][formControl],[maxlength][ngModel]',
-                    providers: [MAX_LENGTH_VALIDATOR],
-                    host: { '[attr.maxlength]': 'maxlength ? maxlength : null' }
-                },] },
-    ];
-    /** @nocollapse */
-    MaxLengthValidator.ctorParameters = function () { return []; };
-    MaxLengthValidator.propDecorators = {
-        'maxlength': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-    };
-    return MaxLengthValidator;
-}());
-function MaxLengthValidator_tsickle_Closure_declarations() {
-    /** @type {?} */
-    MaxLengthValidator.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    MaxLengthValidator.ctorParameters;
-    /** @type {?} */
-    MaxLengthValidator.propDecorators;
-    /** @type {?} */
-    MaxLengthValidator.prototype._validator;
-    /** @type {?} */
-    MaxLengthValidator.prototype._onChange;
-    /** @type {?} */
-    MaxLengthValidator.prototype.maxlength;
-}
-var /** @type {?} */ PATTERN_VALIDATOR = {
-    provide: __WEBPACK_IMPORTED_MODULE_1__validators__["b" /* NG_VALIDATORS */],
-    useExisting: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* forwardRef */])(function () { return PatternValidator; }),
-    multi: true
-};
-/**
- * A Directive that adds the `pattern` validator to any controls marked with the
- * `pattern` attribute, via the {\@link NG_VALIDATORS} binding. Uses attribute value
- * as the regex to validate Control value against.  Follows pattern attribute
- * semantics; i.e. regex must match entire Control value.
- *
- * ### Example
- *
- * ```
- * <input [name]="fullName" pattern="[a-zA-Z ]*" ngModel>
- * ```
- * \@stable
- */
-var PatternValidator = (function () {
-    function PatternValidator() {
-    }
-    /**
-     * @param {?} changes
-     * @return {?}
-     */
-    PatternValidator.prototype.ngOnChanges = function (changes) {
-        if ('pattern' in changes) {
-            this._createValidator();
-            if (this._onChange)
-                this._onChange();
-        }
-    };
-    /**
-     * @param {?} c
-     * @return {?}
-     */
-    PatternValidator.prototype.validate = function (c) { return this._validator(c); };
-    /**
-     * @param {?} fn
-     * @return {?}
-     */
-    PatternValidator.prototype.registerOnValidatorChange = function (fn) { this._onChange = fn; };
-    /**
-     * @return {?}
-     */
-    PatternValidator.prototype._createValidator = function () { this._validator = __WEBPACK_IMPORTED_MODULE_1__validators__["a" /* Validators */].pattern(this.pattern); };
-    PatternValidator.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{
-                    selector: '[pattern][formControlName],[pattern][formControl],[pattern][ngModel]',
-                    providers: [PATTERN_VALIDATOR],
-                    host: { '[attr.pattern]': 'pattern ? pattern : null' }
-                },] },
-    ];
-    /** @nocollapse */
-    PatternValidator.ctorParameters = function () { return []; };
-    PatternValidator.propDecorators = {
-        'pattern': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-    };
-    return PatternValidator;
-}());
-function PatternValidator_tsickle_Closure_declarations() {
-    /** @type {?} */
-    PatternValidator.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    PatternValidator.ctorParameters;
-    /** @type {?} */
-    PatternValidator.propDecorators;
-    /** @type {?} */
-    PatternValidator.prototype._validator;
-    /** @type {?} */
-    PatternValidator.prototype._onChange;
-    /** @type {?} */
-    PatternValidator.prototype.pattern;
-}
-//# sourceMappingURL=validators.js.map
-
-/***/ }),
-/* 281 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__lang__ = __webpack_require__(68);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return StringMapWrapper; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return ListWrapper; });
-/* unused harmony export isListLikeIterable */
-/* unused harmony export areIterablesEqual */
-/* unused harmony export iterateListLike */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * Wraps Javascript Objects
- */
-var StringMapWrapper = (function () {
-    function StringMapWrapper() {
-    }
-    /**
-     * @param {?} m1
-     * @param {?} m2
-     * @return {?}
-     */
-    StringMapWrapper.merge = function (m1, m2) {
-        var /** @type {?} */ m = {};
-        for (var _i = 0, _a = Object.keys(m1); _i < _a.length; _i++) {
-            var k = _a[_i];
-            m[k] = m1[k];
-        }
-        for (var _b = 0, _c = Object.keys(m2); _b < _c.length; _b++) {
-            var k = _c[_b];
-            m[k] = m2[k];
-        }
-        return m;
-    };
-    /**
-     * @param {?} m1
-     * @param {?} m2
-     * @return {?}
-     */
-    StringMapWrapper.equals = function (m1, m2) {
-        var /** @type {?} */ k1 = Object.keys(m1);
-        var /** @type {?} */ k2 = Object.keys(m2);
-        if (k1.length != k2.length) {
-            return false;
-        }
-        for (var /** @type {?} */ i = 0; i < k1.length; i++) {
-            var /** @type {?} */ key = k1[i];
-            if (m1[key] !== m2[key]) {
-                return false;
-            }
-        }
-        return true;
-    };
-    return StringMapWrapper;
-}());
-var ListWrapper = (function () {
-    function ListWrapper() {
-    }
-    /**
-     * @param {?} arr
-     * @param {?} condition
-     * @return {?}
-     */
-    ListWrapper.findLast = function (arr, condition) {
-        for (var /** @type {?} */ i = arr.length - 1; i >= 0; i--) {
-            if (condition(arr[i])) {
-                return arr[i];
-            }
-        }
-        return null;
-    };
-    /**
-     * @param {?} list
-     * @param {?} items
-     * @return {?}
-     */
-    ListWrapper.removeAll = function (list, items) {
-        for (var /** @type {?} */ i = 0; i < items.length; ++i) {
-            var /** @type {?} */ index = list.indexOf(items[i]);
-            if (index > -1) {
-                list.splice(index, 1);
-            }
-        }
-    };
-    /**
-     * @param {?} list
-     * @param {?} el
-     * @return {?}
-     */
-    ListWrapper.remove = function (list, el) {
-        var /** @type {?} */ index = list.indexOf(el);
-        if (index > -1) {
-            list.splice(index, 1);
-            return true;
-        }
-        return false;
-    };
-    /**
-     * @param {?} a
-     * @param {?} b
-     * @return {?}
-     */
-    ListWrapper.equals = function (a, b) {
-        if (a.length != b.length)
-            return false;
-        for (var /** @type {?} */ i = 0; i < a.length; ++i) {
-            if (a[i] !== b[i])
-                return false;
-        }
-        return true;
-    };
-    /**
-     * @param {?} list
-     * @return {?}
-     */
-    ListWrapper.flatten = function (list) {
-        return list.reduce(function (flat, item) {
-            var /** @type {?} */ flatItem = Array.isArray(item) ? ListWrapper.flatten(item) : item;
-            return ((flat)).concat(flatItem);
-        }, []);
-    };
-    return ListWrapper;
-}());
-/**
- * @param {?} obj
- * @return {?}
- */
-function isListLikeIterable(obj) {
-    if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__lang__["e" /* isJsObject */])(obj))
-        return false;
-    return Array.isArray(obj) ||
-        (!(obj instanceof Map) &&
-            __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__lang__["f" /* getSymbolIterator */])() in obj); // JS Iterable have a Symbol.iterator prop
-}
-/**
- * @param {?} a
- * @param {?} b
- * @param {?} comparator
- * @return {?}
- */
-function areIterablesEqual(a, b, comparator) {
-    var /** @type {?} */ iterator1 = a[__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__lang__["f" /* getSymbolIterator */])()]();
-    var /** @type {?} */ iterator2 = b[__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__lang__["f" /* getSymbolIterator */])()]();
-    while (true) {
-        var /** @type {?} */ item1 = iterator1.next();
-        var /** @type {?} */ item2 = iterator2.next();
-        if (item1.done && item2.done)
-            return true;
-        if (item1.done || item2.done)
-            return false;
-        if (!comparator(item1.value, item2.value))
-            return false;
-    }
-}
-/**
- * @param {?} obj
- * @param {?} fn
- * @return {?}
- */
-function iterateListLike(obj, fn) {
-    if (Array.isArray(obj)) {
-        for (var /** @type {?} */ i = 0; i < obj.length; i++) {
-            fn(obj[i]);
-        }
-    }
-    else {
-        var /** @type {?} */ iterator = obj[__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__lang__["f" /* getSymbolIterator */])()]();
-        var /** @type {?} */ item = void 0;
-        while (!((item = iterator.next()).done)) {
-            fn(item.value);
-        }
-    }
-}
-//# sourceMappingURL=collection.js.map
-
-/***/ }),
-/* 282 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__facade_lang__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__model__ = __webpack_require__(133);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormBuilder; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-/**
- * \@whatItDoes Creates an {\@link AbstractControl} from a user-specified configuration.
- *
- * It is essentially syntactic sugar that shortens the `new FormGroup()`,
- * `new FormControl()`, and `new FormArray()` boilerplate that can build up in larger
- * forms.
- *
- * \@howToUse
- *
- * To use, inject `FormBuilder` into your component class. You can then call its methods
- * directly.
- *
- * {\@example forms/ts/formBuilder/form_builder_example.ts region='Component'}
- *
- *  * **npm package**: `\@angular/forms`
- *
- *  * **NgModule**: {\@link ReactiveFormsModule}
- *
- * \@stable
- */
-var FormBuilder = (function () {
-    function FormBuilder() {
-    }
-    /**
-     * Construct a new {\@link FormGroup} with the given map of configuration.
-     * Valid keys for the `extra` parameter map are `validator` and `asyncValidator`.
-     *
-     * See the {\@link FormGroup} constructor for more details.
-     * @param {?} controlsConfig
-     * @param {?=} extra
-     * @return {?}
-     */
-    FormBuilder.prototype.group = function (controlsConfig, extra) {
-        if (extra === void 0) { extra = null; }
-        var /** @type {?} */ controls = this._reduceControls(controlsConfig);
-        var /** @type {?} */ validator = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_lang__["a" /* isPresent */])(extra) ? extra['validator'] : null;
-        var /** @type {?} */ asyncValidator = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__facade_lang__["a" /* isPresent */])(extra) ? extra['asyncValidator'] : null;
-        return new __WEBPACK_IMPORTED_MODULE_2__model__["a" /* FormGroup */](controls, validator, asyncValidator);
-    };
-    /**
-     * Construct a new {\@link FormControl} with the given `formState`,`validator`, and
-     * `asyncValidator`.
-     *
-     * `formState` can either be a standalone value for the form control or an object
-     * that contains both a value and a disabled status.
-     *
-     * @param {?} formState
-     * @param {?=} validator
-     * @param {?=} asyncValidator
-     * @return {?}
-     */
-    FormBuilder.prototype.control = function (formState, validator, asyncValidator) {
-        if (validator === void 0) { validator = null; }
-        if (asyncValidator === void 0) { asyncValidator = null; }
-        return new __WEBPACK_IMPORTED_MODULE_2__model__["b" /* FormControl */](formState, validator, asyncValidator);
-    };
-    /**
-     * Construct a {\@link FormArray} from the given `controlsConfig` array of
-     * configuration, with the given optional `validator` and `asyncValidator`.
-     * @param {?} controlsConfig
-     * @param {?=} validator
-     * @param {?=} asyncValidator
-     * @return {?}
-     */
-    FormBuilder.prototype.array = function (controlsConfig, validator, asyncValidator) {
-        var _this = this;
-        if (validator === void 0) { validator = null; }
-        if (asyncValidator === void 0) { asyncValidator = null; }
-        var /** @type {?} */ controls = controlsConfig.map(function (c) { return _this._createControl(c); });
-        return new __WEBPACK_IMPORTED_MODULE_2__model__["c" /* FormArray */](controls, validator, asyncValidator);
-    };
-    /**
-     * \@internal
-     * @param {?} controlsConfig
-     * @return {?}
-     */
-    FormBuilder.prototype._reduceControls = function (controlsConfig) {
-        var _this = this;
-        var /** @type {?} */ controls = {};
-        Object.keys(controlsConfig).forEach(function (controlName) {
-            controls[controlName] = _this._createControl(controlsConfig[controlName]);
-        });
-        return controls;
-    };
-    /**
-     * \@internal
-     * @param {?} controlConfig
-     * @return {?}
-     */
-    FormBuilder.prototype._createControl = function (controlConfig) {
-        if (controlConfig instanceof __WEBPACK_IMPORTED_MODULE_2__model__["b" /* FormControl */] || controlConfig instanceof __WEBPACK_IMPORTED_MODULE_2__model__["a" /* FormGroup */] ||
-            controlConfig instanceof __WEBPACK_IMPORTED_MODULE_2__model__["c" /* FormArray */]) {
-            return controlConfig;
-        }
-        else if (Array.isArray(controlConfig)) {
-            var /** @type {?} */ value = controlConfig[0];
-            var /** @type {?} */ validator = controlConfig.length > 1 ? controlConfig[1] : null;
-            var /** @type {?} */ asyncValidator = controlConfig.length > 2 ? controlConfig[2] : null;
-            return this.control(value, validator, asyncValidator);
-        }
-        else {
-            return this.control(controlConfig);
-        }
-    };
-    FormBuilder.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
-    ];
-    /** @nocollapse */
-    FormBuilder.ctorParameters = function () { return []; };
-    return FormBuilder;
-}());
-function FormBuilder_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormBuilder.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormBuilder.ctorParameters;
-}
-//# sourceMappingURL=form_builder.js.map
-
-/***/ }),
-/* 283 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return isPromise; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return isObservable; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-var /** @type {?} */ isPromise = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].isPromise;
-var /** @type {?} */ isObservable = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].isObservable;
-//# sourceMappingURL=private_import_core.js.map
-
-/***/ }),
+/* 278 */,
+/* 279 */,
+/* 280 */,
+/* 281 */,
+/* 282 */,
+/* 283 */,
 /* 284 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -54063,17 +46908,17 @@ var /** @type {?} */ isObservable = __WEBPACK_IMPORTED_MODULE_0__angular_core__[
 /* unused harmony reexport XHRBackend */
 /* unused harmony reexport XHRConnection */
 /* unused harmony reexport BaseRequestOptions */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["a"]; });
 /* unused harmony reexport BaseResponseOptions */
 /* unused harmony reexport ResponseOptions */
 /* unused harmony reexport ReadyState */
 /* unused harmony reexport RequestMethod */
 /* unused harmony reexport ResponseContentType */
 /* unused harmony reexport ResponseType */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["c"]; });
 /* unused harmony reexport Jsonp */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["a"]; });
+/* unused harmony reexport HttpModule */
 /* unused harmony reexport JsonpModule */
 /* unused harmony reexport Connection */
 /* unused harmony reexport ConnectionBackend */
@@ -54180,7 +47025,7 @@ var BrowserJsonp = (function () {
         }
     };
     BrowserJsonp.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     BrowserJsonp.ctorParameters = function () { return []; };
@@ -54405,7 +47250,7 @@ var JSONPBackend_ = (function (_super) {
         return new JSONPConnection_(request, this._browserJSONP, this._baseResponseOptions);
     };
     JSONPBackend_.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     JSONPBackend_.ctorParameters = function () { return [
@@ -54653,7 +47498,7 @@ var CookieXSRFStrategy = (function () {
      * @return {?}
      */
     CookieXSRFStrategy.prototype.configureRequest = function (req) {
-        var /** @type {?} */ xsrfToken = __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__["b" /* __platform_browser_private__ */].getDOM().getCookie(this._cookieName);
+        var /** @type {?} */ xsrfToken = __WEBPACK_IMPORTED_MODULE_1__angular_platform_browser__["a" /* __platform_browser_private__ */].getDOM().getCookie(this._cookieName);
         if (xsrfToken) {
             req.headers.set(this._headerName, xsrfToken);
         }
@@ -54712,7 +47557,7 @@ var XHRBackend = (function () {
         return new XHRConnection(request, this._browserXHR, this._baseResponseOptions);
     };
     XHRBackend.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     XHRBackend.ctorParameters = function () { return [
@@ -55048,7 +47893,7 @@ var Http = (function () {
         return this.request(new __WEBPACK_IMPORTED_MODULE_4__static_request__["a" /* Request */](mergeOptions(this._defaultOptions, options, __WEBPACK_IMPORTED_MODULE_2__enums__["a" /* RequestMethod */].Options, url)));
     };
     Http.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     Http.ctorParameters = function () { return [
@@ -55117,7 +47962,7 @@ var Jsonp = (function (_super) {
         return responseObservable;
     };
     Jsonp.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     Jsonp.ctorParameters = function () { return [
@@ -55371,7 +48216,7 @@ var /** @type {?} */ ArrayBuffer = ((w) /** TODO #9100 */)['ArrayBuffer'] || noo
 var INTERNAL_BROWSER_DYNAMIC_PLATFORM_PROVIDERS = [
     __WEBPACK_IMPORTED_MODULE_2__private_import_platform_browser__["a" /* INTERNAL_BROWSER_PLATFORM_PROVIDERS */],
     {
-        provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["V" /* COMPILER_OPTIONS */],
+        provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["_5" /* COMPILER_OPTIONS */],
         useValue: { providers: [{ provide: __WEBPACK_IMPORTED_MODULE_0__angular_compiler__["a" /* ResourceLoader */], useClass: __WEBPACK_IMPORTED_MODULE_3__resource_loader_resource_loader_impl__["a" /* ResourceLoaderImpl */] }] },
         multi: true
     },
@@ -55433,7 +48278,7 @@ var ResourceLoaderImpl = (function (_super) {
         return promise;
     };
     ResourceLoaderImpl.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     ResourceLoaderImpl.ctorParameters = function () { return []; };
@@ -55464,14 +48309,14 @@ var ResourceLoaderImpl = (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__dom_events_key_events__ = __webpack_require__(299);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__dom_shared_styles_host__ = __webpack_require__(197);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__security_dom_sanitization_service__ = __webpack_require__(301);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return INTERNAL_BROWSER_PLATFORM_PROVIDERS; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return BROWSER_SANITIZATION_PROVIDERS; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return INTERNAL_BROWSER_PLATFORM_PROVIDERS; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return BROWSER_SANITIZATION_PROVIDERS; });
 /* unused harmony export platformBrowser */
-/* harmony export (immutable) */ __webpack_exports__["b"] = initDomAdapter;
+/* harmony export (immutable) */ __webpack_exports__["a"] = initDomAdapter;
 /* unused harmony export errorHandler */
 /* unused harmony export _document */
 /* unused harmony export _resolveDefaultAnimationDriver */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return BrowserModule; });
+/* unused harmony export BrowserModule */
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -55498,8 +48343,8 @@ var ResourceLoaderImpl = (function (_super) {
 
 
 var /** @type {?} */ INTERNAL_BROWSER_PLATFORM_PROVIDERS = [
-    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["f" /* PLATFORM_INITIALIZER */], useValue: initDomAdapter, multi: true },
-    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_common__["a" /* PlatformLocation */], useClass: __WEBPACK_IMPORTED_MODULE_5__browser_location_browser_platform_location__["a" /* BrowserPlatformLocation */] }
+    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["g" /* PLATFORM_INITIALIZER */], useValue: initDomAdapter, multi: true },
+    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_common__["b" /* PlatformLocation */], useClass: __WEBPACK_IMPORTED_MODULE_5__browser_location_browser_platform_location__["a" /* BrowserPlatformLocation */] }
 ];
 /**
  * @security Replacing built-in sanitization providers exposes the application to XSS risks.
@@ -55508,13 +48353,13 @@ var /** @type {?} */ INTERNAL_BROWSER_PLATFORM_PROVIDERS = [
  * @experimental
  */
 var /** @type {?} */ BROWSER_SANITIZATION_PROVIDERS = [
-    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["g" /* Sanitizer */], useExisting: __WEBPACK_IMPORTED_MODULE_17__security_dom_sanitization_service__["a" /* DomSanitizer */] },
+    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["h" /* Sanitizer */], useExisting: __WEBPACK_IMPORTED_MODULE_17__security_dom_sanitization_service__["a" /* DomSanitizer */] },
     { provide: __WEBPACK_IMPORTED_MODULE_17__security_dom_sanitization_service__["a" /* DomSanitizer */], useClass: __WEBPACK_IMPORTED_MODULE_17__security_dom_sanitization_service__["b" /* DomSanitizerImpl */] },
 ];
 /**
  * @stable
  */
-var /** @type {?} */ platformBrowser = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["h" /* createPlatformFactory */])(__WEBPACK_IMPORTED_MODULE_1__angular_core__["i" /* platformCore */], 'browser', INTERNAL_BROWSER_PLATFORM_PROVIDERS);
+var /** @type {?} */ platformBrowser = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["i" /* createPlatformFactory */])(__WEBPACK_IMPORTED_MODULE_1__angular_core__["j" /* platformCore */], 'browser', INTERNAL_BROWSER_PLATFORM_PROVIDERS);
 /**
  * @return {?}
  */
@@ -55526,7 +48371,7 @@ function initDomAdapter() {
  * @return {?}
  */
 function errorHandler() {
-    return new __WEBPACK_IMPORTED_MODULE_1__angular_core__["j" /* ErrorHandler */]();
+    return new __WEBPACK_IMPORTED_MODULE_1__angular_core__["k" /* ErrorHandler */]();
 }
 /**
  * @return {?}
@@ -55560,24 +48405,24 @@ var BrowserModule = (function () {
     BrowserModule.decorators = [
         { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["b" /* NgModule */], args: [{
                     providers: [
-                        BROWSER_SANITIZATION_PROVIDERS, { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["j" /* ErrorHandler */], useFactory: errorHandler, deps: [] },
+                        BROWSER_SANITIZATION_PROVIDERS, { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["k" /* ErrorHandler */], useFactory: errorHandler, deps: [] },
                         { provide: __WEBPACK_IMPORTED_MODULE_11__dom_dom_tokens__["a" /* DOCUMENT */], useFactory: _document, deps: [] },
                         { provide: __WEBPACK_IMPORTED_MODULE_13__dom_events_event_manager__["a" /* EVENT_MANAGER_PLUGINS */], useClass: __WEBPACK_IMPORTED_MODULE_12__dom_events_dom_events__["a" /* DomEventsPlugin */], multi: true },
                         { provide: __WEBPACK_IMPORTED_MODULE_13__dom_events_event_manager__["a" /* EVENT_MANAGER_PLUGINS */], useClass: __WEBPACK_IMPORTED_MODULE_15__dom_events_key_events__["a" /* KeyEventsPlugin */], multi: true },
                         { provide: __WEBPACK_IMPORTED_MODULE_13__dom_events_event_manager__["a" /* EVENT_MANAGER_PLUGINS */], useClass: __WEBPACK_IMPORTED_MODULE_14__dom_events_hammer_gestures__["a" /* HammerGesturesPlugin */], multi: true },
                         { provide: __WEBPACK_IMPORTED_MODULE_14__dom_events_hammer_gestures__["b" /* HAMMER_GESTURE_CONFIG */], useClass: __WEBPACK_IMPORTED_MODULE_14__dom_events_hammer_gestures__["c" /* HammerGestureConfig */] },
                         { provide: __WEBPACK_IMPORTED_MODULE_10__dom_dom_renderer__["b" /* DomRootRenderer */], useClass: __WEBPACK_IMPORTED_MODULE_10__dom_dom_renderer__["a" /* DomRootRenderer_ */] },
-                        { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["k" /* RootRenderer */], useExisting: __WEBPACK_IMPORTED_MODULE_10__dom_dom_renderer__["b" /* DomRootRenderer */] },
+                        { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["l" /* RootRenderer */], useExisting: __WEBPACK_IMPORTED_MODULE_10__dom_dom_renderer__["b" /* DomRootRenderer */] },
                         { provide: __WEBPACK_IMPORTED_MODULE_16__dom_shared_styles_host__["b" /* SharedStylesHost */], useExisting: __WEBPACK_IMPORTED_MODULE_16__dom_shared_styles_host__["a" /* DomSharedStylesHost */] },
                         { provide: __WEBPACK_IMPORTED_MODULE_2__src_dom_animation_driver__["a" /* AnimationDriver */], useFactory: _resolveDefaultAnimationDriver }, __WEBPACK_IMPORTED_MODULE_16__dom_shared_styles_host__["a" /* DomSharedStylesHost */],
-                        __WEBPACK_IMPORTED_MODULE_1__angular_core__["l" /* Testability */], __WEBPACK_IMPORTED_MODULE_13__dom_events_event_manager__["b" /* EventManager */], __WEBPACK_IMPORTED_MODULE_8__dom_debug_ng_probe__["a" /* ELEMENT_PROBE_PROVIDERS */], __WEBPACK_IMPORTED_MODULE_7__browser_title__["a" /* Title */]
+                        __WEBPACK_IMPORTED_MODULE_1__angular_core__["m" /* Testability */], __WEBPACK_IMPORTED_MODULE_13__dom_events_event_manager__["b" /* EventManager */], __WEBPACK_IMPORTED_MODULE_8__dom_debug_ng_probe__["a" /* ELEMENT_PROBE_PROVIDERS */], __WEBPACK_IMPORTED_MODULE_7__browser_title__["a" /* Title */]
                     ],
-                    exports: [__WEBPACK_IMPORTED_MODULE_0__angular_common__["b" /* CommonModule */], __WEBPACK_IMPORTED_MODULE_1__angular_core__["m" /* ApplicationModule */]]
+                    exports: [__WEBPACK_IMPORTED_MODULE_0__angular_common__["a" /* CommonModule */], __WEBPACK_IMPORTED_MODULE_1__angular_core__["n" /* ApplicationModule */]]
                 },] },
     ];
     /** @nocollapse */
     BrowserModule.ctorParameters = function () { return [
-        { type: BrowserModule, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* SkipSelf */] },] },
+        { type: BrowserModule, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["p" /* SkipSelf */] },] },
     ]; };
     return BrowserModule;
 }());
@@ -56656,12 +49501,12 @@ var BrowserPlatformLocation = (function (_super) {
      */
     BrowserPlatformLocation.prototype.back = function () { this._history.back(); };
     BrowserPlatformLocation.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     BrowserPlatformLocation.ctorParameters = function () { return []; };
     return BrowserPlatformLocation;
-}(__WEBPACK_IMPORTED_MODULE_0__angular_common__["a" /* PlatformLocation */]));
+}(__WEBPACK_IMPORTED_MODULE_0__angular_common__["b" /* PlatformLocation */]));
 function BrowserPlatformLocation_tsickle_Closure_declarations() {
     /** @type {?} */
     BrowserPlatformLocation.decorators;
@@ -56702,7 +49547,7 @@ var BrowserGetTestability = (function () {
     /**
      * @return {?}
      */
-    BrowserGetTestability.init = function () { __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* setTestabilityGetter */])(new BrowserGetTestability()); };
+    BrowserGetTestability.init = function () { __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["Q" /* setTestabilityGetter */])(new BrowserGetTestability()); };
     /**
      * @param {?} registry
      * @return {?}
@@ -56850,7 +49695,7 @@ var DomEventsPlugin = (function (_super) {
         return function () { return element.removeEventListener(eventName, /** @type {?} */ (handler), false); };
     };
     DomEventsPlugin.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     DomEventsPlugin.ctorParameters = function () { return []; };
@@ -57006,7 +49851,7 @@ var KeyEventsPlugin = (function (_super) {
         }
     };
     KeyEventsPlugin.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     KeyEventsPlugin.ctorParameters = function () { return []; };
@@ -57267,31 +50112,31 @@ var DomSanitizerImpl = (function (_super) {
         if (value == null)
             return null;
         switch (ctx) {
-            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].NONE:
+            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].NONE:
                 return value;
-            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].HTML:
+            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].HTML:
                 if (value instanceof SafeHtmlImpl)
                     return value.changingThisBreaksApplicationSecurity;
                 this.checkNotSafeValue(value, 'HTML');
                 return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__html_sanitizer__["a" /* sanitizeHtml */])(String(value));
-            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].STYLE:
+            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].STYLE:
                 if (value instanceof SafeStyleImpl)
                     return value.changingThisBreaksApplicationSecurity;
                 this.checkNotSafeValue(value, 'Style');
                 return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__style_sanitizer__["a" /* sanitizeStyle */])(value);
-            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].SCRIPT:
+            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].SCRIPT:
                 if (value instanceof SafeScriptImpl)
                     return value.changingThisBreaksApplicationSecurity;
                 this.checkNotSafeValue(value, 'Script');
                 throw new Error('unsafe value used in a script context');
-            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].URL:
+            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].URL:
                 if (value instanceof SafeResourceUrlImpl || value instanceof SafeUrlImpl) {
                     // Allow resource URLs in URL contexts, they are strictly more trusted.
                     return value.changingThisBreaksApplicationSecurity;
                 }
                 this.checkNotSafeValue(value, 'URL');
                 return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__url_sanitizer__["a" /* sanitizeUrl */])(String(value));
-            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].RESOURCE_URL:
+            case __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].RESOURCE_URL:
                 if (value instanceof SafeResourceUrlImpl) {
                     return value.changingThisBreaksApplicationSecurity;
                 }
@@ -57340,7 +50185,7 @@ var DomSanitizerImpl = (function (_super) {
         return new SafeResourceUrlImpl(value);
     };
     DomSanitizerImpl.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     DomSanitizerImpl.ctorParameters = function () { return []; };
@@ -57827,12 +50672,12 @@ exports.isFunction = isFunction;
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__location_index__ = __webpack_require__(359);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["a"]; });
-/* unused harmony reexport LOCATION_INITIALIZED */
-/* unused harmony reexport LocationStrategy */
-/* unused harmony reexport APP_BASE_HREF */
-/* unused harmony reexport HashLocationStrategy */
-/* unused harmony reexport PathLocationStrategy */
-/* unused harmony reexport Location */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_0__location_index__["g"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__localization__ = __webpack_require__(102);
 /* unused harmony reexport NgLocalization */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__common_module__ = __webpack_require__(349);
@@ -58130,18 +50975,18 @@ var NgClass = (function () {
         }
     };
     NgClass.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngClass]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngClass]' },] },
     ];
     /** @nocollapse */
     NgClass.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* IterableDiffers */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* KeyValueDiffers */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* IterableDiffers */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["G" /* KeyValueDiffers */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* ElementRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* Renderer */], },
     ]; };
     NgClass.propDecorators = {
-        'klass': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */], args: ['class',] },],
-        'ngClass': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'klass': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */], args: ['class',] },],
+        'ngClass': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgClass;
 }());
@@ -58333,7 +51178,7 @@ var NgFor = (function () {
          * @return {?}
          */
         set: function (fn) {
-            if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])() && fn != null && typeof fn !== 'function') {
+            if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])() && fn != null && typeof fn !== 'function') {
                 // TODO(vicb): use a log service once there is a public one available
                 if ((console) && (console.warn)) {
                     console.warn(("trackBy must be a function, but received " + JSON.stringify(fn) + ". ") +
@@ -58431,19 +51276,19 @@ var NgFor = (function () {
         view.context.$implicit = record.item;
     };
     NgFor.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngFor][ngForOf]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngFor][ngForOf]' },] },
     ];
     /** @nocollapse */
     NgFor.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* TemplateRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* IterableDiffers */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* ChangeDetectorRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* TemplateRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* IterableDiffers */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ChangeDetectorRef */], },
     ]; };
     NgFor.propDecorators = {
-        'ngForOf': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-        'ngForTrackBy': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-        'ngForTemplate': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngForOf': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
+        'ngForTrackBy': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
+        'ngForTemplate': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgFor;
 }());
@@ -58559,15 +51404,15 @@ var NgIf = (function () {
         configurable: true
     });
     NgIf.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngIf]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngIf]' },] },
     ];
     /** @nocollapse */
     NgIf.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* TemplateRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* TemplateRef */], },
     ]; };
     NgIf.propDecorators = {
-        'ngIf': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngIf': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgIf;
 }());
@@ -58694,14 +51539,14 @@ var NgPlural = (function () {
         }
     };
     NgPlural.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngPlural]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngPlural]' },] },
     ];
     /** @nocollapse */
     NgPlural.ctorParameters = function () { return [
         { type: __WEBPACK_IMPORTED_MODULE_1__localization__["b" /* NgLocalization */], },
     ]; };
     NgPlural.propDecorators = {
-        'ngPlural': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngPlural': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgPlural;
 }());
@@ -58755,14 +51600,14 @@ var NgPluralCase = (function () {
         ngPlural.addCase(isANumber ? "=" + value : value, new __WEBPACK_IMPORTED_MODULE_2__ng_switch__["d" /* SwitchView */](viewContainer, template));
     }
     NgPluralCase.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngPluralCase]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngPluralCase]' },] },
     ];
     /** @nocollapse */
     NgPluralCase.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* Attribute */], args: ['ngPluralCase',] },] },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* TemplateRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */], },
-        { type: NgPlural, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Host */] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* Attribute */], args: ['ngPluralCase',] },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* TemplateRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
+        { type: NgPlural, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["F" /* Host */] },] },
     ]; };
     return NgPluralCase;
 }());
@@ -58873,16 +51718,16 @@ var NgStyle = (function () {
         this._renderer.setElementStyle(this._ngEl.nativeElement, name, value);
     };
     NgStyle.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngStyle]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngStyle]' },] },
     ];
     /** @nocollapse */
     NgStyle.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* KeyValueDiffers */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* ElementRef */], },
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["D" /* Renderer */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["G" /* KeyValueDiffers */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* ElementRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* Renderer */], },
     ]; };
     NgStyle.propDecorators = {
-        'ngStyle': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngStyle': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgStyle;
 }());
@@ -58984,15 +51829,15 @@ var NgTemplateOutlet = (function () {
         }
     };
     NgTemplateOutlet.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* Directive */], args: [{ selector: '[ngTemplateOutlet]' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: '[ngTemplateOutlet]' },] },
     ];
     /** @nocollapse */
     NgTemplateOutlet.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ViewContainerRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
     ]; };
     NgTemplateOutlet.propDecorators = {
-        'ngOutletContext': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
-        'ngTemplateOutlet': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Input */] },],
+        'ngOutletContext': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
+        'ngTemplateOutlet': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
     };
     return NgTemplateOutlet;
 }());
@@ -59326,7 +52171,7 @@ function WrappedError_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__location__ = __webpack_require__(148);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__location_strategy__ = __webpack_require__(103);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_location__ = __webpack_require__(149);
-/* unused harmony export HashLocationStrategy */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HashLocationStrategy; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -59445,12 +52290,12 @@ var HashLocationStrategy = (function (_super) {
      */
     HashLocationStrategy.prototype.back = function () { this._platformLocation.back(); };
     HashLocationStrategy.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     HashLocationStrategy.ctorParameters = function () { return [
         { type: __WEBPACK_IMPORTED_MODULE_4__platform_location__["a" /* PlatformLocation */], },
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__location_strategy__["b" /* APP_BASE_HREF */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__location_strategy__["b" /* APP_BASE_HREF */],] },] },
     ]; };
     return HashLocationStrategy;
 }(__WEBPACK_IMPORTED_MODULE_3__location_strategy__["a" /* LocationStrategy */]));
@@ -59476,16 +52321,16 @@ function HashLocationStrategy_tsickle_Closure_declarations() {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__platform_location__ = __webpack_require__(149);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__platform_location__["a"]; });
-/* unused harmony reexport LOCATION_INITIALIZED */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__platform_location__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__location_strategy__ = __webpack_require__(103);
-/* unused harmony reexport LocationStrategy */
-/* unused harmony reexport APP_BASE_HREF */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_1__location_strategy__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_1__location_strategy__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__hash_location_strategy__ = __webpack_require__(358);
-/* unused harmony reexport HashLocationStrategy */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_2__hash_location_strategy__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__path_location_strategy__ = __webpack_require__(360);
-/* unused harmony reexport PathLocationStrategy */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_3__path_location_strategy__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__location__ = __webpack_require__(148);
-/* unused harmony reexport Location */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_4__location__["a"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -59510,7 +52355,7 @@ function HashLocationStrategy_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__location__ = __webpack_require__(148);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__location_strategy__ = __webpack_require__(103);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_location__ = __webpack_require__(149);
-/* unused harmony export PathLocationStrategy */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PathLocationStrategy; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -59632,12 +52477,12 @@ var PathLocationStrategy = (function (_super) {
      */
     PathLocationStrategy.prototype.back = function () { this._platformLocation.back(); };
     PathLocationStrategy.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Injectable */] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
     ];
     /** @nocollapse */
     PathLocationStrategy.ctorParameters = function () { return [
         { type: __WEBPACK_IMPORTED_MODULE_4__platform_location__["a" /* PlatformLocation */], },
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__location_strategy__["b" /* APP_BASE_HREF */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_3__location_strategy__["b" /* APP_BASE_HREF */],] },] },
     ]; };
     return PathLocationStrategy;
 }(__WEBPACK_IMPORTED_MODULE_3__location_strategy__["a" /* LocationStrategy */]));
@@ -59788,7 +52633,7 @@ var AsyncPipe = (function () {
             return this._latestReturnedValue;
         }
         this._latestReturnedValue = this._latestValue;
-        return __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* WrappedValue */].wrap(this._latestValue);
+        return __WEBPACK_IMPORTED_MODULE_0__angular_core__["y" /* WrappedValue */].wrap(this._latestValue);
     };
     /**
      * @param {?} obj
@@ -59835,11 +52680,11 @@ var AsyncPipe = (function () {
         }
     };
     AsyncPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'async', pure: false },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'async', pure: false },] },
     ];
     /** @nocollapse */
     AsyncPipe.ctorParameters = function () { return [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* ChangeDetectorRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ChangeDetectorRef */], },
     ]; };
     return AsyncPipe;
 }());
@@ -60022,11 +52867,11 @@ var DatePipe = (function () {
         'shortTime': 'jm'
     };
     DatePipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'date', pure: true },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'date', pure: true },] },
     ];
     /** @nocollapse */
     DatePipe.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* LOCALE_ID */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* LOCALE_ID */],] },] },
     ]; };
     return DatePipe;
 }());
@@ -60150,7 +52995,7 @@ var I18nPluralPipe = (function () {
         return pluralMap[key].replace(_INTERPOLATION_REGEXP, value.toString());
     };
     I18nPluralPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'i18nPlural', pure: true },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'i18nPlural', pure: true },] },
     ];
     /** @nocollapse */
     I18nPluralPipe.ctorParameters = function () { return [
@@ -60228,7 +53073,7 @@ var I18nSelectPipe = (function () {
         return '';
     };
     I18nSelectPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'i18nSelect', pure: true },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'i18nSelect', pure: true },] },
     ];
     /** @nocollapse */
     I18nSelectPipe.ctorParameters = function () { return []; };
@@ -60282,7 +53127,7 @@ var JsonPipe = (function () {
      */
     JsonPipe.prototype.transform = function (value) { return JSON.stringify(value, null, 2); };
     JsonPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'json', pure: false },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'json', pure: false },] },
     ];
     /** @nocollapse */
     JsonPipe.ctorParameters = function () { return []; };
@@ -60348,7 +53193,7 @@ var LowerCasePipe = (function () {
         return value.toLowerCase();
     };
     LowerCasePipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'lowercase' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'lowercase' },] },
     ];
     /** @nocollapse */
     LowerCasePipe.ctorParameters = function () { return []; };
@@ -60485,11 +53330,11 @@ var DecimalPipe = (function () {
         return formatNumber(DecimalPipe, this._locale, value, __WEBPACK_IMPORTED_MODULE_2__intl__["b" /* NumberFormatStyle */].Decimal, digits);
     };
     DecimalPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'number' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'number' },] },
     ];
     /** @nocollapse */
     DecimalPipe.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* LOCALE_ID */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* LOCALE_ID */],] },] },
     ]; };
     return DecimalPipe;
 }());
@@ -60541,11 +53386,11 @@ var PercentPipe = (function () {
         return formatNumber(PercentPipe, this._locale, value, __WEBPACK_IMPORTED_MODULE_2__intl__["b" /* NumberFormatStyle */].Percent, digits);
     };
     PercentPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'percent' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'percent' },] },
     ];
     /** @nocollapse */
     PercentPipe.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* LOCALE_ID */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* LOCALE_ID */],] },] },
     ]; };
     return PercentPipe;
 }());
@@ -60605,11 +53450,11 @@ var CurrencyPipe = (function () {
         return formatNumber(CurrencyPipe, this._locale, value, __WEBPACK_IMPORTED_MODULE_2__intl__["b" /* NumberFormatStyle */].Currency, digits, currencyCode, symbolDisplay);
     };
     CurrencyPipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'currency' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'currency' },] },
     ];
     /** @nocollapse */
     CurrencyPipe.ctorParameters = function () { return [
-        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* LOCALE_ID */],] },] },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["x" /* LOCALE_ID */],] },] },
     ]; };
     return CurrencyPipe;
 }());
@@ -60710,7 +53555,7 @@ var SlicePipe = (function () {
      */
     SlicePipe.prototype.supports = function (obj) { return typeof obj === 'string' || Array.isArray(obj); };
     SlicePipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'slice', pure: false },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'slice', pure: false },] },
     ];
     /** @nocollapse */
     SlicePipe.ctorParameters = function () { return []; };
@@ -60776,7 +53621,7 @@ var UpperCasePipe = (function () {
         return value.toUpperCase();
     };
     UpperCasePipe.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* Pipe */], args: [{ name: 'uppercase' },] },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* Pipe */], args: [{ name: 'uppercase' },] },
     ];
     /** @nocollapse */
     UpperCasePipe.ctorParameters = function () { return []; };
@@ -60809,8 +53654,8 @@ function UpperCasePipe_tsickle_Closure_declarations() {
  * found in the LICENSE file at https://angular.io/license
  */
 
-var /** @type {?} */ isPromise = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].isPromise;
-var /** @type {?} */ isObservable = __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* __core_private__ */].isObservable;
+var /** @type {?} */ isPromise = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].isPromise;
+var /** @type {?} */ isObservable = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].isObservable;
 //# sourceMappingURL=private_import_core.js.map
 
 /***/ }),
@@ -60831,7 +53676,7 @@ var /** @type {?} */ isObservable = __WEBPACK_IMPORTED_MODULE_0__angular_core__[
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Version */]('2.4.10');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Version */]('2.4.10');
 //# sourceMappingURL=version.js.map
 
 /***/ }),
@@ -61021,7 +53866,7 @@ function createAotCompiler(compilerHost, options) {
     var /** @type {?} */ htmlParser = new __WEBPACK_IMPORTED_MODULE_8__i18n_i18n_html_parser__["a" /* I18NHtmlParser */](new __WEBPACK_IMPORTED_MODULE_10__ml_parser_html_parser__["a" /* HtmlParser */](), translations, options.i18nFormat);
     var /** @type {?} */ config = new __WEBPACK_IMPORTED_MODULE_2__config__["a" /* CompilerConfig */]({
         genDebugInfo: options.debug === true,
-        defaultEncapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated,
+        defaultEncapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated,
         logBindingUpdate: false,
         useJit: false
     });
@@ -61299,7 +54144,7 @@ var Extractor = (function () {
         __WEBPACK_IMPORTED_MODULE_2__aot_static_reflection_capabilities__["a" /* StaticAndDynamicReflectionCapabilities */].install(staticReflector);
         var /** @type {?} */ config = new __WEBPACK_IMPORTED_MODULE_7__config__["a" /* CompilerConfig */]({
             genDebugInfo: false,
-            defaultEncapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated,
+            defaultEncapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated,
             logBindingUpdate: false,
             useJit: false
         });
@@ -61983,7 +54828,7 @@ var /** @type {?} */ _NO_RESOURCE_LOADER = {
         throw new Error("No ResourceLoader implementation has been provided. Can't read the url \"" + url + "\"");
     }
 };
-var /** @type {?} */ baseHtmlParser = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* OpaqueToken */]('HtmlParser');
+var /** @type {?} */ baseHtmlParser = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('HtmlParser');
 /**
  * A set of providers that provide `JitCompiler` and its dependencies to use for
  * template compilation.
@@ -62007,8 +54852,8 @@ var /** @type {?} */ COMPILER_PROVIDERS = [
         },
         deps: [
             baseHtmlParser,
-            [new __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */](), new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */](__WEBPACK_IMPORTED_MODULE_0__angular_core__["_33" /* TRANSLATIONS */])],
-            [new __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Optional */](), new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */](__WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* TRANSLATIONS_FORMAT */])],
+            [new __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */](), new __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */](__WEBPACK_IMPORTED_MODULE_0__angular_core__["_38" /* TRANSLATIONS */])],
+            [new __WEBPACK_IMPORTED_MODULE_0__angular_core__["o" /* Optional */](), new __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */](__WEBPACK_IMPORTED_MODULE_0__angular_core__["_12" /* TRANSLATIONS_FORMAT */])],
         ]
     },
     {
@@ -62025,7 +54870,7 @@ var /** @type {?} */ COMPILER_PROVIDERS = [
     __WEBPACK_IMPORTED_MODULE_5__directive_wrapper_compiler__["a" /* DirectiveWrapperCompiler */],
     { provide: __WEBPACK_IMPORTED_MODULE_2__config__["a" /* CompilerConfig */], useValue: new __WEBPACK_IMPORTED_MODULE_2__config__["a" /* CompilerConfig */]() },
     __WEBPACK_IMPORTED_MODULE_24__compiler__["a" /* JitCompiler */],
-    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* Compiler */], useExisting: __WEBPACK_IMPORTED_MODULE_24__compiler__["a" /* JitCompiler */] },
+    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Compiler */], useExisting: __WEBPACK_IMPORTED_MODULE_24__compiler__["a" /* JitCompiler */] },
     __WEBPACK_IMPORTED_MODULE_17__schema_dom_element_schema_registry__["a" /* DomElementSchemaRegistry */],
     { provide: __WEBPACK_IMPORTED_MODULE_18__schema_element_schema_registry__["a" /* ElementSchemaRegistry */], useExisting: __WEBPACK_IMPORTED_MODULE_17__schema_dom_element_schema_registry__["a" /* DomElementSchemaRegistry */] },
     __WEBPACK_IMPORTED_MODULE_22__url_resolver__["a" /* UrlResolver */],
@@ -62040,9 +54885,9 @@ var JitCompilerFactory = (function () {
      */
     function JitCompilerFactory(defaultOptions) {
         this._defaultOptions = [{
-                useDebug: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])(),
+                useDebug: __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])(),
                 useJit: true,
-                defaultEncapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Emulated
+                defaultEncapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Emulated
             }].concat(defaultOptions);
     }
     /**
@@ -62052,7 +54897,7 @@ var JitCompilerFactory = (function () {
     JitCompilerFactory.prototype.createCompiler = function (options) {
         if (options === void 0) { options = []; }
         var /** @type {?} */ mergedOptions = _mergeOptions(this._defaultOptions.concat(options));
-        var /** @type {?} */ injector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_35" /* ReflectiveInjector */].resolveAndCreate([
+        var /** @type {?} */ injector = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* ReflectiveInjector */].resolveAndCreate([
             COMPILER_PROVIDERS, {
                 provide: __WEBPACK_IMPORTED_MODULE_2__config__["a" /* CompilerConfig */],
                 useFactory: function () {
@@ -62073,11 +54918,11 @@ var JitCompilerFactory = (function () {
             },
             mergedOptions.providers
         ]);
-        return injector.get(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_34" /* Compiler */]);
+        return injector.get(__WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Compiler */]);
     };
     /** @nocollapse */
     JitCompilerFactory.ctorParameters = function () { return [
-        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["V" /* COMPILER_OPTIONS */],] },] },
+        { type: Array, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* Inject */], args: [__WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* COMPILER_OPTIONS */],] },] },
     ]; };
     JitCompilerFactory = __decorate([
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_9__injectable__["a" /* CompilerInjectable */])(), 
@@ -62105,10 +54950,10 @@ function _initReflector() {
  *
  * @experimental
  */
-var /** @type {?} */ platformCoreDynamic = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["h" /* createPlatformFactory */])(__WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* platformCore */], 'coreDynamic', [
-    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["V" /* COMPILER_OPTIONS */], useValue: {}, multi: true },
-    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_36" /* CompilerFactory */], useClass: JitCompilerFactory },
-    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["f" /* PLATFORM_INITIALIZER */], useValue: _initReflector, multi: true },
+var /** @type {?} */ platformCoreDynamic = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["i" /* createPlatformFactory */])(__WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* platformCore */], 'coreDynamic', [
+    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_5" /* COMPILER_OPTIONS */], useValue: {}, multi: true },
+    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_39" /* CompilerFactory */], useClass: JitCompilerFactory },
+    { provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["g" /* PLATFORM_INITIALIZER */], useValue: _initReflector, multi: true },
 ]);
 /**
  * @param {?} optionsArr
@@ -64387,20 +57232,20 @@ function registerContext(ctx, specs) {
     }
 }
 // Case is insignificant below, all element and attribute names are lower-cased for lookup.
-registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].HTML, [
+registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].HTML, [
     'iframe|srcdoc',
     '*|innerHTML',
     '*|outerHTML',
 ]);
-registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].STYLE, ['*|style']);
+registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].STYLE, ['*|style']);
 // NB: no SCRIPT contexts here, they are never allowed due to the parser stripping them.
-registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].URL, [
+registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].URL, [
     '*|formAction', 'area|href', 'area|ping', 'audio|src', 'a|href',
     'a|ping', 'blockquote|cite', 'body|background', 'del|cite', 'form|action',
     'img|src', 'img|srcset', 'input|src', 'ins|cite', 'q|cite',
     'source|src', 'source|srcset', 'track|src', 'video|poster', 'video|src',
 ]);
-registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["J" /* SecurityContext */].RESOURCE_URL, [
+registerContext(__WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* SecurityContext */].RESOURCE_URL, [
     'applet|code',
     'applet|codebase',
     'base|href',
@@ -64968,7 +57813,7 @@ function escapeBlocks(input) {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Version */]('2.4.10');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Version */]('2.4.10');
 //# sourceMappingURL=version.js.map
 
 /***/ }),
@@ -65894,7 +58739,7 @@ var ViewBuilderVisitor = (function () {
         }
         else {
             return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4__facade_lang__["c" /* isPresent */])(parent.component) &&
-                parent.component.template.encapsulation !== __WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* ViewEncapsulation */].Native ?
+                parent.component.template.encapsulation !== __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* ViewEncapsulation */].Native ?
                 __WEBPACK_IMPORTED_MODULE_7__output_output_ast__["b" /* NULL_EXPR */] :
                 parent.renderNode;
         }
@@ -66915,7 +59760,7 @@ var ApplicationModule = (function () {
     function ApplicationModule() {
     }
     ApplicationModule.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_9__metadata__["a" /* NgModule */], args: [{
+        { type: __WEBPACK_IMPORTED_MODULE_9__metadata__["b" /* NgModule */], args: [{
                     providers: [
                         __WEBPACK_IMPORTED_MODULE_2__application_ref__["b" /* ApplicationRef_ */],
                         { provide: __WEBPACK_IMPORTED_MODULE_2__application_ref__["c" /* ApplicationRef */], useExisting: __WEBPACK_IMPORTED_MODULE_2__application_ref__["b" /* ApplicationRef_ */] },
@@ -66985,20 +59830,20 @@ function ApplicationModule_tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__metadata__ = __webpack_require__(271);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Y", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["i"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "v", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_21", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["o"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_22", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["p"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_18", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["l"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_23", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["q"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_24", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["r"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "U", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["h"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "w", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_19", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["m"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_20", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["n"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "x", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "T", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["g"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "p", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "A", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_27", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["p"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_1", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["i"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_26", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["o"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_28", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["q"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_29", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["r"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "B", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_2", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_3", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["k"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "C", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_4", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["l"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "w", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["c"]; });
 /* unused harmony reexport AfterContentChecked */
 /* unused harmony reexport AfterContentInit */
 /* unused harmony reexport AfterViewChecked */
@@ -67007,135 +59852,135 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* unused harmony reexport OnChanges */
 /* unused harmony reexport OnDestroy */
 /* unused harmony reexport OnInit */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_7", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_8", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "O", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_14", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["m"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_15", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["n"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "P", function() { return __WEBPACK_IMPORTED_MODULE_0__metadata__["g"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__version__ = __webpack_require__(277);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_1__version__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_1__version__["b"]; });
 /* unused harmony reexport VERSION */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__util__ = __webpack_require__(421);
 /* unused harmony reexport Class */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__di__ = __webpack_require__(24);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Q", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["i"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_10", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "R", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["g"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_34", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["f"]; });
+/* unused harmony reexport forwardRef */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_17", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["i"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "V", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Z", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["f"]; });
 /* unused harmony reexport ResolvedReflectiveFactory */
 /* unused harmony reexport ReflectiveKey */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "H", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "q", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["b"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "r", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "S", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "m", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "y", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "m", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_18", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "D", function() { return __WEBPACK_IMPORTED_MODULE_3__di__["h"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__application_ref__ = __webpack_require__(167);
 /* unused harmony reexport createPlatform */
 /* unused harmony reexport assertPlatform */
 /* unused harmony reexport destroyPlatform */
 /* unused harmony reexport getPlatform */
 /* unused harmony reexport PlatformRef */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "K", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "L", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["c"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "E", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["g"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "L", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "u", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "M", function() { return __WEBPACK_IMPORTED_MODULE_4__application_ref__["h"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__application_tokens__ = __webpack_require__(116);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "N", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_6", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["b"]; });
-/* unused harmony reexport APP_BOOTSTRAP_LISTENER */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "O", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_13", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "S", function() { return __WEBPACK_IMPORTED_MODULE_5__application_tokens__["c"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__application_init__ = __webpack_require__(166);
-/* unused harmony reexport APP_INITIALIZER */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "T", function() { return __WEBPACK_IMPORTED_MODULE_6__application_init__["b"]; });
 /* unused harmony reexport ApplicationInitStatus */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__zone__ = __webpack_require__(422);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "I", function() { return __WEBPACK_IMPORTED_MODULE_7__zone__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "s", function() { return __WEBPACK_IMPORTED_MODULE_7__zone__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__render__ = __webpack_require__(420);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Z", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "B", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_8", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "G", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "o", function() { return __WEBPACK_IMPORTED_MODULE_8__render__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__linker__ = __webpack_require__(408);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "V", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_35", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_36", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_37", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["l"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_0", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_1", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_2", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["g"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "C", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_3", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_5", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["i"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "W", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_39", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["m"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_40", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["n"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_9", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_10", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["k"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_0", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "H", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "R", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["d"]; });
 /* unused harmony reexport NgModuleRef */
-/* unused harmony reexport NgModuleFactoryLoader */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "X", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["f"]; });
 /* unused harmony reexport getModuleFactory */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_4", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["i"]; });
-/* unused harmony reexport SystemJsNgModuleLoader */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_11", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["l"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Y", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["g"]; });
 /* unused harmony reexport SystemJsNgModuleLoaderConfig */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "z", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "A", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "E", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "F", function() { return __WEBPACK_IMPORTED_MODULE_9__linker__["b"]; });
 /* unused harmony reexport EmbeddedViewRef */
 /* unused harmony reexport ViewRef */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__debug_debug_node__ = __webpack_require__(260);
 /* unused harmony reexport DebugElement */
 /* unused harmony reexport DebugNode */
 /* unused harmony reexport asNativeElements */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "M", function() { return __WEBPACK_IMPORTED_MODULE_10__debug_debug_node__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "N", function() { return __WEBPACK_IMPORTED_MODULE_10__debug_debug_node__["c"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__testability_testability__ = __webpack_require__(179);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_11__testability_testability__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_11__testability_testability__["a"]; });
 /* unused harmony reexport TestabilityRegistry */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "P", function() { return __WEBPACK_IMPORTED_MODULE_11__testability_testability__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Q", function() { return __WEBPACK_IMPORTED_MODULE_11__testability_testability__["c"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__change_detection__ = __webpack_require__(403);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "W", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "s", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_6", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "y", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["a"]; });
 /* unused harmony reexport CollectionChangeRecord */
 /* unused harmony reexport DefaultIterableDiffer */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "F", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "J", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["d"]; });
 /* unused harmony reexport KeyValueChangeRecord */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "D", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_5", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "t", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "I", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_12", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "z", function() { return __WEBPACK_IMPORTED_MODULE_12__change_detection__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__platform_core_providers__ = __webpack_require__(418);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "o", function() { return __WEBPACK_IMPORTED_MODULE_13__platform_core_providers__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "p", function() { return __WEBPACK_IMPORTED_MODULE_13__platform_core_providers__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__ = __webpack_require__(263);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_33", function() { return __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "X", function() { return __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "q", function() { return __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_38", function() { return __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_7", function() { return __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "x", function() { return __WEBPACK_IMPORTED_MODULE_14__i18n_tokens__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__application_module__ = __webpack_require__(402);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_15__application_module__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_15__application_module__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__profile_profile__ = __webpack_require__(125);
 /* unused harmony reexport wtfCreateScope */
 /* unused harmony reexport wtfLeave */
 /* unused harmony reexport wtfStartTimeRange */
 /* unused harmony reexport wtfEndTimeRange */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__type__ = __webpack_require__(180);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_9", function() { return __WEBPACK_IMPORTED_MODULE_17__type__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_16", function() { return __WEBPACK_IMPORTED_MODULE_17__type__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__facade_async__ = __webpack_require__(174);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "G", function() { return __WEBPACK_IMPORTED_MODULE_18__facade_async__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "K", function() { return __WEBPACK_IMPORTED_MODULE_18__facade_async__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__error_handler__ = __webpack_require__(262);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_19__error_handler__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_19__error_handler__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__core_private_export__ = __webpack_require__(405);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "u", function() { return __WEBPACK_IMPORTED_MODULE_20__core_private_export__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "t", function() { return __WEBPACK_IMPORTED_MODULE_20__core_private_export__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__animation_metadata__ = __webpack_require__(255);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["a"]; });
 /* unused harmony reexport AnimationEntryMetadata */
 /* unused harmony reexport AnimationStateMetadata */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_11", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_12", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_19", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_20", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["c"]; });
 /* unused harmony reexport AnimationMetadata */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_13", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_14", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["e"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_15", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["f"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_16", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["g"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_21", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_22", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_23", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["f"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_24", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["g"]; });
 /* unused harmony reexport AnimationSequenceMetadata */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_17", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["h"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_25", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["i"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_26", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["j"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_27", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["k"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_28", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["l"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_29", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["m"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_30", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["n"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_31", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["o"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_32", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["p"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_25", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["h"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_30", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["i"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_31", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["j"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_32", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["k"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_33", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["l"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_34", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["m"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_35", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["n"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_36", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["o"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "_37", function() { return __WEBPACK_IMPORTED_MODULE_21__animation_metadata__["p"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__animation_animation_transition_event__ = __webpack_require__(254);
 /* unused harmony reexport AnimationTransitionEvent */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__animation_animation_player__ = __webpack_require__(165);
@@ -67145,8 +59990,8 @@ function ApplicationModule_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__animation_animation_keyframe__ = __webpack_require__(250);
 /* unused harmony reexport AnimationKeyframe */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__security__ = __webpack_require__(276);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_26__security__["a"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "J", function() { return __WEBPACK_IMPORTED_MODULE_26__security__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_26__security__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "v", function() { return __WEBPACK_IMPORTED_MODULE_26__security__["b"]; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -68189,27 +61034,27 @@ function _mapProviders(injector, fn) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__linker_compiler__ = __webpack_require__(86);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["d"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["c"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["e"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["d"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "m", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "n", function() { return __WEBPACK_IMPORTED_MODULE_0__linker_compiler__["e"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__linker_component_factory__ = __webpack_require__(175);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_1__linker_component_factory__["b"]; });
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_1__linker_component_factory__["c"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_1__linker_component_factory__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_1__linker_component_factory__["c"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__linker_component_factory_resolver__ = __webpack_require__(121);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_2__linker_component_factory_resolver__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_2__linker_component_factory_resolver__["b"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__linker_element_ref__ = __webpack_require__(122);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_3__linker_element_ref__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__linker_ng_module_factory__ = __webpack_require__(266);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_4__linker_ng_module_factory__["b"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_4__linker_ng_module_factory__["b"]; });
 /* unused harmony reexport NgModuleRef */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__linker_ng_module_factory_loader__ = __webpack_require__(267);
-/* unused harmony reexport NgModuleFactoryLoader */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_5__linker_ng_module_factory_loader__["b"]; });
 /* unused harmony reexport getModuleFactory */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__linker_query_list__ = __webpack_require__(411);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_6__linker_query_list__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return __WEBPACK_IMPORTED_MODULE_6__linker_query_list__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__linker_system_js_ng_module_factory_loader__ = __webpack_require__(412);
-/* unused harmony reexport SystemJsNgModuleLoader */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_7__linker_system_js_ng_module_factory_loader__["a"]; });
 /* unused harmony reexport SystemJsNgModuleLoaderConfig */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__linker_template_ref__ = __webpack_require__(268);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_8__linker_template_ref__["b"]; });
@@ -68565,7 +61410,7 @@ function QueryList_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__di__ = __webpack_require__(24);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__compiler__ = __webpack_require__(86);
 /* unused harmony export SystemJsNgModuleLoaderConfig */
-/* unused harmony export SystemJsNgModuleLoader */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SystemJsNgModuleLoader; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -69608,9 +62453,9 @@ function ViewContainer_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_decorators__ = __webpack_require__(66);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return ANALYZE_FOR_ENTRY_COMPONENTS; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Attribute; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return Query; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return ContentChildren; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return ContentChild; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return Query; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return ContentChildren; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return ContentChild; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return ViewChildren; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return ViewChild; });
 /**
@@ -69743,13 +62588,13 @@ var /** @type {?} */ ViewChild = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__change_detection_constants__ = __webpack_require__(119);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_decorators__ = __webpack_require__(66);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return Directive; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return Component; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Pipe; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return Input; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return Output; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return HostBinding; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return HostListener; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return Directive; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Component; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return Pipe; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return Input; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return Output; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return HostBinding; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return HostListener; });
 /**
  * @license
  * Copyright Google Inc. All Rights Reserved.
@@ -70066,447 +62911,12 @@ function endTimeRange(range) {
 //# sourceMappingURL=zone.js.map
 
 /***/ }),
-/* 423 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_forms__ = __webpack_require__(427);
-/* unused harmony reexport AbstractControlDirective */
-/* unused harmony reexport AbstractFormGroupDirective */
-/* unused harmony reexport CheckboxControlValueAccessor */
-/* unused harmony reexport ControlContainer */
-/* unused harmony reexport NG_VALUE_ACCESSOR */
-/* unused harmony reexport DefaultValueAccessor */
-/* unused harmony reexport NgControl */
-/* unused harmony reexport NgControlStatus */
-/* unused harmony reexport NgControlStatusGroup */
-/* unused harmony reexport NgForm */
-/* unused harmony reexport NgModel */
-/* unused harmony reexport NgModelGroup */
-/* unused harmony reexport RadioControlValueAccessor */
-/* unused harmony reexport FormControlDirective */
-/* unused harmony reexport FormControlName */
-/* unused harmony reexport FormGroupDirective */
-/* unused harmony reexport FormArrayName */
-/* unused harmony reexport FormGroupName */
-/* unused harmony reexport NgSelectOption */
-/* unused harmony reexport SelectControlValueAccessor */
-/* unused harmony reexport SelectMultipleControlValueAccessor */
-/* unused harmony reexport CheckboxRequiredValidator */
-/* unused harmony reexport MaxLengthValidator */
-/* unused harmony reexport MinLengthValidator */
-/* unused harmony reexport PatternValidator */
-/* unused harmony reexport RequiredValidator */
-/* unused harmony reexport FormBuilder */
-/* unused harmony reexport AbstractControl */
-/* unused harmony reexport FormArray */
-/* unused harmony reexport FormControl */
-/* unused harmony reexport FormGroup */
-/* unused harmony reexport NG_ASYNC_VALIDATORS */
-/* unused harmony reexport NG_VALIDATORS */
-/* unused harmony reexport Validators */
-/* unused harmony reexport VERSION */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_forms__["a"]; });
-/* unused harmony reexport ReactiveFormsModule */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-/**
- * @module
- * @description
- * Entry point for all public APIs of the forms package.
- */
-
-//# sourceMappingURL=index.js.map
-
-/***/ }),
-/* 424 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives_checkbox_value_accessor__ = __webpack_require__(127);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__directives_default_value_accessor__ = __webpack_require__(128);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_ng_control_status__ = __webpack_require__(183);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_ng_form__ = __webpack_require__(88);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_ng_model__ = __webpack_require__(184);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__directives_ng_model_group__ = __webpack_require__(129);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__directives_number_value_accessor__ = __webpack_require__(185);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__directives_radio_control_value_accessor__ = __webpack_require__(89);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__directives_range_value_accessor__ = __webpack_require__(186);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__directives_reactive_directives_form_control_directive__ = __webpack_require__(187);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__directives_reactive_directives_form_control_name__ = __webpack_require__(188);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__directives_reactive_directives_form_group_directive__ = __webpack_require__(90);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__directives_reactive_directives_form_group_name__ = __webpack_require__(91);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__directives_select_control_value_accessor__ = __webpack_require__(131);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__directives_select_multiple_control_value_accessor__ = __webpack_require__(132);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__directives_validators__ = __webpack_require__(280);
-/* unused harmony reexport CheckboxControlValueAccessor */
-/* unused harmony reexport DefaultValueAccessor */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__directives_ng_control__ = __webpack_require__(58);
-/* unused harmony reexport NgControl */
-/* unused harmony reexport NgControlStatus */
-/* unused harmony reexport NgControlStatusGroup */
-/* unused harmony reexport NgForm */
-/* unused harmony reexport NgModel */
-/* unused harmony reexport NgModelGroup */
-/* unused harmony reexport NumberValueAccessor */
-/* unused harmony reexport RadioControlValueAccessor */
-/* unused harmony reexport RangeValueAccessor */
-/* unused harmony reexport FormControlDirective */
-/* unused harmony reexport FormControlName */
-/* unused harmony reexport FormGroupDirective */
-/* unused harmony reexport FormArrayName */
-/* unused harmony reexport FormGroupName */
-/* unused harmony reexport NgSelectOption */
-/* unused harmony reexport SelectControlValueAccessor */
-/* unused harmony reexport NgSelectMultipleOption */
-/* unused harmony reexport SelectMultipleControlValueAccessor */
-/* unused harmony export SHARED_FORM_DIRECTIVES */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TEMPLATE_DRIVEN_DIRECTIVES; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return REACTIVE_DRIVEN_DIRECTIVES; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return InternalFormsSharedModule; });
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var /** @type {?} */ SHARED_FORM_DIRECTIVES = [
-    __WEBPACK_IMPORTED_MODULE_14__directives_select_control_value_accessor__["b" /* NgSelectOption */],
-    __WEBPACK_IMPORTED_MODULE_15__directives_select_multiple_control_value_accessor__["b" /* NgSelectMultipleOption */],
-    __WEBPACK_IMPORTED_MODULE_2__directives_default_value_accessor__["a" /* DefaultValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_7__directives_number_value_accessor__["a" /* NumberValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_9__directives_range_value_accessor__["a" /* RangeValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_1__directives_checkbox_value_accessor__["a" /* CheckboxControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_14__directives_select_control_value_accessor__["a" /* SelectControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_15__directives_select_multiple_control_value_accessor__["a" /* SelectMultipleControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_8__directives_radio_control_value_accessor__["b" /* RadioControlValueAccessor */],
-    __WEBPACK_IMPORTED_MODULE_3__directives_ng_control_status__["a" /* NgControlStatus */],
-    __WEBPACK_IMPORTED_MODULE_3__directives_ng_control_status__["b" /* NgControlStatusGroup */],
-    __WEBPACK_IMPORTED_MODULE_16__directives_validators__["a" /* RequiredValidator */],
-    __WEBPACK_IMPORTED_MODULE_16__directives_validators__["b" /* MinLengthValidator */],
-    __WEBPACK_IMPORTED_MODULE_16__directives_validators__["c" /* MaxLengthValidator */],
-    __WEBPACK_IMPORTED_MODULE_16__directives_validators__["d" /* PatternValidator */],
-    __WEBPACK_IMPORTED_MODULE_16__directives_validators__["e" /* CheckboxRequiredValidator */],
-];
-var /** @type {?} */ TEMPLATE_DRIVEN_DIRECTIVES = [__WEBPACK_IMPORTED_MODULE_5__directives_ng_model__["a" /* NgModel */], __WEBPACK_IMPORTED_MODULE_6__directives_ng_model_group__["a" /* NgModelGroup */], __WEBPACK_IMPORTED_MODULE_4__directives_ng_form__["a" /* NgForm */]];
-var /** @type {?} */ REACTIVE_DRIVEN_DIRECTIVES = [__WEBPACK_IMPORTED_MODULE_10__directives_reactive_directives_form_control_directive__["a" /* FormControlDirective */], __WEBPACK_IMPORTED_MODULE_12__directives_reactive_directives_form_group_directive__["a" /* FormGroupDirective */], __WEBPACK_IMPORTED_MODULE_11__directives_reactive_directives_form_control_name__["a" /* FormControlName */], __WEBPACK_IMPORTED_MODULE_13__directives_reactive_directives_form_group_name__["a" /* FormGroupName */], __WEBPACK_IMPORTED_MODULE_13__directives_reactive_directives_form_group_name__["b" /* FormArrayName */]];
-/**
- * Internal module used for sharing directives between FormsModule and ReactiveFormsModule
- */
-var InternalFormsSharedModule = (function () {
-    function InternalFormsSharedModule() {
-    }
-    InternalFormsSharedModule.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* NgModule */], args: [{
-                    declarations: SHARED_FORM_DIRECTIVES,
-                    exports: SHARED_FORM_DIRECTIVES,
-                },] },
-    ];
-    /** @nocollapse */
-    InternalFormsSharedModule.ctorParameters = function () { return []; };
-    return InternalFormsSharedModule;
-}());
-function InternalFormsSharedModule_tsickle_Closure_declarations() {
-    /** @type {?} */
-    InternalFormsSharedModule.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    InternalFormsSharedModule.ctorParameters;
-}
-//# sourceMappingURL=directives.js.map
-
-/***/ }),
-/* 425 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (immutable) */ __webpack_exports__["a"] = normalizeValidator;
-/* harmony export (immutable) */ __webpack_exports__["b"] = normalizeAsyncValidator;
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-/**
- * @param {?} validator
- * @return {?}
- */
-function normalizeValidator(validator) {
-    if (((validator)).validate) {
-        return function (c) { return ((validator)).validate(c); };
-    }
-    else {
-        return (validator);
-    }
-}
-/**
- * @param {?} validator
- * @return {?}
- */
-function normalizeAsyncValidator(validator) {
-    if (((validator)).validate) {
-        return function (c) { return ((validator)).validate(c); };
-    }
-    else {
-        return (validator);
-    }
-}
-//# sourceMappingURL=normalize_validator.js.map
-
-/***/ }),
-/* 426 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives__ = __webpack_require__(424);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__directives_radio_control_value_accessor__ = __webpack_require__(89);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__form_builder__ = __webpack_require__(282);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FormsModule; });
-/* unused harmony export ReactiveFormsModule */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-
-
-
-/**
- * The ng module for forms.
- * \@stable
- */
-var FormsModule = (function () {
-    function FormsModule() {
-    }
-    FormsModule.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* NgModule */], args: [{
-                    declarations: __WEBPACK_IMPORTED_MODULE_1__directives__["a" /* TEMPLATE_DRIVEN_DIRECTIVES */],
-                    providers: [__WEBPACK_IMPORTED_MODULE_2__directives_radio_control_value_accessor__["a" /* RadioControlRegistry */]],
-                    exports: [__WEBPACK_IMPORTED_MODULE_1__directives__["b" /* InternalFormsSharedModule */], __WEBPACK_IMPORTED_MODULE_1__directives__["a" /* TEMPLATE_DRIVEN_DIRECTIVES */]]
-                },] },
-    ];
-    /** @nocollapse */
-    FormsModule.ctorParameters = function () { return []; };
-    return FormsModule;
-}());
-function FormsModule_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FormsModule.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FormsModule.ctorParameters;
-}
-/**
- * The ng module for reactive forms.
- * \@stable
- */
-var ReactiveFormsModule = (function () {
-    function ReactiveFormsModule() {
-    }
-    ReactiveFormsModule.decorators = [
-        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["b" /* NgModule */], args: [{
-                    declarations: [__WEBPACK_IMPORTED_MODULE_1__directives__["c" /* REACTIVE_DRIVEN_DIRECTIVES */]],
-                    providers: [__WEBPACK_IMPORTED_MODULE_3__form_builder__["a" /* FormBuilder */], __WEBPACK_IMPORTED_MODULE_2__directives_radio_control_value_accessor__["a" /* RadioControlRegistry */]],
-                    exports: [__WEBPACK_IMPORTED_MODULE_1__directives__["b" /* InternalFormsSharedModule */], __WEBPACK_IMPORTED_MODULE_1__directives__["c" /* REACTIVE_DRIVEN_DIRECTIVES */]]
-                },] },
-    ];
-    /** @nocollapse */
-    ReactiveFormsModule.ctorParameters = function () { return []; };
-    return ReactiveFormsModule;
-}());
-function ReactiveFormsModule_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ReactiveFormsModule.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    ReactiveFormsModule.ctorParameters;
-}
-//# sourceMappingURL=form_providers.js.map
-
-/***/ }),
-/* 427 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__directives_abstract_control_directive__ = __webpack_require__(182);
-/* unused harmony reexport AbstractControlDirective */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives_abstract_form_group_directive__ = __webpack_require__(87);
-/* unused harmony reexport AbstractFormGroupDirective */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__directives_checkbox_value_accessor__ = __webpack_require__(127);
-/* unused harmony reexport CheckboxControlValueAccessor */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__directives_control_container__ = __webpack_require__(36);
-/* unused harmony reexport ControlContainer */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_control_value_accessor__ = __webpack_require__(25);
-/* unused harmony reexport NG_VALUE_ACCESSOR */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_default_value_accessor__ = __webpack_require__(128);
-/* unused harmony reexport DefaultValueAccessor */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__directives_ng_control__ = __webpack_require__(58);
-/* unused harmony reexport NgControl */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__directives_ng_control_status__ = __webpack_require__(183);
-/* unused harmony reexport NgControlStatus */
-/* unused harmony reexport NgControlStatusGroup */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__directives_ng_form__ = __webpack_require__(88);
-/* unused harmony reexport NgForm */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__directives_ng_model__ = __webpack_require__(184);
-/* unused harmony reexport NgModel */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__directives_ng_model_group__ = __webpack_require__(129);
-/* unused harmony reexport NgModelGroup */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__directives_radio_control_value_accessor__ = __webpack_require__(89);
-/* unused harmony reexport RadioControlValueAccessor */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__directives_reactive_directives_form_control_directive__ = __webpack_require__(187);
-/* unused harmony reexport FormControlDirective */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__directives_reactive_directives_form_control_name__ = __webpack_require__(188);
-/* unused harmony reexport FormControlName */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__directives_reactive_directives_form_group_directive__ = __webpack_require__(90);
-/* unused harmony reexport FormGroupDirective */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__directives_reactive_directives_form_group_name__ = __webpack_require__(91);
-/* unused harmony reexport FormArrayName */
-/* unused harmony reexport FormGroupName */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__directives_select_control_value_accessor__ = __webpack_require__(131);
-/* unused harmony reexport NgSelectOption */
-/* unused harmony reexport SelectControlValueAccessor */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__directives_select_multiple_control_value_accessor__ = __webpack_require__(132);
-/* unused harmony reexport SelectMultipleControlValueAccessor */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__directives_validators__ = __webpack_require__(280);
-/* unused harmony reexport CheckboxRequiredValidator */
-/* unused harmony reexport MaxLengthValidator */
-/* unused harmony reexport MinLengthValidator */
-/* unused harmony reexport PatternValidator */
-/* unused harmony reexport RequiredValidator */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__form_builder__ = __webpack_require__(282);
-/* unused harmony reexport FormBuilder */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__model__ = __webpack_require__(133);
-/* unused harmony reexport AbstractControl */
-/* unused harmony reexport FormArray */
-/* unused harmony reexport FormControl */
-/* unused harmony reexport FormGroup */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__validators__ = __webpack_require__(33);
-/* unused harmony reexport NG_ASYNC_VALIDATORS */
-/* unused harmony reexport NG_VALIDATORS */
-/* unused harmony reexport Validators */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__version__ = __webpack_require__(428);
-/* unused harmony reexport VERSION */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__form_providers__ = __webpack_require__(426);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_23__form_providers__["a"]; });
-/* unused harmony reexport ReactiveFormsModule */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-/**
- * @module
- * @description
- * This module is used for handling user input, by defining and building a {@link FormGroup} that
- * consists of {@link FormControl} objects, and mapping them onto the DOM. {@link FormControl}
- * objects can then be used to read information from the form DOM elements.
- *
- * Forms providers are not included in default providers; you must import these providers
- * explicitly.
- */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//# sourceMappingURL=forms.js.map
-
-/***/ }),
-/* 428 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* unused harmony export VERSION */
-/**
- * @license
- * Copyright Google Inc. All Rights Reserved.
- *
- * Use of this source code is governed by an MIT-style license that can be
- * found in the LICENSE file at https://angular.io/license
- */
-
-/**
- * @stable
- */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Version */]('2.4.10');
-//# sourceMappingURL=version.js.map
-
-/***/ }),
+/* 423 */,
+/* 424 */,
+/* 425 */,
+/* 426 */,
+/* 427 */,
+/* 428 */,
 /* 429 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -70523,7 +62933,7 @@ var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["
 /* unused harmony export _createDefaultCookieXSRFStrategy */
 /* unused harmony export httpFactory */
 /* unused harmony export jsonpFactory */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HttpModule; });
+/* unused harmony export HttpModule */
 /* unused harmony export JsonpModule */
 /**
  * @license
@@ -70650,7 +63060,7 @@ function JsonpModule_tsickle_Closure_declarations() {
 /* unused harmony reexport XHRConnection */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__base_request_options__ = __webpack_require__(190);
 /* unused harmony reexport BaseRequestOptions */
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_3__base_request_options__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_3__base_request_options__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__base_response_options__ = __webpack_require__(134);
 /* unused harmony reexport BaseResponseOptions */
 /* unused harmony reexport ResponseOptions */
@@ -70660,12 +63070,12 @@ function JsonpModule_tsickle_Closure_declarations() {
 /* unused harmony reexport ResponseContentType */
 /* unused harmony reexport ResponseType */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__headers__ = __webpack_require__(92);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_6__headers__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_6__headers__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__http__ = __webpack_require__(289);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_7__http__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_7__http__["a"]; });
 /* unused harmony reexport Jsonp */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__http_module__ = __webpack_require__(429);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_8__http_module__["a"]; });
+/* unused harmony reexport HttpModule */
 /* unused harmony reexport JsonpModule */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__interfaces__ = __webpack_require__(93);
 /* unused harmony reexport Connection */
@@ -70721,7 +63131,7 @@ function JsonpModule_tsickle_Closure_declarations() {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Version */]('2.4.10');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Version */]('2.4.10');
 //# sourceMappingURL=version.js.map
 
 /***/ }),
@@ -70938,7 +63348,7 @@ var RESOURCE_CACHE_PROVIDER = [{ provide: __WEBPACK_IMPORTED_MODULE_0__angular_c
 /**
  * @stable
  */
-var platformBrowserDynamic = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["h" /* createPlatformFactory */])(__WEBPACK_IMPORTED_MODULE_0__angular_compiler__["b" /* platformCoreDynamic */], 'browserDynamic', __WEBPACK_IMPORTED_MODULE_2__platform_providers__["a" /* INTERNAL_BROWSER_DYNAMIC_PLATFORM_PROVIDERS */]);
+var platformBrowserDynamic = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_core__["i" /* createPlatformFactory */])(__WEBPACK_IMPORTED_MODULE_0__angular_compiler__["b" /* platformCoreDynamic */], 'browserDynamic', __WEBPACK_IMPORTED_MODULE_2__platform_providers__["a" /* INTERNAL_BROWSER_DYNAMIC_PLATFORM_PROVIDERS */]);
 //# sourceMappingURL=platform-browser-dynamic.js.map
 
 /***/ }),
@@ -70980,8 +63390,8 @@ var __platform_browser_dynamic_private__ = {
  * found in the LICENSE file at https://angular.io/license
  */
 
-var INTERNAL_BROWSER_PLATFORM_PROVIDERS = __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["b" /* __platform_browser_private__ */].INTERNAL_BROWSER_PLATFORM_PROVIDERS;
-var getDOM = __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["b" /* __platform_browser_private__ */].getDOM;
+var INTERNAL_BROWSER_PLATFORM_PROVIDERS = __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* __platform_browser_private__ */].INTERNAL_BROWSER_PLATFORM_PROVIDERS;
+var getDOM = __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* __platform_browser_private__ */].getDOM;
 //# sourceMappingURL=private_import_platform-browser.js.map
 
 /***/ }),
@@ -71052,7 +63462,7 @@ var CachedResourceLoader = (function (_super) {
 /**
  * @stable
  */
-var VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Version */]('2.4.10');
+var VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Version */]('2.4.10');
 //# sourceMappingURL=version.js.map
 
 /***/ }),
@@ -71255,7 +63665,7 @@ var AngularProfiler = (function () {
      * @param {?} ref
      */
     function AngularProfiler(ref) {
-        this.appRef = ref.injector.get(__WEBPACK_IMPORTED_MODULE_0__angular_core__["K" /* ApplicationRef */]);
+        this.appRef = ref.injector.get(__WEBPACK_IMPORTED_MODULE_0__angular_core__["L" /* ApplicationRef */]);
     }
     /**
      * Exercises change detection in a loop and then prints the average amount of
@@ -71495,7 +63905,7 @@ var WebAnimationsPlayer = (function () {
             var /** @type {?} */ formattedKeyframe = {};
             Object.keys(styles).forEach(function (prop, index) {
                 var /** @type {?} */ value = styles[prop];
-                if (value == __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* AUTO_STYLE */]) {
+                if (value == __WEBPACK_IMPORTED_MODULE_0__angular_core__["f" /* AUTO_STYLE */]) {
                     value = _computeStyle(_this.element, prop);
                 }
                 if (value != undefined) {
@@ -71944,7 +64354,7 @@ function iterateListLike(obj, fn) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__browser__ = __webpack_require__(293);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__browser__["a"]; });
+/* unused harmony reexport BrowserModule */
 /* unused harmony reexport platformBrowser */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__browser_title__ = __webpack_require__(297);
 /* unused harmony reexport Title */
@@ -71968,7 +64378,7 @@ function iterateListLike(obj, fn) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__security_dom_sanitization_service__ = __webpack_require__(301);
 /* unused harmony reexport DomSanitizer */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__private_export__ = __webpack_require__(448);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_10__private_export__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_10__private_export__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__version__ = __webpack_require__(451);
 /* unused harmony reexport VERSION */
 /**
@@ -72050,9 +64460,9 @@ var /** @type {?} */ __platform_browser_private__ = {
     DomEventsPlugin: __WEBPACK_IMPORTED_MODULE_7__dom_events_dom_events__["a" /* DomEventsPlugin */],
     KeyEventsPlugin: __WEBPACK_IMPORTED_MODULE_9__dom_events_key_events__["a" /* KeyEventsPlugin */],
     HammerGesturesPlugin: __WEBPACK_IMPORTED_MODULE_8__dom_events_hammer_gestures__["a" /* HammerGesturesPlugin */],
-    initDomAdapter: __WEBPACK_IMPORTED_MODULE_0__browser__["b" /* initDomAdapter */],
-    INTERNAL_BROWSER_PLATFORM_PROVIDERS: __WEBPACK_IMPORTED_MODULE_0__browser__["c" /* INTERNAL_BROWSER_PLATFORM_PROVIDERS */],
-    BROWSER_SANITIZATION_PROVIDERS: __WEBPACK_IMPORTED_MODULE_0__browser__["d" /* BROWSER_SANITIZATION_PROVIDERS */],
+    initDomAdapter: __WEBPACK_IMPORTED_MODULE_0__browser__["a" /* initDomAdapter */],
+    INTERNAL_BROWSER_PLATFORM_PROVIDERS: __WEBPACK_IMPORTED_MODULE_0__browser__["b" /* INTERNAL_BROWSER_PLATFORM_PROVIDERS */],
+    BROWSER_SANITIZATION_PROVIDERS: __WEBPACK_IMPORTED_MODULE_0__browser__["c" /* BROWSER_SANITIZATION_PROVIDERS */],
     WebAnimationsDriver: __WEBPACK_IMPORTED_MODULE_11__dom_web_animations_driver__["a" /* WebAnimationsDriver */]
 };
 //# sourceMappingURL=private_export.js.map
@@ -72354,7 +64764,7 @@ function sanitizeHtml(unsafeHtmlInput) {
             var child = _a[_i];
             DOM.removeChild(parent_1, child);
         }
-        if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])() && sanitizer.sanitizedSomething) {
+        if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])() && sanitizer.sanitizedSomething) {
             DOM.log('WARNING: sanitizing HTML stripped some content (see http://g.co/ng/security#xss).');
         }
         return safeHtml;
@@ -72469,7 +64879,7 @@ function sanitizeStyle(value) {
         value.match(SAFE_STYLE_VALUE) && hasBalancedQuotes(value)) {
         return value; // Safe style values.
     }
-    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* isDevMode */])()) {
+    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* isDevMode */])()) {
         __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__dom_dom_adapter__["b" /* getDOM */])().log("WARNING: sanitizing unsafe style value " + value + " (see http://g.co/ng/security#xss).");
     }
     return 'unsafe';
@@ -72494,7 +64904,7 @@ function sanitizeStyle(value) {
 /**
  * @stable
  */
-var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["c" /* Version */]('2.4.10');
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Version */]('2.4.10');
 //# sourceMappingURL=version.js.map
 
 /***/ }),
@@ -72841,84 +65251,7 @@ exports.fromPromise = PromiseObservable_1.PromiseObservable.create;
 //# sourceMappingURL=fromPromise.js.map
 
 /***/ }),
-/* 615 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var root_1 = __webpack_require__(101);
-/* tslint:enable:max-line-length */
-/**
- * Converts an Observable sequence to a ES2015 compliant promise.
- *
- * @example
- * // Using normal ES2015
- * let source = Rx.Observable
- *   .of(42)
- *   .toPromise();
- *
- * source.then((value) => console.log('Value: %s', value));
- * // => Value: 42
- *
- * // Rejected Promise
- * // Using normal ES2015
- * let source = Rx.Observable
- *   .throw(new Error('woops'))
- *   .toPromise();
- *
- * source
- *   .then((value) => console.log('Value: %s', value))
- *   .catch((err) => console.log('Error: %s', err));
- * // => Error: Error: woops
- *
- * // Setting via the config
- * Rx.config.Promise = RSVP.Promise;
- *
- * let source = Rx.Observable
- *   .of(42)
- *   .toPromise();
- *
- * source.then((value) => console.log('Value: %s', value));
- * // => Value: 42
- *
- * // Setting via the method
- * let source = Rx.Observable
- *   .of(42)
- *   .toPromise(RSVP.Promise);
- *
- * source.then((value) => console.log('Value: %s', value));
- * // => Value: 42
- *
- * @param {PromiseConstructor} [PromiseCtor] The constructor of the promise. If not provided,
- * it will look for a constructor first in Rx.config.Promise then fall back to
- * the native Promise constructor if available.
- * @return {Promise<T>} An ES2015 compatible promise with the last value from
- * the observable sequence.
- * @method toPromise
- * @owner Observable
- */
-function toPromise(PromiseCtor) {
-    var _this = this;
-    if (!PromiseCtor) {
-        if (root_1.root.Rx && root_1.root.Rx.config && root_1.root.Rx.config.Promise) {
-            PromiseCtor = root_1.root.Rx.config.Promise;
-        }
-        else if (root_1.root.Promise) {
-            PromiseCtor = root_1.root.Promise;
-        }
-    }
-    if (!PromiseCtor) {
-        throw new Error('no Promise impl found');
-    }
-    return new PromiseCtor(function (resolve, reject) {
-        var value;
-        _this.subscribe(function (x) { return value = x; }, function (err) { return reject(err); }, function () { return resolve(value); });
-    });
-}
-exports.toPromise = toPromise;
-//# sourceMappingURL=toPromise.js.map
-
-/***/ }),
+/* 615 */,
 /* 616 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -73053,6 +65386,9579 @@ function tryCatch(fn) {
 exports.tryCatch = tryCatch;
 ;
 //# sourceMappingURL=tryCatch.js.map
+
+/***/ }),
+/* 622 */,
+/* 623 */,
+/* 624 */,
+/* 625 */,
+/* 626 */,
+/* 627 */,
+/* 628 */,
+/* 629 */,
+/* 630 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PRIMARY_OUTLET; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NavigationCancelingError; });
+/* harmony export (immutable) */ __webpack_exports__["c"] = defaultUrlMatcher;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+/**
+ * @whatItDoes Name of the primary outlet.
+ *
+ * @stable
+ */
+var /** @type {?} */ PRIMARY_OUTLET = 'primary';
+var NavigationCancelingError = (function (_super) {
+    __extends(NavigationCancelingError, _super);
+    /**
+     * @param {?} message
+     */
+    function NavigationCancelingError(message) {
+        _super.call(this, message);
+        this.message = message;
+        this.stack = (new Error(message)).stack;
+    }
+    /**
+     * @return {?}
+     */
+    NavigationCancelingError.prototype.toString = function () { return this.message; };
+    return NavigationCancelingError;
+}(Error));
+function NavigationCancelingError_tsickle_Closure_declarations() {
+    /** @type {?} */
+    NavigationCancelingError.prototype.stack;
+    /** @type {?} */
+    NavigationCancelingError.prototype.message;
+}
+/**
+ * @param {?} segments
+ * @param {?} segmentGroup
+ * @param {?} route
+ * @return {?}
+ */
+function defaultUrlMatcher(segments, segmentGroup, route) {
+    var /** @type {?} */ path = route.path;
+    var /** @type {?} */ parts = path.split('/');
+    var /** @type {?} */ posParams = {};
+    var /** @type {?} */ consumed = [];
+    var /** @type {?} */ currentIndex = 0;
+    for (var /** @type {?} */ i = 0; i < parts.length; ++i) {
+        if (currentIndex >= segments.length)
+            return null;
+        var /** @type {?} */ current = segments[currentIndex];
+        var /** @type {?} */ p = parts[i];
+        var /** @type {?} */ isPosParam = p.startsWith(':');
+        if (!isPosParam && p !== current.path)
+            return null;
+        if (isPosParam) {
+            posParams[p.substring(1)] = current;
+        }
+        consumed.push(current);
+        currentIndex++;
+    }
+    if (route.pathMatch === 'full' &&
+        (segmentGroup.hasChildren() || currentIndex < segments.length)) {
+        return null;
+    }
+    else {
+        return { consumed: consumed, posParams: posParams };
+    }
+}
+//# sourceMappingURL=shared.js.map
+
+/***/ }),
+/* 631 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise__ = __webpack_require__(614);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_operator_concatAll__ = __webpack_require__(659);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_operator_concatAll___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_operator_concatAll__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_every__ = __webpack_require__(661);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_every___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_operator_every__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_last__ = __webpack_require__(684);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_last___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_operator_last__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_map__ = __webpack_require__(639);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll__ = __webpack_require__(646);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__private_import_core__ = __webpack_require__(672);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__shared__ = __webpack_require__(630);
+/* harmony export (immutable) */ __webpack_exports__["h"] = shallowEqualArrays;
+/* harmony export (immutable) */ __webpack_exports__["g"] = shallowEqual;
+/* harmony export (immutable) */ __webpack_exports__["a"] = flatten;
+/* unused harmony export first */
+/* harmony export (immutable) */ __webpack_exports__["i"] = last;
+/* unused harmony export and */
+/* harmony export (immutable) */ __webpack_exports__["e"] = merge;
+/* harmony export (immutable) */ __webpack_exports__["d"] = forEach;
+/* harmony export (immutable) */ __webpack_exports__["f"] = waitForMap;
+/* harmony export (immutable) */ __webpack_exports__["c"] = andObservables;
+/* harmony export (immutable) */ __webpack_exports__["b"] = wrapIntoObservable;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+
+
+
+/**
+ * @param {?} a
+ * @param {?} b
+ * @return {?}
+ */
+function shallowEqualArrays(a, b) {
+    if (a.length !== b.length)
+        return false;
+    for (var /** @type {?} */ i = 0; i < a.length; ++i) {
+        if (!shallowEqual(a[i], b[i]))
+            return false;
+    }
+    return true;
+}
+/**
+ * @param {?} a
+ * @param {?} b
+ * @return {?}
+ */
+function shallowEqual(a, b) {
+    var /** @type {?} */ k1 = Object.keys(a);
+    var /** @type {?} */ k2 = Object.keys(b);
+    if (k1.length != k2.length) {
+        return false;
+    }
+    var /** @type {?} */ key;
+    for (var /** @type {?} */ i = 0; i < k1.length; i++) {
+        key = k1[i];
+        if (a[key] !== b[key]) {
+            return false;
+        }
+    }
+    return true;
+}
+/**
+ * @param {?} a
+ * @return {?}
+ */
+function flatten(a) {
+    var /** @type {?} */ target = [];
+    for (var /** @type {?} */ i = 0; i < a.length; ++i) {
+        for (var /** @type {?} */ j = 0; j < a[i].length; ++j) {
+            target.push(a[i][j]);
+        }
+    }
+    return target;
+}
+/**
+ * @param {?} a
+ * @return {?}
+ */
+function first(a) {
+    return a.length > 0 ? a[0] : null;
+}
+/**
+ * @param {?} a
+ * @return {?}
+ */
+function last(a) {
+    return a.length > 0 ? a[a.length - 1] : null;
+}
+/**
+ * @param {?} bools
+ * @return {?}
+ */
+function and(bools) {
+    return !bools.some(function (v) { return !v; });
+}
+/**
+ * @param {?} m1
+ * @param {?} m2
+ * @return {?}
+ */
+function merge(m1, m2) {
+    var /** @type {?} */ m = {};
+    for (var attr in m1) {
+        if (m1.hasOwnProperty(attr)) {
+            m[attr] = m1[attr];
+        }
+    }
+    for (var attr in m2) {
+        if (m2.hasOwnProperty(attr)) {
+            m[attr] = m2[attr];
+        }
+    }
+    return m;
+}
+/**
+ * @param {?} map
+ * @param {?} callback
+ * @return {?}
+ */
+function forEach(map, callback) {
+    for (var prop in map) {
+        if (map.hasOwnProperty(prop)) {
+            callback(map[prop], prop);
+        }
+    }
+}
+/**
+ * @param {?} obj
+ * @param {?} fn
+ * @return {?}
+ */
+function waitForMap(obj, fn) {
+    var /** @type {?} */ waitFor = [];
+    var /** @type {?} */ res = {};
+    forEach(obj, function (a, k) {
+        if (k === __WEBPACK_IMPORTED_MODULE_8__shared__["a" /* PRIMARY_OUTLET */]) {
+            waitFor.push(__WEBPACK_IMPORTED_MODULE_5_rxjs_operator_map__["map"].call(fn(k, a), function (_) {
+                res[k] = _;
+                return _;
+            }));
+        }
+    });
+    forEach(obj, function (a, k) {
+        if (k !== __WEBPACK_IMPORTED_MODULE_8__shared__["a" /* PRIMARY_OUTLET */]) {
+            waitFor.push(__WEBPACK_IMPORTED_MODULE_5_rxjs_operator_map__["map"].call(fn(k, a), function (_) {
+                res[k] = _;
+                return _;
+            }));
+        }
+    });
+    if (waitFor.length > 0) {
+        var /** @type {?} */ concatted$ = __WEBPACK_IMPORTED_MODULE_2_rxjs_operator_concatAll__["concatAll"].call(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__["of"].apply(void 0, waitFor));
+        var /** @type {?} */ last$ = __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_last__["last"].call(concatted$);
+        return __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_map__["map"].call(last$, function () { return res; });
+    }
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__["of"])(res);
+}
+/**
+ * @param {?} observables
+ * @return {?}
+ */
+function andObservables(observables) {
+    var /** @type {?} */ merged$ = __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll__["mergeAll"].call(observables);
+    return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_every__["every"].call(merged$, function (result) { return result === true; });
+}
+/**
+ * @param {?} value
+ * @return {?}
+ */
+function wrapIntoObservable(value) {
+    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__private_import_core__["a" /* isObservable */])(value)) {
+        return value;
+    }
+    if (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__private_import_core__["b" /* isPromise */])(value)) {
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0_rxjs_observable_fromPromise__["fromPromise"])(value);
+    }
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__["of"])(value);
+}
+//# sourceMappingURL=collection.js.map
+
+/***/ }),
+/* 632 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__shared__ = __webpack_require__(630);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__utils_collection__ = __webpack_require__(631);
+/* harmony export (immutable) */ __webpack_exports__["c"] = createEmptyUrlTree;
+/* harmony export (immutable) */ __webpack_exports__["e"] = containsTree;
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return UrlTree; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return UrlSegmentGroup; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return UrlSegment; });
+/* harmony export (immutable) */ __webpack_exports__["g"] = equalSegments;
+/* unused harmony export equalPath */
+/* harmony export (immutable) */ __webpack_exports__["h"] = mapChildrenIntoArray;
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UrlSerializer; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return DefaultUrlSerializer; });
+/* unused harmony export serializePaths */
+/* unused harmony export encode */
+/* unused harmony export decode */
+/* unused harmony export serializePath */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+/**
+ * @return {?}
+ */
+function createEmptyUrlTree() {
+    return new UrlTree(new UrlSegmentGroup([], {}), {}, null);
+}
+/**
+ * @param {?} container
+ * @param {?} containee
+ * @param {?} exact
+ * @return {?}
+ */
+function containsTree(container, containee, exact) {
+    if (exact) {
+        return equalQueryParams(container.queryParams, containee.queryParams) &&
+            equalSegmentGroups(container.root, containee.root);
+    }
+    return containsQueryParams(container.queryParams, containee.queryParams) &&
+        containsSegmentGroup(container.root, containee.root);
+}
+/**
+ * @param {?} container
+ * @param {?} containee
+ * @return {?}
+ */
+function equalQueryParams(container, containee) {
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["g" /* shallowEqual */])(container, containee);
+}
+/**
+ * @param {?} container
+ * @param {?} containee
+ * @return {?}
+ */
+function equalSegmentGroups(container, containee) {
+    if (!equalPath(container.segments, containee.segments))
+        return false;
+    if (container.numberOfChildren !== containee.numberOfChildren)
+        return false;
+    for (var c in containee.children) {
+        if (!container.children[c])
+            return false;
+        if (!equalSegmentGroups(container.children[c], containee.children[c]))
+            return false;
+    }
+    return true;
+}
+/**
+ * @param {?} container
+ * @param {?} containee
+ * @return {?}
+ */
+function containsQueryParams(container, containee) {
+    return Object.keys(containee).length <= Object.keys(container).length &&
+        Object.keys(containee).every(function (key) { return containee[key] === container[key]; });
+}
+/**
+ * @param {?} container
+ * @param {?} containee
+ * @return {?}
+ */
+function containsSegmentGroup(container, containee) {
+    return containsSegmentGroupHelper(container, containee, containee.segments);
+}
+/**
+ * @param {?} container
+ * @param {?} containee
+ * @param {?} containeePaths
+ * @return {?}
+ */
+function containsSegmentGroupHelper(container, containee, containeePaths) {
+    if (container.segments.length > containeePaths.length) {
+        var /** @type {?} */ current = container.segments.slice(0, containeePaths.length);
+        if (!equalPath(current, containeePaths))
+            return false;
+        if (containee.hasChildren())
+            return false;
+        return true;
+    }
+    else if (container.segments.length === containeePaths.length) {
+        if (!equalPath(container.segments, containeePaths))
+            return false;
+        for (var c in containee.children) {
+            if (!container.children[c])
+                return false;
+            if (!containsSegmentGroup(container.children[c], containee.children[c]))
+                return false;
+        }
+        return true;
+    }
+    else {
+        var /** @type {?} */ current = containeePaths.slice(0, container.segments.length);
+        var /** @type {?} */ next = containeePaths.slice(container.segments.length);
+        if (!equalPath(container.segments, current))
+            return false;
+        if (!container.children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]])
+            return false;
+        return containsSegmentGroupHelper(container.children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]], containee, next);
+    }
+}
+/**
+ * \@whatItDoes Represents the parsed URL.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const tree: UrlTree =
+ *       router.parseUrl('/team/33/(user/victor//support:help)?debug=true#fragment');
+ *     const f = tree.fragment; // return 'fragment'
+ *     const q = tree.queryParams; // returns {debug: 'true'}
+ *     const g: UrlSegmentGroup = tree.root.children[PRIMARY_OUTLET];
+ *     const s: UrlSegment[] = g.segments; // returns 2 segments 'team' and '33'
+ *     g.children[PRIMARY_OUTLET].segments; // returns 2 segments 'user' and 'victor'
+ *     g.children['support'].segments; // return 1 segment 'help'
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ *
+ * Since a router state is a tree, and the URL is nothing but a serialized state, the URL is a
+ * serialized tree.
+ * UrlTree is a data structure that provides a lot of affordances in dealing with URLs
+ *
+ * \@stable
+ */
+var UrlTree = (function () {
+    /**
+     * \@internal
+     * @param {?} root
+     * @param {?} queryParams
+     * @param {?} fragment
+     */
+    function UrlTree(root, queryParams, fragment) {
+        this.root = root;
+        this.queryParams = queryParams;
+        this.fragment = fragment;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    UrlTree.prototype.toString = function () { return new DefaultUrlSerializer().serialize(this); };
+    return UrlTree;
+}());
+function UrlTree_tsickle_Closure_declarations() {
+    /**
+     * The root segment group of the URL tree
+     * @type {?}
+     */
+    UrlTree.prototype.root;
+    /**
+     * The query params of the URL
+     * @type {?}
+     */
+    UrlTree.prototype.queryParams;
+    /**
+     * The fragment of the URL
+     * @type {?}
+     */
+    UrlTree.prototype.fragment;
+}
+/**
+ * \@whatItDoes Represents the parsed URL segment group.
+ *
+ * See {\@link UrlTree} for more information.
+ *
+ * \@stable
+ */
+var UrlSegmentGroup = (function () {
+    /**
+     * @param {?} segments
+     * @param {?} children
+     */
+    function UrlSegmentGroup(segments, children) {
+        var _this = this;
+        this.segments = segments;
+        this.children = children;
+        /** The parent node in the url tree */
+        this.parent = null;
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["d" /* forEach */])(children, function (v, k) { return v.parent = _this; });
+    }
+    /**
+     * Wether the segment has child segments
+     * @return {?}
+     */
+    UrlSegmentGroup.prototype.hasChildren = function () { return this.numberOfChildren > 0; };
+    Object.defineProperty(UrlSegmentGroup.prototype, "numberOfChildren", {
+        /**
+         * Number of child segments
+         * @return {?}
+         */
+        get: function () { return Object.keys(this.children).length; },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    UrlSegmentGroup.prototype.toString = function () { return serializePaths(this); };
+    return UrlSegmentGroup;
+}());
+function UrlSegmentGroup_tsickle_Closure_declarations() {
+    /**
+     * \@internal
+     * @type {?}
+     */
+    UrlSegmentGroup.prototype._sourceSegment;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    UrlSegmentGroup.prototype._segmentIndexShift;
+    /**
+     * The parent node in the url tree
+     * @type {?}
+     */
+    UrlSegmentGroup.prototype.parent;
+    /**
+     * The URL segments of this group. See {\@link UrlSegment} for more information
+     * @type {?}
+     */
+    UrlSegmentGroup.prototype.segments;
+    /**
+     * The list of children of this group
+     * @type {?}
+     */
+    UrlSegmentGroup.prototype.children;
+}
+/**
+ * \@whatItDoes Represents a single URL segment.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const tree: UrlTree = router.parseUrl('/team;id=33');
+ *     const g: UrlSegmentGroup = tree.root.children[PRIMARY_OUTLET];
+ *     const s: UrlSegment[] = g.segments;
+ *     s[0].path; // returns 'team'
+ *     s[0].parameters; // returns {id: 33}
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ *
+ * A UrlSegment is a part of a URL between the two slashes. It contains a path and the matrix
+ * parameters associated with the segment.
+ *
+ * \@stable
+ */
+var UrlSegment = (function () {
+    /**
+     * @param {?} path
+     * @param {?} parameters
+     */
+    function UrlSegment(path, parameters) {
+        this.path = path;
+        this.parameters = parameters;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    UrlSegment.prototype.toString = function () { return serializePath(this); };
+    return UrlSegment;
+}());
+function UrlSegment_tsickle_Closure_declarations() {
+    /**
+     * The path part of a URL segment
+     * @type {?}
+     */
+    UrlSegment.prototype.path;
+    /**
+     * The matrix parameters associated with a segment
+     * @type {?}
+     */
+    UrlSegment.prototype.parameters;
+}
+/**
+ * @param {?} a
+ * @param {?} b
+ * @return {?}
+ */
+function equalSegments(a, b) {
+    if (a.length !== b.length)
+        return false;
+    for (var /** @type {?} */ i = 0; i < a.length; ++i) {
+        if (a[i].path !== b[i].path)
+            return false;
+        if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["g" /* shallowEqual */])(a[i].parameters, b[i].parameters))
+            return false;
+    }
+    return true;
+}
+/**
+ * @param {?} a
+ * @param {?} b
+ * @return {?}
+ */
+function equalPath(a, b) {
+    if (a.length !== b.length)
+        return false;
+    for (var /** @type {?} */ i = 0; i < a.length; ++i) {
+        if (a[i].path !== b[i].path)
+            return false;
+    }
+    return true;
+}
+/**
+ * @param {?} segment
+ * @param {?} fn
+ * @return {?}
+ */
+function mapChildrenIntoArray(segment, fn) {
+    var /** @type {?} */ res = [];
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["d" /* forEach */])(segment.children, function (child, childOutlet) {
+        if (childOutlet === __WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]) {
+            res = res.concat(fn(child, childOutlet));
+        }
+    });
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["d" /* forEach */])(segment.children, function (child, childOutlet) {
+        if (childOutlet !== __WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]) {
+            res = res.concat(fn(child, childOutlet));
+        }
+    });
+    return res;
+}
+/**
+ * \@whatItDoes Serializes and deserializes a URL string into a URL tree.
+ *
+ * \@description The url serialization strategy is customizable. You can
+ * make all URLs case insensitive by providing a custom UrlSerializer.
+ *
+ * See {\@link DefaultUrlSerializer} for an example of a URL serializer.
+ *
+ * \@stable
+ * @abstract
+ */
+var UrlSerializer = (function () {
+    function UrlSerializer() {
+    }
+    /**
+     * Parse a url into a {\@link UrlTree}
+     * @abstract
+     * @param {?} url
+     * @return {?}
+     */
+    UrlSerializer.prototype.parse = function (url) { };
+    /**
+     * Converts a {\@link UrlTree} into a url
+     * @abstract
+     * @param {?} tree
+     * @return {?}
+     */
+    UrlSerializer.prototype.serialize = function (tree) { };
+    return UrlSerializer;
+}());
+/**
+ * \@whatItDoes A default implementation of the {\@link UrlSerializer}.
+ *
+ * \@description
+ *
+ * Example URLs:
+ *
+ * ```
+ * /inbox/33(popup:compose)
+ * /inbox/33;open=true/messages/44
+ * ```
+ *
+ * DefaultUrlSerializer uses parentheses to serialize secondary segments (e.g., popup:compose), the
+ * colon syntax to specify the outlet, and the ';parameter=value' syntax (e.g., open=true) to
+ * specify route specific parameters.
+ *
+ * \@stable
+ */
+var DefaultUrlSerializer = (function () {
+    function DefaultUrlSerializer() {
+    }
+    /**
+     * Parses a url into a {\@link UrlTree}
+     * @param {?} url
+     * @return {?}
+     */
+    DefaultUrlSerializer.prototype.parse = function (url) {
+        var /** @type {?} */ p = new UrlParser(url);
+        return new UrlTree(p.parseRootSegment(), p.parseQueryParams(), p.parseFragment());
+    };
+    /**
+     * Converts a {\@link UrlTree} into a url
+     * @param {?} tree
+     * @return {?}
+     */
+    DefaultUrlSerializer.prototype.serialize = function (tree) {
+        var /** @type {?} */ segment = "/" + serializeSegment(tree.root, true);
+        var /** @type {?} */ query = serializeQueryParams(tree.queryParams);
+        var /** @type {?} */ fragment = tree.fragment !== null && tree.fragment !== undefined ? "#" + encodeURI(tree.fragment) : '';
+        return "" + segment + query + fragment;
+    };
+    return DefaultUrlSerializer;
+}());
+/**
+ * @param {?} segment
+ * @return {?}
+ */
+function serializePaths(segment) {
+    return segment.segments.map(function (p) { return serializePath(p); }).join('/');
+}
+/**
+ * @param {?} segment
+ * @param {?} root
+ * @return {?}
+ */
+function serializeSegment(segment, root) {
+    if (segment.hasChildren() && root) {
+        var /** @type {?} */ primary = segment.children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]] ?
+            serializeSegment(segment.children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]], false) :
+            '';
+        var /** @type {?} */ children_1 = [];
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__utils_collection__["d" /* forEach */])(segment.children, function (v, k) {
+            if (k !== __WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]) {
+                children_1.push(k + ":" + serializeSegment(v, false));
+            }
+        });
+        if (children_1.length > 0) {
+            return primary + "(" + children_1.join('//') + ")";
+        }
+        else {
+            return "" + primary;
+        }
+    }
+    else if (segment.hasChildren() && !root) {
+        var /** @type {?} */ children = mapChildrenIntoArray(segment, function (v, k) {
+            if (k === __WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]) {
+                return [serializeSegment(segment.children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]], false)];
+            }
+            else {
+                return [(k + ":" + serializeSegment(v, false))];
+            }
+        });
+        return serializePaths(segment) + "/(" + children.join('//') + ")";
+    }
+    else {
+        return serializePaths(segment);
+    }
+}
+/**
+ * @param {?} s
+ * @return {?}
+ */
+function encode(s) {
+    return encodeURIComponent(s);
+}
+/**
+ * @param {?} s
+ * @return {?}
+ */
+function decode(s) {
+    return decodeURIComponent(s);
+}
+/**
+ * @param {?} path
+ * @return {?}
+ */
+function serializePath(path) {
+    return "" + encode(path.path) + serializeParams(path.parameters);
+}
+/**
+ * @param {?} params
+ * @return {?}
+ */
+function serializeParams(params) {
+    return pairs(params).map(function (p) { return (";" + encode(p.first) + "=" + encode(p.second)); }).join('');
+}
+/**
+ * @param {?} params
+ * @return {?}
+ */
+function serializeQueryParams(params) {
+    var /** @type {?} */ strParams = Object.keys(params).map(function (name) {
+        var /** @type {?} */ value = params[name];
+        return Array.isArray(value) ? value.map(function (v) { return (encode(name) + "=" + encode(v)); }).join('&') :
+            encode(name) + "=" + encode(value);
+    });
+    return strParams.length ? "?" + strParams.join("&") : '';
+}
+var Pair = (function () {
+    /**
+     * @param {?} first
+     * @param {?} second
+     */
+    function Pair(first, second) {
+        this.first = first;
+        this.second = second;
+    }
+    return Pair;
+}());
+function Pair_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Pair.prototype.first;
+    /** @type {?} */
+    Pair.prototype.second;
+}
+/**
+ * @param {?} obj
+ * @return {?}
+ */
+function pairs(obj) {
+    var /** @type {?} */ res = [];
+    for (var prop in obj) {
+        if (obj.hasOwnProperty(prop)) {
+            res.push(new Pair(prop, obj[prop]));
+        }
+    }
+    return res;
+}
+var /** @type {?} */ SEGMENT_RE = /^[^\/()?;=&#]+/;
+/**
+ * @param {?} str
+ * @return {?}
+ */
+function matchSegments(str) {
+    SEGMENT_RE.lastIndex = 0;
+    var /** @type {?} */ match = str.match(SEGMENT_RE);
+    return match ? match[0] : '';
+}
+var /** @type {?} */ QUERY_PARAM_RE = /^[^=?&#]+/;
+/**
+ * @param {?} str
+ * @return {?}
+ */
+function matchQueryParams(str) {
+    QUERY_PARAM_RE.lastIndex = 0;
+    var /** @type {?} */ match = str.match(SEGMENT_RE);
+    return match ? match[0] : '';
+}
+var /** @type {?} */ QUERY_PARAM_VALUE_RE = /^[^?&#]+/;
+/**
+ * @param {?} str
+ * @return {?}
+ */
+function matchUrlQueryParamValue(str) {
+    QUERY_PARAM_VALUE_RE.lastIndex = 0;
+    var /** @type {?} */ match = str.match(QUERY_PARAM_VALUE_RE);
+    return match ? match[0] : '';
+}
+var UrlParser = (function () {
+    /**
+     * @param {?} url
+     */
+    function UrlParser(url) {
+        this.url = url;
+        this.remaining = url;
+    }
+    /**
+     * @param {?} str
+     * @return {?}
+     */
+    UrlParser.prototype.peekStartsWith = function (str) { return this.remaining.startsWith(str); };
+    /**
+     * @param {?} str
+     * @return {?}
+     */
+    UrlParser.prototype.capture = function (str) {
+        if (!this.remaining.startsWith(str)) {
+            throw new Error("Expected \"" + str + "\".");
+        }
+        this.remaining = this.remaining.substring(str.length);
+    };
+    /**
+     * @return {?}
+     */
+    UrlParser.prototype.parseRootSegment = function () {
+        if (this.remaining.startsWith('/')) {
+            this.capture('/');
+        }
+        if (this.remaining === '' || this.remaining.startsWith('?') || this.remaining.startsWith('#')) {
+            return new UrlSegmentGroup([], {});
+        }
+        return new UrlSegmentGroup([], this.parseChildren());
+    };
+    /**
+     * @return {?}
+     */
+    UrlParser.prototype.parseChildren = function () {
+        if (this.remaining.length == 0) {
+            return {};
+        }
+        if (this.peekStartsWith('/')) {
+            this.capture('/');
+        }
+        var /** @type {?} */ paths = [];
+        if (!this.peekStartsWith('(')) {
+            paths.push(this.parseSegments());
+        }
+        while (this.peekStartsWith('/') && !this.peekStartsWith('//') && !this.peekStartsWith('/(')) {
+            this.capture('/');
+            paths.push(this.parseSegments());
+        }
+        var /** @type {?} */ children = {};
+        if (this.peekStartsWith('/(')) {
+            this.capture('/');
+            children = this.parseParens(true);
+        }
+        var /** @type {?} */ res = {};
+        if (this.peekStartsWith('(')) {
+            res = this.parseParens(false);
+        }
+        if (paths.length > 0 || Object.keys(children).length > 0) {
+            res[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]] = new UrlSegmentGroup(paths, children);
+        }
+        return res;
+    };
+    /**
+     * @return {?}
+     */
+    UrlParser.prototype.parseSegments = function () {
+        var /** @type {?} */ path = matchSegments(this.remaining);
+        if (path === '' && this.peekStartsWith(';')) {
+            throw new Error("Empty path url segment cannot have parameters: '" + this.remaining + "'.");
+        }
+        this.capture(path);
+        var /** @type {?} */ matrixParams = {};
+        if (this.peekStartsWith(';')) {
+            matrixParams = this.parseMatrixParams();
+        }
+        return new UrlSegment(decode(path), matrixParams);
+    };
+    /**
+     * @return {?}
+     */
+    UrlParser.prototype.parseQueryParams = function () {
+        var /** @type {?} */ params = {};
+        if (this.peekStartsWith('?')) {
+            this.capture('?');
+            this.parseQueryParam(params);
+            while (this.remaining.length > 0 && this.peekStartsWith('&')) {
+                this.capture('&');
+                this.parseQueryParam(params);
+            }
+        }
+        return params;
+    };
+    /**
+     * @return {?}
+     */
+    UrlParser.prototype.parseFragment = function () {
+        if (this.peekStartsWith('#')) {
+            return decodeURI(this.remaining.substring(1));
+        }
+        return null;
+    };
+    /**
+     * @return {?}
+     */
+    UrlParser.prototype.parseMatrixParams = function () {
+        var /** @type {?} */ params = {};
+        while (this.remaining.length > 0 && this.peekStartsWith(';')) {
+            this.capture(';');
+            this.parseParam(params);
+        }
+        return params;
+    };
+    /**
+     * @param {?} params
+     * @return {?}
+     */
+    UrlParser.prototype.parseParam = function (params) {
+        var /** @type {?} */ key = matchSegments(this.remaining);
+        if (!key) {
+            return;
+        }
+        this.capture(key);
+        var /** @type {?} */ value = '';
+        if (this.peekStartsWith('=')) {
+            this.capture('=');
+            var /** @type {?} */ valueMatch = matchSegments(this.remaining);
+            if (valueMatch) {
+                value = valueMatch;
+                this.capture(value);
+            }
+        }
+        params[decode(key)] = decode(value);
+    };
+    /**
+     * @param {?} params
+     * @return {?}
+     */
+    UrlParser.prototype.parseQueryParam = function (params) {
+        var /** @type {?} */ key = matchQueryParams(this.remaining);
+        if (!key) {
+            return;
+        }
+        this.capture(key);
+        var /** @type {?} */ value = '';
+        if (this.peekStartsWith('=')) {
+            this.capture('=');
+            var /** @type {?} */ valueMatch = matchUrlQueryParamValue(this.remaining);
+            if (valueMatch) {
+                value = valueMatch;
+                this.capture(value);
+            }
+        }
+        var /** @type {?} */ decodedKey = decode(key);
+        var /** @type {?} */ decodedVal = decode(value);
+        if (params.hasOwnProperty(decodedKey)) {
+            // Append to existing values
+            var /** @type {?} */ currentVal = params[decodedKey];
+            if (!Array.isArray(currentVal)) {
+                currentVal = [currentVal];
+                params[decodedKey] = currentVal;
+            }
+            currentVal.push(decodedVal);
+        }
+        else {
+            // Create a new value
+            params[decodedKey] = decodedVal;
+        }
+    };
+    /**
+     * @param {?} allowPrimary
+     * @return {?}
+     */
+    UrlParser.prototype.parseParens = function (allowPrimary) {
+        var /** @type {?} */ segments = {};
+        this.capture('(');
+        while (!this.peekStartsWith(')') && this.remaining.length > 0) {
+            var /** @type {?} */ path = matchSegments(this.remaining);
+            var /** @type {?} */ next = this.remaining[path.length];
+            // if is is not one of these characters, then the segment was unescaped
+            // or the group was not closed
+            if (next !== '/' && next !== ')' && next !== ';') {
+                throw new Error("Cannot parse url '" + this.url + "'");
+            }
+            var /** @type {?} */ outletName = void 0;
+            if (path.indexOf(':') > -1) {
+                outletName = path.substr(0, path.indexOf(':'));
+                this.capture(outletName);
+                this.capture(':');
+            }
+            else if (allowPrimary) {
+                outletName = __WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */];
+            }
+            var /** @type {?} */ children = this.parseChildren();
+            segments[outletName] = Object.keys(children).length === 1 ? children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]] :
+                new UrlSegmentGroup([], children);
+            if (this.peekStartsWith('//')) {
+                this.capture('//');
+            }
+        }
+        this.capture(')');
+        return segments;
+    };
+    return UrlParser;
+}());
+function UrlParser_tsickle_Closure_declarations() {
+    /** @type {?} */
+    UrlParser.prototype.remaining;
+    /** @type {?} */
+    UrlParser.prototype.url;
+}
+//# sourceMappingURL=url_tree.js.map
+
+/***/ }),
+/* 633 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var ArrayObservable_1 = __webpack_require__(655);
+exports.of = ArrayObservable_1.ArrayObservable.of;
+//# sourceMappingURL=of.js.map
+
+/***/ }),
+/* 634 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__ = __webpack_require__(643);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__shared__ = __webpack_require__(630);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__url_tree__ = __webpack_require__(632);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__utils_collection__ = __webpack_require__(631);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__utils_tree__ = __webpack_require__(642);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return RouterState; });
+/* harmony export (immutable) */ __webpack_exports__["b"] = createEmptyState;
+/* unused harmony export createEmptyStateSnapshot */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ActivatedRoute; });
+/* harmony export (immutable) */ __webpack_exports__["d"] = inheritedParamsDataResolve;
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return ActivatedRouteSnapshot; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return RouterStateSnapshot; });
+/* harmony export (immutable) */ __webpack_exports__["e"] = advanceActivatedRoute;
+/* harmony export (immutable) */ __webpack_exports__["c"] = equalParamsAndUrlSegments;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+
+
+
+
+
+/**
+ * \@whatItDoes Represents the state of the router.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const state: RouterState = router.routerState;
+ *     const root: ActivatedRoute = state.root;
+ *     const child = root.firstChild;
+ *     const id: Observable<string> = child.params.map(p => p.id);
+ *     //...
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ * RouterState is a tree of activated routes. Every node in this tree knows about the "consumed" URL
+ * segments,
+ * the extracted parameters, and the resolved data.
+ *
+ * See {\@link ActivatedRoute} for more information.
+ *
+ * \@stable
+ */
+var RouterState = (function (_super) {
+    __extends(RouterState, _super);
+    /**
+     * \@internal
+     * @param {?} root
+     * @param {?} snapshot
+     */
+    function RouterState(root, snapshot) {
+        _super.call(this, root);
+        this.snapshot = snapshot;
+        setRouterStateSnapshot(this, root);
+    }
+    /**
+     * @return {?}
+     */
+    RouterState.prototype.toString = function () { return this.snapshot.toString(); };
+    return RouterState;
+}(__WEBPACK_IMPORTED_MODULE_4__utils_tree__["a" /* Tree */]));
+function RouterState_tsickle_Closure_declarations() {
+    /**
+     * The current snapshot of the router state
+     * @type {?}
+     */
+    RouterState.prototype.snapshot;
+}
+/**
+ * @param {?} urlTree
+ * @param {?} rootComponent
+ * @return {?}
+ */
+function createEmptyState(urlTree, rootComponent) {
+    var /** @type {?} */ snapshot = createEmptyStateSnapshot(urlTree, rootComponent);
+    var /** @type {?} */ emptyUrl = new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"]([new __WEBPACK_IMPORTED_MODULE_2__url_tree__["f" /* UrlSegment */]('', {})]);
+    var /** @type {?} */ emptyParams = new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"]({});
+    var /** @type {?} */ emptyData = new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"]({});
+    var /** @type {?} */ emptyQueryParams = new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"]({});
+    var /** @type {?} */ fragment = new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"]('');
+    var /** @type {?} */ activated = new ActivatedRoute(emptyUrl, emptyParams, emptyQueryParams, fragment, emptyData, __WEBPACK_IMPORTED_MODULE_1__shared__["a" /* PRIMARY_OUTLET */], rootComponent, snapshot.root);
+    activated.snapshot = snapshot.root;
+    return new RouterState(new __WEBPACK_IMPORTED_MODULE_4__utils_tree__["b" /* TreeNode */](activated, []), snapshot);
+}
+/**
+ * @param {?} urlTree
+ * @param {?} rootComponent
+ * @return {?}
+ */
+function createEmptyStateSnapshot(urlTree, rootComponent) {
+    var /** @type {?} */ emptyParams = {};
+    var /** @type {?} */ emptyData = {};
+    var /** @type {?} */ emptyQueryParams = {};
+    var /** @type {?} */ fragment = '';
+    var /** @type {?} */ activated = new ActivatedRouteSnapshot([], emptyParams, emptyQueryParams, fragment, emptyData, __WEBPACK_IMPORTED_MODULE_1__shared__["a" /* PRIMARY_OUTLET */], rootComponent, null, urlTree.root, -1, {});
+    return new RouterStateSnapshot('', new __WEBPACK_IMPORTED_MODULE_4__utils_tree__["b" /* TreeNode */](activated, []));
+}
+/**
+ * \@whatItDoes Contains the information about a route associated with a component loaded in an
+ * outlet.
+ * An `ActivatedRoute` can also be used to traverse the router state tree.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({...})
+ * class MyComponent {
+ *   constructor(route: ActivatedRoute) {
+ *     const id: Observable<string> = route.params.map(p => p.id);
+ *     const url: Observable<string> = route.url.map(segments => segments.join(''));
+ *     // route.data includes both `data` and `resolve`
+ *     const user = route.data.map(d => d.user);
+ *   }
+ * }
+ * ```
+ *
+ * \@stable
+ */
+var ActivatedRoute = (function () {
+    /**
+     * \@internal
+     * @param {?} url
+     * @param {?} params
+     * @param {?} queryParams
+     * @param {?} fragment
+     * @param {?} data
+     * @param {?} outlet
+     * @param {?} component
+     * @param {?} futureSnapshot
+     */
+    function ActivatedRoute(url, params, queryParams, fragment, data, outlet, component, futureSnapshot) {
+        this.url = url;
+        this.params = params;
+        this.queryParams = queryParams;
+        this.fragment = fragment;
+        this.data = data;
+        this.outlet = outlet;
+        this.component = component;
+        this._futureSnapshot = futureSnapshot;
+    }
+    Object.defineProperty(ActivatedRoute.prototype, "routeConfig", {
+        /**
+         * The configuration used to match this route
+         * @return {?}
+         */
+        get: function () { return this._futureSnapshot.routeConfig; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRoute.prototype, "root", {
+        /**
+         * The root of the router state
+         * @return {?}
+         */
+        get: function () { return this._routerState.root; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRoute.prototype, "parent", {
+        /**
+         * The parent of this route in the router state tree
+         * @return {?}
+         */
+        get: function () { return this._routerState.parent(this); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRoute.prototype, "firstChild", {
+        /**
+         * The first child of this route in the router state tree
+         * @return {?}
+         */
+        get: function () { return this._routerState.firstChild(this); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRoute.prototype, "children", {
+        /**
+         * The children of this route in the router state tree
+         * @return {?}
+         */
+        get: function () { return this._routerState.children(this); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRoute.prototype, "pathFromRoot", {
+        /**
+         * The path from the root of the router state tree to this route
+         * @return {?}
+         */
+        get: function () { return this._routerState.pathFromRoot(this); },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    ActivatedRoute.prototype.toString = function () {
+        return this.snapshot ? this.snapshot.toString() : "Future(" + this._futureSnapshot + ")";
+    };
+    return ActivatedRoute;
+}());
+function ActivatedRoute_tsickle_Closure_declarations() {
+    /**
+     * The current snapshot of this route
+     * @type {?}
+     */
+    ActivatedRoute.prototype.snapshot;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    ActivatedRoute.prototype._futureSnapshot;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    ActivatedRoute.prototype._routerState;
+    /**
+     * An observable of the URL segments matched by this route
+     * @type {?}
+     */
+    ActivatedRoute.prototype.url;
+    /**
+     * An observable of the matrix parameters scoped to this route
+     * @type {?}
+     */
+    ActivatedRoute.prototype.params;
+    /**
+     * An observable of the query parameters shared by all the routes
+     * @type {?}
+     */
+    ActivatedRoute.prototype.queryParams;
+    /**
+     * An observable of the URL fragment shared by all the routes
+     * @type {?}
+     */
+    ActivatedRoute.prototype.fragment;
+    /**
+     * An observable of the static and resolved data of this route.
+     * @type {?}
+     */
+    ActivatedRoute.prototype.data;
+    /**
+     * The outlet name of the route. It's a constant
+     * @type {?}
+     */
+    ActivatedRoute.prototype.outlet;
+    /** @type {?} */
+    ActivatedRoute.prototype.component;
+}
+/**
+ * \@internal
+ * @param {?} route
+ * @return {?}
+ */
+function inheritedParamsDataResolve(route) {
+    var /** @type {?} */ pathToRoot = route.pathFromRoot;
+    var /** @type {?} */ inhertingStartingFrom = pathToRoot.length - 1;
+    while (inhertingStartingFrom >= 1) {
+        var /** @type {?} */ current = pathToRoot[inhertingStartingFrom];
+        var /** @type {?} */ parent_1 = pathToRoot[inhertingStartingFrom - 1];
+        // current route is an empty path => inherits its parent's params and data
+        if (current.routeConfig && current.routeConfig.path === '') {
+            inhertingStartingFrom--;
+        }
+        else if (!parent_1.component) {
+            inhertingStartingFrom--;
+        }
+        else {
+            break;
+        }
+    }
+    return pathToRoot.slice(inhertingStartingFrom).reduce(function (res, curr) {
+        var /** @type {?} */ params = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["e" /* merge */])(res.params, curr.params);
+        var /** @type {?} */ data = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["e" /* merge */])(res.data, curr.data);
+        var /** @type {?} */ resolve = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["e" /* merge */])(res.resolve, curr._resolvedData);
+        return { params: params, data: data, resolve: resolve };
+    }, /** @type {?} */ ({ params: {}, data: {}, resolve: {} }));
+}
+/**
+ * \@whatItDoes Contains the information about a route associated with a component loaded in an
+ * outlet
+ * at a particular moment in time. ActivatedRouteSnapshot can also be used to traverse the router
+ * state tree.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'./my-component.html'})
+ * class MyComponent {
+ *   constructor(route: ActivatedRoute) {
+ *     const id: string = route.snapshot.params.id;
+ *     const url: string = route.snapshot.url.join('');
+ *     const user = route.snapshot.data.user;
+ *   }
+ * }
+ * ```
+ *
+ * \@stable
+ */
+var ActivatedRouteSnapshot = (function () {
+    /**
+     * \@internal
+     * @param {?} url
+     * @param {?} params
+     * @param {?} queryParams
+     * @param {?} fragment
+     * @param {?} data
+     * @param {?} outlet
+     * @param {?} component
+     * @param {?} routeConfig
+     * @param {?} urlSegment
+     * @param {?} lastPathIndex
+     * @param {?} resolve
+     */
+    function ActivatedRouteSnapshot(url, params, queryParams, fragment, data, outlet, component, routeConfig, urlSegment, lastPathIndex, resolve) {
+        this.url = url;
+        this.params = params;
+        this.queryParams = queryParams;
+        this.fragment = fragment;
+        this.data = data;
+        this.outlet = outlet;
+        this.component = component;
+        this._routeConfig = routeConfig;
+        this._urlSegment = urlSegment;
+        this._lastPathIndex = lastPathIndex;
+        this._resolve = resolve;
+    }
+    Object.defineProperty(ActivatedRouteSnapshot.prototype, "routeConfig", {
+        /**
+         * The configuration used to match this route
+         * @return {?}
+         */
+        get: function () { return this._routeConfig; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRouteSnapshot.prototype, "root", {
+        /**
+         * The root of the router state
+         * @return {?}
+         */
+        get: function () { return this._routerState.root; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRouteSnapshot.prototype, "parent", {
+        /**
+         * The parent of this route in the router state tree
+         * @return {?}
+         */
+        get: function () { return this._routerState.parent(this); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRouteSnapshot.prototype, "firstChild", {
+        /**
+         * The first child of this route in the router state tree
+         * @return {?}
+         */
+        get: function () { return this._routerState.firstChild(this); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRouteSnapshot.prototype, "children", {
+        /**
+         * The children of this route in the router state tree
+         * @return {?}
+         */
+        get: function () { return this._routerState.children(this); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(ActivatedRouteSnapshot.prototype, "pathFromRoot", {
+        /**
+         * The path from the root of the router state tree to this route
+         * @return {?}
+         */
+        get: function () { return this._routerState.pathFromRoot(this); },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    ActivatedRouteSnapshot.prototype.toString = function () {
+        var /** @type {?} */ url = this.url.map(function (segment) { return segment.toString(); }).join('/');
+        var /** @type {?} */ matched = this._routeConfig ? this._routeConfig.path : '';
+        return "Route(url:'" + url + "', path:'" + matched + "')";
+    };
+    return ActivatedRouteSnapshot;
+}());
+function ActivatedRouteSnapshot_tsickle_Closure_declarations() {
+    /**
+     * \@internal *
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype._routeConfig;
+    /**
+     * \@internal *
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype._urlSegment;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype._lastPathIndex;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype._resolve;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype._resolvedData;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype._routerState;
+    /**
+     * The URL segments matched by this route
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.url;
+    /**
+     * The matrix parameters scoped to this route
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.params;
+    /**
+     * The query parameters shared by all the routes
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.queryParams;
+    /**
+     * The URL fragment shared by all the routes
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.fragment;
+    /**
+     * The static and resolved data of this route
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.data;
+    /**
+     * The outlet name of the route
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.outlet;
+    /**
+     * The component of the route
+     * @type {?}
+     */
+    ActivatedRouteSnapshot.prototype.component;
+}
+/**
+ * \@whatItDoes Represents the state of the router at a moment in time.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@Component({templateUrl:'template.html'})
+ * class MyComponent {
+ *   constructor(router: Router) {
+ *     const state: RouterState = router.routerState;
+ *     const snapshot: RouterStateSnapshot = state.snapshot;
+ *     const root: ActivatedRouteSnapshot = snapshot.root;
+ *     const child = root.firstChild;
+ *     const id: Observable<string> = child.params.map(p => p.id);
+ *     //...
+ *   }
+ * }
+ * ```
+ *
+ * \@description
+ * RouterStateSnapshot is a tree of activated route snapshots. Every node in this tree knows about
+ * the "consumed" URL segments, the extracted parameters, and the resolved data.
+ *
+ * \@stable
+ */
+var RouterStateSnapshot = (function (_super) {
+    __extends(RouterStateSnapshot, _super);
+    /**
+     * \@internal
+     * @param {?} url
+     * @param {?} root
+     */
+    function RouterStateSnapshot(url, root) {
+        _super.call(this, root);
+        this.url = url;
+        setRouterStateSnapshot(this, root);
+    }
+    /**
+     * @return {?}
+     */
+    RouterStateSnapshot.prototype.toString = function () { return serializeNode(this._root); };
+    return RouterStateSnapshot;
+}(__WEBPACK_IMPORTED_MODULE_4__utils_tree__["a" /* Tree */]));
+function RouterStateSnapshot_tsickle_Closure_declarations() {
+    /**
+     * The url from which this snapshot was created
+     * @type {?}
+     */
+    RouterStateSnapshot.prototype.url;
+}
+/**
+ * @param {?} state
+ * @param {?} node
+ * @return {?}
+ */
+function setRouterStateSnapshot(state, node) {
+    node.value._routerState = state;
+    node.children.forEach(function (c) { return setRouterStateSnapshot(state, c); });
+}
+/**
+ * @param {?} node
+ * @return {?}
+ */
+function serializeNode(node) {
+    var /** @type {?} */ c = node.children.length > 0 ? " { " + node.children.map(serializeNode).join(", ") + " } " : '';
+    return "" + node.value + c;
+}
+/**
+ * The expectation is that the activate route is created with the right set of parameters.
+ * So we push new values into the observables only when they are not the initial values.
+ * And we detect that by checking if the snapshot field is set.
+ * @param {?} route
+ * @return {?}
+ */
+function advanceActivatedRoute(route) {
+    if (route.snapshot) {
+        var /** @type {?} */ currentSnapshot = route.snapshot;
+        route.snapshot = route._futureSnapshot;
+        if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["g" /* shallowEqual */])(currentSnapshot.queryParams, route._futureSnapshot.queryParams)) {
+            ((route.queryParams)).next(route._futureSnapshot.queryParams);
+        }
+        if (currentSnapshot.fragment !== route._futureSnapshot.fragment) {
+            ((route.fragment)).next(route._futureSnapshot.fragment);
+        }
+        if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["g" /* shallowEqual */])(currentSnapshot.params, route._futureSnapshot.params)) {
+            ((route.params)).next(route._futureSnapshot.params);
+        }
+        if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["h" /* shallowEqualArrays */])(currentSnapshot.url, route._futureSnapshot.url)) {
+            ((route.url)).next(route._futureSnapshot.url);
+        }
+        if (!equalParamsAndUrlSegments(currentSnapshot, route._futureSnapshot)) {
+            ((route.data)).next(route._futureSnapshot.data);
+        }
+    }
+    else {
+        route.snapshot = route._futureSnapshot;
+        // this is for resolved data
+        ((route.data)).next(route._futureSnapshot.data);
+    }
+}
+/**
+ * @param {?} a
+ * @param {?} b
+ * @return {?}
+ */
+function equalParamsAndUrlSegments(a, b) {
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3__utils_collection__["g" /* shallowEqual */])(a.params, b.params) && __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__url_tree__["g" /* equalSegments */])(a.url, b.url);
+}
+//# sourceMappingURL=router_state.js.map
+
+/***/ }),
+/* 635 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_BehaviorSubject__ = __webpack_require__(643);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_BehaviorSubject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_BehaviorSubject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__ = __webpack_require__(147);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__ = __webpack_require__(645);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_concatMap__ = __webpack_require__(660);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_concatMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_operator_concatMap__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_every__ = __webpack_require__(661);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_every___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_rxjs_operator_every__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_first__ = __webpack_require__(662);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_first___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_rxjs_operator_first__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__ = __webpack_require__(639);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__ = __webpack_require__(637);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_rxjs_operator_reduce__ = __webpack_require__(686);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_rxjs_operator_reduce___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10_rxjs_operator_reduce__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__apply_redirects__ = __webpack_require__(666);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__config__ = __webpack_require__(667);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__create_router_state__ = __webpack_require__(668);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__create_url_tree__ = __webpack_require__(669);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__recognize__ = __webpack_require__(674);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__router_config_loader__ = __webpack_require__(636);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__router_outlet_map__ = __webpack_require__(638);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__router_state__ = __webpack_require__(634);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__shared__ = __webpack_require__(630);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__url_handling_strategy__ = __webpack_require__(641);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__url_tree__ = __webpack_require__(632);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__utils_collection__ = __webpack_require__(631);
+/* unused harmony export NavigationStart */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NavigationEnd; });
+/* unused harmony export NavigationCancel */
+/* unused harmony export NavigationError */
+/* unused harmony export RoutesRecognized */
+/* unused harmony export DefaultRouteReuseStrategy */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Router; });
+/* unused harmony export PreActivation */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * \@whatItDoes Represents an event triggered when a navigation starts.
+ *
+ * \@stable
+ */
+var NavigationStart = (function () {
+    /**
+     * @param {?} id
+     * @param {?} url
+     */
+    function NavigationStart(id, url) {
+        this.id = id;
+        this.url = url;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    NavigationStart.prototype.toString = function () { return "NavigationStart(id: " + this.id + ", url: '" + this.url + "')"; };
+    return NavigationStart;
+}());
+function NavigationStart_tsickle_Closure_declarations() {
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationStart.prototype.id;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationStart.prototype.url;
+}
+/**
+ * \@whatItDoes Represents an event triggered when a navigation ends successfully.
+ *
+ * \@stable
+ */
+var NavigationEnd = (function () {
+    /**
+     * @param {?} id
+     * @param {?} url
+     * @param {?} urlAfterRedirects
+     */
+    function NavigationEnd(id, url, urlAfterRedirects) {
+        this.id = id;
+        this.url = url;
+        this.urlAfterRedirects = urlAfterRedirects;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    NavigationEnd.prototype.toString = function () {
+        return "NavigationEnd(id: " + this.id + ", url: '" + this.url + "', urlAfterRedirects: '" + this.urlAfterRedirects + "')";
+    };
+    return NavigationEnd;
+}());
+function NavigationEnd_tsickle_Closure_declarations() {
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationEnd.prototype.id;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationEnd.prototype.url;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationEnd.prototype.urlAfterRedirects;
+}
+/**
+ * \@whatItDoes Represents an event triggered when a navigation is canceled.
+ *
+ * \@stable
+ */
+var NavigationCancel = (function () {
+    /**
+     * @param {?} id
+     * @param {?} url
+     * @param {?} reason
+     */
+    function NavigationCancel(id, url, reason) {
+        this.id = id;
+        this.url = url;
+        this.reason = reason;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    NavigationCancel.prototype.toString = function () { return "NavigationCancel(id: " + this.id + ", url: '" + this.url + "')"; };
+    return NavigationCancel;
+}());
+function NavigationCancel_tsickle_Closure_declarations() {
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationCancel.prototype.id;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationCancel.prototype.url;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationCancel.prototype.reason;
+}
+/**
+ * \@whatItDoes Represents an event triggered when a navigation fails due to an unexpected error.
+ *
+ * \@stable
+ */
+var NavigationError = (function () {
+    /**
+     * @param {?} id
+     * @param {?} url
+     * @param {?} error
+     */
+    function NavigationError(id, url, error) {
+        this.id = id;
+        this.url = url;
+        this.error = error;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    NavigationError.prototype.toString = function () {
+        return "NavigationError(id: " + this.id + ", url: '" + this.url + "', error: " + this.error + ")";
+    };
+    return NavigationError;
+}());
+function NavigationError_tsickle_Closure_declarations() {
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationError.prototype.id;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationError.prototype.url;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    NavigationError.prototype.error;
+}
+/**
+ * \@whatItDoes Represents an event triggered when routes are recognized.
+ *
+ * \@stable
+ */
+var RoutesRecognized = (function () {
+    /**
+     * @param {?} id
+     * @param {?} url
+     * @param {?} urlAfterRedirects
+     * @param {?} state
+     */
+    function RoutesRecognized(id, url, urlAfterRedirects, state) {
+        this.id = id;
+        this.url = url;
+        this.urlAfterRedirects = urlAfterRedirects;
+        this.state = state;
+    }
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    RoutesRecognized.prototype.toString = function () {
+        return "RoutesRecognized(id: " + this.id + ", url: '" + this.url + "', urlAfterRedirects: '" + this.urlAfterRedirects + "', state: " + this.state + ")";
+    };
+    return RoutesRecognized;
+}());
+function RoutesRecognized_tsickle_Closure_declarations() {
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    RoutesRecognized.prototype.id;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    RoutesRecognized.prototype.url;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    RoutesRecognized.prototype.urlAfterRedirects;
+    /**
+     * \@docsNotRequired
+     * @type {?}
+     */
+    RoutesRecognized.prototype.state;
+}
+/**
+ * @param {?} error
+ * @return {?}
+ */
+function defaultErrorHandler(error) {
+    throw error;
+}
+/**
+ * \@internal
+ * @param {?} snapshot
+ * @return {?}
+ */
+function defaultRouterHook(snapshot) {
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(null);
+}
+/**
+ * Does not detach any subtrees. Reuses routes as long as their route config is the same.
+ */
+var DefaultRouteReuseStrategy = (function () {
+    function DefaultRouteReuseStrategy() {
+    }
+    /**
+     * @param {?} route
+     * @return {?}
+     */
+    DefaultRouteReuseStrategy.prototype.shouldDetach = function (route) { return false; };
+    /**
+     * @param {?} route
+     * @param {?} detachedTree
+     * @return {?}
+     */
+    DefaultRouteReuseStrategy.prototype.store = function (route, detachedTree) { };
+    /**
+     * @param {?} route
+     * @return {?}
+     */
+    DefaultRouteReuseStrategy.prototype.shouldAttach = function (route) { return false; };
+    /**
+     * @param {?} route
+     * @return {?}
+     */
+    DefaultRouteReuseStrategy.prototype.retrieve = function (route) { return null; };
+    /**
+     * @param {?} future
+     * @param {?} curr
+     * @return {?}
+     */
+    DefaultRouteReuseStrategy.prototype.shouldReuseRoute = function (future, curr) {
+        return future.routeConfig === curr.routeConfig;
+    };
+    return DefaultRouteReuseStrategy;
+}());
+/**
+ * \@whatItDoes Provides the navigation and url manipulation capabilities.
+ *
+ * See {\@link Routes} for more details and examples.
+ *
+ * \@ngModule RouterModule
+ *
+ * \@stable
+ */
+var Router = (function () {
+    /**
+     * @param {?} rootComponentType
+     * @param {?} urlSerializer
+     * @param {?} outletMap
+     * @param {?} location
+     * @param {?} injector
+     * @param {?} loader
+     * @param {?} compiler
+     * @param {?} config
+     */
+    function Router(rootComponentType, urlSerializer, outletMap, location, injector, loader, compiler, config) {
+        this.rootComponentType = rootComponentType;
+        this.urlSerializer = urlSerializer;
+        this.outletMap = outletMap;
+        this.location = location;
+        this.injector = injector;
+        this.config = config;
+        this.navigations = new __WEBPACK_IMPORTED_MODULE_1_rxjs_BehaviorSubject__["BehaviorSubject"](null);
+        this.routerEvents = new __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__["Subject"]();
+        this.navigationId = 0;
+        /**
+         * Error handler that is invoked when a navigation errors.
+         *
+         * See {@link ErrorHandler} for more information.
+         */
+        this.errorHandler = defaultErrorHandler;
+        /**
+         * Indicates if at least one navigation happened.
+         */
+        this.navigated = false;
+        /**
+         * Extracts and merges URLs. Used for Angular 1 to Angular 2 migrations.
+         * Used by RouterModule. This allows us to
+         * pause the navigation either before preactivation or after it.
+         * @internal
+         */
+        this.hooks = {
+            beforePreactivation: defaultRouterHook,
+            afterPreactivation: defaultRouterHook
+        };
+        /**
+         * Extracts and merges URLs. Used for AngularJS to Angular migrations.
+         */
+        this.urlHandlingStrategy = new __WEBPACK_IMPORTED_MODULE_20__url_handling_strategy__["b" /* DefaultUrlHandlingStrategy */]();
+        this.routeReuseStrategy = new DefaultRouteReuseStrategy();
+        this.resetConfig(config);
+        this.currentUrlTree = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_21__url_tree__["c" /* createEmptyUrlTree */])();
+        this.rawUrlTree = this.currentUrlTree;
+        this.configLoader = new __WEBPACK_IMPORTED_MODULE_16__router_config_loader__["b" /* RouterConfigLoader */](loader, compiler);
+        this.currentRouterState = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["b" /* createEmptyState */])(this.currentUrlTree, this.rootComponentType);
+        this.processNavigations();
+    }
+    /**
+     * \@internal
+     * TODO: this should be removed once the constructor of the router made internal
+     * @param {?} rootComponentType
+     * @return {?}
+     */
+    Router.prototype.resetRootComponentType = function (rootComponentType) {
+        this.rootComponentType = rootComponentType;
+        // TODO: vsavkin router 4.0 should make the root component set to null
+        // this will simplify the lifecycle of the router.
+        this.currentRouterState.root.component = this.rootComponentType;
+    };
+    /**
+     * Sets up the location change listener and performs the initial navigation.
+     * @return {?}
+     */
+    Router.prototype.initialNavigation = function () {
+        this.setUpLocationChangeListener();
+        if (this.navigationId === 0) {
+            this.navigateByUrl(this.location.path(true), { replaceUrl: true });
+        }
+    };
+    /**
+     * Sets up the location change listener.
+     * @return {?}
+     */
+    Router.prototype.setUpLocationChangeListener = function () {
+        var _this = this;
+        // Zone.current.wrap is needed because of the issue with RxJS scheduler,
+        // which does not work properly with zone.js in IE and Safari
+        if (!this.locationSubscription) {
+            this.locationSubscription = (this.location.subscribe(Zone.current.wrap(function (change) {
+                var /** @type {?} */ rawUrlTree = _this.urlSerializer.parse(change['url']);
+                var /** @type {?} */ source = change['type'] === 'popstate' ? 'popstate' : 'hashchange';
+                setTimeout(function () { _this.scheduleNavigation(rawUrlTree, source, { replaceUrl: true }); }, 0);
+            })));
+        }
+    };
+    Object.defineProperty(Router.prototype, "routerState", {
+        /**
+         * The current route state
+         * @return {?}
+         */
+        get: function () { return this.currentRouterState; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Router.prototype, "url", {
+        /**
+         * The current url
+         * @return {?}
+         */
+        get: function () { return this.serializeUrl(this.currentUrlTree); },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Router.prototype, "events", {
+        /**
+         * An observable of router events
+         * @return {?}
+         */
+        get: function () { return this.routerEvents; },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * Resets the configuration used for navigation and generating links.
+     *
+     * ### Usage
+     *
+     * ```
+     * router.resetConfig([
+     *  { path: 'team/:id', component: TeamCmp, children: [
+     *    { path: 'simple', component: SimpleCmp },
+     *    { path: 'user/:name', component: UserCmp }
+     *  ]}
+     * ]);
+     * ```
+     * @param {?} config
+     * @return {?}
+     */
+    Router.prototype.resetConfig = function (config) {
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__config__["a" /* validateConfig */])(config);
+        this.config = config;
+    };
+    /**
+     * \@docsNotRequired
+     * @return {?}
+     */
+    Router.prototype.ngOnDestroy = function () { this.dispose(); };
+    /**
+     * Disposes of the router
+     * @return {?}
+     */
+    Router.prototype.dispose = function () {
+        if (this.locationSubscription) {
+            this.locationSubscription.unsubscribe();
+            this.locationSubscription = null;
+        }
+    };
+    /**
+     * Applies an array of commands to the current url tree and creates a new url tree.
+     *
+     * When given an activate route, applies the given commands starting from the route.
+     * When not given a route, applies the given command starting from the root.
+     *
+     * ### Usage
+     *
+     * ```
+     * // create /team/33/user/11
+     * router.createUrlTree(['/team', 33, 'user', 11]);
+     *
+     * // create /team/33;expand=true/user/11
+     * router.createUrlTree(['/team', 33, {expand: true}, 'user', 11]);
+     *
+     * // you can collapse static segments like this (this works only with the first passed-in value):
+     * router.createUrlTree(['/team/33/user', userId]);
+     *
+     * // If the first segment can contain slashes, and you do not want the router to split it, you
+     * // can do the following:
+     *
+     * router.createUrlTree([{segmentPath: '/one/two'}]);
+     *
+     * // create /team/33/(user/11//right:chat)
+     * router.createUrlTree(['/team', 33, {outlets: {primary: 'user/11', right: 'chat'}}]);
+     *
+     * // remove the right secondary node
+     * router.createUrlTree(['/team', 33, {outlets: {primary: 'user/11', right: null}}]);
+     *
+     * // assuming the current url is `/team/33/user/11` and the route points to `user/11`
+     *
+     * // navigate to /team/33/user/11/details
+     * router.createUrlTree(['details'], {relativeTo: route});
+     *
+     * // navigate to /team/33/user/22
+     * router.createUrlTree(['../22'], {relativeTo: route});
+     *
+     * // navigate to /team/44/user/22
+     * router.createUrlTree(['../../team/44/user/22'], {relativeTo: route});
+     * ```
+     * @param {?} commands
+     * @param {?=} __1
+     * @return {?}
+     */
+    Router.prototype.createUrlTree = function (commands, _a) {
+        var _b = _a === void 0 ? {} : _a, relativeTo = _b.relativeTo, queryParams = _b.queryParams, fragment = _b.fragment, preserveQueryParams = _b.preserveQueryParams, preserveFragment = _b.preserveFragment;
+        var /** @type {?} */ a = relativeTo || this.routerState.root;
+        var /** @type {?} */ q = preserveQueryParams ? this.currentUrlTree.queryParams : queryParams;
+        var /** @type {?} */ f = preserveFragment ? this.currentUrlTree.fragment : fragment;
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_14__create_url_tree__["a" /* createUrlTree */])(a, this.currentUrlTree, commands, q, f);
+    };
+    /**
+     * Navigate based on the provided url. This navigation is always absolute.
+     *
+     * Returns a promise that:
+     * - resolves to 'true' when navigation succeeds,
+     * - resolves to 'false' when navigation fails,
+     * - is rejected when an error happens.
+     *
+     * ### Usage
+     *
+     * ```
+     * router.navigateByUrl("/team/33/user/11");
+     *
+     * // Navigate without updating the URL
+     * router.navigateByUrl("/team/33/user/11", { skipLocationChange: true });
+     * ```
+     *
+     * In opposite to `navigate`, `navigateByUrl` takes a whole URL
+     * and does not apply any delta to the current one.
+     * @param {?} url
+     * @param {?=} extras
+     * @return {?}
+     */
+    Router.prototype.navigateByUrl = function (url, extras) {
+        if (extras === void 0) { extras = { skipLocationChange: false }; }
+        if (url instanceof __WEBPACK_IMPORTED_MODULE_21__url_tree__["d" /* UrlTree */]) {
+            return this.scheduleNavigation(this.urlHandlingStrategy.merge(url, this.rawUrlTree), 'imperative', extras);
+        }
+        var /** @type {?} */ urlTree = this.urlSerializer.parse(url);
+        return this.scheduleNavigation(this.urlHandlingStrategy.merge(urlTree, this.rawUrlTree), 'imperative', extras);
+    };
+    /**
+     * Navigate based on the provided array of commands and a starting point.
+     * If no starting route is provided, the navigation is absolute.
+     *
+     * Returns a promise that:
+     * - resolves to 'true' when navigation succeeds,
+     * - resolves to 'false' when navigation fails,
+     * - is rejected when an error happens.
+     *
+     * ### Usage
+     *
+     * ```
+     * router.navigate(['team', 33, 'user', 11], {relativeTo: route});
+     *
+     * // Navigate without updating the URL
+     * router.navigate(['team', 33, 'user', 11], {relativeTo: route, skipLocationChange: true});
+     * ```
+     *
+     * In opposite to `navigateByUrl`, `navigate` always takes a delta that is applied to the current
+     * URL.
+     * @param {?} commands
+     * @param {?=} extras
+     * @return {?}
+     */
+    Router.prototype.navigate = function (commands, extras) {
+        if (extras === void 0) { extras = { skipLocationChange: false }; }
+        validateCommands(commands);
+        if (typeof extras.queryParams === 'object' && extras.queryParams !== null) {
+            extras.queryParams = this.removeEmptyProps(extras.queryParams);
+        }
+        return this.navigateByUrl(this.createUrlTree(commands, extras), extras);
+    };
+    /**
+     * Serializes a {\@link UrlTree} into a string
+     * @param {?} url
+     * @return {?}
+     */
+    Router.prototype.serializeUrl = function (url) { return this.urlSerializer.serialize(url); };
+    /**
+     * Parses a string into a {\@link UrlTree}
+     * @param {?} url
+     * @return {?}
+     */
+    Router.prototype.parseUrl = function (url) { return this.urlSerializer.parse(url); };
+    /**
+     * Returns whether the url is activated
+     * @param {?} url
+     * @param {?} exact
+     * @return {?}
+     */
+    Router.prototype.isActive = function (url, exact) {
+        if (url instanceof __WEBPACK_IMPORTED_MODULE_21__url_tree__["d" /* UrlTree */]) {
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_21__url_tree__["e" /* containsTree */])(this.currentUrlTree, url, exact);
+        }
+        else {
+            var /** @type {?} */ urlTree = this.urlSerializer.parse(url);
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_21__url_tree__["e" /* containsTree */])(this.currentUrlTree, urlTree, exact);
+        }
+    };
+    /**
+     * @param {?} params
+     * @return {?}
+     */
+    Router.prototype.removeEmptyProps = function (params) {
+        return Object.keys(params).reduce(function (result, key) {
+            var /** @type {?} */ value = params[key];
+            if (value !== null && value !== undefined) {
+                result[key] = value;
+            }
+            return result;
+        }, {});
+    };
+    /**
+     * @return {?}
+     */
+    Router.prototype.processNavigations = function () {
+        var _this = this;
+        __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_concatMap__["concatMap"]
+            .call(this.navigations, function (nav) {
+            if (nav) {
+                _this.executeScheduledNavigation(nav);
+                // a failed navigation should not stop the router from processing
+                // further navigations => the catch
+                return nav.promise.catch(function () { });
+            }
+            else {
+                return (__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(null));
+            }
+        })
+            .subscribe(function () { });
+    };
+    /**
+     * @param {?} rawUrl
+     * @param {?} source
+     * @param {?} extras
+     * @return {?}
+     */
+    Router.prototype.scheduleNavigation = function (rawUrl, source, extras) {
+        var /** @type {?} */ lastNavigation = this.navigations.value;
+        // If the user triggers a navigation imperatively (e.g., by using navigateByUrl),
+        // and that navigation results in 'replaceState' that leads to the same URL,
+        // we should skip those.
+        if (lastNavigation && source !== 'imperative' && lastNavigation.source === 'imperative' &&
+            lastNavigation.rawUrl.toString() === rawUrl.toString()) {
+            return null; // return value is not used
+        }
+        // Because of a bug in IE and Edge, the location class fires two events (popstate and
+        // hashchange)
+        // every single time. The second one should be ignored. Otherwise, the URL will flicker.
+        if (lastNavigation && source == 'hashchange' && lastNavigation.source === 'popstate' &&
+            lastNavigation.rawUrl.toString() === rawUrl.toString()) {
+            return null; // return value is not used
+        }
+        var /** @type {?} */ resolve = null;
+        var /** @type {?} */ reject = null;
+        var /** @type {?} */ promise = new Promise(function (res, rej) {
+            resolve = res;
+            reject = rej;
+        });
+        var /** @type {?} */ id = ++this.navigationId;
+        this.navigations.next({ id: id, source: source, rawUrl: rawUrl, extras: extras, resolve: resolve, reject: reject, promise: promise });
+        // Make sure that the error is propagated even though `processNavigations` catch
+        // handler does not rethrow
+        return promise.catch(function (e) { return Promise.reject(e); });
+    };
+    /**
+     * @param {?} __0
+     * @return {?}
+     */
+    Router.prototype.executeScheduledNavigation = function (_a) {
+        var _this = this;
+        var id = _a.id, rawUrl = _a.rawUrl, extras = _a.extras, resolve = _a.resolve, reject = _a.reject;
+        var /** @type {?} */ url = this.urlHandlingStrategy.extract(rawUrl);
+        var /** @type {?} */ urlTransition = !this.navigated || url.toString() !== this.currentUrlTree.toString();
+        if (urlTransition && this.urlHandlingStrategy.shouldProcessUrl(rawUrl)) {
+            this.routerEvents.next(new NavigationStart(id, this.serializeUrl(url)));
+            Promise.resolve()
+                .then(function (_) { return _this.runNavigate(url, rawUrl, extras.skipLocationChange, extras.replaceUrl, id, null); })
+                .then(resolve, reject);
+        }
+        else if (urlTransition && this.rawUrlTree &&
+            this.urlHandlingStrategy.shouldProcessUrl(this.rawUrlTree)) {
+            this.routerEvents.next(new NavigationStart(id, this.serializeUrl(url)));
+            Promise.resolve()
+                .then(function (_) { return _this.runNavigate(url, rawUrl, false, false, id, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["b" /* createEmptyState */])(url, _this.rootComponentType).snapshot); })
+                .then(resolve, reject);
+        }
+        else {
+            this.rawUrlTree = rawUrl;
+            resolve(null);
+        }
+    };
+    /**
+     * @param {?} url
+     * @param {?} rawUrl
+     * @param {?} shouldPreventPushState
+     * @param {?} shouldReplaceUrl
+     * @param {?} id
+     * @param {?} precreatedState
+     * @return {?}
+     */
+    Router.prototype.runNavigate = function (url, rawUrl, shouldPreventPushState, shouldReplaceUrl, id, precreatedState) {
+        var _this = this;
+        if (id !== this.navigationId) {
+            this.location.go(this.urlSerializer.serialize(this.currentUrlTree));
+            this.routerEvents.next(new NavigationCancel(id, this.serializeUrl(url), "Navigation ID " + id + " is not equal to the current navigation id " + this.navigationId));
+            return Promise.resolve(false);
+        }
+        return new Promise(function (resolvePromise, rejectPromise) {
+            // create an observable of the url and route state snapshot
+            // this operation do not result in any side effects
+            var /** @type {?} */ urlAndSnapshot$;
+            if (!precreatedState) {
+                var /** @type {?} */ redirectsApplied$ = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_11__apply_redirects__["a" /* applyRedirects */])(_this.injector, _this.configLoader, _this.urlSerializer, url, _this.config);
+                urlAndSnapshot$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(redirectsApplied$, function (appliedUrl) {
+                    return __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_15__recognize__["a" /* recognize */])(_this.rootComponentType, _this.config, appliedUrl, _this.serializeUrl(appliedUrl)), function (snapshot) {
+                        _this.routerEvents.next(new RoutesRecognized(id, _this.serializeUrl(url), _this.serializeUrl(appliedUrl), snapshot));
+                        return { appliedUrl: appliedUrl, snapshot: snapshot };
+                    });
+                });
+            }
+            else {
+                urlAndSnapshot$ = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])({ appliedUrl: url, snapshot: precreatedState });
+            }
+            var /** @type {?} */ beforePreactivationDone$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(urlAndSnapshot$, function (p) {
+                return __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(_this.hooks.beforePreactivation(p.snapshot), function () { return p; });
+            });
+            // run preactivation: guards and data resolvers
+            var /** @type {?} */ preActivation;
+            var /** @type {?} */ preactivationTraverse$ = __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(beforePreactivationDone$, function (_a) {
+                var appliedUrl = _a.appliedUrl, snapshot = _a.snapshot;
+                preActivation =
+                    new PreActivation(snapshot, _this.currentRouterState.snapshot, _this.injector);
+                preActivation.traverse(_this.outletMap);
+                return { appliedUrl: appliedUrl, snapshot: snapshot };
+            });
+            var /** @type {?} */ preactivationCheckGuards$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(preactivationTraverse$, function (_a) {
+                var appliedUrl = _a.appliedUrl, snapshot = _a.snapshot;
+                if (_this.navigationId !== id)
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(false);
+                return __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(preActivation.checkGuards(), function (shouldActivate) {
+                    return { appliedUrl: appliedUrl, snapshot: snapshot, shouldActivate: shouldActivate };
+                });
+            });
+            var /** @type {?} */ preactivationResolveData$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(preactivationCheckGuards$, function (p) {
+                if (_this.navigationId !== id)
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(false);
+                if (p.shouldActivate) {
+                    return __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(preActivation.resolveData(), function () { return p; });
+                }
+                else {
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(p);
+                }
+            });
+            var /** @type {?} */ preactivationDone$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(preactivationResolveData$, function (p) {
+                return __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(_this.hooks.afterPreactivation(p.snapshot), function () { return p; });
+            });
+            // create router state
+            // this operation has side effects => route state is being affected
+            var /** @type {?} */ routerState$ = __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(preactivationDone$, function (_a) {
+                var appliedUrl = _a.appliedUrl, snapshot = _a.snapshot, shouldActivate = _a.shouldActivate;
+                if (shouldActivate) {
+                    var /** @type {?} */ state = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_13__create_router_state__["a" /* createRouterState */])(_this.routeReuseStrategy, snapshot, _this.currentRouterState);
+                    return { appliedUrl: appliedUrl, state: state, shouldActivate: shouldActivate };
+                }
+                else {
+                    return { appliedUrl: appliedUrl, state: null, shouldActivate: shouldActivate };
+                }
+            });
+            // applied the new router state
+            // this operation has side effects
+            var /** @type {?} */ navigationIsSuccessful;
+            var /** @type {?} */ storedState = _this.currentRouterState;
+            var /** @type {?} */ storedUrl = _this.currentUrlTree;
+            routerState$
+                .forEach(function (_a) {
+                var appliedUrl = _a.appliedUrl, state = _a.state, shouldActivate = _a.shouldActivate;
+                if (!shouldActivate || id !== _this.navigationId) {
+                    navigationIsSuccessful = false;
+                    return;
+                }
+                _this.currentUrlTree = appliedUrl;
+                _this.rawUrlTree = _this.urlHandlingStrategy.merge(_this.currentUrlTree, rawUrl);
+                _this.currentRouterState = state;
+                if (!shouldPreventPushState) {
+                    var /** @type {?} */ path = _this.urlSerializer.serialize(_this.rawUrlTree);
+                    if (_this.location.isCurrentPathEqualTo(path) || shouldReplaceUrl) {
+                        _this.location.replaceState(path);
+                    }
+                    else {
+                        _this.location.go(path);
+                    }
+                }
+                new ActivateRoutes(_this.routeReuseStrategy, state, storedState)
+                    .activate(_this.outletMap);
+                navigationIsSuccessful = true;
+            })
+                .then(function () {
+                if (navigationIsSuccessful) {
+                    _this.navigated = true;
+                    _this.routerEvents.next(new NavigationEnd(id, _this.serializeUrl(url), _this.serializeUrl(_this.currentUrlTree)));
+                    resolvePromise(true);
+                }
+                else {
+                    _this.resetUrlToCurrentUrlTree();
+                    _this.routerEvents.next(new NavigationCancel(id, _this.serializeUrl(url), ''));
+                    resolvePromise(false);
+                }
+            }, function (e) {
+                if (e instanceof __WEBPACK_IMPORTED_MODULE_19__shared__["b" /* NavigationCancelingError */]) {
+                    _this.resetUrlToCurrentUrlTree();
+                    _this.navigated = true;
+                    _this.routerEvents.next(new NavigationCancel(id, _this.serializeUrl(url), e.message));
+                    resolvePromise(false);
+                }
+                else {
+                    _this.routerEvents.next(new NavigationError(id, _this.serializeUrl(url), e));
+                    try {
+                        resolvePromise(_this.errorHandler(e));
+                    }
+                    catch (ee) {
+                        rejectPromise(ee);
+                    }
+                }
+                _this.currentRouterState = storedState;
+                _this.currentUrlTree = storedUrl;
+                _this.rawUrlTree = _this.urlHandlingStrategy.merge(_this.currentUrlTree, rawUrl);
+                _this.location.replaceState(_this.serializeUrl(_this.rawUrlTree));
+            });
+        });
+    };
+    /**
+     * @return {?}
+     */
+    Router.prototype.resetUrlToCurrentUrlTree = function () {
+        var /** @type {?} */ path = this.urlSerializer.serialize(this.rawUrlTree);
+        this.location.replaceState(path);
+    };
+    return Router;
+}());
+function Router_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Router.prototype.currentUrlTree;
+    /** @type {?} */
+    Router.prototype.rawUrlTree;
+    /** @type {?} */
+    Router.prototype.navigations;
+    /** @type {?} */
+    Router.prototype.routerEvents;
+    /** @type {?} */
+    Router.prototype.currentRouterState;
+    /** @type {?} */
+    Router.prototype.locationSubscription;
+    /** @type {?} */
+    Router.prototype.navigationId;
+    /** @type {?} */
+    Router.prototype.configLoader;
+    /**
+     * Error handler that is invoked when a navigation errors.
+     *
+     * See {\@link ErrorHandler} for more information.
+     * @type {?}
+     */
+    Router.prototype.errorHandler;
+    /**
+     * Indicates if at least one navigation happened.
+     * @type {?}
+     */
+    Router.prototype.navigated;
+    /**
+     * Extracts and merges URLs. Used for Angular 1 to Angular 2 migrations.
+     * Used by RouterModule. This allows us to
+     * pause the navigation either before preactivation or after it.
+     * \@internal
+     * @type {?}
+     */
+    Router.prototype.hooks;
+    /**
+     * Extracts and merges URLs. Used for AngularJS to Angular migrations.
+     * @type {?}
+     */
+    Router.prototype.urlHandlingStrategy;
+    /** @type {?} */
+    Router.prototype.routeReuseStrategy;
+    /** @type {?} */
+    Router.prototype.rootComponentType;
+    /** @type {?} */
+    Router.prototype.urlSerializer;
+    /** @type {?} */
+    Router.prototype.outletMap;
+    /** @type {?} */
+    Router.prototype.location;
+    /** @type {?} */
+    Router.prototype.injector;
+    /** @type {?} */
+    Router.prototype.config;
+}
+var CanActivate = (function () {
+    /**
+     * @param {?} path
+     */
+    function CanActivate(path) {
+        this.path = path;
+    }
+    Object.defineProperty(CanActivate.prototype, "route", {
+        /**
+         * @return {?}
+         */
+        get: function () { return this.path[this.path.length - 1]; },
+        enumerable: true,
+        configurable: true
+    });
+    return CanActivate;
+}());
+function CanActivate_tsickle_Closure_declarations() {
+    /** @type {?} */
+    CanActivate.prototype.path;
+}
+var CanDeactivate = (function () {
+    /**
+     * @param {?} component
+     * @param {?} route
+     */
+    function CanDeactivate(component, route) {
+        this.component = component;
+        this.route = route;
+    }
+    return CanDeactivate;
+}());
+function CanDeactivate_tsickle_Closure_declarations() {
+    /** @type {?} */
+    CanDeactivate.prototype.component;
+    /** @type {?} */
+    CanDeactivate.prototype.route;
+}
+var PreActivation = (function () {
+    /**
+     * @param {?} future
+     * @param {?} curr
+     * @param {?} injector
+     */
+    function PreActivation(future, curr, injector) {
+        this.future = future;
+        this.curr = curr;
+        this.injector = injector;
+        this.checks = [];
+    }
+    /**
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    PreActivation.prototype.traverse = function (parentOutletMap) {
+        var /** @type {?} */ futureRoot = this.future._root;
+        var /** @type {?} */ currRoot = this.curr ? this.curr._root : null;
+        this.traverseChildRoutes(futureRoot, currRoot, parentOutletMap, [futureRoot.value]);
+    };
+    /**
+     * @return {?}
+     */
+    PreActivation.prototype.checkGuards = function () {
+        var _this = this;
+        if (this.checks.length === 0)
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(true);
+        var /** @type {?} */ checks$ = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])(this.checks);
+        var /** @type {?} */ runningChecks$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(checks$, function (s) {
+            if (s instanceof CanActivate) {
+                return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["c" /* andObservables */])(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])([_this.runCanActivateChild(s.path), _this.runCanActivate(s.route)]));
+            }
+            else if (s instanceof CanDeactivate) {
+                // workaround https://github.com/Microsoft/TypeScript/issues/7271
+                var /** @type {?} */ s2 = (s);
+                return _this.runCanDeactivate(s2.component, s2.route);
+            }
+            else {
+                throw new Error('Cannot be reached');
+            }
+        });
+        return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_every__["every"].call(runningChecks$, function (result) { return result === true; });
+    };
+    /**
+     * @return {?}
+     */
+    PreActivation.prototype.resolveData = function () {
+        var _this = this;
+        if (this.checks.length === 0)
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(null);
+        var /** @type {?} */ checks$ = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])(this.checks);
+        var /** @type {?} */ runningChecks$ = __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_concatMap__["concatMap"].call(checks$, function (s) {
+            if (s instanceof CanActivate) {
+                return _this.runResolve(s.route);
+            }
+            else {
+                return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(null);
+            }
+        });
+        return __WEBPACK_IMPORTED_MODULE_10_rxjs_operator_reduce__["reduce"].call(runningChecks$, function (_, __) { return _; });
+    };
+    /**
+     * @param {?} futureNode
+     * @param {?} currNode
+     * @param {?} outletMap
+     * @param {?} futurePath
+     * @return {?}
+     */
+    PreActivation.prototype.traverseChildRoutes = function (futureNode, currNode, outletMap, futurePath) {
+        var _this = this;
+        var /** @type {?} */ prevChildren = nodeChildrenAsMap(currNode);
+        futureNode.children.forEach(function (c) {
+            _this.traverseRoutes(c, prevChildren[c.value.outlet], outletMap, futurePath.concat([c.value]));
+            delete prevChildren[c.value.outlet];
+        });
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["d" /* forEach */])(prevChildren, function (v, k) { return _this.deactiveRouteAndItsChildren(v, outletMap._outlets[k]); });
+    };
+    /**
+     * @param {?} futureNode
+     * @param {?} currNode
+     * @param {?} parentOutletMap
+     * @param {?} futurePath
+     * @return {?}
+     */
+    PreActivation.prototype.traverseRoutes = function (futureNode, currNode, parentOutletMap, futurePath) {
+        var /** @type {?} */ future = futureNode.value;
+        var /** @type {?} */ curr = currNode ? currNode.value : null;
+        var /** @type {?} */ outlet = parentOutletMap ? parentOutletMap._outlets[futureNode.value.outlet] : null;
+        // reusing the node
+        if (curr && future._routeConfig === curr._routeConfig) {
+            if (!__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["c" /* equalParamsAndUrlSegments */])(future, curr)) {
+                this.checks.push(new CanDeactivate(outlet.component, curr), new CanActivate(futurePath));
+            }
+            else {
+                // we need to set the data
+                future.data = curr.data;
+                future._resolvedData = curr._resolvedData;
+            }
+            // If we have a component, we need to go through an outlet.
+            if (future.component) {
+                this.traverseChildRoutes(futureNode, currNode, outlet ? outlet.outletMap : null, futurePath);
+            }
+            else {
+                this.traverseChildRoutes(futureNode, currNode, parentOutletMap, futurePath);
+            }
+        }
+        else {
+            if (curr) {
+                this.deactiveRouteAndItsChildren(currNode, outlet);
+            }
+            this.checks.push(new CanActivate(futurePath));
+            // If we have a component, we need to go through an outlet.
+            if (future.component) {
+                this.traverseChildRoutes(futureNode, null, outlet ? outlet.outletMap : null, futurePath);
+            }
+            else {
+                this.traverseChildRoutes(futureNode, null, parentOutletMap, futurePath);
+            }
+        }
+    };
+    /**
+     * @param {?} route
+     * @param {?} outlet
+     * @return {?}
+     */
+    PreActivation.prototype.deactiveRouteAndItsChildren = function (route, outlet) {
+        var _this = this;
+        var /** @type {?} */ prevChildren = nodeChildrenAsMap(route);
+        var /** @type {?} */ r = route.value;
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["d" /* forEach */])(prevChildren, function (v, k) {
+            if (!r.component) {
+                _this.deactiveRouteAndItsChildren(v, outlet);
+            }
+            else if (!!outlet) {
+                _this.deactiveRouteAndItsChildren(v, outlet.outletMap._outlets[k]);
+            }
+            else {
+                _this.deactiveRouteAndItsChildren(v, null);
+            }
+        });
+        if (!r.component) {
+            this.checks.push(new CanDeactivate(null, r));
+        }
+        else if (outlet && outlet.isActivated) {
+            this.checks.push(new CanDeactivate(outlet.component, r));
+        }
+        else {
+            this.checks.push(new CanDeactivate(null, r));
+        }
+    };
+    /**
+     * @param {?} future
+     * @return {?}
+     */
+    PreActivation.prototype.runCanActivate = function (future) {
+        var _this = this;
+        var /** @type {?} */ canActivate = future._routeConfig ? future._routeConfig.canActivate : null;
+        if (!canActivate || canActivate.length === 0)
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(true);
+        var /** @type {?} */ obs = __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])(canActivate), function (c) {
+            var /** @type {?} */ guard = _this.getToken(c, future);
+            var /** @type {?} */ observable;
+            if (guard.canActivate) {
+                observable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(guard.canActivate(future, _this.future));
+            }
+            else {
+                observable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(guard(future, _this.future));
+            }
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_first__["first"].call(observable);
+        });
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["c" /* andObservables */])(obs);
+    };
+    /**
+     * @param {?} path
+     * @return {?}
+     */
+    PreActivation.prototype.runCanActivateChild = function (path) {
+        var _this = this;
+        var /** @type {?} */ future = path[path.length - 1];
+        var /** @type {?} */ canActivateChildGuards = path.slice(0, path.length - 1)
+            .reverse()
+            .map(function (p) { return _this.extractCanActivateChild(p); })
+            .filter(function (_) { return _ !== null; });
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["c" /* andObservables */])(__WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])(canActivateChildGuards), function (d) {
+            var /** @type {?} */ obs = __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])(d.guards), function (c) {
+                var /** @type {?} */ guard = _this.getToken(c, d.node);
+                var /** @type {?} */ observable;
+                if (guard.canActivateChild) {
+                    observable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(guard.canActivateChild(future, _this.future));
+                }
+                else {
+                    observable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(guard(future, _this.future));
+                }
+                return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_first__["first"].call(observable);
+            });
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["c" /* andObservables */])(obs);
+        }));
+    };
+    /**
+     * @param {?} p
+     * @return {?}
+     */
+    PreActivation.prototype.extractCanActivateChild = function (p) {
+        var /** @type {?} */ canActivateChild = p._routeConfig ? p._routeConfig.canActivateChild : null;
+        if (!canActivateChild || canActivateChild.length === 0)
+            return null;
+        return { node: p, guards: canActivateChild };
+    };
+    /**
+     * @param {?} component
+     * @param {?} curr
+     * @return {?}
+     */
+    PreActivation.prototype.runCanDeactivate = function (component, curr) {
+        var _this = this;
+        var /** @type {?} */ canDeactivate = curr && curr._routeConfig ? curr._routeConfig.canDeactivate : null;
+        if (!canDeactivate || canDeactivate.length === 0)
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4_rxjs_observable_of__["of"])(true);
+        var /** @type {?} */ canDeactivate$ = __WEBPACK_IMPORTED_MODULE_9_rxjs_operator_mergeMap__["mergeMap"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_from__["from"])(canDeactivate), function (c) {
+            var /** @type {?} */ guard = _this.getToken(c, curr);
+            var /** @type {?} */ observable;
+            if (guard.canDeactivate) {
+                observable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(guard.canDeactivate(component, curr, _this.curr));
+            }
+            else {
+                observable = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(guard(component, curr, _this.curr));
+            }
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_first__["first"].call(observable);
+        });
+        return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_every__["every"].call(canDeactivate$, function (result) { return result === true; });
+    };
+    /**
+     * @param {?} future
+     * @return {?}
+     */
+    PreActivation.prototype.runResolve = function (future) {
+        var /** @type {?} */ resolve = future._resolve;
+        return __WEBPACK_IMPORTED_MODULE_8_rxjs_operator_map__["map"].call(this.resolveNode(resolve, future), function (resolvedData) {
+            future._resolvedData = resolvedData;
+            future.data = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["e" /* merge */])(future.data, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["d" /* inheritedParamsDataResolve */])(future).resolve);
+            return null;
+        });
+    };
+    /**
+     * @param {?} resolve
+     * @param {?} future
+     * @return {?}
+     */
+    PreActivation.prototype.resolveNode = function (resolve, future) {
+        var _this = this;
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["f" /* waitForMap */])(resolve, function (k, v) {
+            var /** @type {?} */ resolver = _this.getToken(v, future);
+            return resolver.resolve ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(resolver.resolve(future, _this.future)) :
+                __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["b" /* wrapIntoObservable */])(resolver(future, _this.future));
+        });
+    };
+    /**
+     * @param {?} token
+     * @param {?} snapshot
+     * @return {?}
+     */
+    PreActivation.prototype.getToken = function (token, snapshot) {
+        var /** @type {?} */ config = closestLoadedConfig(snapshot);
+        var /** @type {?} */ injector = config ? config.injector : this.injector;
+        return injector.get(token);
+    };
+    return PreActivation;
+}());
+function PreActivation_tsickle_Closure_declarations() {
+    /** @type {?} */
+    PreActivation.prototype.checks;
+    /** @type {?} */
+    PreActivation.prototype.future;
+    /** @type {?} */
+    PreActivation.prototype.curr;
+    /** @type {?} */
+    PreActivation.prototype.injector;
+}
+var ActivateRoutes = (function () {
+    /**
+     * @param {?} routeReuseStrategy
+     * @param {?} futureState
+     * @param {?} currState
+     */
+    function ActivateRoutes(routeReuseStrategy, futureState, currState) {
+        this.routeReuseStrategy = routeReuseStrategy;
+        this.futureState = futureState;
+        this.currState = currState;
+    }
+    /**
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.activate = function (parentOutletMap) {
+        var /** @type {?} */ futureRoot = this.futureState._root;
+        var /** @type {?} */ currRoot = this.currState ? this.currState._root : null;
+        this.deactivateChildRoutes(futureRoot, currRoot, parentOutletMap);
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["e" /* advanceActivatedRoute */])(this.futureState.root);
+        this.activateChildRoutes(futureRoot, currRoot, parentOutletMap);
+    };
+    /**
+     * @param {?} futureNode
+     * @param {?} currNode
+     * @param {?} outletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.deactivateChildRoutes = function (futureNode, currNode, outletMap) {
+        var _this = this;
+        var /** @type {?} */ prevChildren = nodeChildrenAsMap(currNode);
+        futureNode.children.forEach(function (c) {
+            _this.deactivateRoutes(c, prevChildren[c.value.outlet], outletMap);
+            delete prevChildren[c.value.outlet];
+        });
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["d" /* forEach */])(prevChildren, function (v, k) { return _this.deactiveRouteAndItsChildren(v, outletMap); });
+    };
+    /**
+     * @param {?} futureNode
+     * @param {?} currNode
+     * @param {?} outletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.activateChildRoutes = function (futureNode, currNode, outletMap) {
+        var _this = this;
+        var /** @type {?} */ prevChildren = nodeChildrenAsMap(currNode);
+        futureNode.children.forEach(function (c) { _this.activateRoutes(c, prevChildren[c.value.outlet], outletMap); });
+    };
+    /**
+     * @param {?} futureNode
+     * @param {?} currNode
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.deactivateRoutes = function (futureNode, currNode, parentOutletMap) {
+        var /** @type {?} */ future = futureNode.value;
+        var /** @type {?} */ curr = currNode ? currNode.value : null;
+        // reusing the node
+        if (future === curr) {
+            // If we have a normal route, we need to go through an outlet.
+            if (future.component) {
+                var /** @type {?} */ outlet = getOutlet(parentOutletMap, future);
+                this.deactivateChildRoutes(futureNode, currNode, outlet.outletMap);
+            }
+            else {
+                this.deactivateChildRoutes(futureNode, currNode, parentOutletMap);
+            }
+        }
+        else {
+            if (curr) {
+                this.deactiveRouteAndItsChildren(currNode, parentOutletMap);
+            }
+        }
+    };
+    /**
+     * @param {?} futureNode
+     * @param {?} currNode
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.activateRoutes = function (futureNode, currNode, parentOutletMap) {
+        var /** @type {?} */ future = futureNode.value;
+        var /** @type {?} */ curr = currNode ? currNode.value : null;
+        // reusing the node
+        if (future === curr) {
+            // advance the route to push the parameters
+            __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["e" /* advanceActivatedRoute */])(future);
+            // If we have a normal route, we need to go through an outlet.
+            if (future.component) {
+                var /** @type {?} */ outlet = getOutlet(parentOutletMap, future);
+                this.activateChildRoutes(futureNode, currNode, outlet.outletMap);
+            }
+            else {
+                this.activateChildRoutes(futureNode, currNode, parentOutletMap);
+            }
+        }
+        else {
+            // if we have a normal route, we need to advance the route
+            // and place the component into the outlet. After that recurse.
+            if (future.component) {
+                __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["e" /* advanceActivatedRoute */])(future);
+                var /** @type {?} */ outlet = getOutlet(parentOutletMap, futureNode.value);
+                if (this.routeReuseStrategy.shouldAttach(future.snapshot)) {
+                    var /** @type {?} */ stored = ((this.routeReuseStrategy.retrieve(future.snapshot)));
+                    this.routeReuseStrategy.store(future.snapshot, null);
+                    outlet.attach(stored.componentRef, stored.route.value);
+                    advanceActivatedRouteNodeAndItsChildren(stored.route);
+                }
+                else {
+                    var /** @type {?} */ outletMap = new __WEBPACK_IMPORTED_MODULE_17__router_outlet_map__["a" /* RouterOutletMap */]();
+                    this.placeComponentIntoOutlet(outletMap, future, outlet);
+                    this.activateChildRoutes(futureNode, null, outletMap);
+                }
+            }
+            else {
+                __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["e" /* advanceActivatedRoute */])(future);
+                this.activateChildRoutes(futureNode, null, parentOutletMap);
+            }
+        }
+    };
+    /**
+     * @param {?} outletMap
+     * @param {?} future
+     * @param {?} outlet
+     * @return {?}
+     */
+    ActivateRoutes.prototype.placeComponentIntoOutlet = function (outletMap, future, outlet) {
+        var /** @type {?} */ resolved = ([{ provide: __WEBPACK_IMPORTED_MODULE_18__router_state__["a" /* ActivatedRoute */], useValue: future }, {
+                provide: __WEBPACK_IMPORTED_MODULE_17__router_outlet_map__["a" /* RouterOutletMap */],
+                useValue: outletMap
+            }]);
+        var /** @type {?} */ config = parentLoadedConfig(future.snapshot);
+        var /** @type {?} */ resolver = null;
+        var /** @type {?} */ injector = null;
+        if (config) {
+            injector = config.injectorFactory(outlet.locationInjector);
+            resolver = config.factoryResolver;
+            resolved.push({ provide: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* ComponentFactoryResolver */], useValue: resolver });
+        }
+        else {
+            injector = outlet.locationInjector;
+            resolver = outlet.locationFactoryResolver;
+        }
+        outlet.activate(future, resolver, injector, __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* ReflectiveInjector */].resolve(resolved), outletMap);
+    };
+    /**
+     * @param {?} route
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.deactiveRouteAndItsChildren = function (route, parentOutletMap) {
+        if (this.routeReuseStrategy.shouldDetach(route.value.snapshot)) {
+            this.detachAndStoreRouteSubtree(route, parentOutletMap);
+        }
+        else {
+            this.deactiveRouteAndOutlet(route, parentOutletMap);
+        }
+    };
+    /**
+     * @param {?} route
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.detachAndStoreRouteSubtree = function (route, parentOutletMap) {
+        var /** @type {?} */ outlet = getOutlet(parentOutletMap, route.value);
+        var /** @type {?} */ componentRef = outlet.detach();
+        this.routeReuseStrategy.store(route.value.snapshot, { componentRef: componentRef, route: route });
+    };
+    /**
+     * @param {?} route
+     * @param {?} parentOutletMap
+     * @return {?}
+     */
+    ActivateRoutes.prototype.deactiveRouteAndOutlet = function (route, parentOutletMap) {
+        var _this = this;
+        var /** @type {?} */ prevChildren = nodeChildrenAsMap(route);
+        var /** @type {?} */ outlet = null;
+        // getOutlet throws when cannot find the right outlet,
+        // which can happen if an outlet was in an NgIf and was removed
+        try {
+            outlet = getOutlet(parentOutletMap, route.value);
+        }
+        catch (e) {
+            return;
+        }
+        var /** @type {?} */ childOutletMap = outlet.outletMap;
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_22__utils_collection__["d" /* forEach */])(prevChildren, function (v, k) {
+            if (route.value.component) {
+                _this.deactiveRouteAndItsChildren(v, childOutletMap);
+            }
+            else {
+                _this.deactiveRouteAndItsChildren(v, parentOutletMap);
+            }
+        });
+        if (outlet && outlet.isActivated) {
+            outlet.deactivate();
+        }
+    };
+    return ActivateRoutes;
+}());
+function ActivateRoutes_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ActivateRoutes.prototype.routeReuseStrategy;
+    /** @type {?} */
+    ActivateRoutes.prototype.futureState;
+    /** @type {?} */
+    ActivateRoutes.prototype.currState;
+}
+/**
+ * @param {?} node
+ * @return {?}
+ */
+function advanceActivatedRouteNodeAndItsChildren(node) {
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_18__router_state__["e" /* advanceActivatedRoute */])(node.value);
+    node.children.forEach(advanceActivatedRouteNodeAndItsChildren);
+}
+/**
+ * @param {?} snapshot
+ * @return {?}
+ */
+function parentLoadedConfig(snapshot) {
+    var /** @type {?} */ s = snapshot.parent;
+    while (s) {
+        var /** @type {?} */ c = s._routeConfig;
+        if (c && c._loadedConfig)
+            return c._loadedConfig;
+        if (c && c.component)
+            return null;
+        s = s.parent;
+    }
+    return null;
+}
+/**
+ * @param {?} snapshot
+ * @return {?}
+ */
+function closestLoadedConfig(snapshot) {
+    if (!snapshot)
+        return null;
+    var /** @type {?} */ s = snapshot.parent;
+    while (s) {
+        var /** @type {?} */ c = s._routeConfig;
+        if (c && c._loadedConfig)
+            return c._loadedConfig;
+        s = s.parent;
+    }
+    return null;
+}
+/**
+ * @param {?} node
+ * @return {?}
+ */
+function nodeChildrenAsMap(node) {
+    return node ? node.children.reduce(function (m, c) {
+        m[c.value.outlet] = c;
+        return m;
+    }, {}) : {};
+}
+/**
+ * @param {?} outletMap
+ * @param {?} route
+ * @return {?}
+ */
+function getOutlet(outletMap, route) {
+    var /** @type {?} */ outlet = outletMap._outlets[route.outlet];
+    if (!outlet) {
+        var /** @type {?} */ componentName = ((route.component)).name;
+        if (route.outlet === __WEBPACK_IMPORTED_MODULE_19__shared__["a" /* PRIMARY_OUTLET */]) {
+            throw new Error("Cannot find primary outlet to load '" + componentName + "'");
+        }
+        else {
+            throw new Error("Cannot find the outlet " + route.outlet + " to load '" + componentName + "'");
+        }
+    }
+    return outlet;
+}
+/**
+ * @param {?} commands
+ * @return {?}
+ */
+function validateCommands(commands) {
+    for (var /** @type {?} */ i = 0; i < commands.length; i++) {
+        var /** @type {?} */ cmd = commands[i];
+        if (cmd == null) {
+            throw new Error("The requested path contains " + cmd + " segment at index " + i);
+        }
+    }
+}
+//# sourceMappingURL=router.js.map
+
+/***/ }),
+/* 636 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_fromPromise__ = __webpack_require__(614);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_fromPromise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_fromPromise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_map__ = __webpack_require__(639);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_mergeMap__ = __webpack_require__(637);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_mergeMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_operator_mergeMap__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__utils_collection__ = __webpack_require__(631);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ROUTES; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return LoadedRouterConfig; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return RouterConfigLoader; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+/**
+ * @experimental
+ */
+var /** @type {?} */ ROUTES = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["q" /* OpaqueToken */]('ROUTES');
+var LoadedRouterConfig = (function () {
+    /**
+     * @param {?} routes
+     * @param {?} injector
+     * @param {?} factoryResolver
+     * @param {?} injectorFactory
+     */
+    function LoadedRouterConfig(routes, injector, factoryResolver, injectorFactory) {
+        this.routes = routes;
+        this.injector = injector;
+        this.factoryResolver = factoryResolver;
+        this.injectorFactory = injectorFactory;
+    }
+    return LoadedRouterConfig;
+}());
+function LoadedRouterConfig_tsickle_Closure_declarations() {
+    /** @type {?} */
+    LoadedRouterConfig.prototype.routes;
+    /** @type {?} */
+    LoadedRouterConfig.prototype.injector;
+    /** @type {?} */
+    LoadedRouterConfig.prototype.factoryResolver;
+    /** @type {?} */
+    LoadedRouterConfig.prototype.injectorFactory;
+}
+var RouterConfigLoader = (function () {
+    /**
+     * @param {?} loader
+     * @param {?} compiler
+     */
+    function RouterConfigLoader(loader, compiler) {
+        this.loader = loader;
+        this.compiler = compiler;
+    }
+    /**
+     * @param {?} parentInjector
+     * @param {?} loadChildren
+     * @return {?}
+     */
+    RouterConfigLoader.prototype.load = function (parentInjector, loadChildren) {
+        return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_map__["map"].call(this.loadModuleFactory(loadChildren), function (r) {
+            var /** @type {?} */ ref = r.create(parentInjector);
+            var /** @type {?} */ injectorFactory = function (parent) { return r.create(parent).injector; };
+            return new LoadedRouterConfig(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__utils_collection__["a" /* flatten */])(ref.injector.get(ROUTES)), ref.injector, ref.componentFactoryResolver, injectorFactory);
+        });
+    };
+    /**
+     * @param {?} loadChildren
+     * @return {?}
+     */
+    RouterConfigLoader.prototype.loadModuleFactory = function (loadChildren) {
+        var _this = this;
+        if (typeof loadChildren === 'string') {
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_fromPromise__["fromPromise"])(this.loader.load(loadChildren));
+        }
+        else {
+            return __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_mergeMap__["mergeMap"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__utils_collection__["b" /* wrapIntoObservable */])(loadChildren()), function (t) {
+                if (t instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* NgModuleFactory */]) {
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(t);
+                }
+                else {
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_fromPromise__["fromPromise"])(_this.compiler.compileModuleAsync(t));
+                }
+            });
+        }
+    };
+    return RouterConfigLoader;
+}());
+function RouterConfigLoader_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterConfigLoader.prototype.loader;
+    /** @type {?} */
+    RouterConfigLoader.prototype.compiler;
+}
+//# sourceMappingURL=router_config_loader.js.map
+
+/***/ }),
+/* 637 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var subscribeToResult_1 = __webpack_require__(649);
+var OuterSubscriber_1 = __webpack_require__(644);
+/* tslint:enable:max-line-length */
+/**
+ * Projects each source value to an Observable which is merged in the output
+ * Observable.
+ *
+ * <span class="informal">Maps each value to an Observable, then flattens all of
+ * these inner Observables using {@link mergeAll}.</span>
+ *
+ * <img src="./img/mergeMap.png" width="100%">
+ *
+ * Returns an Observable that emits items based on applying a function that you
+ * supply to each item emitted by the source Observable, where that function
+ * returns an Observable, and then merging those resulting Observables and
+ * emitting the results of this merger.
+ *
+ * @example <caption>Map and flatten each letter to an Observable ticking every 1 second</caption>
+ * var letters = Rx.Observable.of('a', 'b', 'c');
+ * var result = letters.mergeMap(x =>
+ *   Rx.Observable.interval(1000).map(i => x+i)
+ * );
+ * result.subscribe(x => console.log(x));
+ *
+ * // Results in the following:
+ * // a0
+ * // b0
+ * // c0
+ * // a1
+ * // b1
+ * // c1
+ * // continues to list a,b,c with respective ascending integers
+ *
+ * @see {@link concatMap}
+ * @see {@link exhaustMap}
+ * @see {@link merge}
+ * @see {@link mergeAll}
+ * @see {@link mergeMapTo}
+ * @see {@link mergeScan}
+ * @see {@link switchMap}
+ *
+ * @param {function(value: T, ?index: number): ObservableInput} project A function
+ * that, when applied to an item emitted by the source Observable, returns an
+ * Observable.
+ * @param {function(outerValue: T, innerValue: I, outerIndex: number, innerIndex: number): any} [resultSelector]
+ * A function to produce the value on the output Observable based on the values
+ * and the indices of the source (outer) emission and the inner Observable
+ * emission. The arguments passed to this function are:
+ * - `outerValue`: the value that came from the source
+ * - `innerValue`: the value that came from the projected Observable
+ * - `outerIndex`: the "index" of the value that came from the source
+ * - `innerIndex`: the "index" of the value from the projected Observable
+ * @param {number} [concurrent=Number.POSITIVE_INFINITY] Maximum number of input
+ * Observables being subscribed to concurrently.
+ * @return {Observable} An Observable that emits the result of applying the
+ * projection function (and the optional `resultSelector`) to each item emitted
+ * by the source Observable and merging the results of the Observables obtained
+ * from this transformation.
+ * @method mergeMap
+ * @owner Observable
+ */
+function mergeMap(project, resultSelector, concurrent) {
+    if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
+    if (typeof resultSelector === 'number') {
+        concurrent = resultSelector;
+        resultSelector = null;
+    }
+    return this.lift(new MergeMapOperator(project, resultSelector, concurrent));
+}
+exports.mergeMap = mergeMap;
+var MergeMapOperator = (function () {
+    function MergeMapOperator(project, resultSelector, concurrent) {
+        if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
+        this.project = project;
+        this.resultSelector = resultSelector;
+        this.concurrent = concurrent;
+    }
+    MergeMapOperator.prototype.call = function (observer, source) {
+        return source.subscribe(new MergeMapSubscriber(observer, this.project, this.resultSelector, this.concurrent));
+    };
+    return MergeMapOperator;
+}());
+exports.MergeMapOperator = MergeMapOperator;
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var MergeMapSubscriber = (function (_super) {
+    __extends(MergeMapSubscriber, _super);
+    function MergeMapSubscriber(destination, project, resultSelector, concurrent) {
+        if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
+        _super.call(this, destination);
+        this.project = project;
+        this.resultSelector = resultSelector;
+        this.concurrent = concurrent;
+        this.hasCompleted = false;
+        this.buffer = [];
+        this.active = 0;
+        this.index = 0;
+    }
+    MergeMapSubscriber.prototype._next = function (value) {
+        if (this.active < this.concurrent) {
+            this._tryNext(value);
+        }
+        else {
+            this.buffer.push(value);
+        }
+    };
+    MergeMapSubscriber.prototype._tryNext = function (value) {
+        var result;
+        var index = this.index++;
+        try {
+            result = this.project(value, index);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        this.active++;
+        this._innerSub(result, value, index);
+    };
+    MergeMapSubscriber.prototype._innerSub = function (ish, value, index) {
+        this.add(subscribeToResult_1.subscribeToResult(this, ish, value, index));
+    };
+    MergeMapSubscriber.prototype._complete = function () {
+        this.hasCompleted = true;
+        if (this.active === 0 && this.buffer.length === 0) {
+            this.destination.complete();
+        }
+    };
+    MergeMapSubscriber.prototype.notifyNext = function (outerValue, innerValue, outerIndex, innerIndex, innerSub) {
+        if (this.resultSelector) {
+            this._notifyResultSelector(outerValue, innerValue, outerIndex, innerIndex);
+        }
+        else {
+            this.destination.next(innerValue);
+        }
+    };
+    MergeMapSubscriber.prototype._notifyResultSelector = function (outerValue, innerValue, outerIndex, innerIndex) {
+        var result;
+        try {
+            result = this.resultSelector(outerValue, innerValue, outerIndex, innerIndex);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        this.destination.next(result);
+    };
+    MergeMapSubscriber.prototype.notifyComplete = function (innerSub) {
+        var buffer = this.buffer;
+        this.remove(innerSub);
+        this.active--;
+        if (buffer.length > 0) {
+            this._next(buffer.shift());
+        }
+        else if (this.active === 0 && this.hasCompleted) {
+            this.destination.complete();
+        }
+    };
+    return MergeMapSubscriber;
+}(OuterSubscriber_1.OuterSubscriber));
+exports.MergeMapSubscriber = MergeMapSubscriber;
+//# sourceMappingURL=mergeMap.js.map
+
+/***/ }),
+/* 638 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouterOutletMap; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+/**
+ * \@whatItDoes Contains all the router outlets created in a component.
+ *
+ * \@stable
+ */
+var RouterOutletMap = (function () {
+    function RouterOutletMap() {
+        /** @internal */
+        this._outlets = {};
+    }
+    /**
+     * Adds an outlet to this map.
+     * @param {?} name
+     * @param {?} outlet
+     * @return {?}
+     */
+    RouterOutletMap.prototype.registerOutlet = function (name, outlet) { this._outlets[name] = outlet; };
+    /**
+     * Removes an outlet from this map.
+     * @param {?} name
+     * @return {?}
+     */
+    RouterOutletMap.prototype.removeOutlet = function (name) { this._outlets[name] = undefined; };
+    return RouterOutletMap;
+}());
+function RouterOutletMap_tsickle_Closure_declarations() {
+    /**
+     * \@internal
+     * @type {?}
+     */
+    RouterOutletMap.prototype._outlets;
+}
+//# sourceMappingURL=router_outlet_map.js.map
+
+/***/ }),
+/* 639 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+/**
+ * Applies a given `project` function to each value emitted by the source
+ * Observable, and emits the resulting values as an Observable.
+ *
+ * <span class="informal">Like [Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map),
+ * it passes each source value through a transformation function to get
+ * corresponding output values.</span>
+ *
+ * <img src="./img/map.png" width="100%">
+ *
+ * Similar to the well known `Array.prototype.map` function, this operator
+ * applies a projection to each value and emits that projection in the output
+ * Observable.
+ *
+ * @example <caption>Map every click to the clientX position of that click</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var positions = clicks.map(ev => ev.clientX);
+ * positions.subscribe(x => console.log(x));
+ *
+ * @see {@link mapTo}
+ * @see {@link pluck}
+ *
+ * @param {function(value: T, index: number): R} project The function to apply
+ * to each `value` emitted by the source Observable. The `index` parameter is
+ * the number `i` for the i-th emission that has happened since the
+ * subscription, starting from the number `0`.
+ * @param {any} [thisArg] An optional argument to define what `this` is in the
+ * `project` function.
+ * @return {Observable<R>} An Observable that emits the values from the source
+ * Observable transformed by the given `project` function.
+ * @method map
+ * @owner Observable
+ */
+function map(project, thisArg) {
+    if (typeof project !== 'function') {
+        throw new TypeError('argument is not a function. Are you looking for `mapTo()`?');
+    }
+    return this.lift(new MapOperator(project, thisArg));
+}
+exports.map = map;
+var MapOperator = (function () {
+    function MapOperator(project, thisArg) {
+        this.project = project;
+        this.thisArg = thisArg;
+    }
+    MapOperator.prototype.call = function (subscriber, source) {
+        return source.subscribe(new MapSubscriber(subscriber, this.project, this.thisArg));
+    };
+    return MapOperator;
+}());
+exports.MapOperator = MapOperator;
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var MapSubscriber = (function (_super) {
+    __extends(MapSubscriber, _super);
+    function MapSubscriber(destination, project, thisArg) {
+        _super.call(this, destination);
+        this.project = project;
+        this.count = 0;
+        this.thisArg = thisArg || this;
+    }
+    // NOTE: This looks unoptimized, but it's actually purposefully NOT
+    // using try/catch optimizations.
+    MapSubscriber.prototype._next = function (value) {
+        var result;
+        try {
+            result = this.project.call(this.thisArg, value, this.count++);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        this.destination.next(result);
+    };
+    return MapSubscriber;
+}(Subscriber_1.Subscriber));
+//# sourceMappingURL=map.js.map
+
+/***/ }),
+/* 640 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_common__ = __webpack_require__(220);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__router__ = __webpack_require__(635);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__router_state__ = __webpack_require__(634);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouterLink; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return RouterLinkWithHref; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+/**
+ * \@whatItDoes Lets you link to specific parts of your app.
+ *
+ * \@howToUse
+ *
+ * Consider the following route configuration:
+ * `[{ path: 'user/:name', component: UserCmp }]`
+ *
+ * When linking to this `user/:name` route, you can write:
+ * `<a routerLink='/user/bob'>link to user component</a>`
+ *
+ * \@description
+ *
+ * The RouterLink directives let you link to specific parts of your app.
+ *
+ * When the link is static, you can use the directive as follows:
+ * `<a routerLink="/user/bob">link to user component</a>`
+ *
+ * If you use dynamic values to generate the link, you can pass an array of path
+ * segments, followed by the params for each segment.
+ *
+ * For instance `['/team', teamId, 'user', userName, {details: true}]`
+ * means that we want to generate a link to `/team/11/user/bob;details=true`.
+ *
+ * Multiple static segments can be merged into one
+ * (e.g., `['/team/11/user', userName, {details: true}]`).
+ *
+ * The first segment name can be prepended with `/`, `./`, or `../`:
+ * * If the first segment begins with `/`, the router will look up the route from the root of the
+ *   app.
+ * * If the first segment begins with `./`, or doesn't begin with a slash, the router will
+ *   instead look in the children of the current activated route.
+ * * And if the first segment begins with `../`, the router will go up one level.
+ *
+ * You can set query params and fragment as follows:
+ *
+ * ```
+ * <a [routerLink]="['/user/bob']" [queryParams]="{debug: true}" fragment="education">
+ *   link to user component
+ * </a>
+ * ```
+ * RouterLink will use these to generate this link: `/user/bob#education?debug=true`.
+ *
+ * You can also tell the directive to preserve the current query params and fragment:
+ *
+ * ```
+ * <a [routerLink]="['/user/bob']" preserveQueryParams preserveFragment>
+ *   link to user component
+ * </a>
+ * ```
+ *
+ * The router link directive always treats the provided input as a delta to the current url.
+ *
+ * For instance, if the current url is `/user/(box//aux:team)`.
+ *
+ * Then the following link `<a [routerLink]="['/user/jim']">Jim</a>` will generate the link
+ * `/user/(jim//aux:team)`.
+ *
+ * \@ngModule RouterModule
+ *
+ * See {\@link Router.createUrlTree} for more information.
+ *
+ * \@stable
+ */
+var RouterLink = (function () {
+    /**
+     * @param {?} router
+     * @param {?} route
+     */
+    function RouterLink(router, route) {
+        this.router = router;
+        this.route = route;
+        this.commands = [];
+    }
+    Object.defineProperty(RouterLink.prototype, "routerLink", {
+        /**
+         * @param {?} commands
+         * @return {?}
+         */
+        set: function (commands) {
+            if (commands != null) {
+                this.commands = Array.isArray(commands) ? commands : [commands];
+            }
+            else {
+                this.commands = [];
+            }
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    RouterLink.prototype.onClick = function () {
+        var /** @type {?} */ extras = {
+            skipLocationChange: attrBoolValue(this.skipLocationChange),
+            replaceUrl: attrBoolValue(this.replaceUrl),
+        };
+        this.router.navigateByUrl(this.urlTree, extras);
+        return true;
+    };
+    Object.defineProperty(RouterLink.prototype, "urlTree", {
+        /**
+         * @return {?}
+         */
+        get: function () {
+            return this.router.createUrlTree(this.commands, {
+                relativeTo: this.route,
+                queryParams: this.queryParams,
+                fragment: this.fragment,
+                preserveQueryParams: attrBoolValue(this.preserveQueryParams),
+                preserveFragment: attrBoolValue(this.preserveFragment),
+            });
+        },
+        enumerable: true,
+        configurable: true
+    });
+    RouterLink.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["A" /* Directive */], args: [{ selector: ':not(a)[routerLink]' },] },
+    ];
+    /** @nocollapse */
+    RouterLink.ctorParameters = function () { return [
+        { type: __WEBPACK_IMPORTED_MODULE_2__router__["a" /* Router */], },
+        { type: __WEBPACK_IMPORTED_MODULE_3__router_state__["a" /* ActivatedRoute */], },
+    ]; };
+    RouterLink.propDecorators = {
+        'queryParams': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'fragment': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'preserveQueryParams': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'preserveFragment': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'skipLocationChange': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'replaceUrl': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'routerLink': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'onClick': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["_2" /* HostListener */], args: ['click',] },],
+    };
+    return RouterLink;
+}());
+function RouterLink_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterLink.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterLink.ctorParameters;
+    /** @type {?} */
+    RouterLink.propDecorators;
+    /** @type {?} */
+    RouterLink.prototype.queryParams;
+    /** @type {?} */
+    RouterLink.prototype.fragment;
+    /** @type {?} */
+    RouterLink.prototype.preserveQueryParams;
+    /** @type {?} */
+    RouterLink.prototype.preserveFragment;
+    /** @type {?} */
+    RouterLink.prototype.skipLocationChange;
+    /** @type {?} */
+    RouterLink.prototype.replaceUrl;
+    /** @type {?} */
+    RouterLink.prototype.commands;
+    /** @type {?} */
+    RouterLink.prototype.router;
+    /** @type {?} */
+    RouterLink.prototype.route;
+}
+/**
+ * \@whatItDoes Lets you link to specific parts of your app.
+ *
+ * See {\@link RouterLink} for more information.
+ *
+ * \@ngModule RouterModule
+ *
+ * \@stable
+ */
+var RouterLinkWithHref = (function () {
+    /**
+     * @param {?} router
+     * @param {?} route
+     * @param {?} locationStrategy
+     */
+    function RouterLinkWithHref(router, route, locationStrategy) {
+        var _this = this;
+        this.router = router;
+        this.route = route;
+        this.locationStrategy = locationStrategy;
+        this.commands = [];
+        this.subscription = router.events.subscribe(function (s) {
+            if (s instanceof __WEBPACK_IMPORTED_MODULE_2__router__["b" /* NavigationEnd */]) {
+                _this.updateTargetUrlAndHref();
+            }
+        });
+    }
+    Object.defineProperty(RouterLinkWithHref.prototype, "routerLink", {
+        /**
+         * @param {?} commands
+         * @return {?}
+         */
+        set: function (commands) {
+            if (commands != null) {
+                this.commands = Array.isArray(commands) ? commands : [commands];
+            }
+            else {
+                this.commands = [];
+            }
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @param {?} changes
+     * @return {?}
+     */
+    RouterLinkWithHref.prototype.ngOnChanges = function (changes) { this.updateTargetUrlAndHref(); };
+    /**
+     * @return {?}
+     */
+    RouterLinkWithHref.prototype.ngOnDestroy = function () { this.subscription.unsubscribe(); };
+    /**
+     * @param {?} button
+     * @param {?} ctrlKey
+     * @param {?} metaKey
+     * @return {?}
+     */
+    RouterLinkWithHref.prototype.onClick = function (button, ctrlKey, metaKey) {
+        if (button !== 0 || ctrlKey || metaKey) {
+            return true;
+        }
+        if (typeof this.target === 'string' && this.target != '_self') {
+            return true;
+        }
+        var /** @type {?} */ extras = {
+            skipLocationChange: attrBoolValue(this.skipLocationChange),
+            replaceUrl: attrBoolValue(this.replaceUrl),
+        };
+        this.router.navigateByUrl(this.urlTree, extras);
+        return false;
+    };
+    /**
+     * @return {?}
+     */
+    RouterLinkWithHref.prototype.updateTargetUrlAndHref = function () {
+        this.href = this.locationStrategy.prepareExternalUrl(this.router.serializeUrl(this.urlTree));
+    };
+    Object.defineProperty(RouterLinkWithHref.prototype, "urlTree", {
+        /**
+         * @return {?}
+         */
+        get: function () {
+            return this.router.createUrlTree(this.commands, {
+                relativeTo: this.route,
+                queryParams: this.queryParams,
+                fragment: this.fragment,
+                preserveQueryParams: attrBoolValue(this.preserveQueryParams),
+                preserveFragment: attrBoolValue(this.preserveFragment),
+            });
+        },
+        enumerable: true,
+        configurable: true
+    });
+    RouterLinkWithHref.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["A" /* Directive */], args: [{ selector: 'a[routerLink]' },] },
+    ];
+    /** @nocollapse */
+    RouterLinkWithHref.ctorParameters = function () { return [
+        { type: __WEBPACK_IMPORTED_MODULE_2__router__["a" /* Router */], },
+        { type: __WEBPACK_IMPORTED_MODULE_3__router_state__["a" /* ActivatedRoute */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_common__["d" /* LocationStrategy */], },
+    ]; };
+    RouterLinkWithHref.propDecorators = {
+        'target': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* HostBinding */], args: ['attr.target',] }, { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'queryParams': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'fragment': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'preserveQueryParams': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'preserveFragment': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'skipLocationChange': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'replaceUrl': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'href': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["_3" /* HostBinding */] },],
+        'routerLink': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["B" /* Input */] },],
+        'onClick': [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["_2" /* HostListener */], args: ['click', ['$event.button', '$event.ctrlKey', '$event.metaKey'],] },],
+    };
+    return RouterLinkWithHref;
+}());
+function RouterLinkWithHref_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterLinkWithHref.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterLinkWithHref.ctorParameters;
+    /** @type {?} */
+    RouterLinkWithHref.propDecorators;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.target;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.queryParams;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.fragment;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.preserveQueryParams;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.preserveFragment;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.skipLocationChange;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.replaceUrl;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.commands;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.subscription;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.href;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.router;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.route;
+    /** @type {?} */
+    RouterLinkWithHref.prototype.locationStrategy;
+}
+/**
+ * @param {?} s
+ * @return {?}
+ */
+function attrBoolValue(s) {
+    return s === '' || !!s;
+}
+//# sourceMappingURL=router_link.js.map
+
+/***/ }),
+/* 641 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UrlHandlingStrategy; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return DefaultUrlHandlingStrategy; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+/**
+ * \@whatItDoes Provides a way to migrate Angular 1 applications to Angular 2.
+ *
+ * \@experimental
+ * @abstract
+ */
+var UrlHandlingStrategy = (function () {
+    function UrlHandlingStrategy() {
+    }
+    /**
+     * Tells the router if this URL should be processed.
+     *
+     * When it returns true, the router will execute the regular navigation.
+     * When it returns false, the router will set the router state to an empty state.
+     * As a result, all the active components will be destroyed.
+     *
+     * @abstract
+     * @param {?} url
+     * @return {?}
+     */
+    UrlHandlingStrategy.prototype.shouldProcessUrl = function (url) { };
+    /**
+     * Extracts the part of the URL that should be handled by the router.
+     * The rest of the URL will remain untouched.
+     * @abstract
+     * @param {?} url
+     * @return {?}
+     */
+    UrlHandlingStrategy.prototype.extract = function (url) { };
+    /**
+     * Merges the URL fragment with the rest of the URL.
+     * @abstract
+     * @param {?} newUrlPart
+     * @param {?} rawUrl
+     * @return {?}
+     */
+    UrlHandlingStrategy.prototype.merge = function (newUrlPart, rawUrl) { };
+    return UrlHandlingStrategy;
+}());
+/**
+ * \@experimental
+ */
+var DefaultUrlHandlingStrategy = (function () {
+    function DefaultUrlHandlingStrategy() {
+    }
+    /**
+     * @param {?} url
+     * @return {?}
+     */
+    DefaultUrlHandlingStrategy.prototype.shouldProcessUrl = function (url) { return true; };
+    /**
+     * @param {?} url
+     * @return {?}
+     */
+    DefaultUrlHandlingStrategy.prototype.extract = function (url) { return url; };
+    /**
+     * @param {?} newUrlPart
+     * @param {?} wholeUrl
+     * @return {?}
+     */
+    DefaultUrlHandlingStrategy.prototype.merge = function (newUrlPart, wholeUrl) { return newUrlPart; };
+    return DefaultUrlHandlingStrategy;
+}());
+//# sourceMappingURL=url_handling_strategy.js.map
+
+/***/ }),
+/* 642 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Tree; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return TreeNode; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+var Tree = (function () {
+    /**
+     * @param {?} root
+     */
+    function Tree(root) {
+        this._root = root;
+    }
+    Object.defineProperty(Tree.prototype, "root", {
+        /**
+         * @return {?}
+         */
+        get: function () { return this._root.value; },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * \@internal
+     * @param {?} t
+     * @return {?}
+     */
+    Tree.prototype.parent = function (t) {
+        var /** @type {?} */ p = this.pathFromRoot(t);
+        return p.length > 1 ? p[p.length - 2] : null;
+    };
+    /**
+     * \@internal
+     * @param {?} t
+     * @return {?}
+     */
+    Tree.prototype.children = function (t) {
+        var /** @type {?} */ n = findNode(t, this._root);
+        return n ? n.children.map(function (t) { return t.value; }) : [];
+    };
+    /**
+     * \@internal
+     * @param {?} t
+     * @return {?}
+     */
+    Tree.prototype.firstChild = function (t) {
+        var /** @type {?} */ n = findNode(t, this._root);
+        return n && n.children.length > 0 ? n.children[0].value : null;
+    };
+    /**
+     * \@internal
+     * @param {?} t
+     * @return {?}
+     */
+    Tree.prototype.siblings = function (t) {
+        var /** @type {?} */ p = findPath(t, this._root, []);
+        if (p.length < 2)
+            return [];
+        var /** @type {?} */ c = p[p.length - 2].children.map(function (c) { return c.value; });
+        return c.filter(function (cc) { return cc !== t; });
+    };
+    /**
+     * \@internal
+     * @param {?} t
+     * @return {?}
+     */
+    Tree.prototype.pathFromRoot = function (t) { return findPath(t, this._root, []).map(function (s) { return s.value; }); };
+    return Tree;
+}());
+function Tree_tsickle_Closure_declarations() {
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Tree.prototype._root;
+}
+/**
+ * @param {?} expected
+ * @param {?} c
+ * @return {?}
+ */
+function findNode(expected, c) {
+    if (expected === c.value)
+        return c;
+    for (var _i = 0, _a = c.children; _i < _a.length; _i++) {
+        var cc = _a[_i];
+        var /** @type {?} */ r = findNode(expected, cc);
+        if (r)
+            return r;
+    }
+    return null;
+}
+/**
+ * @param {?} expected
+ * @param {?} c
+ * @param {?} collected
+ * @return {?}
+ */
+function findPath(expected, c, collected) {
+    collected.push(c);
+    if (expected === c.value)
+        return collected;
+    for (var _i = 0, _a = c.children; _i < _a.length; _i++) {
+        var cc = _a[_i];
+        var /** @type {?} */ cloned = collected.slice(0);
+        var /** @type {?} */ r = findPath(expected, cc, cloned);
+        if (r.length > 0)
+            return r;
+    }
+    return [];
+}
+var TreeNode = (function () {
+    /**
+     * @param {?} value
+     * @param {?} children
+     */
+    function TreeNode(value, children) {
+        this.value = value;
+        this.children = children;
+    }
+    /**
+     * @return {?}
+     */
+    TreeNode.prototype.toString = function () { return "TreeNode(" + this.value + ")"; };
+    return TreeNode;
+}());
+function TreeNode_tsickle_Closure_declarations() {
+    /** @type {?} */
+    TreeNode.prototype.value;
+    /** @type {?} */
+    TreeNode.prototype.children;
+}
+//# sourceMappingURL=tree.js.map
+
+/***/ }),
+/* 643 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subject_1 = __webpack_require__(147);
+var ObjectUnsubscribedError_1 = __webpack_require__(616);
+/**
+ * @class BehaviorSubject<T>
+ */
+var BehaviorSubject = (function (_super) {
+    __extends(BehaviorSubject, _super);
+    function BehaviorSubject(_value) {
+        _super.call(this);
+        this._value = _value;
+    }
+    Object.defineProperty(BehaviorSubject.prototype, "value", {
+        get: function () {
+            return this.getValue();
+        },
+        enumerable: true,
+        configurable: true
+    });
+    BehaviorSubject.prototype._subscribe = function (subscriber) {
+        var subscription = _super.prototype._subscribe.call(this, subscriber);
+        if (subscription && !subscription.closed) {
+            subscriber.next(this._value);
+        }
+        return subscription;
+    };
+    BehaviorSubject.prototype.getValue = function () {
+        if (this.hasError) {
+            throw this.thrownError;
+        }
+        else if (this.closed) {
+            throw new ObjectUnsubscribedError_1.ObjectUnsubscribedError();
+        }
+        else {
+            return this._value;
+        }
+    };
+    BehaviorSubject.prototype.next = function (value) {
+        _super.prototype.next.call(this, this._value = value);
+    };
+    return BehaviorSubject;
+}(Subject_1.Subject));
+exports.BehaviorSubject = BehaviorSubject;
+//# sourceMappingURL=BehaviorSubject.js.map
+
+/***/ }),
+/* 644 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var OuterSubscriber = (function (_super) {
+    __extends(OuterSubscriber, _super);
+    function OuterSubscriber() {
+        _super.apply(this, arguments);
+    }
+    OuterSubscriber.prototype.notifyNext = function (outerValue, innerValue, outerIndex, innerIndex, innerSub) {
+        this.destination.next(innerValue);
+    };
+    OuterSubscriber.prototype.notifyError = function (error, innerSub) {
+        this.destination.error(error);
+    };
+    OuterSubscriber.prototype.notifyComplete = function (innerSub) {
+        this.destination.complete();
+    };
+    return OuterSubscriber;
+}(Subscriber_1.Subscriber));
+exports.OuterSubscriber = OuterSubscriber;
+//# sourceMappingURL=OuterSubscriber.js.map
+
+/***/ }),
+/* 645 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var FromObservable_1 = __webpack_require__(681);
+exports.from = FromObservable_1.FromObservable.create;
+//# sourceMappingURL=from.js.map
+
+/***/ }),
+/* 646 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var OuterSubscriber_1 = __webpack_require__(644);
+var subscribeToResult_1 = __webpack_require__(649);
+/**
+ * Converts a higher-order Observable into a first-order Observable which
+ * concurrently delivers all values that are emitted on the inner Observables.
+ *
+ * <span class="informal">Flattens an Observable-of-Observables.</span>
+ *
+ * <img src="./img/mergeAll.png" width="100%">
+ *
+ * `mergeAll` subscribes to an Observable that emits Observables, also known as
+ * a higher-order Observable. Each time it observes one of these emitted inner
+ * Observables, it subscribes to that and delivers all the values from the
+ * inner Observable on the output Observable. The output Observable only
+ * completes once all inner Observables have completed. Any error delivered by
+ * a inner Observable will be immediately emitted on the output Observable.
+ *
+ * @example <caption>Spawn a new interval Observable for each click event, and blend their outputs as one Observable</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var higherOrder = clicks.map((ev) => Rx.Observable.interval(1000));
+ * var firstOrder = higherOrder.mergeAll();
+ * firstOrder.subscribe(x => console.log(x));
+ *
+ * @example <caption>Count from 0 to 9 every second for each click, but only allow 2 concurrent timers</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var higherOrder = clicks.map((ev) => Rx.Observable.interval(1000).take(10));
+ * var firstOrder = higherOrder.mergeAll(2);
+ * firstOrder.subscribe(x => console.log(x));
+ *
+ * @see {@link combineAll}
+ * @see {@link concatAll}
+ * @see {@link exhaust}
+ * @see {@link merge}
+ * @see {@link mergeMap}
+ * @see {@link mergeMapTo}
+ * @see {@link mergeScan}
+ * @see {@link switch}
+ * @see {@link zipAll}
+ *
+ * @param {number} [concurrent=Number.POSITIVE_INFINITY] Maximum number of inner
+ * Observables being subscribed to concurrently.
+ * @return {Observable} An Observable that emits values coming from all the
+ * inner Observables emitted by the source Observable.
+ * @method mergeAll
+ * @owner Observable
+ */
+function mergeAll(concurrent) {
+    if (concurrent === void 0) { concurrent = Number.POSITIVE_INFINITY; }
+    return this.lift(new MergeAllOperator(concurrent));
+}
+exports.mergeAll = mergeAll;
+var MergeAllOperator = (function () {
+    function MergeAllOperator(concurrent) {
+        this.concurrent = concurrent;
+    }
+    MergeAllOperator.prototype.call = function (observer, source) {
+        return source.subscribe(new MergeAllSubscriber(observer, this.concurrent));
+    };
+    return MergeAllOperator;
+}());
+exports.MergeAllOperator = MergeAllOperator;
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var MergeAllSubscriber = (function (_super) {
+    __extends(MergeAllSubscriber, _super);
+    function MergeAllSubscriber(destination, concurrent) {
+        _super.call(this, destination);
+        this.concurrent = concurrent;
+        this.hasCompleted = false;
+        this.buffer = [];
+        this.active = 0;
+    }
+    MergeAllSubscriber.prototype._next = function (observable) {
+        if (this.active < this.concurrent) {
+            this.active++;
+            this.add(subscribeToResult_1.subscribeToResult(this, observable));
+        }
+        else {
+            this.buffer.push(observable);
+        }
+    };
+    MergeAllSubscriber.prototype._complete = function () {
+        this.hasCompleted = true;
+        if (this.active === 0 && this.buffer.length === 0) {
+            this.destination.complete();
+        }
+    };
+    MergeAllSubscriber.prototype.notifyComplete = function (innerSub) {
+        var buffer = this.buffer;
+        this.remove(innerSub);
+        this.active--;
+        if (buffer.length > 0) {
+            this._next(buffer.shift());
+        }
+        else if (this.active === 0 && this.hasCompleted) {
+            this.destination.complete();
+        }
+    };
+    return MergeAllSubscriber;
+}(OuterSubscriber_1.OuterSubscriber));
+exports.MergeAllSubscriber = MergeAllSubscriber;
+//# sourceMappingURL=mergeAll.js.map
+
+/***/ }),
+/* 647 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var root_1 = __webpack_require__(101);
+function symbolIteratorPonyfill(root) {
+    var Symbol = root.Symbol;
+    if (typeof Symbol === 'function') {
+        if (!Symbol.iterator) {
+            Symbol.iterator = Symbol('iterator polyfill');
+        }
+        return Symbol.iterator;
+    }
+    else {
+        // [for Mozilla Gecko 27-35:](https://mzl.la/2ewE1zC)
+        var Set_1 = root.Set;
+        if (Set_1 && typeof new Set_1()['@@iterator'] === 'function') {
+            return '@@iterator';
+        }
+        var Map_1 = root.Map;
+        // required for compatability with es6-shim
+        if (Map_1) {
+            var keys = Object.getOwnPropertyNames(Map_1.prototype);
+            for (var i = 0; i < keys.length; ++i) {
+                var key = keys[i];
+                // according to spec, Map.prototype[@@iterator] and Map.orototype.entries must be equal.
+                if (key !== 'entries' && key !== 'size' && Map_1.prototype[key] === Map_1.prototype['entries']) {
+                    return key;
+                }
+            }
+        }
+        return '@@iterator';
+    }
+}
+exports.symbolIteratorPonyfill = symbolIteratorPonyfill;
+exports.iterator = symbolIteratorPonyfill(root_1.root);
+/**
+ * @deprecated use iterator instead
+ */
+exports.$$iterator = exports.iterator;
+//# sourceMappingURL=iterator.js.map
+
+/***/ }),
+/* 648 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+/**
+ * An error thrown when an Observable or a sequence was queried but has no
+ * elements.
+ *
+ * @see {@link first}
+ * @see {@link last}
+ * @see {@link single}
+ *
+ * @class EmptyError
+ */
+var EmptyError = (function (_super) {
+    __extends(EmptyError, _super);
+    function EmptyError() {
+        var err = _super.call(this, 'no elements in sequence');
+        this.name = err.name = 'EmptyError';
+        this.stack = err.stack;
+        this.message = err.message;
+    }
+    return EmptyError;
+}(Error));
+exports.EmptyError = EmptyError;
+//# sourceMappingURL=EmptyError.js.map
+
+/***/ }),
+/* 649 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var root_1 = __webpack_require__(101);
+var isArrayLike_1 = __webpack_require__(663);
+var isPromise_1 = __webpack_require__(664);
+var isObject_1 = __webpack_require__(619);
+var Observable_1 = __webpack_require__(74);
+var iterator_1 = __webpack_require__(647);
+var InnerSubscriber_1 = __webpack_require__(678);
+var observable_1 = __webpack_require__(341);
+function subscribeToResult(outerSubscriber, result, outerValue, outerIndex) {
+    var destination = new InnerSubscriber_1.InnerSubscriber(outerSubscriber, outerValue, outerIndex);
+    if (destination.closed) {
+        return null;
+    }
+    if (result instanceof Observable_1.Observable) {
+        if (result._isScalar) {
+            destination.next(result.value);
+            destination.complete();
+            return null;
+        }
+        else {
+            return result.subscribe(destination);
+        }
+    }
+    else if (isArrayLike_1.isArrayLike(result)) {
+        for (var i = 0, len = result.length; i < len && !destination.closed; i++) {
+            destination.next(result[i]);
+        }
+        if (!destination.closed) {
+            destination.complete();
+        }
+    }
+    else if (isPromise_1.isPromise(result)) {
+        result.then(function (value) {
+            if (!destination.closed) {
+                destination.next(value);
+                destination.complete();
+            }
+        }, function (err) { return destination.error(err); })
+            .then(null, function (err) {
+            // Escaping the Promise trap: globally throw unhandled errors
+            root_1.root.setTimeout(function () { throw err; });
+        });
+        return destination;
+    }
+    else if (result && typeof result[iterator_1.iterator] === 'function') {
+        var iterator = result[iterator_1.iterator]();
+        do {
+            var item = iterator.next();
+            if (item.done) {
+                destination.complete();
+                break;
+            }
+            destination.next(item.value);
+            if (destination.closed) {
+                break;
+            }
+        } while (true);
+    }
+    else if (result && typeof result[observable_1.observable] === 'function') {
+        var obs = result[observable_1.observable]();
+        if (typeof obs.subscribe !== 'function') {
+            destination.error(new TypeError('Provided object does not correctly implement Symbol.observable'));
+        }
+        else {
+            return obs.subscribe(new InnerSubscriber_1.InnerSubscriber(outerSubscriber, outerValue, outerIndex));
+        }
+    }
+    else {
+        var value = isObject_1.isObject(result) ? 'an invalid object' : "'" + result + "'";
+        var msg = ("You provided " + value + " where a stream was expected.")
+            + ' You can provide an Observable, Promise, Array, or Iterable.';
+        destination.error(new TypeError(msg));
+    }
+    return null;
+}
+exports.subscribeToResult = subscribeToResult;
+//# sourceMappingURL=subscribeToResult.js.map
+
+/***/ }),
+/* 650 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__router__ = __webpack_require__(635);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__router_link__ = __webpack_require__(640);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouterLinkActive; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+/**
+ * \@whatItDoes Lets you add a CSS class to an element when the link's route becomes active.
+ *
+ * \@howToUse
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="active-link">Bob</a>
+ * ```
+ *
+ * \@description
+ *
+ * The RouterLinkActive directive lets you add a CSS class to an element when the link's route
+ * becomes active.
+ *
+ * Consider the following example:
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="active-link">Bob</a>
+ * ```
+ *
+ * When the url is either '/user' or '/user/bob', the active-link class will
+ * be added to the `a` tag. If the url changes, the class will be removed.
+ *
+ * You can set more than one class, as follows:
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="class1 class2">Bob</a>
+ * <a routerLink="/user/bob" [routerLinkActive]="['class1', 'class2']">Bob</a>
+ * ```
+ *
+ * You can configure RouterLinkActive by passing `exact: true`. This will add the classes
+ * only when the url matches the link exactly.
+ *
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact:
+ * true}">Bob</a>
+ * ```
+ *
+ * You can assign the RouterLinkActive instance to a template variable and directly check
+ * the `isActive` status.
+ * ```
+ * <a routerLink="/user/bob" routerLinkActive #rla="routerLinkActive">
+ *   Bob {{ rla.isActive ? '(already open)' : ''}}
+ * </a>
+ * ```
+ *
+ * Finally, you can apply the RouterLinkActive directive to an ancestor of a RouterLink.
+ *
+ * ```
+ * <div routerLinkActive="active-link" [routerLinkActiveOptions]="{exact: true}">
+ *   <a routerLink="/user/jim">Jim</a>
+ *   <a routerLink="/user/bob">Bob</a>
+ * </div>
+ * ```
+ *
+ * This will set the active-link class on the div tag if the url is either '/user/jim' or
+ * '/user/bob'.
+ *
+ * \@ngModule RouterModule
+ *
+ * \@stable
+ */
+var RouterLinkActive = (function () {
+    /**
+     * @param {?} router
+     * @param {?} element
+     * @param {?} renderer
+     * @param {?} cdr
+     */
+    function RouterLinkActive(router, element, renderer, cdr) {
+        var _this = this;
+        this.router = router;
+        this.element = element;
+        this.renderer = renderer;
+        this.cdr = cdr;
+        this.classes = [];
+        this.active = false;
+        this.routerLinkActiveOptions = { exact: false };
+        this.subscription = router.events.subscribe(function (s) {
+            if (s instanceof __WEBPACK_IMPORTED_MODULE_1__router__["b" /* NavigationEnd */]) {
+                _this.update();
+            }
+        });
+    }
+    Object.defineProperty(RouterLinkActive.prototype, "isActive", {
+        /**
+         * @return {?}
+         */
+        get: function () { return this.active; },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    RouterLinkActive.prototype.ngAfterContentInit = function () {
+        var _this = this;
+        this.links.changes.subscribe(function (_) { return _this.update(); });
+        this.linksWithHrefs.changes.subscribe(function (_) { return _this.update(); });
+        this.update();
+    };
+    Object.defineProperty(RouterLinkActive.prototype, "routerLinkActive", {
+        /**
+         * @param {?} data
+         * @return {?}
+         */
+        set: function (data) {
+            var /** @type {?} */ classes = Array.isArray(data) ? data : data.split(' ');
+            this.classes = classes.filter(function (c) { return !!c; });
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @param {?} changes
+     * @return {?}
+     */
+    RouterLinkActive.prototype.ngOnChanges = function (changes) { this.update(); };
+    /**
+     * @return {?}
+     */
+    RouterLinkActive.prototype.ngOnDestroy = function () { this.subscription.unsubscribe(); };
+    /**
+     * @return {?}
+     */
+    RouterLinkActive.prototype.update = function () {
+        var _this = this;
+        if (!this.links || !this.linksWithHrefs || !this.router.navigated)
+            return;
+        var /** @type {?} */ hasActiveLinks = this.hasActiveLinks();
+        // react only when status has changed to prevent unnecessary dom updates
+        if (this.active !== hasActiveLinks) {
+            this.active = hasActiveLinks;
+            this.classes.forEach(function (c) { return _this.renderer.setElementClass(_this.element.nativeElement, c, hasActiveLinks); });
+            this.cdr.detectChanges();
+        }
+    };
+    /**
+     * @param {?} router
+     * @return {?}
+     */
+    RouterLinkActive.prototype.isLinkActive = function (router) {
+        var _this = this;
+        return function (link) {
+            return router.isActive(link.urlTree, _this.routerLinkActiveOptions.exact);
+        };
+    };
+    /**
+     * @return {?}
+     */
+    RouterLinkActive.prototype.hasActiveLinks = function () {
+        return this.links.some(this.isLinkActive(this.router)) ||
+            this.linksWithHrefs.some(this.isLinkActive(this.router));
+    };
+    RouterLinkActive.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{
+                    selector: '[routerLinkActive]',
+                    exportAs: 'routerLinkActive',
+                },] },
+    ];
+    /** @nocollapse */
+    RouterLinkActive.ctorParameters = function () { return [
+        { type: __WEBPACK_IMPORTED_MODULE_1__router__["a" /* Router */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["H" /* ElementRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* Renderer */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* ChangeDetectorRef */], },
+    ]; };
+    RouterLinkActive.propDecorators = {
+        'links': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ContentChildren */], args: [__WEBPACK_IMPORTED_MODULE_2__router_link__["a" /* RouterLink */], { descendants: true },] },],
+        'linksWithHrefs': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_1" /* ContentChildren */], args: [__WEBPACK_IMPORTED_MODULE_2__router_link__["b" /* RouterLinkWithHref */], { descendants: true },] },],
+        'routerLinkActiveOptions': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
+        'routerLinkActive': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Input */] },],
+    };
+    return RouterLinkActive;
+}());
+function RouterLinkActive_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterLinkActive.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterLinkActive.ctorParameters;
+    /** @type {?} */
+    RouterLinkActive.propDecorators;
+    /** @type {?} */
+    RouterLinkActive.prototype.links;
+    /** @type {?} */
+    RouterLinkActive.prototype.linksWithHrefs;
+    /** @type {?} */
+    RouterLinkActive.prototype.classes;
+    /** @type {?} */
+    RouterLinkActive.prototype.subscription;
+    /** @type {?} */
+    RouterLinkActive.prototype.active;
+    /** @type {?} */
+    RouterLinkActive.prototype.routerLinkActiveOptions;
+    /** @type {?} */
+    RouterLinkActive.prototype.router;
+    /** @type {?} */
+    RouterLinkActive.prototype.element;
+    /** @type {?} */
+    RouterLinkActive.prototype.renderer;
+    /** @type {?} */
+    RouterLinkActive.prototype.cdr;
+}
+//# sourceMappingURL=router_link_active.js.map
+
+/***/ }),
+/* 651 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__router_outlet_map__ = __webpack_require__(638);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__shared__ = __webpack_require__(630);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouterOutlet; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+/**
+ * \@whatItDoes Acts as a placeholder that Angular dynamically fills based on the current router
+ * state.
+ *
+ * \@howToUse
+ *
+ * ```
+ * <router-outlet></router-outlet>
+ * <router-outlet name='left'></router-outlet>
+ * <router-outlet name='right'></router-outlet>
+ * ```
+ *
+ * A router outlet will emit an activate event any time a new component is being instantiated,
+ * and a deactivate event when it is being destroyed.
+ *
+ * ```
+ * <router-outlet
+ *   (activate)='onActivate($event)'
+ *   (deactivate)='onDeactivate($event)'></router-outlet>
+ * ```
+ * \@ngModule RouterModule
+ *
+ * \@stable
+ */
+var RouterOutlet = (function () {
+    /**
+     * @param {?} parentOutletMap
+     * @param {?} location
+     * @param {?} resolver
+     * @param {?} name
+     */
+    function RouterOutlet(parentOutletMap, location, resolver, name) {
+        this.parentOutletMap = parentOutletMap;
+        this.location = location;
+        this.resolver = resolver;
+        this.name = name;
+        this.activateEvents = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["K" /* EventEmitter */]();
+        this.deactivateEvents = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["K" /* EventEmitter */]();
+        parentOutletMap.registerOutlet(name ? name : __WEBPACK_IMPORTED_MODULE_2__shared__["a" /* PRIMARY_OUTLET */], this);
+    }
+    /**
+     * @return {?}
+     */
+    RouterOutlet.prototype.ngOnDestroy = function () { this.parentOutletMap.removeOutlet(this.name ? this.name : __WEBPACK_IMPORTED_MODULE_2__shared__["a" /* PRIMARY_OUTLET */]); };
+    Object.defineProperty(RouterOutlet.prototype, "locationInjector", {
+        /**
+         * @return {?}
+         */
+        get: function () { return this.location.injector; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(RouterOutlet.prototype, "locationFactoryResolver", {
+        /**
+         * @return {?}
+         */
+        get: function () { return this.resolver; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(RouterOutlet.prototype, "isActivated", {
+        /**
+         * @return {?}
+         */
+        get: function () { return !!this.activated; },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(RouterOutlet.prototype, "component", {
+        /**
+         * @return {?}
+         */
+        get: function () {
+            if (!this.activated)
+                throw new Error('Outlet is not activated');
+            return this.activated.instance;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(RouterOutlet.prototype, "activatedRoute", {
+        /**
+         * @return {?}
+         */
+        get: function () {
+            if (!this.activated)
+                throw new Error('Outlet is not activated');
+            return this._activatedRoute;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    RouterOutlet.prototype.detach = function () {
+        if (!this.activated)
+            throw new Error('Outlet is not activated');
+        this.location.detach();
+        var /** @type {?} */ r = this.activated;
+        this.activated = null;
+        this._activatedRoute = null;
+        return r;
+    };
+    /**
+     * @param {?} ref
+     * @param {?} activatedRoute
+     * @return {?}
+     */
+    RouterOutlet.prototype.attach = function (ref, activatedRoute) {
+        this.activated = ref;
+        this._activatedRoute = activatedRoute;
+        this.location.insert(ref.hostView);
+    };
+    /**
+     * @return {?}
+     */
+    RouterOutlet.prototype.deactivate = function () {
+        if (this.activated) {
+            var /** @type {?} */ c = this.component;
+            this.activated.destroy();
+            this.activated = null;
+            this._activatedRoute = null;
+            this.deactivateEvents.emit(c);
+        }
+    };
+    /**
+     * @param {?} activatedRoute
+     * @param {?} resolver
+     * @param {?} injector
+     * @param {?} providers
+     * @param {?} outletMap
+     * @return {?}
+     */
+    RouterOutlet.prototype.activate = function (activatedRoute, resolver, injector, providers, outletMap) {
+        if (this.isActivated) {
+            throw new Error('Cannot activate an already activated outlet');
+        }
+        this.outletMap = outletMap;
+        this._activatedRoute = activatedRoute;
+        var /** @type {?} */ snapshot = activatedRoute._futureSnapshot;
+        var /** @type {?} */ component = (snapshot._routeConfig.component);
+        var /** @type {?} */ factory = resolver.resolveComponentFactory(component);
+        var /** @type {?} */ inj = __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* ReflectiveInjector */].fromResolvedProviders(providers, injector);
+        this.activated = this.location.createComponent(factory, this.location.length, inj, []);
+        this.activated.changeDetectorRef.detectChanges();
+        this.activateEvents.emit(this.activated.instance);
+    };
+    RouterOutlet.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Directive */], args: [{ selector: 'router-outlet' },] },
+    ];
+    /** @nocollapse */
+    RouterOutlet.ctorParameters = function () { return [
+        { type: __WEBPACK_IMPORTED_MODULE_1__router_outlet_map__["a" /* RouterOutletMap */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* ViewContainerRef */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["Z" /* ComponentFactoryResolver */], },
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["C" /* Attribute */], args: ['name',] },] },
+    ]; };
+    RouterOutlet.propDecorators = {
+        'activateEvents': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* Output */], args: ['activate',] },],
+        'deactivateEvents': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_4" /* Output */], args: ['deactivate',] },],
+    };
+    return RouterOutlet;
+}());
+function RouterOutlet_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterOutlet.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterOutlet.ctorParameters;
+    /** @type {?} */
+    RouterOutlet.propDecorators;
+    /** @type {?} */
+    RouterOutlet.prototype.activated;
+    /** @type {?} */
+    RouterOutlet.prototype._activatedRoute;
+    /** @type {?} */
+    RouterOutlet.prototype.outletMap;
+    /** @type {?} */
+    RouterOutlet.prototype.activateEvents;
+    /** @type {?} */
+    RouterOutlet.prototype.deactivateEvents;
+    /** @type {?} */
+    RouterOutlet.prototype.parentOutletMap;
+    /** @type {?} */
+    RouterOutlet.prototype.location;
+    /** @type {?} */
+    RouterOutlet.prototype.resolver;
+    /** @type {?} */
+    RouterOutlet.prototype.name;
+}
+//# sourceMappingURL=router_outlet.js.map
+
+/***/ }),
+/* 652 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouteReuseStrategy; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+/**
+ * \@whatItDoes Provides a way to customize when activated routes get reused.
+ *
+ * \@experimental
+ * @abstract
+ */
+var RouteReuseStrategy = (function () {
+    function RouteReuseStrategy() {
+    }
+    /**
+     * Determines if this route (and its subtree) should be detached to be reused later
+     * @abstract
+     * @param {?} route
+     * @return {?}
+     */
+    RouteReuseStrategy.prototype.shouldDetach = function (route) { };
+    /**
+     * Stores the detached route
+     * @abstract
+     * @param {?} route
+     * @param {?} handle
+     * @return {?}
+     */
+    RouteReuseStrategy.prototype.store = function (route, handle) { };
+    /**
+     * Determines if this route (and its subtree) should be reattached
+     * @abstract
+     * @param {?} route
+     * @return {?}
+     */
+    RouteReuseStrategy.prototype.shouldAttach = function (route) { };
+    /**
+     * Retrieves the previously stored route
+     * @abstract
+     * @param {?} route
+     * @return {?}
+     */
+    RouteReuseStrategy.prototype.retrieve = function (route) { };
+    /**
+     * Determines if a route should be reused
+     * @abstract
+     * @param {?} future
+     * @param {?} curr
+     * @return {?}
+     */
+    RouteReuseStrategy.prototype.shouldReuseRoute = function (future, curr) { };
+    return RouteReuseStrategy;
+}());
+//# sourceMappingURL=route_reuse_strategy.js.map
+
+/***/ }),
+/* 653 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_common__ = __webpack_require__(220);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__ = __webpack_require__(147);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__directives_router_link__ = __webpack_require__(640);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_router_link_active__ = __webpack_require__(650);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__directives_router_outlet__ = __webpack_require__(651);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__private_import_platform_browser__ = __webpack_require__(673);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__route_reuse_strategy__ = __webpack_require__(652);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__router__ = __webpack_require__(635);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__router_config_loader__ = __webpack_require__(636);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__router_outlet_map__ = __webpack_require__(638);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__router_preloader__ = __webpack_require__(654);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__router_state__ = __webpack_require__(634);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__url_handling_strategy__ = __webpack_require__(641);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__url_tree__ = __webpack_require__(632);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__utils_collection__ = __webpack_require__(631);
+/* unused harmony export ROUTER_CONFIGURATION */
+/* unused harmony export ROUTER_FORROOT_GUARD */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return ROUTER_PROVIDERS; });
+/* unused harmony export routerNgProbeToken */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouterModule; });
+/* unused harmony export provideLocationStrategy */
+/* unused harmony export provideForRootGuard */
+/* unused harmony export provideRoutes */
+/* unused harmony export setupRouter */
+/* unused harmony export rootRoute */
+/* unused harmony export RouterInitializer */
+/* unused harmony export getAppInitializer */
+/* unused harmony export getBootstrapListener */
+/* unused harmony export ROUTER_INITIALIZER */
+/* unused harmony export provideRouterInitializer */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * @whatItDoes Contains a list of directives
+ * @stable
+ */
+var /** @type {?} */ ROUTER_DIRECTIVES = [__WEBPACK_IMPORTED_MODULE_6__directives_router_outlet__["a" /* RouterOutlet */], __WEBPACK_IMPORTED_MODULE_4__directives_router_link__["a" /* RouterLink */], __WEBPACK_IMPORTED_MODULE_4__directives_router_link__["b" /* RouterLinkWithHref */], __WEBPACK_IMPORTED_MODULE_5__directives_router_link_active__["a" /* RouterLinkActive */]];
+/**
+ * @whatItDoes Is used in DI to configure the router.
+ * @stable
+ */
+var /** @type {?} */ ROUTER_CONFIGURATION = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["q" /* OpaqueToken */]('ROUTER_CONFIGURATION');
+/**
+ * @docsNotRequired
+ */
+var /** @type {?} */ ROUTER_FORROOT_GUARD = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["q" /* OpaqueToken */]('ROUTER_FORROOT_GUARD');
+var /** @type {?} */ ROUTER_PROVIDERS = [
+    __WEBPACK_IMPORTED_MODULE_0__angular_common__["c" /* Location */],
+    { provide: __WEBPACK_IMPORTED_MODULE_15__url_tree__["a" /* UrlSerializer */], useClass: __WEBPACK_IMPORTED_MODULE_15__url_tree__["b" /* DefaultUrlSerializer */] },
+    {
+        provide: __WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */],
+        useFactory: setupRouter,
+        deps: [
+            __WEBPACK_IMPORTED_MODULE_1__angular_core__["L" /* ApplicationRef */], __WEBPACK_IMPORTED_MODULE_15__url_tree__["a" /* UrlSerializer */], __WEBPACK_IMPORTED_MODULE_11__router_outlet_map__["a" /* RouterOutletMap */], __WEBPACK_IMPORTED_MODULE_0__angular_common__["c" /* Location */], __WEBPACK_IMPORTED_MODULE_1__angular_core__["S" /* Injector */], __WEBPACK_IMPORTED_MODULE_1__angular_core__["T" /* NgModuleFactoryLoader */],
+            __WEBPACK_IMPORTED_MODULE_1__angular_core__["U" /* Compiler */], __WEBPACK_IMPORTED_MODULE_10__router_config_loader__["a" /* ROUTES */], ROUTER_CONFIGURATION, [__WEBPACK_IMPORTED_MODULE_14__url_handling_strategy__["a" /* UrlHandlingStrategy */], new __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* Optional */]()],
+            [__WEBPACK_IMPORTED_MODULE_8__route_reuse_strategy__["a" /* RouteReuseStrategy */], new __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* Optional */]()]
+        ]
+    },
+    __WEBPACK_IMPORTED_MODULE_11__router_outlet_map__["a" /* RouterOutletMap */],
+    { provide: __WEBPACK_IMPORTED_MODULE_13__router_state__["a" /* ActivatedRoute */], useFactory: rootRoute, deps: [__WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */]] },
+    { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["T" /* NgModuleFactoryLoader */], useClass: __WEBPACK_IMPORTED_MODULE_1__angular_core__["V" /* SystemJsNgModuleLoader */] },
+    __WEBPACK_IMPORTED_MODULE_12__router_preloader__["a" /* RouterPreloader */],
+    __WEBPACK_IMPORTED_MODULE_12__router_preloader__["b" /* NoPreloading */],
+    __WEBPACK_IMPORTED_MODULE_12__router_preloader__["c" /* PreloadAllModules */],
+    { provide: ROUTER_CONFIGURATION, useValue: { enableTracing: false } },
+];
+/**
+ * @return {?}
+ */
+function routerNgProbeToken() {
+    return new __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* NgProbeToken */]('Router', __WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */]);
+}
+/**
+ * \@whatItDoes Adds router directives and providers.
+ *
+ * \@howToUse
+ *
+ * RouterModule can be imported multiple times: once per lazily-loaded bundle.
+ * Since the router deals with a global shared resource--location, we cannot have
+ * more than one router service active.
+ *
+ * That is why there are two ways to create the module: `RouterModule.forRoot` and
+ * `RouterModule.forChild`.
+ *
+ * * `forRoot` creates a module that contains all the directives, the given routes, and the router
+ *   service itself.
+ * * `forChild` creates a module that contains all the directives and the given routes, but does not
+ *   include the router service.
+ *
+ * When registered at the root, the module should be used as follows
+ *
+ * ```
+ * \@NgModule({
+ *   imports: [RouterModule.forRoot(ROUTES)]
+ * })
+ * class MyNgModule {}
+ * ```
+ *
+ * For submodules and lazy loaded submodules the module should be used as follows:
+ *
+ * ```
+ * \@NgModule({
+ *   imports: [RouterModule.forChild(ROUTES)]
+ * })
+ * class MyNgModule {}
+ * ```
+ *
+ * \@description
+ *
+ * Managing state transitions is one of the hardest parts of building applications. This is
+ * especially true on the web, where you also need to ensure that the state is reflected in the URL.
+ * In addition, we often want to split applications into multiple bundles and load them on demand.
+ * Doing this transparently is not trivial.
+ *
+ * The Angular 2 router solves these problems. Using the router, you can declaratively specify
+ * application states, manage state transitions while taking care of the URL, and load bundles on
+ * demand.
+ *
+ * [Read this developer guide](https://angular.io/docs/ts/latest/guide/router.html) to get an
+ * overview of how the router should be used.
+ *
+ * \@stable
+ */
+var RouterModule = (function () {
+    /**
+     * @param {?} guard
+     */
+    function RouterModule(guard) {
+    }
+    /**
+     * Creates a module with all the router providers and directives. It also optionally sets up an
+     * application listener to perform an initial navigation.
+     *
+     * Options:
+     * * `enableTracing` makes the router log all its internal events to the console.
+     * * `useHash` enables the location strategy that uses the URL fragment instead of the history
+     * API.
+     * * `initialNavigation` disables the initial navigation.
+     * * `errorHandler` provides a custom error handler.
+     * @param {?} routes
+     * @param {?=} config
+     * @return {?}
+     */
+    RouterModule.forRoot = function (routes, config) {
+        return {
+            ngModule: RouterModule,
+            providers: [
+                ROUTER_PROVIDERS,
+                provideRoutes(routes),
+                {
+                    provide: ROUTER_FORROOT_GUARD,
+                    useFactory: provideForRootGuard,
+                    deps: [[__WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */], new __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* Optional */](), new __WEBPACK_IMPORTED_MODULE_1__angular_core__["p" /* SkipSelf */]()]]
+                },
+                { provide: ROUTER_CONFIGURATION, useValue: config ? config : {} },
+                {
+                    provide: __WEBPACK_IMPORTED_MODULE_0__angular_common__["d" /* LocationStrategy */],
+                    useFactory: provideLocationStrategy,
+                    deps: [
+                        __WEBPACK_IMPORTED_MODULE_0__angular_common__["b" /* PlatformLocation */], [new __WEBPACK_IMPORTED_MODULE_1__angular_core__["r" /* Inject */](__WEBPACK_IMPORTED_MODULE_0__angular_common__["e" /* APP_BASE_HREF */]), new __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* Optional */]()], ROUTER_CONFIGURATION
+                    ]
+                },
+                {
+                    provide: __WEBPACK_IMPORTED_MODULE_12__router_preloader__["d" /* PreloadingStrategy */],
+                    useExisting: config && config.preloadingStrategy ? config.preloadingStrategy :
+                        __WEBPACK_IMPORTED_MODULE_12__router_preloader__["b" /* NoPreloading */]
+                },
+                { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["N" /* NgProbeToken */], multi: true, useFactory: routerNgProbeToken },
+                provideRouterInitializer(),
+            ],
+        };
+    };
+    /**
+     * Creates a module with all the router directives and a provider registering routes.
+     * @param {?} routes
+     * @return {?}
+     */
+    RouterModule.forChild = function (routes) {
+        return { ngModule: RouterModule, providers: [provideRoutes(routes)] };
+    };
+    RouterModule.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["b" /* NgModule */], args: [{ declarations: ROUTER_DIRECTIVES, exports: ROUTER_DIRECTIVES },] },
+    ];
+    /** @nocollapse */
+    RouterModule.ctorParameters = function () { return [
+        { type: undefined, decorators: [{ type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["o" /* Optional */] }, { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["r" /* Inject */], args: [ROUTER_FORROOT_GUARD,] },] },
+    ]; };
+    return RouterModule;
+}());
+function RouterModule_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterModule.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterModule.ctorParameters;
+}
+/**
+ * @param {?} platformLocationStrategy
+ * @param {?} baseHref
+ * @param {?=} options
+ * @return {?}
+ */
+function provideLocationStrategy(platformLocationStrategy, baseHref, options) {
+    if (options === void 0) { options = {}; }
+    return options.useHash ? new __WEBPACK_IMPORTED_MODULE_0__angular_common__["f" /* HashLocationStrategy */](platformLocationStrategy, baseHref) :
+        new __WEBPACK_IMPORTED_MODULE_0__angular_common__["g" /* PathLocationStrategy */](platformLocationStrategy, baseHref);
+}
+/**
+ * @param {?} router
+ * @return {?}
+ */
+function provideForRootGuard(router) {
+    if (router) {
+        throw new Error("RouterModule.forRoot() called twice. Lazy loaded modules should use RouterModule.forChild() instead.");
+    }
+    return 'guarded';
+}
+/**
+ * \@whatItDoes Registers routes.
+ *
+ * \@howToUse
+ *
+ * ```
+ * \@NgModule({
+ *   imports: [RouterModule.forChild(ROUTES)],
+ *   providers: [provideRoutes(EXTRA_ROUTES)]
+ * })
+ * class MyNgModule {}
+ * ```
+ *
+ * \@stable
+ * @param {?} routes
+ * @return {?}
+ */
+function provideRoutes(routes) {
+    return [
+        { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["W" /* ANALYZE_FOR_ENTRY_COMPONENTS */], multi: true, useValue: routes },
+        { provide: __WEBPACK_IMPORTED_MODULE_10__router_config_loader__["a" /* ROUTES */], multi: true, useValue: routes },
+    ];
+}
+/**
+ * @param {?} ref
+ * @param {?} urlSerializer
+ * @param {?} outletMap
+ * @param {?} location
+ * @param {?} injector
+ * @param {?} loader
+ * @param {?} compiler
+ * @param {?} config
+ * @param {?=} opts
+ * @param {?=} urlHandlingStrategy
+ * @param {?=} routeReuseStrategy
+ * @return {?}
+ */
+function setupRouter(ref, urlSerializer, outletMap, location, injector, loader, compiler, config, opts, urlHandlingStrategy, routeReuseStrategy) {
+    if (opts === void 0) { opts = {}; }
+    var /** @type {?} */ router = new __WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */](null, urlSerializer, outletMap, location, injector, loader, compiler, __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_16__utils_collection__["a" /* flatten */])(config));
+    if (urlHandlingStrategy) {
+        router.urlHandlingStrategy = urlHandlingStrategy;
+    }
+    if (routeReuseStrategy) {
+        router.routeReuseStrategy = routeReuseStrategy;
+    }
+    if (opts.errorHandler) {
+        router.errorHandler = opts.errorHandler;
+    }
+    if (opts.enableTracing) {
+        var /** @type {?} */ dom_1 = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__private_import_platform_browser__["a" /* getDOM */])();
+        router.events.subscribe(function (e) {
+            dom_1.logGroup("Router Event: " + ((e.constructor)).name);
+            dom_1.log(e.toString());
+            dom_1.log(e);
+            dom_1.logGroupEnd();
+        });
+    }
+    return router;
+}
+/**
+ * @param {?} router
+ * @return {?}
+ */
+function rootRoute(router) {
+    return router.routerState.root;
+}
+/**
+ * To initialize the router properly we need to do in two steps:
+ *
+ * We need to start the navigation in a APP_INITIALIZER to block the bootstrap if
+ * a resolver or a guards executes asynchronously. Second, we need to actually run
+ * activation in a BOOTSTRAP_LISTENER. We utilize the afterPreactivation
+ * hook provided by the router to do that.
+ *
+ * The router navigation starts, reaches the point when preactivation is done, and then
+ * pauses. It waits for the hook to be resolved. We then resolve it only in a bootstrap listener.
+ */
+var RouterInitializer = (function () {
+    /**
+     * @param {?} injector
+     */
+    function RouterInitializer(injector) {
+        this.injector = injector;
+        this.initNavigation = false;
+        this.resultOfPreactivationDone = new __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__["Subject"]();
+    }
+    /**
+     * @return {?}
+     */
+    RouterInitializer.prototype.appInitializer = function () {
+        var _this = this;
+        var /** @type {?} */ p = this.injector.get(__WEBPACK_IMPORTED_MODULE_0__angular_common__["h" /* LOCATION_INITIALIZED */], Promise.resolve(null));
+        return p.then(function () {
+            var /** @type {?} */ resolve = null;
+            var /** @type {?} */ res = new Promise(function (r) { return resolve = r; });
+            var /** @type {?} */ router = _this.injector.get(__WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */]);
+            var /** @type {?} */ opts = _this.injector.get(ROUTER_CONFIGURATION);
+            if (_this.isLegacyDisabled(opts) || _this.isLegacyEnabled(opts)) {
+                resolve(true);
+            }
+            else if (opts.initialNavigation === 'disabled') {
+                router.setUpLocationChangeListener();
+                resolve(true);
+            }
+            else if (opts.initialNavigation === 'enabled') {
+                router.hooks.afterPreactivation = function () {
+                    // only the initial navigation should be delayed
+                    if (!_this.initNavigation) {
+                        _this.initNavigation = true;
+                        resolve(true);
+                        return _this.resultOfPreactivationDone;
+                    }
+                    else {
+                        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_rxjs_observable_of__["of"])(null);
+                    }
+                };
+                router.initialNavigation();
+            }
+            else {
+                throw new Error("Invalid initialNavigation options: '" + opts.initialNavigation + "'");
+            }
+            return res;
+        });
+    };
+    /**
+     * @param {?} bootstrappedComponentRef
+     * @return {?}
+     */
+    RouterInitializer.prototype.bootstrapListener = function (bootstrappedComponentRef) {
+        var /** @type {?} */ opts = this.injector.get(ROUTER_CONFIGURATION);
+        var /** @type {?} */ preloader = this.injector.get(__WEBPACK_IMPORTED_MODULE_12__router_preloader__["a" /* RouterPreloader */]);
+        var /** @type {?} */ router = this.injector.get(__WEBPACK_IMPORTED_MODULE_9__router__["a" /* Router */]);
+        var /** @type {?} */ ref = this.injector.get(__WEBPACK_IMPORTED_MODULE_1__angular_core__["L" /* ApplicationRef */]);
+        if (bootstrappedComponentRef !== ref.components[0]) {
+            return;
+        }
+        if (this.isLegacyEnabled(opts)) {
+            router.initialNavigation();
+        }
+        else if (this.isLegacyDisabled(opts)) {
+            router.setUpLocationChangeListener();
+        }
+        preloader.setUpPreloading();
+        router.resetRootComponentType(ref.componentTypes[0]);
+        this.resultOfPreactivationDone.next(null);
+        this.resultOfPreactivationDone.complete();
+    };
+    /**
+     * @param {?} opts
+     * @return {?}
+     */
+    RouterInitializer.prototype.isLegacyEnabled = function (opts) {
+        return opts.initialNavigation === 'legacy_enabled' || opts.initialNavigation === true ||
+            opts.initialNavigation === undefined;
+    };
+    /**
+     * @param {?} opts
+     * @return {?}
+     */
+    RouterInitializer.prototype.isLegacyDisabled = function (opts) {
+        return opts.initialNavigation === 'legacy_disabled' || opts.initialNavigation === false;
+    };
+    RouterInitializer.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["e" /* Injectable */] },
+    ];
+    /** @nocollapse */
+    RouterInitializer.ctorParameters = function () { return [
+        { type: __WEBPACK_IMPORTED_MODULE_1__angular_core__["S" /* Injector */], },
+    ]; };
+    return RouterInitializer;
+}());
+function RouterInitializer_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterInitializer.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterInitializer.ctorParameters;
+    /** @type {?} */
+    RouterInitializer.prototype.initNavigation;
+    /** @type {?} */
+    RouterInitializer.prototype.resultOfPreactivationDone;
+    /** @type {?} */
+    RouterInitializer.prototype.injector;
+}
+/**
+ * @param {?} r
+ * @return {?}
+ */
+function getAppInitializer(r) {
+    return r.appInitializer.bind(r);
+}
+/**
+ * @param {?} r
+ * @return {?}
+ */
+function getBootstrapListener(r) {
+    return r.bootstrapListener.bind(r);
+}
+/**
+ * A token for the router initializer that will be called after the app is bootstrapped.
+ *
+ * @experimental
+ */
+var /** @type {?} */ ROUTER_INITIALIZER = new __WEBPACK_IMPORTED_MODULE_1__angular_core__["q" /* OpaqueToken */]('Router Initializer');
+/**
+ * @return {?}
+ */
+function provideRouterInitializer() {
+    return [
+        RouterInitializer,
+        {
+            provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["X" /* APP_INITIALIZER */],
+            multi: true,
+            useFactory: getAppInitializer,
+            deps: [RouterInitializer]
+        },
+        { provide: ROUTER_INITIALIZER, useFactory: getBootstrapListener, deps: [RouterInitializer] },
+        { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["Y" /* APP_BOOTSTRAP_LISTENER */], multi: true, useExisting: ROUTER_INITIALIZER },
+    ];
+}
+//# sourceMappingURL=router_module.js.map
+
+/***/ }),
+/* 654 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from__ = __webpack_require__(645);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__ = __webpack_require__(658);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatMap__ = __webpack_require__(660);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatMap__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_filter__ = __webpack_require__(683);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_filter___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_operator_filter__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll__ = __webpack_require__(646);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__ = __webpack_require__(637);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__router__ = __webpack_require__(635);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__router_config_loader__ = __webpack_require__(636);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return PreloadingStrategy; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return PreloadAllModules; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return NoPreloading; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return RouterPreloader; });
+/**
+*@license
+*Copyright Google Inc. All Rights Reserved.
+*
+*Use of this source code is governed by an MIT-style license that can be
+*found in the LICENSE file at https://angular.io/license
+*/
+
+
+
+
+
+
+
+
+
+
+/**
+ * \@whatItDoes Provides a preloading strategy.
+ *
+ * \@experimental
+ * @abstract
+ */
+var PreloadingStrategy = (function () {
+    function PreloadingStrategy() {
+    }
+    /**
+     * @abstract
+     * @param {?} route
+     * @param {?} fn
+     * @return {?}
+     */
+    PreloadingStrategy.prototype.preload = function (route, fn) { };
+    return PreloadingStrategy;
+}());
+/**
+ * \@whatItDoes Provides a preloading strategy that preloads all modules as quicky as possible.
+ *
+ * \@howToUse
+ *
+ * ```
+ * RouteModule.forRoot(ROUTES, {preloadingStrategy: PreloadAllModules})
+ * ```
+ *
+ * \@experimental
+ */
+var PreloadAllModules = (function () {
+    function PreloadAllModules() {
+    }
+    /**
+     * @param {?} route
+     * @param {?} fn
+     * @return {?}
+     */
+    PreloadAllModules.prototype.preload = function (route, fn) {
+        return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__["_catch"].call(fn(), function () { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(null); });
+    };
+    return PreloadAllModules;
+}());
+/**
+ * \@whatItDoes Provides a preloading strategy that does not preload any modules.
+ *
+ * \@description
+ *
+ * This strategy is enabled by default.
+ *
+ * \@experimental
+ */
+var NoPreloading = (function () {
+    function NoPreloading() {
+    }
+    /**
+     * @param {?} route
+     * @param {?} fn
+     * @return {?}
+     */
+    NoPreloading.prototype.preload = function (route, fn) { return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(null); };
+    return NoPreloading;
+}());
+/**
+ * The preloader optimistically loads all router configurations to
+ * make navigations into lazily-loaded sections of the application faster.
+ *
+ * The preloader runs in the background. When the router bootstraps, the preloader
+ * starts listening to all navigation events. After every such event, the preloader
+ * will check if any configurations can be loaded lazily.
+ *
+ * If a route is protected by `canLoad` guards, the preloaded will not load it.
+ *
+ * \@stable
+ */
+var RouterPreloader = (function () {
+    /**
+     * @param {?} router
+     * @param {?} moduleLoader
+     * @param {?} compiler
+     * @param {?} injector
+     * @param {?} preloadingStrategy
+     */
+    function RouterPreloader(router, moduleLoader, compiler, injector, preloadingStrategy) {
+        this.router = router;
+        this.injector = injector;
+        this.preloadingStrategy = preloadingStrategy;
+        this.loader = new __WEBPACK_IMPORTED_MODULE_9__router_config_loader__["b" /* RouterConfigLoader */](moduleLoader, compiler);
+    }
+    ;
+    /**
+     * @return {?}
+     */
+    RouterPreloader.prototype.setUpPreloading = function () {
+        var _this = this;
+        var /** @type {?} */ navigations = __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_filter__["filter"].call(this.router.events, function (e) { return e instanceof __WEBPACK_IMPORTED_MODULE_8__router__["b" /* NavigationEnd */]; });
+        this.subscription = __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatMap__["concatMap"].call(navigations, function () { return _this.preload(); }).subscribe(function (v) { });
+    };
+    /**
+     * @return {?}
+     */
+    RouterPreloader.prototype.preload = function () { return this.processRoutes(this.injector, this.router.config); };
+    /**
+     * @return {?}
+     */
+    RouterPreloader.prototype.ngOnDestroy = function () { this.subscription.unsubscribe(); };
+    /**
+     * @param {?} injector
+     * @param {?} routes
+     * @return {?}
+     */
+    RouterPreloader.prototype.processRoutes = function (injector, routes) {
+        var /** @type {?} */ res = [];
+        for (var _i = 0, routes_1 = routes; _i < routes_1.length; _i++) {
+            var c = routes_1[_i];
+            // we already have the config loaded, just recurse
+            if (c.loadChildren && !c.canLoad && ((c))._loadedConfig) {
+                var /** @type {?} */ childConfig = ((c))._loadedConfig;
+                res.push(this.processRoutes(childConfig.injector, childConfig.routes));
+            }
+            else if (c.loadChildren && !c.canLoad) {
+                res.push(this.preloadConfig(injector, c));
+            }
+            else if (c.children) {
+                res.push(this.processRoutes(injector, c.children));
+            }
+        }
+        return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_mergeAll__["mergeAll"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from__["from"])(res));
+    };
+    /**
+     * @param {?} injector
+     * @param {?} route
+     * @return {?}
+     */
+    RouterPreloader.prototype.preloadConfig = function (injector, route) {
+        var _this = this;
+        return this.preloadingStrategy.preload(route, function () {
+            var /** @type {?} */ loaded = _this.loader.load(injector, route.loadChildren);
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__["mergeMap"].call(loaded, function (config) {
+                var /** @type {?} */ c = route;
+                c._loadedConfig = config;
+                return _this.processRoutes(config.injector, config.routes);
+            });
+        });
+    };
+    RouterPreloader.decorators = [
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["e" /* Injectable */] },
+    ];
+    /** @nocollapse */
+    RouterPreloader.ctorParameters = function () { return [
+        { type: __WEBPACK_IMPORTED_MODULE_8__router__["a" /* Router */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["T" /* NgModuleFactoryLoader */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["U" /* Compiler */], },
+        { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Injector */], },
+        { type: PreloadingStrategy, },
+    ]; };
+    return RouterPreloader;
+}());
+function RouterPreloader_tsickle_Closure_declarations() {
+    /** @type {?} */
+    RouterPreloader.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    RouterPreloader.ctorParameters;
+    /** @type {?} */
+    RouterPreloader.prototype.loader;
+    /** @type {?} */
+    RouterPreloader.prototype.subscription;
+    /** @type {?} */
+    RouterPreloader.prototype.router;
+    /** @type {?} */
+    RouterPreloader.prototype.injector;
+    /** @type {?} */
+    RouterPreloader.prototype.preloadingStrategy;
+}
+//# sourceMappingURL=router_preloader.js.map
+
+/***/ }),
+/* 655 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Observable_1 = __webpack_require__(74);
+var ScalarObservable_1 = __webpack_require__(657);
+var EmptyObservable_1 = __webpack_require__(656);
+var isScheduler_1 = __webpack_require__(687);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @extends {Ignored}
+ * @hide true
+ */
+var ArrayObservable = (function (_super) {
+    __extends(ArrayObservable, _super);
+    function ArrayObservable(array, scheduler) {
+        _super.call(this);
+        this.array = array;
+        this.scheduler = scheduler;
+        if (!scheduler && array.length === 1) {
+            this._isScalar = true;
+            this.value = array[0];
+        }
+    }
+    ArrayObservable.create = function (array, scheduler) {
+        return new ArrayObservable(array, scheduler);
+    };
+    /**
+     * Creates an Observable that emits some values you specify as arguments,
+     * immediately one after the other, and then emits a complete notification.
+     *
+     * <span class="informal">Emits the arguments you provide, then completes.
+     * </span>
+     *
+     * <img src="./img/of.png" width="100%">
+     *
+     * This static operator is useful for creating a simple Observable that only
+     * emits the arguments given, and the complete notification thereafter. It can
+     * be used for composing with other Observables, such as with {@link concat}.
+     * By default, it uses a `null` IScheduler, which means the `next`
+     * notifications are sent synchronously, although with a different IScheduler
+     * it is possible to determine when those notifications will be delivered.
+     *
+     * @example <caption>Emit 10, 20, 30, then 'a', 'b', 'c', then start ticking every second.</caption>
+     * var numbers = Rx.Observable.of(10, 20, 30);
+     * var letters = Rx.Observable.of('a', 'b', 'c');
+     * var interval = Rx.Observable.interval(1000);
+     * var result = numbers.concat(letters).concat(interval);
+     * result.subscribe(x => console.log(x));
+     *
+     * @see {@link create}
+     * @see {@link empty}
+     * @see {@link never}
+     * @see {@link throw}
+     *
+     * @param {...T} values Arguments that represent `next` values to be emitted.
+     * @param {Scheduler} [scheduler] A {@link IScheduler} to use for scheduling
+     * the emissions of the `next` notifications.
+     * @return {Observable<T>} An Observable that emits each given input value.
+     * @static true
+     * @name of
+     * @owner Observable
+     */
+    ArrayObservable.of = function () {
+        var array = [];
+        for (var _i = 0; _i < arguments.length; _i++) {
+            array[_i - 0] = arguments[_i];
+        }
+        var scheduler = array[array.length - 1];
+        if (isScheduler_1.isScheduler(scheduler)) {
+            array.pop();
+        }
+        else {
+            scheduler = null;
+        }
+        var len = array.length;
+        if (len > 1) {
+            return new ArrayObservable(array, scheduler);
+        }
+        else if (len === 1) {
+            return new ScalarObservable_1.ScalarObservable(array[0], scheduler);
+        }
+        else {
+            return new EmptyObservable_1.EmptyObservable(scheduler);
+        }
+    };
+    ArrayObservable.dispatch = function (state) {
+        var array = state.array, index = state.index, count = state.count, subscriber = state.subscriber;
+        if (index >= count) {
+            subscriber.complete();
+            return;
+        }
+        subscriber.next(array[index]);
+        if (subscriber.closed) {
+            return;
+        }
+        state.index = index + 1;
+        this.schedule(state);
+    };
+    ArrayObservable.prototype._subscribe = function (subscriber) {
+        var index = 0;
+        var array = this.array;
+        var count = array.length;
+        var scheduler = this.scheduler;
+        if (scheduler) {
+            return scheduler.schedule(ArrayObservable.dispatch, 0, {
+                array: array, index: index, count: count, subscriber: subscriber
+            });
+        }
+        else {
+            for (var i = 0; i < count && !subscriber.closed; i++) {
+                subscriber.next(array[i]);
+            }
+            subscriber.complete();
+        }
+    };
+    return ArrayObservable;
+}(Observable_1.Observable));
+exports.ArrayObservable = ArrayObservable;
+//# sourceMappingURL=ArrayObservable.js.map
+
+/***/ }),
+/* 656 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Observable_1 = __webpack_require__(74);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @extends {Ignored}
+ * @hide true
+ */
+var EmptyObservable = (function (_super) {
+    __extends(EmptyObservable, _super);
+    function EmptyObservable(scheduler) {
+        _super.call(this);
+        this.scheduler = scheduler;
+    }
+    /**
+     * Creates an Observable that emits no items to the Observer and immediately
+     * emits a complete notification.
+     *
+     * <span class="informal">Just emits 'complete', and nothing else.
+     * </span>
+     *
+     * <img src="./img/empty.png" width="100%">
+     *
+     * This static operator is useful for creating a simple Observable that only
+     * emits the complete notification. It can be used for composing with other
+     * Observables, such as in a {@link mergeMap}.
+     *
+     * @example <caption>Emit the number 7, then complete.</caption>
+     * var result = Rx.Observable.empty().startWith(7);
+     * result.subscribe(x => console.log(x));
+     *
+     * @example <caption>Map and flatten only odd numbers to the sequence 'a', 'b', 'c'</caption>
+     * var interval = Rx.Observable.interval(1000);
+     * var result = interval.mergeMap(x =>
+     *   x % 2 === 1 ? Rx.Observable.of('a', 'b', 'c') : Rx.Observable.empty()
+     * );
+     * result.subscribe(x => console.log(x));
+     *
+     * // Results in the following to the console:
+     * // x is equal to the count on the interval eg(0,1,2,3,...)
+     * // x will occur every 1000ms
+     * // if x % 2 is equal to 1 print abc
+     * // if x % 2 is not equal to 1 nothing will be output
+     *
+     * @see {@link create}
+     * @see {@link never}
+     * @see {@link of}
+     * @see {@link throw}
+     *
+     * @param {Scheduler} [scheduler] A {@link IScheduler} to use for scheduling
+     * the emission of the complete notification.
+     * @return {Observable} An "empty" Observable: emits only the complete
+     * notification.
+     * @static true
+     * @name empty
+     * @owner Observable
+     */
+    EmptyObservable.create = function (scheduler) {
+        return new EmptyObservable(scheduler);
+    };
+    EmptyObservable.dispatch = function (arg) {
+        var subscriber = arg.subscriber;
+        subscriber.complete();
+    };
+    EmptyObservable.prototype._subscribe = function (subscriber) {
+        var scheduler = this.scheduler;
+        if (scheduler) {
+            return scheduler.schedule(EmptyObservable.dispatch, 0, { subscriber: subscriber });
+        }
+        else {
+            subscriber.complete();
+        }
+    };
+    return EmptyObservable;
+}(Observable_1.Observable));
+exports.EmptyObservable = EmptyObservable;
+//# sourceMappingURL=EmptyObservable.js.map
+
+/***/ }),
+/* 657 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Observable_1 = __webpack_require__(74);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @extends {Ignored}
+ * @hide true
+ */
+var ScalarObservable = (function (_super) {
+    __extends(ScalarObservable, _super);
+    function ScalarObservable(value, scheduler) {
+        _super.call(this);
+        this.value = value;
+        this.scheduler = scheduler;
+        this._isScalar = true;
+        if (scheduler) {
+            this._isScalar = false;
+        }
+    }
+    ScalarObservable.create = function (value, scheduler) {
+        return new ScalarObservable(value, scheduler);
+    };
+    ScalarObservable.dispatch = function (state) {
+        var done = state.done, value = state.value, subscriber = state.subscriber;
+        if (done) {
+            subscriber.complete();
+            return;
+        }
+        subscriber.next(value);
+        if (subscriber.closed) {
+            return;
+        }
+        state.done = true;
+        this.schedule(state);
+    };
+    ScalarObservable.prototype._subscribe = function (subscriber) {
+        var value = this.value;
+        var scheduler = this.scheduler;
+        if (scheduler) {
+            return scheduler.schedule(ScalarObservable.dispatch, 0, {
+                done: false, value: value, subscriber: subscriber
+            });
+        }
+        else {
+            subscriber.next(value);
+            if (!subscriber.closed) {
+                subscriber.complete();
+            }
+        }
+    };
+    return ScalarObservable;
+}(Observable_1.Observable));
+exports.ScalarObservable = ScalarObservable;
+//# sourceMappingURL=ScalarObservable.js.map
+
+/***/ }),
+/* 658 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var OuterSubscriber_1 = __webpack_require__(644);
+var subscribeToResult_1 = __webpack_require__(649);
+/**
+ * Catches errors on the observable to be handled by returning a new observable or throwing an error.
+ *
+ * <img src="./img/catch.png" width="100%">
+ *
+ * @example <caption>Continues with a different Observable when there's an error</caption>
+ *
+ * Observable.of(1, 2, 3, 4, 5)
+ *   .map(n => {
+ * 	   if (n == 4) {
+ * 	     throw 'four!';
+ *     }
+ *	   return n;
+ *   })
+ *   .catch(err => Observable.of('I', 'II', 'III', 'IV', 'V'))
+ *   .subscribe(x => console.log(x));
+ *   // 1, 2, 3, I, II, III, IV, V
+ *
+ * @example <caption>Retries the caught source Observable again in case of error, similar to retry() operator</caption>
+ *
+ * Observable.of(1, 2, 3, 4, 5)
+ *   .map(n => {
+ * 	   if (n === 4) {
+ * 	     throw 'four!';
+ *     }
+ * 	   return n;
+ *   })
+ *   .catch((err, caught) => caught)
+ *   .take(30)
+ *   .subscribe(x => console.log(x));
+ *   // 1, 2, 3, 1, 2, 3, ...
+ *
+ * @example <caption>Throws a new error when the source Observable throws an error</caption>
+ *
+ * Observable.of(1, 2, 3, 4, 5)
+ *   .map(n => {
+ *     if (n == 4) {
+ *       throw 'four!';
+ *     }
+ *     return n;
+ *   })
+ *   .catch(err => {
+ *     throw 'error in source. Details: ' + err;
+ *   })
+ *   .subscribe(
+ *     x => console.log(x),
+ *     err => console.log(err)
+ *   );
+ *   // 1, 2, 3, error in source. Details: four!
+ *
+ * @param {function} selector a function that takes as arguments `err`, which is the error, and `caught`, which
+ *  is the source observable, in case you'd like to "retry" that observable by returning it again. Whatever observable
+ *  is returned by the `selector` will be used to continue the observable chain.
+ * @return {Observable} An observable that originates from either the source or the observable returned by the
+ *  catch `selector` function.
+ * @method catch
+ * @name catch
+ * @owner Observable
+ */
+function _catch(selector) {
+    var operator = new CatchOperator(selector);
+    var caught = this.lift(operator);
+    return (operator.caught = caught);
+}
+exports._catch = _catch;
+var CatchOperator = (function () {
+    function CatchOperator(selector) {
+        this.selector = selector;
+    }
+    CatchOperator.prototype.call = function (subscriber, source) {
+        return source.subscribe(new CatchSubscriber(subscriber, this.selector, this.caught));
+    };
+    return CatchOperator;
+}());
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var CatchSubscriber = (function (_super) {
+    __extends(CatchSubscriber, _super);
+    function CatchSubscriber(destination, selector, caught) {
+        _super.call(this, destination);
+        this.selector = selector;
+        this.caught = caught;
+    }
+    // NOTE: overriding `error` instead of `_error` because we don't want
+    // to have this flag this subscriber as `isStopped`. We can mimic the
+    // behavior of the RetrySubscriber (from the `retry` operator), where
+    // we unsubscribe from our source chain, reset our Subscriber flags,
+    // then subscribe to the selector result.
+    CatchSubscriber.prototype.error = function (err) {
+        if (!this.isStopped) {
+            var result = void 0;
+            try {
+                result = this.selector(err, this.caught);
+            }
+            catch (err2) {
+                _super.prototype.error.call(this, err2);
+                return;
+            }
+            this._unsubscribeAndRecycle();
+            this.add(subscribeToResult_1.subscribeToResult(this, result));
+        }
+    };
+    return CatchSubscriber;
+}(OuterSubscriber_1.OuterSubscriber));
+//# sourceMappingURL=catch.js.map
+
+/***/ }),
+/* 659 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var mergeAll_1 = __webpack_require__(646);
+/* tslint:enable:max-line-length */
+/**
+ * Converts a higher-order Observable into a first-order Observable by
+ * concatenating the inner Observables in order.
+ *
+ * <span class="informal">Flattens an Observable-of-Observables by putting one
+ * inner Observable after the other.</span>
+ *
+ * <img src="./img/concatAll.png" width="100%">
+ *
+ * Joins every Observable emitted by the source (a higher-order Observable), in
+ * a serial fashion. It subscribes to each inner Observable only after the
+ * previous inner Observable has completed, and merges all of their values into
+ * the returned observable.
+ *
+ * __Warning:__ If the source Observable emits Observables quickly and
+ * endlessly, and the inner Observables it emits generally complete slower than
+ * the source emits, you can run into memory issues as the incoming Observables
+ * collect in an unbounded buffer.
+ *
+ * Note: `concatAll` is equivalent to `mergeAll` with concurrency parameter set
+ * to `1`.
+ *
+ * @example <caption>For each click event, tick every second from 0 to 3, with no concurrency</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var higherOrder = clicks.map(ev => Rx.Observable.interval(1000).take(4));
+ * var firstOrder = higherOrder.concatAll();
+ * firstOrder.subscribe(x => console.log(x));
+ *
+ * // Results in the following:
+ * // (results are not concurrent)
+ * // For every click on the "document" it will emit values 0 to 3 spaced
+ * // on a 1000ms interval
+ * // one click = 1000ms-> 0 -1000ms-> 1 -1000ms-> 2 -1000ms-> 3
+ *
+ * @see {@link combineAll}
+ * @see {@link concat}
+ * @see {@link concatMap}
+ * @see {@link concatMapTo}
+ * @see {@link exhaust}
+ * @see {@link mergeAll}
+ * @see {@link switch}
+ * @see {@link zipAll}
+ *
+ * @return {Observable} An Observable emitting values from all the inner
+ * Observables concatenated.
+ * @method concatAll
+ * @owner Observable
+ */
+function concatAll() {
+    return this.lift(new mergeAll_1.MergeAllOperator(1));
+}
+exports.concatAll = concatAll;
+//# sourceMappingURL=concatAll.js.map
+
+/***/ }),
+/* 660 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var mergeMap_1 = __webpack_require__(637);
+/* tslint:enable:max-line-length */
+/**
+ * Projects each source value to an Observable which is merged in the output
+ * Observable, in a serialized fashion waiting for each one to complete before
+ * merging the next.
+ *
+ * <span class="informal">Maps each value to an Observable, then flattens all of
+ * these inner Observables using {@link concatAll}.</span>
+ *
+ * <img src="./img/concatMap.png" width="100%">
+ *
+ * Returns an Observable that emits items based on applying a function that you
+ * supply to each item emitted by the source Observable, where that function
+ * returns an (so-called "inner") Observable. Each new inner Observable is
+ * concatenated with the previous inner Observable.
+ *
+ * __Warning:__ if source values arrive endlessly and faster than their
+ * corresponding inner Observables can complete, it will result in memory issues
+ * as inner Observables amass in an unbounded buffer waiting for their turn to
+ * be subscribed to.
+ *
+ * Note: `concatMap` is equivalent to `mergeMap` with concurrency parameter set
+ * to `1`.
+ *
+ * @example <caption>For each click event, tick every second from 0 to 3, with no concurrency</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var result = clicks.concatMap(ev => Rx.Observable.interval(1000).take(4));
+ * result.subscribe(x => console.log(x));
+ *
+ * // Results in the following:
+ * // (results are not concurrent)
+ * // For every click on the "document" it will emit values 0 to 3 spaced
+ * // on a 1000ms interval
+ * // one click = 1000ms-> 0 -1000ms-> 1 -1000ms-> 2 -1000ms-> 3
+ *
+ * @see {@link concat}
+ * @see {@link concatAll}
+ * @see {@link concatMapTo}
+ * @see {@link exhaustMap}
+ * @see {@link mergeMap}
+ * @see {@link switchMap}
+ *
+ * @param {function(value: T, ?index: number): ObservableInput} project A function
+ * that, when applied to an item emitted by the source Observable, returns an
+ * Observable.
+ * @param {function(outerValue: T, innerValue: I, outerIndex: number, innerIndex: number): any} [resultSelector]
+ * A function to produce the value on the output Observable based on the values
+ * and the indices of the source (outer) emission and the inner Observable
+ * emission. The arguments passed to this function are:
+ * - `outerValue`: the value that came from the source
+ * - `innerValue`: the value that came from the projected Observable
+ * - `outerIndex`: the "index" of the value that came from the source
+ * - `innerIndex`: the "index" of the value from the projected Observable
+ * @return {Observable} An Observable that emits the result of applying the
+ * projection function (and the optional `resultSelector`) to each item emitted
+ * by the source Observable and taking values from each projected inner
+ * Observable sequentially.
+ * @method concatMap
+ * @owner Observable
+ */
+function concatMap(project, resultSelector) {
+    return this.lift(new mergeMap_1.MergeMapOperator(project, resultSelector, 1));
+}
+exports.concatMap = concatMap;
+//# sourceMappingURL=concatMap.js.map
+
+/***/ }),
+/* 661 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+/**
+ * Returns an Observable that emits whether or not every item of the source satisfies the condition specified.
+ *
+ * @example <caption>A simple example emitting true if all elements are less than 5, false otherwise</caption>
+ *  Observable.of(1, 2, 3, 4, 5, 6)
+ *     .every(x => x < 5)
+ *     .subscribe(x => console.log(x)); // -> false
+ *
+ * @param {function} predicate A function for determining if an item meets a specified condition.
+ * @param {any} [thisArg] Optional object to use for `this` in the callback.
+ * @return {Observable} An Observable of booleans that determines if all items of the source Observable meet the condition specified.
+ * @method every
+ * @owner Observable
+ */
+function every(predicate, thisArg) {
+    return this.lift(new EveryOperator(predicate, thisArg, this));
+}
+exports.every = every;
+var EveryOperator = (function () {
+    function EveryOperator(predicate, thisArg, source) {
+        this.predicate = predicate;
+        this.thisArg = thisArg;
+        this.source = source;
+    }
+    EveryOperator.prototype.call = function (observer, source) {
+        return source.subscribe(new EverySubscriber(observer, this.predicate, this.thisArg, this.source));
+    };
+    return EveryOperator;
+}());
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var EverySubscriber = (function (_super) {
+    __extends(EverySubscriber, _super);
+    function EverySubscriber(destination, predicate, thisArg, source) {
+        _super.call(this, destination);
+        this.predicate = predicate;
+        this.thisArg = thisArg;
+        this.source = source;
+        this.index = 0;
+        this.thisArg = thisArg || this;
+    }
+    EverySubscriber.prototype.notifyComplete = function (everyValueMatch) {
+        this.destination.next(everyValueMatch);
+        this.destination.complete();
+    };
+    EverySubscriber.prototype._next = function (value) {
+        var result = false;
+        try {
+            result = this.predicate.call(this.thisArg, value, this.index++, this.source);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        if (!result) {
+            this.notifyComplete(false);
+        }
+    };
+    EverySubscriber.prototype._complete = function () {
+        this.notifyComplete(true);
+    };
+    return EverySubscriber;
+}(Subscriber_1.Subscriber));
+//# sourceMappingURL=every.js.map
+
+/***/ }),
+/* 662 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+var EmptyError_1 = __webpack_require__(648);
+/**
+ * Emits only the first value (or the first value that meets some condition)
+ * emitted by the source Observable.
+ *
+ * <span class="informal">Emits only the first value. Or emits only the first
+ * value that passes some test.</span>
+ *
+ * <img src="./img/first.png" width="100%">
+ *
+ * If called with no arguments, `first` emits the first value of the source
+ * Observable, then completes. If called with a `predicate` function, `first`
+ * emits the first value of the source that matches the specified condition. It
+ * may also take a `resultSelector` function to produce the output value from
+ * the input value, and a `defaultValue` to emit in case the source completes
+ * before it is able to emit a valid value. Throws an error if `defaultValue`
+ * was not provided and a matching element is not found.
+ *
+ * @example <caption>Emit only the first click that happens on the DOM</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var result = clicks.first();
+ * result.subscribe(x => console.log(x));
+ *
+ * @example <caption>Emits the first click that happens on a DIV</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var result = clicks.first(ev => ev.target.tagName === 'DIV');
+ * result.subscribe(x => console.log(x));
+ *
+ * @see {@link filter}
+ * @see {@link find}
+ * @see {@link take}
+ *
+ * @throws {EmptyError} Delivers an EmptyError to the Observer's `error`
+ * callback if the Observable completes before any `next` notification was sent.
+ *
+ * @param {function(value: T, index: number, source: Observable<T>): boolean} [predicate]
+ * An optional function called with each item to test for condition matching.
+ * @param {function(value: T, index: number): R} [resultSelector] A function to
+ * produce the value on the output Observable based on the values
+ * and the indices of the source Observable. The arguments passed to this
+ * function are:
+ * - `value`: the value that was emitted on the source.
+ * - `index`: the "index" of the value from the source.
+ * @param {R} [defaultValue] The default value emitted in case no valid value
+ * was found on the source.
+ * @return {Observable<T|R>} An Observable of the first item that matches the
+ * condition.
+ * @method first
+ * @owner Observable
+ */
+function first(predicate, resultSelector, defaultValue) {
+    return this.lift(new FirstOperator(predicate, resultSelector, defaultValue, this));
+}
+exports.first = first;
+var FirstOperator = (function () {
+    function FirstOperator(predicate, resultSelector, defaultValue, source) {
+        this.predicate = predicate;
+        this.resultSelector = resultSelector;
+        this.defaultValue = defaultValue;
+        this.source = source;
+    }
+    FirstOperator.prototype.call = function (observer, source) {
+        return source.subscribe(new FirstSubscriber(observer, this.predicate, this.resultSelector, this.defaultValue, this.source));
+    };
+    return FirstOperator;
+}());
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var FirstSubscriber = (function (_super) {
+    __extends(FirstSubscriber, _super);
+    function FirstSubscriber(destination, predicate, resultSelector, defaultValue, source) {
+        _super.call(this, destination);
+        this.predicate = predicate;
+        this.resultSelector = resultSelector;
+        this.defaultValue = defaultValue;
+        this.source = source;
+        this.index = 0;
+        this.hasCompleted = false;
+        this._emitted = false;
+    }
+    FirstSubscriber.prototype._next = function (value) {
+        var index = this.index++;
+        if (this.predicate) {
+            this._tryPredicate(value, index);
+        }
+        else {
+            this._emit(value, index);
+        }
+    };
+    FirstSubscriber.prototype._tryPredicate = function (value, index) {
+        var result;
+        try {
+            result = this.predicate(value, index, this.source);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        if (result) {
+            this._emit(value, index);
+        }
+    };
+    FirstSubscriber.prototype._emit = function (value, index) {
+        if (this.resultSelector) {
+            this._tryResultSelector(value, index);
+            return;
+        }
+        this._emitFinal(value);
+    };
+    FirstSubscriber.prototype._tryResultSelector = function (value, index) {
+        var result;
+        try {
+            result = this.resultSelector(value, index);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        this._emitFinal(result);
+    };
+    FirstSubscriber.prototype._emitFinal = function (value) {
+        var destination = this.destination;
+        if (!this._emitted) {
+            this._emitted = true;
+            destination.next(value);
+            destination.complete();
+            this.hasCompleted = true;
+        }
+    };
+    FirstSubscriber.prototype._complete = function () {
+        var destination = this.destination;
+        if (!this.hasCompleted && typeof this.defaultValue !== 'undefined') {
+            destination.next(this.defaultValue);
+            destination.complete();
+        }
+        else if (!this.hasCompleted) {
+            destination.error(new EmptyError_1.EmptyError);
+        }
+    };
+    return FirstSubscriber;
+}(Subscriber_1.Subscriber));
+//# sourceMappingURL=first.js.map
+
+/***/ }),
+/* 663 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+exports.isArrayLike = (function (x) { return x && typeof x.length === 'number'; });
+//# sourceMappingURL=isArrayLike.js.map
+
+/***/ }),
+/* 664 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+function isPromise(value) {
+    return value && typeof value.subscribe !== 'function' && typeof value.then === 'function';
+}
+exports.isPromise = isPromise;
+//# sourceMappingURL=isPromise.js.map
+
+/***/ }),
+/* 665 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__src_index__ = __webpack_require__(670);
+/* unused harmony reexport RouterLink */
+/* unused harmony reexport RouterLinkWithHref */
+/* unused harmony reexport RouterLinkActive */
+/* unused harmony reexport RouterOutlet */
+/* unused harmony reexport RouteReuseStrategy */
+/* unused harmony reexport NavigationCancel */
+/* unused harmony reexport NavigationEnd */
+/* unused harmony reexport NavigationError */
+/* unused harmony reexport NavigationStart */
+/* unused harmony reexport Router */
+/* unused harmony reexport RoutesRecognized */
+/* unused harmony reexport ROUTER_CONFIGURATION */
+/* unused harmony reexport ROUTER_INITIALIZER */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__src_index__["a"]; });
+/* unused harmony reexport provideRoutes */
+/* unused harmony reexport RouterOutletMap */
+/* unused harmony reexport NoPreloading */
+/* unused harmony reexport PreloadAllModules */
+/* unused harmony reexport PreloadingStrategy */
+/* unused harmony reexport RouterPreloader */
+/* unused harmony reexport ActivatedRoute */
+/* unused harmony reexport ActivatedRouteSnapshot */
+/* unused harmony reexport RouterState */
+/* unused harmony reexport RouterStateSnapshot */
+/* unused harmony reexport PRIMARY_OUTLET */
+/* unused harmony reexport UrlHandlingStrategy */
+/* unused harmony reexport DefaultUrlSerializer */
+/* unused harmony reexport UrlSegment */
+/* unused harmony reexport UrlSegmentGroup */
+/* unused harmony reexport UrlSerializer */
+/* unused harmony reexport UrlTree */
+/* unused harmony reexport VERSION */
+/* unused harmony reexport __router_private__ */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+/**
+ * @module
+ * @description
+ * Entry point for all public APIs of the router package.
+ */
+
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+/* 666 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__ = __webpack_require__(74);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from__ = __webpack_require__(645);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__ = __webpack_require__(658);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatAll__ = __webpack_require__(659);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatAll___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatAll__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_first__ = __webpack_require__(662);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_first___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_rxjs_operator_first__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__ = __webpack_require__(639);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__ = __webpack_require__(637);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_rxjs_util_EmptyError__ = __webpack_require__(648);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_rxjs_util_EmptyError___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8_rxjs_util_EmptyError__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__router_config_loader__ = __webpack_require__(636);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__shared__ = __webpack_require__(630);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__url_tree__ = __webpack_require__(632);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__utils_collection__ = __webpack_require__(631);
+/* harmony export (immutable) */ __webpack_exports__["a"] = applyRedirects;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+var NoMatch = (function () {
+    /**
+     * @param {?=} segmentGroup
+     */
+    function NoMatch(segmentGroup) {
+        if (segmentGroup === void 0) { segmentGroup = null; }
+        this.segmentGroup = segmentGroup;
+    }
+    return NoMatch;
+}());
+function NoMatch_tsickle_Closure_declarations() {
+    /** @type {?} */
+    NoMatch.prototype.segmentGroup;
+}
+var AbsoluteRedirect = (function () {
+    /**
+     * @param {?} urlTree
+     */
+    function AbsoluteRedirect(urlTree) {
+        this.urlTree = urlTree;
+    }
+    return AbsoluteRedirect;
+}());
+function AbsoluteRedirect_tsickle_Closure_declarations() {
+    /** @type {?} */
+    AbsoluteRedirect.prototype.urlTree;
+}
+/**
+ * @param {?} segmentGroup
+ * @return {?}
+ */
+function noMatch(segmentGroup) {
+    return new __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__["Observable"](function (obs) { return obs.error(new NoMatch(segmentGroup)); });
+}
+/**
+ * @param {?} newTree
+ * @return {?}
+ */
+function absoluteRedirect(newTree) {
+    return new __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__["Observable"](function (obs) { return obs.error(new AbsoluteRedirect(newTree)); });
+}
+/**
+ * @param {?} redirectTo
+ * @return {?}
+ */
+function namedOutletsRedirect(redirectTo) {
+    return new __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__["Observable"](function (obs) { return obs.error(new Error("Only absolute redirects can have named outlets. redirectTo: '" + redirectTo + "'")); });
+}
+/**
+ * @param {?} route
+ * @return {?}
+ */
+function canLoadFails(route) {
+    return new __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__["Observable"](function (obs) { return obs.error(new __WEBPACK_IMPORTED_MODULE_10__shared__["b" /* NavigationCancelingError */]("Cannot load children because the guard of the route \"path: '" + route.path + "'\" returned false")); });
+}
+/**
+ * @param {?} injector
+ * @param {?} configLoader
+ * @param {?} urlSerializer
+ * @param {?} urlTree
+ * @param {?} config
+ * @return {?}
+ */
+function applyRedirects(injector, configLoader, urlSerializer, urlTree, config) {
+    return new ApplyRedirects(injector, configLoader, urlSerializer, urlTree, config).apply();
+}
+var ApplyRedirects = (function () {
+    /**
+     * @param {?} injector
+     * @param {?} configLoader
+     * @param {?} urlSerializer
+     * @param {?} urlTree
+     * @param {?} config
+     */
+    function ApplyRedirects(injector, configLoader, urlSerializer, urlTree, config) {
+        this.injector = injector;
+        this.configLoader = configLoader;
+        this.urlSerializer = urlSerializer;
+        this.urlTree = urlTree;
+        this.config = config;
+        this.allowRedirects = true;
+    }
+    /**
+     * @return {?}
+     */
+    ApplyRedirects.prototype.apply = function () {
+        var _this = this;
+        var /** @type {?} */ expanded$ = this.expandSegmentGroup(this.injector, this.config, this.urlTree.root, __WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]);
+        var /** @type {?} */ urlTrees$ = __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(expanded$, function (rootSegmentGroup) { return _this.createUrlTree(rootSegmentGroup, _this.urlTree.queryParams, _this.urlTree.fragment); });
+        return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__["_catch"].call(urlTrees$, function (e) {
+            if (e instanceof AbsoluteRedirect) {
+                // after an absolute redirect we do not apply any more redirects!
+                _this.allowRedirects = false;
+                // we need to run matching, so we can fetch all lazy-loaded modules
+                return _this.match(e.urlTree);
+            }
+            else if (e instanceof NoMatch) {
+                throw _this.noMatchError(e);
+            }
+            else {
+                throw e;
+            }
+        });
+    };
+    /**
+     * @param {?} tree
+     * @return {?}
+     */
+    ApplyRedirects.prototype.match = function (tree) {
+        var _this = this;
+        var /** @type {?} */ expanded$ = this.expandSegmentGroup(this.injector, this.config, tree.root, __WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]);
+        var /** @type {?} */ mapped$ = __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(expanded$, function (rootSegmentGroup) {
+            return _this.createUrlTree(rootSegmentGroup, tree.queryParams, tree.fragment);
+        });
+        return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__["_catch"].call(mapped$, function (e) {
+            if (e instanceof NoMatch) {
+                throw _this.noMatchError(e);
+            }
+            else {
+                throw e;
+            }
+        });
+    };
+    /**
+     * @param {?} e
+     * @return {?}
+     */
+    ApplyRedirects.prototype.noMatchError = function (e) {
+        return new Error("Cannot match any routes. URL Segment: '" + e.segmentGroup + "'");
+    };
+    /**
+     * @param {?} rootCandidate
+     * @param {?} queryParams
+     * @param {?} fragment
+     * @return {?}
+     */
+    ApplyRedirects.prototype.createUrlTree = function (rootCandidate, queryParams, fragment) {
+        var /** @type {?} */ root = rootCandidate.segments.length > 0 ?
+            new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */]([], (_a = {}, _a[__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]] = rootCandidate, _a)) :
+            rootCandidate;
+        return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["d" /* UrlTree */](root, queryParams, fragment);
+        var _a;
+    };
+    /**
+     * @param {?} injector
+     * @param {?} routes
+     * @param {?} segmentGroup
+     * @param {?} outlet
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandSegmentGroup = function (injector, routes, segmentGroup, outlet) {
+        if (segmentGroup.segments.length === 0 && segmentGroup.hasChildren()) {
+            return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(this.expandChildren(injector, routes, segmentGroup), function (children) { return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */]([], children); });
+        }
+        else {
+            return this.expandSegment(injector, segmentGroup, routes, segmentGroup.segments, outlet, true);
+        }
+    };
+    /**
+     * @param {?} injector
+     * @param {?} routes
+     * @param {?} segmentGroup
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandChildren = function (injector, routes, segmentGroup) {
+        var _this = this;
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["f" /* waitForMap */])(segmentGroup.children, function (childOutlet, child) { return _this.expandSegmentGroup(injector, routes, child, childOutlet); });
+    };
+    /**
+     * @param {?} injector
+     * @param {?} segmentGroup
+     * @param {?} routes
+     * @param {?} segments
+     * @param {?} outlet
+     * @param {?} allowRedirects
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandSegment = function (injector, segmentGroup, routes, segments, outlet, allowRedirects) {
+        var _this = this;
+        var /** @type {?} */ routes$ = __WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"].apply(void 0, routes);
+        var /** @type {?} */ processedRoutes$ = __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(routes$, function (r) {
+            var /** @type {?} */ expanded$ = _this.expandSegmentAgainstRoute(injector, segmentGroup, routes, r, segments, outlet, allowRedirects);
+            return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__["_catch"].call(expanded$, function (e) {
+                if (e instanceof NoMatch)
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(null);
+                else
+                    throw e;
+            });
+        });
+        var /** @type {?} */ concattedProcessedRoutes$ = __WEBPACK_IMPORTED_MODULE_4_rxjs_operator_concatAll__["concatAll"].call(processedRoutes$);
+        var /** @type {?} */ first$ = __WEBPACK_IMPORTED_MODULE_5_rxjs_operator_first__["first"].call(concattedProcessedRoutes$, function (s) { return !!s; });
+        return __WEBPACK_IMPORTED_MODULE_3_rxjs_operator_catch__["_catch"].call(first$, function (e, _) {
+            if (e instanceof __WEBPACK_IMPORTED_MODULE_8_rxjs_util_EmptyError__["EmptyError"]) {
+                if (_this.noLeftoversInUrl(segmentGroup, segments, outlet)) {
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */]([], {}));
+                }
+                else {
+                    throw new NoMatch(segmentGroup);
+                }
+            }
+            else {
+                throw e;
+            }
+        });
+    };
+    /**
+     * @param {?} segmentGroup
+     * @param {?} segments
+     * @param {?} outlet
+     * @return {?}
+     */
+    ApplyRedirects.prototype.noLeftoversInUrl = function (segmentGroup, segments, outlet) {
+        return segments.length === 0 && !segmentGroup.children[outlet];
+    };
+    /**
+     * @param {?} injector
+     * @param {?} segmentGroup
+     * @param {?} routes
+     * @param {?} route
+     * @param {?} paths
+     * @param {?} outlet
+     * @param {?} allowRedirects
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandSegmentAgainstRoute = function (injector, segmentGroup, routes, route, paths, outlet, allowRedirects) {
+        if (getOutlet(route) !== outlet)
+            return noMatch(segmentGroup);
+        if (route.redirectTo !== undefined && !(allowRedirects && this.allowRedirects))
+            return noMatch(segmentGroup);
+        if (route.redirectTo === undefined) {
+            return this.matchSegmentAgainstRoute(injector, segmentGroup, route, paths);
+        }
+        else {
+            return this.expandSegmentAgainstRouteUsingRedirect(injector, segmentGroup, routes, route, paths, outlet);
+        }
+    };
+    /**
+     * @param {?} injector
+     * @param {?} segmentGroup
+     * @param {?} routes
+     * @param {?} route
+     * @param {?} segments
+     * @param {?} outlet
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandSegmentAgainstRouteUsingRedirect = function (injector, segmentGroup, routes, route, segments, outlet) {
+        if (route.path === '**') {
+            return this.expandWildCardWithParamsAgainstRouteUsingRedirect(injector, routes, route, outlet);
+        }
+        else {
+            return this.expandRegularSegmentAgainstRouteUsingRedirect(injector, segmentGroup, routes, route, segments, outlet);
+        }
+    };
+    /**
+     * @param {?} injector
+     * @param {?} routes
+     * @param {?} route
+     * @param {?} outlet
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandWildCardWithParamsAgainstRouteUsingRedirect = function (injector, routes, route, outlet) {
+        var _this = this;
+        var /** @type {?} */ newTree = this.applyRedirectCommands([], route.redirectTo, {});
+        if (route.redirectTo.startsWith('/')) {
+            return absoluteRedirect(newTree);
+        }
+        else {
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__["mergeMap"].call(this.lineralizeSegments(route, newTree), function (newSegments) {
+                var /** @type {?} */ group = new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](newSegments, {});
+                return _this.expandSegment(injector, group, routes, newSegments, outlet, false);
+            });
+        }
+    };
+    /**
+     * @param {?} injector
+     * @param {?} segmentGroup
+     * @param {?} routes
+     * @param {?} route
+     * @param {?} segments
+     * @param {?} outlet
+     * @return {?}
+     */
+    ApplyRedirects.prototype.expandRegularSegmentAgainstRouteUsingRedirect = function (injector, segmentGroup, routes, route, segments, outlet) {
+        var _this = this;
+        var _a = match(segmentGroup, route, segments), matched = _a.matched, consumedSegments = _a.consumedSegments, lastChild = _a.lastChild, positionalParamSegments = _a.positionalParamSegments;
+        if (!matched)
+            return noMatch(segmentGroup);
+        var /** @type {?} */ newTree = this.applyRedirectCommands(consumedSegments, route.redirectTo, /** @type {?} */ (positionalParamSegments));
+        if (route.redirectTo.startsWith('/')) {
+            return absoluteRedirect(newTree);
+        }
+        else {
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__["mergeMap"].call(this.lineralizeSegments(route, newTree), function (newSegments) {
+                return _this.expandSegment(injector, segmentGroup, routes, newSegments.concat(segments.slice(lastChild)), outlet, false);
+            });
+        }
+    };
+    /**
+     * @param {?} injector
+     * @param {?} rawSegmentGroup
+     * @param {?} route
+     * @param {?} segments
+     * @return {?}
+     */
+    ApplyRedirects.prototype.matchSegmentAgainstRoute = function (injector, rawSegmentGroup, route, segments) {
+        var _this = this;
+        if (route.path === '**') {
+            if (route.loadChildren) {
+                return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(this.configLoader.load(injector, route.loadChildren), function (r) {
+                    ((route))._loadedConfig = r;
+                    return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](segments, {});
+                });
+            }
+            else {
+                return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](segments, {}));
+            }
+        }
+        else {
+            var _a = match(rawSegmentGroup, route, segments), matched = _a.matched, consumedSegments_1 = _a.consumedSegments, lastChild = _a.lastChild;
+            if (!matched)
+                return noMatch(rawSegmentGroup);
+            var /** @type {?} */ rawSlicedSegments_1 = segments.slice(lastChild);
+            var /** @type {?} */ childConfig$ = this.getChildConfig(injector, route);
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__["mergeMap"].call(childConfig$, function (routerConfig) {
+                var /** @type {?} */ childInjector = routerConfig.injector;
+                var /** @type {?} */ childConfig = routerConfig.routes;
+                var _a = split(rawSegmentGroup, consumedSegments_1, rawSlicedSegments_1, childConfig), segmentGroup = _a.segmentGroup, slicedSegments = _a.slicedSegments;
+                if (slicedSegments.length === 0 && segmentGroup.hasChildren()) {
+                    var /** @type {?} */ expanded$ = _this.expandChildren(childInjector, childConfig, segmentGroup);
+                    return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(expanded$, function (children) { return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](consumedSegments_1, children); });
+                }
+                else if (childConfig.length === 0 && slicedSegments.length === 0) {
+                    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](consumedSegments_1, {}));
+                }
+                else {
+                    var /** @type {?} */ expanded$ = _this.expandSegment(childInjector, segmentGroup, childConfig, slicedSegments, __WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */], true);
+                    return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(expanded$, function (cs) { return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](consumedSegments_1.concat(cs.segments), cs.children); });
+                }
+            });
+        }
+    };
+    /**
+     * @param {?} injector
+     * @param {?} route
+     * @return {?}
+     */
+    ApplyRedirects.prototype.getChildConfig = function (injector, route) {
+        var _this = this;
+        if (route.children) {
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(new __WEBPACK_IMPORTED_MODULE_9__router_config_loader__["c" /* LoadedRouterConfig */](route.children, injector, null, null));
+        }
+        else if (route.loadChildren) {
+            return __WEBPACK_IMPORTED_MODULE_7_rxjs_operator_mergeMap__["mergeMap"].call(runGuards(injector, route), function (shouldLoad) {
+                if (shouldLoad) {
+                    if (((route))._loadedConfig) {
+                        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(((route))._loadedConfig);
+                    }
+                    else {
+                        return __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(_this.configLoader.load(injector, route.loadChildren), function (r) {
+                            ((route))._loadedConfig = r;
+                            return r;
+                        });
+                    }
+                }
+                else {
+                    return canLoadFails(route);
+                }
+            });
+        }
+        else {
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(new __WEBPACK_IMPORTED_MODULE_9__router_config_loader__["c" /* LoadedRouterConfig */]([], injector, null, null));
+        }
+    };
+    /**
+     * @param {?} route
+     * @param {?} urlTree
+     * @return {?}
+     */
+    ApplyRedirects.prototype.lineralizeSegments = function (route, urlTree) {
+        var /** @type {?} */ res = [];
+        var /** @type {?} */ c = urlTree.root;
+        while (true) {
+            res = res.concat(c.segments);
+            if (c.numberOfChildren === 0) {
+                return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(res);
+            }
+            else if (c.numberOfChildren > 1 || !c.children[__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]]) {
+                return namedOutletsRedirect(route.redirectTo);
+            }
+            else {
+                c = c.children[__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]];
+            }
+        }
+    };
+    /**
+     * @param {?} segments
+     * @param {?} redirectTo
+     * @param {?} posParams
+     * @return {?}
+     */
+    ApplyRedirects.prototype.applyRedirectCommands = function (segments, redirectTo, posParams) {
+        var /** @type {?} */ t = this.urlSerializer.parse(redirectTo);
+        return this.applyRedirectCreatreUrlTree(redirectTo, this.urlSerializer.parse(redirectTo), segments, posParams);
+    };
+    /**
+     * @param {?} redirectTo
+     * @param {?} urlTree
+     * @param {?} segments
+     * @param {?} posParams
+     * @return {?}
+     */
+    ApplyRedirects.prototype.applyRedirectCreatreUrlTree = function (redirectTo, urlTree, segments, posParams) {
+        var /** @type {?} */ newRoot = this.createSegmentGroup(redirectTo, urlTree.root, segments, posParams);
+        return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["d" /* UrlTree */](newRoot, this.createQueryParams(urlTree.queryParams, this.urlTree.queryParams), urlTree.fragment);
+    };
+    /**
+     * @param {?} redirectToParams
+     * @param {?} actualParams
+     * @return {?}
+     */
+    ApplyRedirects.prototype.createQueryParams = function (redirectToParams, actualParams) {
+        var /** @type {?} */ res = {};
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["d" /* forEach */])(redirectToParams, function (v, k) {
+            if (v.startsWith(':')) {
+                res[k] = actualParams[v.substring(1)];
+            }
+            else {
+                res[k] = v;
+            }
+        });
+        return res;
+    };
+    /**
+     * @param {?} redirectTo
+     * @param {?} group
+     * @param {?} segments
+     * @param {?} posParams
+     * @return {?}
+     */
+    ApplyRedirects.prototype.createSegmentGroup = function (redirectTo, group, segments, posParams) {
+        var _this = this;
+        var /** @type {?} */ updatedSegments = this.createSegments(redirectTo, group.segments, segments, posParams);
+        var /** @type {?} */ children = {};
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["d" /* forEach */])(group.children, function (child, name) {
+            children[name] = _this.createSegmentGroup(redirectTo, child, segments, posParams);
+        });
+        return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](updatedSegments, children);
+    };
+    /**
+     * @param {?} redirectTo
+     * @param {?} redirectToSegments
+     * @param {?} actualSegments
+     * @param {?} posParams
+     * @return {?}
+     */
+    ApplyRedirects.prototype.createSegments = function (redirectTo, redirectToSegments, actualSegments, posParams) {
+        var _this = this;
+        return redirectToSegments.map(function (s) { return s.path.startsWith(':') ? _this.findPosParam(redirectTo, s, posParams) :
+            _this.findOrReturn(s, actualSegments); });
+    };
+    /**
+     * @param {?} redirectTo
+     * @param {?} redirectToUrlSegment
+     * @param {?} posParams
+     * @return {?}
+     */
+    ApplyRedirects.prototype.findPosParam = function (redirectTo, redirectToUrlSegment, posParams) {
+        var /** @type {?} */ pos = posParams[redirectToUrlSegment.path.substring(1)];
+        if (!pos)
+            throw new Error("Cannot redirect to '" + redirectTo + "'. Cannot find '" + redirectToUrlSegment.path + "'.");
+        return pos;
+    };
+    /**
+     * @param {?} redirectToUrlSegment
+     * @param {?} actualSegments
+     * @return {?}
+     */
+    ApplyRedirects.prototype.findOrReturn = function (redirectToUrlSegment, actualSegments) {
+        var /** @type {?} */ idx = 0;
+        for (var _i = 0, actualSegments_1 = actualSegments; _i < actualSegments_1.length; _i++) {
+            var s = actualSegments_1[_i];
+            if (s.path === redirectToUrlSegment.path) {
+                actualSegments.splice(idx);
+                return s;
+            }
+            idx++;
+        }
+        return redirectToUrlSegment;
+    };
+    return ApplyRedirects;
+}());
+function ApplyRedirects_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ApplyRedirects.prototype.allowRedirects;
+    /** @type {?} */
+    ApplyRedirects.prototype.injector;
+    /** @type {?} */
+    ApplyRedirects.prototype.configLoader;
+    /** @type {?} */
+    ApplyRedirects.prototype.urlSerializer;
+    /** @type {?} */
+    ApplyRedirects.prototype.urlTree;
+    /** @type {?} */
+    ApplyRedirects.prototype.config;
+}
+/**
+ * @param {?} injector
+ * @param {?} route
+ * @return {?}
+ */
+function runGuards(injector, route) {
+    var /** @type {?} */ canLoad = route.canLoad;
+    if (!canLoad || canLoad.length === 0)
+        return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2_rxjs_observable_of__["of"])(true);
+    var /** @type {?} */ obs = __WEBPACK_IMPORTED_MODULE_6_rxjs_operator_map__["map"].call(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_from__["from"])(canLoad), function (c) {
+        var /** @type {?} */ guard = injector.get(c);
+        if (guard.canLoad) {
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["b" /* wrapIntoObservable */])(guard.canLoad(route));
+        }
+        else {
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["b" /* wrapIntoObservable */])(guard(route));
+        }
+    });
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["c" /* andObservables */])(obs);
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} route
+ * @param {?} segments
+ * @return {?}
+ */
+function match(segmentGroup, route, segments) {
+    var /** @type {?} */ noMatch = { matched: false, consumedSegments: /** @type {?} */ ([]), lastChild: 0, positionalParamSegments: {} };
+    if (route.path === '') {
+        if ((route.pathMatch === 'full') && (segmentGroup.hasChildren() || segments.length > 0)) {
+            return { matched: false, consumedSegments: [], lastChild: 0, positionalParamSegments: {} };
+        }
+        else {
+            return { matched: true, consumedSegments: [], lastChild: 0, positionalParamSegments: {} };
+        }
+    }
+    var /** @type {?} */ matcher = route.matcher || __WEBPACK_IMPORTED_MODULE_10__shared__["c" /* defaultUrlMatcher */];
+    var /** @type {?} */ res = matcher(segments, segmentGroup, route);
+    if (!res)
+        return noMatch;
+    return {
+        matched: true,
+        consumedSegments: res.consumed,
+        lastChild: res.consumed.length,
+        positionalParamSegments: res.posParams
+    };
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} consumedSegments
+ * @param {?} slicedSegments
+ * @param {?} config
+ * @return {?}
+ */
+function split(segmentGroup, consumedSegments, slicedSegments, config) {
+    if (slicedSegments.length > 0 &&
+        containsEmptyPathRedirectsWithNamedOutlets(segmentGroup, slicedSegments, config)) {
+        var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](consumedSegments, createChildrenForEmptySegments(config, new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](slicedSegments, segmentGroup.children)));
+        return { segmentGroup: mergeTrivialChildren(s), slicedSegments: [] };
+    }
+    else if (slicedSegments.length === 0 &&
+        containsEmptyPathRedirects(segmentGroup, slicedSegments, config)) {
+        var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments, addEmptySegmentsToChildrenIfNeeded(segmentGroup, slicedSegments, config, segmentGroup.children));
+        return { segmentGroup: mergeTrivialChildren(s), slicedSegments: slicedSegments };
+    }
+    else {
+        return { segmentGroup: segmentGroup, slicedSegments: slicedSegments };
+    }
+}
+/**
+ * @param {?} s
+ * @return {?}
+ */
+function mergeTrivialChildren(s) {
+    if (s.numberOfChildren === 1 && s.children[__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]]) {
+        var /** @type {?} */ c = s.children[__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]];
+        return new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */](s.segments.concat(c.segments), c.children);
+    }
+    else {
+        return s;
+    }
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} routes
+ * @param {?} children
+ * @return {?}
+ */
+function addEmptySegmentsToChildrenIfNeeded(segmentGroup, slicedSegments, routes, children) {
+    var /** @type {?} */ res = {};
+    for (var _i = 0, routes_1 = routes; _i < routes_1.length; _i++) {
+        var r = routes_1[_i];
+        if (emptyPathRedirect(segmentGroup, slicedSegments, r) && !children[getOutlet(r)]) {
+            res[getOutlet(r)] = new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */]([], {});
+        }
+    }
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_12__utils_collection__["e" /* merge */])(children, res);
+}
+/**
+ * @param {?} routes
+ * @param {?} primarySegmentGroup
+ * @return {?}
+ */
+function createChildrenForEmptySegments(routes, primarySegmentGroup) {
+    var /** @type {?} */ res = {};
+    res[__WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]] = primarySegmentGroup;
+    for (var _i = 0, routes_2 = routes; _i < routes_2.length; _i++) {
+        var r = routes_2[_i];
+        if (r.path === '' && getOutlet(r) !== __WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]) {
+            res[getOutlet(r)] = new __WEBPACK_IMPORTED_MODULE_11__url_tree__["i" /* UrlSegmentGroup */]([], {});
+        }
+    }
+    return res;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} routes
+ * @return {?}
+ */
+function containsEmptyPathRedirectsWithNamedOutlets(segmentGroup, slicedSegments, routes) {
+    return routes
+        .filter(function (r) { return emptyPathRedirect(segmentGroup, slicedSegments, r) &&
+        getOutlet(r) !== __WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */]; })
+        .length > 0;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} routes
+ * @return {?}
+ */
+function containsEmptyPathRedirects(segmentGroup, slicedSegments, routes) {
+    return routes.filter(function (r) { return emptyPathRedirect(segmentGroup, slicedSegments, r); }).length > 0;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} r
+ * @return {?}
+ */
+function emptyPathRedirect(segmentGroup, slicedSegments, r) {
+    if ((segmentGroup.hasChildren() || slicedSegments.length > 0) && r.pathMatch === 'full')
+        return false;
+    return r.path === '' && r.redirectTo !== undefined;
+}
+/**
+ * @param {?} route
+ * @return {?}
+ */
+function getOutlet(route) {
+    return route.outlet ? route.outlet : __WEBPACK_IMPORTED_MODULE_10__shared__["a" /* PRIMARY_OUTLET */];
+}
+//# sourceMappingURL=apply_redirects.js.map
+
+/***/ }),
+/* 667 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__shared__ = __webpack_require__(630);
+/* harmony export (immutable) */ __webpack_exports__["a"] = validateConfig;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * @param {?} config
+ * @param {?=} parentPath
+ * @return {?}
+ */
+function validateConfig(config, parentPath) {
+    if (parentPath === void 0) { parentPath = ''; }
+    // forEach doesn't iterate undefined values
+    for (var /** @type {?} */ i = 0; i < config.length; i++) {
+        var /** @type {?} */ route = config[i];
+        var /** @type {?} */ fullPath = getFullPath(parentPath, route);
+        validateNode(route, fullPath);
+    }
+}
+/**
+ * @param {?} route
+ * @param {?} fullPath
+ * @return {?}
+ */
+function validateNode(route, fullPath) {
+    if (!route) {
+        throw new Error("\n      Invalid configuration of route '" + fullPath + "': Encountered undefined route.\n      The reason might be an extra comma.\n       \n      Example: \n      const routes: Routes = [\n        { path: '', redirectTo: '/dashboard', pathMatch: 'full' },\n        { path: 'dashboard',  component: DashboardComponent },, << two commas\n        { path: 'detail/:id', component: HeroDetailComponent }\n      ];\n    ");
+    }
+    if (Array.isArray(route)) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': Array cannot be specified");
+    }
+    if (!route.component && (route.outlet && route.outlet !== __WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */])) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': a componentless route cannot have a named outlet set");
+    }
+    if (route.redirectTo && route.children) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': redirectTo and children cannot be used together");
+    }
+    if (route.redirectTo && route.loadChildren) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': redirectTo and loadChildren cannot be used together");
+    }
+    if (route.children && route.loadChildren) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': children and loadChildren cannot be used together");
+    }
+    if (route.redirectTo && route.component) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': redirectTo and component cannot be used together");
+    }
+    if (route.path && route.matcher) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': path and matcher cannot be used together");
+    }
+    if (route.redirectTo === void 0 && !route.component && !route.children && !route.loadChildren) {
+        throw new Error("Invalid configuration of route '" + fullPath + "'. One of the following must be provided: component, redirectTo, children or loadChildren");
+    }
+    if (route.path === void 0 && route.matcher === void 0) {
+        throw new Error("Invalid configuration of route '" + fullPath + "': routes must have either a path or a matcher specified");
+    }
+    if (typeof route.path === 'string' && route.path.charAt(0) === '/') {
+        throw new Error("Invalid configuration of route '" + fullPath + "': path cannot start with a slash");
+    }
+    if (route.path === '' && route.redirectTo !== void 0 && route.pathMatch === void 0) {
+        var /** @type {?} */ exp = "The default value of 'pathMatch' is 'prefix', but often the intent is to use 'full'.";
+        throw new Error("Invalid configuration of route '{path: \"" + fullPath + "\", redirectTo: \"" + route.redirectTo + "\"}': please provide 'pathMatch'. " + exp);
+    }
+    if (route.pathMatch !== void 0 && route.pathMatch !== 'full' && route.pathMatch !== 'prefix') {
+        throw new Error("Invalid configuration of route '" + fullPath + "': pathMatch can only be set to 'prefix' or 'full'");
+    }
+    if (route.children) {
+        validateConfig(route.children, fullPath);
+    }
+}
+/**
+ * @param {?} parentPath
+ * @param {?} currentRoute
+ * @return {?}
+ */
+function getFullPath(parentPath, currentRoute) {
+    if (!currentRoute) {
+        return parentPath;
+    }
+    if (!parentPath && !currentRoute.path) {
+        return '';
+    }
+    else if (parentPath && !currentRoute.path) {
+        return parentPath + "/";
+    }
+    else if (!parentPath && currentRoute.path) {
+        return currentRoute.path;
+    }
+    else {
+        return parentPath + "/" + currentRoute.path;
+    }
+}
+//# sourceMappingURL=config.js.map
+
+/***/ }),
+/* 668 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__ = __webpack_require__(643);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__router_state__ = __webpack_require__(634);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__utils_tree__ = __webpack_require__(642);
+/* harmony export (immutable) */ __webpack_exports__["a"] = createRouterState;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+/**
+ * @param {?} routeReuseStrategy
+ * @param {?} curr
+ * @param {?} prevState
+ * @return {?}
+ */
+function createRouterState(routeReuseStrategy, curr, prevState) {
+    var /** @type {?} */ root = createNode(routeReuseStrategy, curr._root, prevState ? prevState._root : undefined);
+    return new __WEBPACK_IMPORTED_MODULE_1__router_state__["f" /* RouterState */](root, curr);
+}
+/**
+ * @param {?} routeReuseStrategy
+ * @param {?} curr
+ * @param {?=} prevState
+ * @return {?}
+ */
+function createNode(routeReuseStrategy, curr, prevState) {
+    // reuse an activated route that is currently displayed on the screen
+    if (prevState && routeReuseStrategy.shouldReuseRoute(curr.value, prevState.value.snapshot)) {
+        var /** @type {?} */ value = prevState.value;
+        value._futureSnapshot = curr.value;
+        var /** @type {?} */ children = createOrReuseChildren(routeReuseStrategy, curr, prevState);
+        return new __WEBPACK_IMPORTED_MODULE_2__utils_tree__["b" /* TreeNode */](value, children);
+    }
+    else if (routeReuseStrategy.retrieve(curr.value)) {
+        var /** @type {?} */ tree = ((routeReuseStrategy.retrieve(curr.value))).route;
+        setFutureSnapshotsOfActivatedRoutes(curr, tree);
+        return tree;
+    }
+    else {
+        var /** @type {?} */ value = createActivatedRoute(curr.value);
+        var /** @type {?} */ children = curr.children.map(function (c) { return createNode(routeReuseStrategy, c); });
+        return new __WEBPACK_IMPORTED_MODULE_2__utils_tree__["b" /* TreeNode */](value, children);
+    }
+}
+/**
+ * @param {?} curr
+ * @param {?} result
+ * @return {?}
+ */
+function setFutureSnapshotsOfActivatedRoutes(curr, result) {
+    if (curr.value.routeConfig !== result.value.routeConfig) {
+        throw new Error('Cannot reattach ActivatedRouteSnapshot created from a different route');
+    }
+    if (curr.children.length !== result.children.length) {
+        throw new Error('Cannot reattach ActivatedRouteSnapshot with a different number of children');
+    }
+    result.value._futureSnapshot = curr.value;
+    for (var /** @type {?} */ i = 0; i < curr.children.length; ++i) {
+        setFutureSnapshotsOfActivatedRoutes(curr.children[i], result.children[i]);
+    }
+}
+/**
+ * @param {?} routeReuseStrategy
+ * @param {?} curr
+ * @param {?} prevState
+ * @return {?}
+ */
+function createOrReuseChildren(routeReuseStrategy, curr, prevState) {
+    return curr.children.map(function (child) {
+        for (var _i = 0, _a = prevState.children; _i < _a.length; _i++) {
+            var p = _a[_i];
+            if (routeReuseStrategy.shouldReuseRoute(p.value.snapshot, child.value)) {
+                return createNode(routeReuseStrategy, child, p);
+            }
+        }
+        return createNode(routeReuseStrategy, child);
+    });
+}
+/**
+ * @param {?} c
+ * @return {?}
+ */
+function createActivatedRoute(c) {
+    return new __WEBPACK_IMPORTED_MODULE_1__router_state__["a" /* ActivatedRoute */](new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"](c.url), new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"](c.params), new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"](c.queryParams), new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"](c.fragment), new __WEBPACK_IMPORTED_MODULE_0_rxjs_BehaviorSubject__["BehaviorSubject"](c.data), c.outlet, c.component, c);
+}
+//# sourceMappingURL=create_router_state.js.map
+
+/***/ }),
+/* 669 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__shared__ = __webpack_require__(630);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__url_tree__ = __webpack_require__(632);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__utils_collection__ = __webpack_require__(631);
+/* harmony export (immutable) */ __webpack_exports__["a"] = createUrlTree;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+/**
+ * @param {?} route
+ * @param {?} urlTree
+ * @param {?} commands
+ * @param {?} queryParams
+ * @param {?} fragment
+ * @return {?}
+ */
+function createUrlTree(route, urlTree, commands, queryParams, fragment) {
+    if (commands.length === 0) {
+        return tree(urlTree.root, urlTree.root, urlTree, queryParams, fragment);
+    }
+    var /** @type {?} */ nav = computeNavigation(commands);
+    if (nav.toRoot()) {
+        return tree(urlTree.root, new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */]([], {}), urlTree, queryParams, fragment);
+    }
+    var /** @type {?} */ startingPosition = findStartingPosition(nav, urlTree, route);
+    var /** @type {?} */ segmentGroup = startingPosition.processChildren ?
+        updateSegmentGroupChildren(startingPosition.segmentGroup, startingPosition.index, nav.commands) :
+        updateSegmentGroup(startingPosition.segmentGroup, startingPosition.index, nav.commands);
+    return tree(startingPosition.segmentGroup, segmentGroup, urlTree, queryParams, fragment);
+}
+/**
+ * @param {?} command
+ * @return {?}
+ */
+function isMatrixParams(command) {
+    return typeof command === 'object' && command != null && !command.outlets && !command.segmentPath;
+}
+/**
+ * @param {?} oldSegmentGroup
+ * @param {?} newSegmentGroup
+ * @param {?} urlTree
+ * @param {?} queryParams
+ * @param {?} fragment
+ * @return {?}
+ */
+function tree(oldSegmentGroup, newSegmentGroup, urlTree, queryParams, fragment) {
+    if (urlTree.root === oldSegmentGroup) {
+        return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["d" /* UrlTree */](newSegmentGroup, stringify(queryParams), fragment);
+    }
+    return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["d" /* UrlTree */](replaceSegment(urlTree.root, oldSegmentGroup, newSegmentGroup), stringify(queryParams), fragment);
+}
+/**
+ * @param {?} current
+ * @param {?} oldSegment
+ * @param {?} newSegment
+ * @return {?}
+ */
+function replaceSegment(current, oldSegment, newSegment) {
+    var /** @type {?} */ children = {};
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["d" /* forEach */])(current.children, function (c, outletName) {
+        if (c === oldSegment) {
+            children[outletName] = newSegment;
+        }
+        else {
+            children[outletName] = replaceSegment(c, oldSegment, newSegment);
+        }
+    });
+    return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](current.segments, children);
+}
+var Navigation = (function () {
+    /**
+     * @param {?} isAbsolute
+     * @param {?} numberOfDoubleDots
+     * @param {?} commands
+     */
+    function Navigation(isAbsolute, numberOfDoubleDots, commands) {
+        this.isAbsolute = isAbsolute;
+        this.numberOfDoubleDots = numberOfDoubleDots;
+        this.commands = commands;
+        if (isAbsolute && commands.length > 0 && isMatrixParams(commands[0])) {
+            throw new Error('Root segment cannot have matrix parameters');
+        }
+        var cmdWithOutlet = commands.find(function (c) { return typeof c === 'object' && c != null && c.outlets; });
+        if (cmdWithOutlet && cmdWithOutlet !== __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["i" /* last */])(commands)) {
+            throw new Error('{outlets:{}} has to be the last command');
+        }
+    }
+    /**
+     * @return {?}
+     */
+    Navigation.prototype.toRoot = function () {
+        return this.isAbsolute && this.commands.length === 1 && this.commands[0] == '/';
+    };
+    return Navigation;
+}());
+function Navigation_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Navigation.prototype.isAbsolute;
+    /** @type {?} */
+    Navigation.prototype.numberOfDoubleDots;
+    /** @type {?} */
+    Navigation.prototype.commands;
+}
+/**
+ * Transforms commands to a normalized `Navigation`
+ * @param {?} commands
+ * @return {?}
+ */
+function computeNavigation(commands) {
+    if ((typeof commands[0] === 'string') && commands.length === 1 && commands[0] === '/') {
+        return new Navigation(true, 0, commands);
+    }
+    var /** @type {?} */ numberOfDoubleDots = 0;
+    var /** @type {?} */ isAbsolute = false;
+    var /** @type {?} */ res = commands.reduce(function (res, cmd, cmdIdx) {
+        if (typeof cmd === 'object' && cmd != null) {
+            if (cmd.outlets) {
+                var /** @type {?} */ outlets_1 = {};
+                __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["d" /* forEach */])(cmd.outlets, function (commands, name) {
+                    outlets_1[name] = typeof commands === 'string' ? commands.split('/') : commands;
+                });
+                return res.concat([{ outlets: outlets_1 }]);
+            }
+            if (cmd.segmentPath) {
+                return res.concat([cmd.segmentPath]);
+            }
+        }
+        if (!(typeof cmd === 'string')) {
+            return res.concat([cmd]);
+        }
+        if (cmdIdx === 0) {
+            cmd.split('/').forEach(function (urlPart, partIndex) {
+                if (partIndex == 0 && urlPart === '.') {
+                }
+                else if (partIndex == 0 && urlPart === '') {
+                    isAbsolute = true;
+                }
+                else if (urlPart === '..') {
+                    numberOfDoubleDots++;
+                }
+                else if (urlPart != '') {
+                    res.push(urlPart);
+                }
+            });
+            return res;
+        }
+        return res.concat([cmd]);
+    }, []);
+    return new Navigation(isAbsolute, numberOfDoubleDots, res);
+}
+var Position = (function () {
+    /**
+     * @param {?} segmentGroup
+     * @param {?} processChildren
+     * @param {?} index
+     */
+    function Position(segmentGroup, processChildren, index) {
+        this.segmentGroup = segmentGroup;
+        this.processChildren = processChildren;
+        this.index = index;
+    }
+    return Position;
+}());
+function Position_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Position.prototype.segmentGroup;
+    /** @type {?} */
+    Position.prototype.processChildren;
+    /** @type {?} */
+    Position.prototype.index;
+}
+/**
+ * @param {?} nav
+ * @param {?} tree
+ * @param {?} route
+ * @return {?}
+ */
+function findStartingPosition(nav, tree, route) {
+    if (nav.isAbsolute) {
+        return new Position(tree.root, true, 0);
+    }
+    if (route.snapshot._lastPathIndex === -1) {
+        return new Position(route.snapshot._urlSegment, true, 0);
+    }
+    var /** @type {?} */ modifier = isMatrixParams(nav.commands[0]) ? 0 : 1;
+    var /** @type {?} */ index = route.snapshot._lastPathIndex + modifier;
+    return createPositionApplyingDoubleDots(route.snapshot._urlSegment, index, nav.numberOfDoubleDots);
+}
+/**
+ * @param {?} group
+ * @param {?} index
+ * @param {?} numberOfDoubleDots
+ * @return {?}
+ */
+function createPositionApplyingDoubleDots(group, index, numberOfDoubleDots) {
+    var /** @type {?} */ g = group;
+    var /** @type {?} */ ci = index;
+    var /** @type {?} */ dd = numberOfDoubleDots;
+    while (dd > ci) {
+        dd -= ci;
+        g = g.parent;
+        if (!g) {
+            throw new Error('Invalid number of \'../\'');
+        }
+        ci = g.segments.length;
+    }
+    return new Position(g, false, ci - dd);
+}
+/**
+ * @param {?} command
+ * @return {?}
+ */
+function getPath(command) {
+    if (typeof command === 'object' && command != null && command.outlets) {
+        return command.outlets[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]];
+    }
+    return "" + command;
+}
+/**
+ * @param {?} commands
+ * @return {?}
+ */
+function getOutlets(commands) {
+    if (!(typeof commands[0] === 'object'))
+        return (_a = {}, _a[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]] = commands, _a);
+    if (commands[0].outlets === undefined)
+        return (_b = {}, _b[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]] = commands, _b);
+    return commands[0].outlets;
+    var _a, _b;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} startIndex
+ * @param {?} commands
+ * @return {?}
+ */
+function updateSegmentGroup(segmentGroup, startIndex, commands) {
+    if (!segmentGroup) {
+        segmentGroup = new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */]([], {});
+    }
+    if (segmentGroup.segments.length === 0 && segmentGroup.hasChildren()) {
+        return updateSegmentGroupChildren(segmentGroup, startIndex, commands);
+    }
+    var /** @type {?} */ m = prefixedWith(segmentGroup, startIndex, commands);
+    var /** @type {?} */ slicedCommands = commands.slice(m.commandIndex);
+    if (m.match && m.pathIndex < segmentGroup.segments.length) {
+        var /** @type {?} */ g = new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments.slice(0, m.pathIndex), {});
+        g.children[__WEBPACK_IMPORTED_MODULE_0__shared__["a" /* PRIMARY_OUTLET */]] =
+            new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments.slice(m.pathIndex), segmentGroup.children);
+        return updateSegmentGroupChildren(g, 0, slicedCommands);
+    }
+    else if (m.match && slicedCommands.length === 0) {
+        return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments, {});
+    }
+    else if (m.match && !segmentGroup.hasChildren()) {
+        return createNewSegmentGroup(segmentGroup, startIndex, commands);
+    }
+    else if (m.match) {
+        return updateSegmentGroupChildren(segmentGroup, 0, slicedCommands);
+    }
+    else {
+        return createNewSegmentGroup(segmentGroup, startIndex, commands);
+    }
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} startIndex
+ * @param {?} commands
+ * @return {?}
+ */
+function updateSegmentGroupChildren(segmentGroup, startIndex, commands) {
+    if (commands.length === 0) {
+        return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments, {});
+    }
+    else {
+        var /** @type {?} */ outlets_2 = getOutlets(commands);
+        var /** @type {?} */ children_1 = {};
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["d" /* forEach */])(outlets_2, function (commands, outlet) {
+            if (commands !== null) {
+                children_1[outlet] = updateSegmentGroup(segmentGroup.children[outlet], startIndex, commands);
+            }
+        });
+        __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["d" /* forEach */])(segmentGroup.children, function (child, childOutlet) {
+            if (outlets_2[childOutlet] === undefined) {
+                children_1[childOutlet] = child;
+            }
+        });
+        return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments, children_1);
+    }
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} startIndex
+ * @param {?} commands
+ * @return {?}
+ */
+function prefixedWith(segmentGroup, startIndex, commands) {
+    var /** @type {?} */ currentCommandIndex = 0;
+    var /** @type {?} */ currentPathIndex = startIndex;
+    var /** @type {?} */ noMatch = { match: false, pathIndex: 0, commandIndex: 0 };
+    while (currentPathIndex < segmentGroup.segments.length) {
+        if (currentCommandIndex >= commands.length)
+            return noMatch;
+        var /** @type {?} */ path = segmentGroup.segments[currentPathIndex];
+        var /** @type {?} */ curr = getPath(commands[currentCommandIndex]);
+        var /** @type {?} */ next = currentCommandIndex < commands.length - 1 ? commands[currentCommandIndex + 1] : null;
+        if (currentPathIndex > 0 && curr === undefined)
+            break;
+        if (curr && next && (typeof next === 'object') && next.outlets === undefined) {
+            if (!compare(curr, next, path))
+                return noMatch;
+            currentCommandIndex += 2;
+        }
+        else {
+            if (!compare(curr, {}, path))
+                return noMatch;
+            currentCommandIndex++;
+        }
+        currentPathIndex++;
+    }
+    return { match: true, pathIndex: currentPathIndex, commandIndex: currentCommandIndex };
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} startIndex
+ * @param {?} commands
+ * @return {?}
+ */
+function createNewSegmentGroup(segmentGroup, startIndex, commands) {
+    var /** @type {?} */ paths = segmentGroup.segments.slice(0, startIndex);
+    var /** @type {?} */ i = 0;
+    while (i < commands.length) {
+        if (typeof commands[i] === 'object' && commands[i].outlets !== undefined) {
+            var /** @type {?} */ children = createNewSegmentChildren(commands[i].outlets);
+            return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](paths, children);
+        }
+        // if we start with an object literal, we need to reuse the path part from the segment
+        if (i === 0 && isMatrixParams(commands[0])) {
+            var /** @type {?} */ p = segmentGroup.segments[startIndex];
+            paths.push(new __WEBPACK_IMPORTED_MODULE_1__url_tree__["f" /* UrlSegment */](p.path, commands[0]));
+            i++;
+            continue;
+        }
+        var /** @type {?} */ curr = getPath(commands[i]);
+        var /** @type {?} */ next = (i < commands.length - 1) ? commands[i + 1] : null;
+        if (curr && next && isMatrixParams(next)) {
+            paths.push(new __WEBPACK_IMPORTED_MODULE_1__url_tree__["f" /* UrlSegment */](curr, stringify(next)));
+            i += 2;
+        }
+        else {
+            paths.push(new __WEBPACK_IMPORTED_MODULE_1__url_tree__["f" /* UrlSegment */](curr, {}));
+            i++;
+        }
+    }
+    return new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */](paths, {});
+}
+/**
+ * @param {?} outlets
+ * @return {?}
+ */
+function createNewSegmentChildren(outlets) {
+    var /** @type {?} */ children = {};
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["d" /* forEach */])(outlets, function (commands, outlet) {
+        if (commands !== null) {
+            children[outlet] = createNewSegmentGroup(new __WEBPACK_IMPORTED_MODULE_1__url_tree__["i" /* UrlSegmentGroup */]([], {}), 0, commands);
+        }
+    });
+    return children;
+}
+/**
+ * @param {?} params
+ * @return {?}
+ */
+function stringify(params) {
+    var /** @type {?} */ res = {};
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["d" /* forEach */])(params, function (v, k) { return res[k] = "" + v; });
+    return res;
+}
+/**
+ * @param {?} path
+ * @param {?} params
+ * @param {?} segment
+ * @return {?}
+ */
+function compare(path, params, segment) {
+    return path == segment.path && __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__utils_collection__["g" /* shallowEqual */])(params, segment.parameters);
+}
+//# sourceMappingURL=create_url_tree.js.map
+
+/***/ }),
+/* 670 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__directives_router_link__ = __webpack_require__(640);
+/* unused harmony reexport RouterLink */
+/* unused harmony reexport RouterLinkWithHref */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__directives_router_link_active__ = __webpack_require__(650);
+/* unused harmony reexport RouterLinkActive */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__directives_router_outlet__ = __webpack_require__(651);
+/* unused harmony reexport RouterOutlet */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__route_reuse_strategy__ = __webpack_require__(652);
+/* unused harmony reexport RouteReuseStrategy */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__router__ = __webpack_require__(635);
+/* unused harmony reexport NavigationCancel */
+/* unused harmony reexport NavigationEnd */
+/* unused harmony reexport NavigationError */
+/* unused harmony reexport NavigationStart */
+/* unused harmony reexport Router */
+/* unused harmony reexport RoutesRecognized */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__router_module__ = __webpack_require__(653);
+/* unused harmony reexport ROUTER_CONFIGURATION */
+/* unused harmony reexport ROUTER_INITIALIZER */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_5__router_module__["a"]; });
+/* unused harmony reexport provideRoutes */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__router_outlet_map__ = __webpack_require__(638);
+/* unused harmony reexport RouterOutletMap */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__router_preloader__ = __webpack_require__(654);
+/* unused harmony reexport NoPreloading */
+/* unused harmony reexport PreloadAllModules */
+/* unused harmony reexport PreloadingStrategy */
+/* unused harmony reexport RouterPreloader */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__router_state__ = __webpack_require__(634);
+/* unused harmony reexport ActivatedRoute */
+/* unused harmony reexport ActivatedRouteSnapshot */
+/* unused harmony reexport RouterState */
+/* unused harmony reexport RouterStateSnapshot */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__shared__ = __webpack_require__(630);
+/* unused harmony reexport PRIMARY_OUTLET */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__url_handling_strategy__ = __webpack_require__(641);
+/* unused harmony reexport UrlHandlingStrategy */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__url_tree__ = __webpack_require__(632);
+/* unused harmony reexport DefaultUrlSerializer */
+/* unused harmony reexport UrlSegment */
+/* unused harmony reexport UrlSegmentGroup */
+/* unused harmony reexport UrlSerializer */
+/* unused harmony reexport UrlTree */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__version__ = __webpack_require__(675);
+/* unused harmony reexport VERSION */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__private_export__ = __webpack_require__(671);
+/* unused harmony reexport __router_private__ */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+/* 671 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__router_config_loader__ = __webpack_require__(636);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__router_module__ = __webpack_require__(653);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__utils_collection__ = __webpack_require__(631);
+/* unused harmony export __router_private__ */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+var /** @type {?} */ __router_private__ = {
+    ROUTER_PROVIDERS: __WEBPACK_IMPORTED_MODULE_1__router_module__["b" /* ROUTER_PROVIDERS */],
+    ROUTES: __WEBPACK_IMPORTED_MODULE_0__router_config_loader__["a" /* ROUTES */],
+    flatten: __WEBPACK_IMPORTED_MODULE_2__utils_collection__["a" /* flatten */],
+};
+//# sourceMappingURL=private_export.js.map
+
+/***/ }),
+/* 672 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return isPromise; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return isObservable; });
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+var /** @type {?} */ isPromise = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].isPromise;
+var /** @type {?} */ isObservable = __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* __core_private__ */].isObservable;
+//# sourceMappingURL=private_import_core.js.map
+
+/***/ }),
+/* 673 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(192);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return getDOM; });
+
+var /** @type {?} */ getDOM = __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* __platform_browser_private__ */].getDOM;
+//# sourceMappingURL=private_import_platform-browser.js.map
+
+/***/ }),
+/* 674 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__ = __webpack_require__(74);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__ = __webpack_require__(633);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__router_state__ = __webpack_require__(634);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__shared__ = __webpack_require__(630);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__url_tree__ = __webpack_require__(632);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__utils_collection__ = __webpack_require__(631);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__utils_tree__ = __webpack_require__(642);
+/* harmony export (immutable) */ __webpack_exports__["a"] = recognize;
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+
+
+
+
+
+
+var NoMatch = (function () {
+    function NoMatch() {
+    }
+    return NoMatch;
+}());
+/**
+ * @param {?} rootComponentType
+ * @param {?} config
+ * @param {?} urlTree
+ * @param {?} url
+ * @return {?}
+ */
+function recognize(rootComponentType, config, urlTree, url) {
+    return new Recognizer(rootComponentType, config, urlTree, url).recognize();
+}
+var Recognizer = (function () {
+    /**
+     * @param {?} rootComponentType
+     * @param {?} config
+     * @param {?} urlTree
+     * @param {?} url
+     */
+    function Recognizer(rootComponentType, config, urlTree, url) {
+        this.rootComponentType = rootComponentType;
+        this.config = config;
+        this.urlTree = urlTree;
+        this.url = url;
+    }
+    /**
+     * @return {?}
+     */
+    Recognizer.prototype.recognize = function () {
+        try {
+            var /** @type {?} */ rootSegmentGroup = split(this.urlTree.root, [], [], this.config).segmentGroup;
+            var /** @type {?} */ children = this.processSegmentGroup(this.config, rootSegmentGroup, __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */]);
+            var /** @type {?} */ root = new __WEBPACK_IMPORTED_MODULE_2__router_state__["g" /* ActivatedRouteSnapshot */]([], Object.freeze({}), Object.freeze(this.urlTree.queryParams), this.urlTree.fragment, {}, __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */], this.rootComponentType, null, this.urlTree.root, -1, {});
+            var /** @type {?} */ rootNode = new __WEBPACK_IMPORTED_MODULE_6__utils_tree__["b" /* TreeNode */](root, children);
+            var /** @type {?} */ routeState = new __WEBPACK_IMPORTED_MODULE_2__router_state__["h" /* RouterStateSnapshot */](this.url, rootNode);
+            this.inheriteParamsAndData(routeState._root);
+            return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1_rxjs_observable_of__["of"])(routeState);
+        }
+        catch (e) {
+            return new __WEBPACK_IMPORTED_MODULE_0_rxjs_Observable__["Observable"](function (obs) { return obs.error(e); });
+        }
+    };
+    /**
+     * @param {?} routeNode
+     * @return {?}
+     */
+    Recognizer.prototype.inheriteParamsAndData = function (routeNode) {
+        var _this = this;
+        var /** @type {?} */ route = routeNode.value;
+        var /** @type {?} */ i = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__router_state__["d" /* inheritedParamsDataResolve */])(route);
+        route.params = Object.freeze(i.params);
+        route.data = Object.freeze(i.data);
+        routeNode.children.forEach(function (n) { return _this.inheriteParamsAndData(n); });
+    };
+    /**
+     * @param {?} config
+     * @param {?} segmentGroup
+     * @param {?} outlet
+     * @return {?}
+     */
+    Recognizer.prototype.processSegmentGroup = function (config, segmentGroup, outlet) {
+        if (segmentGroup.segments.length === 0 && segmentGroup.hasChildren()) {
+            return this.processChildren(config, segmentGroup);
+        }
+        else {
+            return this.processSegment(config, segmentGroup, segmentGroup.segments, outlet);
+        }
+    };
+    /**
+     * @param {?} config
+     * @param {?} segmentGroup
+     * @return {?}
+     */
+    Recognizer.prototype.processChildren = function (config, segmentGroup) {
+        var _this = this;
+        var /** @type {?} */ children = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4__url_tree__["h" /* mapChildrenIntoArray */])(segmentGroup, function (child, childOutlet) { return _this.processSegmentGroup(config, child, childOutlet); });
+        checkOutletNameUniqueness(children);
+        sortActivatedRouteSnapshots(children);
+        return children;
+    };
+    /**
+     * @param {?} config
+     * @param {?} segmentGroup
+     * @param {?} segments
+     * @param {?} outlet
+     * @return {?}
+     */
+    Recognizer.prototype.processSegment = function (config, segmentGroup, segments, outlet) {
+        for (var _i = 0, config_1 = config; _i < config_1.length; _i++) {
+            var r = config_1[_i];
+            try {
+                return this.processSegmentAgainstRoute(r, segmentGroup, segments, outlet);
+            }
+            catch (e) {
+                if (!(e instanceof NoMatch))
+                    throw e;
+            }
+        }
+        if (this.noLeftoversInUrl(segmentGroup, segments, outlet)) {
+            return [];
+        }
+        else {
+            throw new NoMatch();
+        }
+    };
+    /**
+     * @param {?} segmentGroup
+     * @param {?} segments
+     * @param {?} outlet
+     * @return {?}
+     */
+    Recognizer.prototype.noLeftoversInUrl = function (segmentGroup, segments, outlet) {
+        return segments.length === 0 && !segmentGroup.children[outlet];
+    };
+    /**
+     * @param {?} route
+     * @param {?} rawSegment
+     * @param {?} segments
+     * @param {?} outlet
+     * @return {?}
+     */
+    Recognizer.prototype.processSegmentAgainstRoute = function (route, rawSegment, segments, outlet) {
+        if (route.redirectTo)
+            throw new NoMatch();
+        if ((route.outlet ? route.outlet : __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */]) !== outlet)
+            throw new NoMatch();
+        if (route.path === '**') {
+            var /** @type {?} */ params = segments.length > 0 ? __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__utils_collection__["i" /* last */])(segments).parameters : {};
+            var /** @type {?} */ snapshot_1 = new __WEBPACK_IMPORTED_MODULE_2__router_state__["g" /* ActivatedRouteSnapshot */](segments, params, Object.freeze(this.urlTree.queryParams), this.urlTree.fragment, getData(route), outlet, route.component, route, getSourceSegmentGroup(rawSegment), getPathIndexShift(rawSegment) + segments.length, getResolve(route));
+            return [new __WEBPACK_IMPORTED_MODULE_6__utils_tree__["b" /* TreeNode */](snapshot_1, [])];
+        }
+        var _a = match(rawSegment, route, segments), consumedSegments = _a.consumedSegments, parameters = _a.parameters, lastChild = _a.lastChild;
+        var /** @type {?} */ rawSlicedSegments = segments.slice(lastChild);
+        var /** @type {?} */ childConfig = getChildConfig(route);
+        var _b = split(rawSegment, consumedSegments, rawSlicedSegments, childConfig), segmentGroup = _b.segmentGroup, slicedSegments = _b.slicedSegments;
+        var /** @type {?} */ snapshot = new __WEBPACK_IMPORTED_MODULE_2__router_state__["g" /* ActivatedRouteSnapshot */](consumedSegments, parameters, Object.freeze(this.urlTree.queryParams), this.urlTree.fragment, getData(route), outlet, route.component, route, getSourceSegmentGroup(rawSegment), getPathIndexShift(rawSegment) + consumedSegments.length, getResolve(route));
+        if (slicedSegments.length === 0 && segmentGroup.hasChildren()) {
+            var /** @type {?} */ children = this.processChildren(childConfig, segmentGroup);
+            return [new __WEBPACK_IMPORTED_MODULE_6__utils_tree__["b" /* TreeNode */](snapshot, children)];
+        }
+        else if (childConfig.length === 0 && slicedSegments.length === 0) {
+            return [new __WEBPACK_IMPORTED_MODULE_6__utils_tree__["b" /* TreeNode */](snapshot, [])];
+        }
+        else {
+            var /** @type {?} */ children = this.processSegment(childConfig, segmentGroup, slicedSegments, __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */]);
+            return [new __WEBPACK_IMPORTED_MODULE_6__utils_tree__["b" /* TreeNode */](snapshot, children)];
+        }
+    };
+    return Recognizer;
+}());
+function Recognizer_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Recognizer.prototype.rootComponentType;
+    /** @type {?} */
+    Recognizer.prototype.config;
+    /** @type {?} */
+    Recognizer.prototype.urlTree;
+    /** @type {?} */
+    Recognizer.prototype.url;
+}
+/**
+ * @param {?} nodes
+ * @return {?}
+ */
+function sortActivatedRouteSnapshots(nodes) {
+    nodes.sort(function (a, b) {
+        if (a.value.outlet === __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */])
+            return -1;
+        if (b.value.outlet === __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */])
+            return 1;
+        return a.value.outlet.localeCompare(b.value.outlet);
+    });
+}
+/**
+ * @param {?} route
+ * @return {?}
+ */
+function getChildConfig(route) {
+    if (route.children) {
+        return route.children;
+    }
+    else if (route.loadChildren) {
+        return ((route))._loadedConfig.routes;
+    }
+    else {
+        return [];
+    }
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} route
+ * @param {?} segments
+ * @return {?}
+ */
+function match(segmentGroup, route, segments) {
+    if (route.path === '') {
+        if (route.pathMatch === 'full' && (segmentGroup.hasChildren() || segments.length > 0)) {
+            throw new NoMatch();
+        }
+        else {
+            return { consumedSegments: [], lastChild: 0, parameters: {} };
+        }
+    }
+    var /** @type {?} */ matcher = route.matcher || __WEBPACK_IMPORTED_MODULE_3__shared__["c" /* defaultUrlMatcher */];
+    var /** @type {?} */ res = matcher(segments, segmentGroup, route);
+    if (!res)
+        throw new NoMatch();
+    var /** @type {?} */ posParams = {};
+    __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__utils_collection__["d" /* forEach */])(res.posParams, function (v, k) { posParams[k] = v.path; });
+    var /** @type {?} */ parameters = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__utils_collection__["e" /* merge */])(posParams, res.consumed[res.consumed.length - 1].parameters);
+    return { consumedSegments: res.consumed, lastChild: res.consumed.length, parameters: parameters };
+}
+/**
+ * @param {?} nodes
+ * @return {?}
+ */
+function checkOutletNameUniqueness(nodes) {
+    var /** @type {?} */ names = {};
+    nodes.forEach(function (n) {
+        var /** @type {?} */ routeWithSameOutletName = names[n.value.outlet];
+        if (routeWithSameOutletName) {
+            var /** @type {?} */ p = routeWithSameOutletName.url.map(function (s) { return s.toString(); }).join('/');
+            var /** @type {?} */ c = n.value.url.map(function (s) { return s.toString(); }).join('/');
+            throw new Error("Two segments cannot have the same outlet name: '" + p + "' and '" + c + "'.");
+        }
+        names[n.value.outlet] = n.value;
+    });
+}
+/**
+ * @param {?} segmentGroup
+ * @return {?}
+ */
+function getSourceSegmentGroup(segmentGroup) {
+    var /** @type {?} */ s = segmentGroup;
+    while (s._sourceSegment) {
+        s = s._sourceSegment;
+    }
+    return s;
+}
+/**
+ * @param {?} segmentGroup
+ * @return {?}
+ */
+function getPathIndexShift(segmentGroup) {
+    var /** @type {?} */ s = segmentGroup;
+    var /** @type {?} */ res = (s._segmentIndexShift ? s._segmentIndexShift : 0);
+    while (s._sourceSegment) {
+        s = s._sourceSegment;
+        res += (s._segmentIndexShift ? s._segmentIndexShift : 0);
+    }
+    return res - 1;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} consumedSegments
+ * @param {?} slicedSegments
+ * @param {?} config
+ * @return {?}
+ */
+function split(segmentGroup, consumedSegments, slicedSegments, config) {
+    if (slicedSegments.length > 0 &&
+        containsEmptyPathMatchesWithNamedOutlets(segmentGroup, slicedSegments, config)) {
+        var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_4__url_tree__["i" /* UrlSegmentGroup */](consumedSegments, createChildrenForEmptyPaths(segmentGroup, consumedSegments, config, new __WEBPACK_IMPORTED_MODULE_4__url_tree__["i" /* UrlSegmentGroup */](slicedSegments, segmentGroup.children)));
+        s._sourceSegment = segmentGroup;
+        s._segmentIndexShift = consumedSegments.length;
+        return { segmentGroup: s, slicedSegments: [] };
+    }
+    else if (slicedSegments.length === 0 &&
+        containsEmptyPathMatches(segmentGroup, slicedSegments, config)) {
+        var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_4__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments, addEmptyPathsToChildrenIfNeeded(segmentGroup, slicedSegments, config, segmentGroup.children));
+        s._sourceSegment = segmentGroup;
+        s._segmentIndexShift = consumedSegments.length;
+        return { segmentGroup: s, slicedSegments: slicedSegments };
+    }
+    else {
+        var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_4__url_tree__["i" /* UrlSegmentGroup */](segmentGroup.segments, segmentGroup.children);
+        s._sourceSegment = segmentGroup;
+        s._segmentIndexShift = consumedSegments.length;
+        return { segmentGroup: s, slicedSegments: slicedSegments };
+    }
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} routes
+ * @param {?} children
+ * @return {?}
+ */
+function addEmptyPathsToChildrenIfNeeded(segmentGroup, slicedSegments, routes, children) {
+    var /** @type {?} */ res = {};
+    for (var _i = 0, routes_1 = routes; _i < routes_1.length; _i++) {
+        var r = routes_1[_i];
+        if (emptyPathMatch(segmentGroup, slicedSegments, r) && !children[getOutlet(r)]) {
+            var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_4__url_tree__["i" /* UrlSegmentGroup */]([], {});
+            s._sourceSegment = segmentGroup;
+            s._segmentIndexShift = segmentGroup.segments.length;
+            res[getOutlet(r)] = s;
+        }
+    }
+    return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_5__utils_collection__["e" /* merge */])(children, res);
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} consumedSegments
+ * @param {?} routes
+ * @param {?} primarySegment
+ * @return {?}
+ */
+function createChildrenForEmptyPaths(segmentGroup, consumedSegments, routes, primarySegment) {
+    var /** @type {?} */ res = {};
+    res[__WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */]] = primarySegment;
+    primarySegment._sourceSegment = segmentGroup;
+    primarySegment._segmentIndexShift = consumedSegments.length;
+    for (var _i = 0, routes_2 = routes; _i < routes_2.length; _i++) {
+        var r = routes_2[_i];
+        if (r.path === '' && getOutlet(r) !== __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */]) {
+            var /** @type {?} */ s = new __WEBPACK_IMPORTED_MODULE_4__url_tree__["i" /* UrlSegmentGroup */]([], {});
+            s._sourceSegment = segmentGroup;
+            s._segmentIndexShift = consumedSegments.length;
+            res[getOutlet(r)] = s;
+        }
+    }
+    return res;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} routes
+ * @return {?}
+ */
+function containsEmptyPathMatchesWithNamedOutlets(segmentGroup, slicedSegments, routes) {
+    return routes
+        .filter(function (r) { return emptyPathMatch(segmentGroup, slicedSegments, r) &&
+        getOutlet(r) !== __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */]; })
+        .length > 0;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} routes
+ * @return {?}
+ */
+function containsEmptyPathMatches(segmentGroup, slicedSegments, routes) {
+    return routes.filter(function (r) { return emptyPathMatch(segmentGroup, slicedSegments, r); }).length > 0;
+}
+/**
+ * @param {?} segmentGroup
+ * @param {?} slicedSegments
+ * @param {?} r
+ * @return {?}
+ */
+function emptyPathMatch(segmentGroup, slicedSegments, r) {
+    if ((segmentGroup.hasChildren() || slicedSegments.length > 0) && r.pathMatch === 'full')
+        return false;
+    return r.path === '' && r.redirectTo === undefined;
+}
+/**
+ * @param {?} route
+ * @return {?}
+ */
+function getOutlet(route) {
+    return route.outlet ? route.outlet : __WEBPACK_IMPORTED_MODULE_3__shared__["a" /* PRIMARY_OUTLET */];
+}
+/**
+ * @param {?} route
+ * @return {?}
+ */
+function getData(route) {
+    return route.data ? route.data : {};
+}
+/**
+ * @param {?} route
+ * @return {?}
+ */
+function getResolve(route) {
+    return route.resolve ? route.resolve : {};
+}
+//# sourceMappingURL=recognize.js.map
+
+/***/ }),
+/* 675 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* unused harmony export VERSION */
+/**
+ * @license
+ * Copyright Google Inc. All Rights Reserved.
+ *
+ * Use of this source code is governed by an MIT-style license that can be
+ * found in the LICENSE file at https://angular.io/license
+ */
+
+/**
+ * @stable
+ */
+var /** @type {?} */ VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["d" /* Version */]('3.4.10');
+//# sourceMappingURL=version.js.map
+
+/***/ }),
+/* 676 */,
+/* 677 */,
+/* 678 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var InnerSubscriber = (function (_super) {
+    __extends(InnerSubscriber, _super);
+    function InnerSubscriber(parent, outerValue, outerIndex) {
+        _super.call(this);
+        this.parent = parent;
+        this.outerValue = outerValue;
+        this.outerIndex = outerIndex;
+        this.index = 0;
+    }
+    InnerSubscriber.prototype._next = function (value) {
+        this.parent.notifyNext(this.outerValue, value, this.outerIndex, this.index++, this);
+    };
+    InnerSubscriber.prototype._error = function (error) {
+        this.parent.notifyError(error, this);
+        this.unsubscribe();
+    };
+    InnerSubscriber.prototype._complete = function () {
+        this.parent.notifyComplete(this);
+        this.unsubscribe();
+    };
+    return InnerSubscriber;
+}(Subscriber_1.Subscriber));
+exports.InnerSubscriber = InnerSubscriber;
+//# sourceMappingURL=InnerSubscriber.js.map
+
+/***/ }),
+/* 679 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var Observable_1 = __webpack_require__(74);
+/**
+ * Represents a push-based event or value that an {@link Observable} can emit.
+ * This class is particularly useful for operators that manage notifications,
+ * like {@link materialize}, {@link dematerialize}, {@link observeOn}, and
+ * others. Besides wrapping the actual delivered value, it also annotates it
+ * with metadata of, for instance, what type of push message it is (`next`,
+ * `error`, or `complete`).
+ *
+ * @see {@link materialize}
+ * @see {@link dematerialize}
+ * @see {@link observeOn}
+ *
+ * @class Notification<T>
+ */
+var Notification = (function () {
+    function Notification(kind, value, error) {
+        this.kind = kind;
+        this.value = value;
+        this.error = error;
+        this.hasValue = kind === 'N';
+    }
+    /**
+     * Delivers to the given `observer` the value wrapped by this Notification.
+     * @param {Observer} observer
+     * @return
+     */
+    Notification.prototype.observe = function (observer) {
+        switch (this.kind) {
+            case 'N':
+                return observer.next && observer.next(this.value);
+            case 'E':
+                return observer.error && observer.error(this.error);
+            case 'C':
+                return observer.complete && observer.complete();
+        }
+    };
+    /**
+     * Given some {@link Observer} callbacks, deliver the value represented by the
+     * current Notification to the correctly corresponding callback.
+     * @param {function(value: T): void} next An Observer `next` callback.
+     * @param {function(err: any): void} [error] An Observer `error` callback.
+     * @param {function(): void} [complete] An Observer `complete` callback.
+     * @return {any}
+     */
+    Notification.prototype.do = function (next, error, complete) {
+        var kind = this.kind;
+        switch (kind) {
+            case 'N':
+                return next && next(this.value);
+            case 'E':
+                return error && error(this.error);
+            case 'C':
+                return complete && complete();
+        }
+    };
+    /**
+     * Takes an Observer or its individual callback functions, and calls `observe`
+     * or `do` methods accordingly.
+     * @param {Observer|function(value: T): void} nextOrObserver An Observer or
+     * the `next` callback.
+     * @param {function(err: any): void} [error] An Observer `error` callback.
+     * @param {function(): void} [complete] An Observer `complete` callback.
+     * @return {any}
+     */
+    Notification.prototype.accept = function (nextOrObserver, error, complete) {
+        if (nextOrObserver && typeof nextOrObserver.next === 'function') {
+            return this.observe(nextOrObserver);
+        }
+        else {
+            return this.do(nextOrObserver, error, complete);
+        }
+    };
+    /**
+     * Returns a simple Observable that just delivers the notification represented
+     * by this Notification instance.
+     * @return {any}
+     */
+    Notification.prototype.toObservable = function () {
+        var kind = this.kind;
+        switch (kind) {
+            case 'N':
+                return Observable_1.Observable.of(this.value);
+            case 'E':
+                return Observable_1.Observable.throw(this.error);
+            case 'C':
+                return Observable_1.Observable.empty();
+        }
+        throw new Error('unexpected notification kind value');
+    };
+    /**
+     * A shortcut to create a Notification instance of the type `next` from a
+     * given value.
+     * @param {T} value The `next` value.
+     * @return {Notification<T>} The "next" Notification representing the
+     * argument.
+     */
+    Notification.createNext = function (value) {
+        if (typeof value !== 'undefined') {
+            return new Notification('N', value);
+        }
+        return Notification.undefinedValueNotification;
+    };
+    /**
+     * A shortcut to create a Notification instance of the type `error` from a
+     * given error.
+     * @param {any} [err] The `error` error.
+     * @return {Notification<T>} The "error" Notification representing the
+     * argument.
+     */
+    Notification.createError = function (err) {
+        return new Notification('E', undefined, err);
+    };
+    /**
+     * A shortcut to create a Notification instance of the type `complete`.
+     * @return {Notification<any>} The valueless "complete" Notification.
+     */
+    Notification.createComplete = function () {
+        return Notification.completeNotification;
+    };
+    Notification.completeNotification = new Notification('C');
+    Notification.undefinedValueNotification = new Notification('N', undefined);
+    return Notification;
+}());
+exports.Notification = Notification;
+//# sourceMappingURL=Notification.js.map
+
+/***/ }),
+/* 680 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Observable_1 = __webpack_require__(74);
+var ScalarObservable_1 = __webpack_require__(657);
+var EmptyObservable_1 = __webpack_require__(656);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @extends {Ignored}
+ * @hide true
+ */
+var ArrayLikeObservable = (function (_super) {
+    __extends(ArrayLikeObservable, _super);
+    function ArrayLikeObservable(arrayLike, scheduler) {
+        _super.call(this);
+        this.arrayLike = arrayLike;
+        this.scheduler = scheduler;
+        if (!scheduler && arrayLike.length === 1) {
+            this._isScalar = true;
+            this.value = arrayLike[0];
+        }
+    }
+    ArrayLikeObservable.create = function (arrayLike, scheduler) {
+        var length = arrayLike.length;
+        if (length === 0) {
+            return new EmptyObservable_1.EmptyObservable();
+        }
+        else if (length === 1) {
+            return new ScalarObservable_1.ScalarObservable(arrayLike[0], scheduler);
+        }
+        else {
+            return new ArrayLikeObservable(arrayLike, scheduler);
+        }
+    };
+    ArrayLikeObservable.dispatch = function (state) {
+        var arrayLike = state.arrayLike, index = state.index, length = state.length, subscriber = state.subscriber;
+        if (subscriber.closed) {
+            return;
+        }
+        if (index >= length) {
+            subscriber.complete();
+            return;
+        }
+        subscriber.next(arrayLike[index]);
+        state.index = index + 1;
+        this.schedule(state);
+    };
+    ArrayLikeObservable.prototype._subscribe = function (subscriber) {
+        var index = 0;
+        var _a = this, arrayLike = _a.arrayLike, scheduler = _a.scheduler;
+        var length = arrayLike.length;
+        if (scheduler) {
+            return scheduler.schedule(ArrayLikeObservable.dispatch, 0, {
+                arrayLike: arrayLike, index: index, length: length, subscriber: subscriber
+            });
+        }
+        else {
+            for (var i = 0; i < length && !subscriber.closed; i++) {
+                subscriber.next(arrayLike[i]);
+            }
+            subscriber.complete();
+        }
+    };
+    return ArrayLikeObservable;
+}(Observable_1.Observable));
+exports.ArrayLikeObservable = ArrayLikeObservable;
+//# sourceMappingURL=ArrayLikeObservable.js.map
+
+/***/ }),
+/* 681 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var isArray_1 = __webpack_require__(618);
+var isArrayLike_1 = __webpack_require__(663);
+var isPromise_1 = __webpack_require__(664);
+var PromiseObservable_1 = __webpack_require__(613);
+var IteratorObservable_1 = __webpack_require__(682);
+var ArrayObservable_1 = __webpack_require__(655);
+var ArrayLikeObservable_1 = __webpack_require__(680);
+var iterator_1 = __webpack_require__(647);
+var Observable_1 = __webpack_require__(74);
+var observeOn_1 = __webpack_require__(685);
+var observable_1 = __webpack_require__(341);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @extends {Ignored}
+ * @hide true
+ */
+var FromObservable = (function (_super) {
+    __extends(FromObservable, _super);
+    function FromObservable(ish, scheduler) {
+        _super.call(this, null);
+        this.ish = ish;
+        this.scheduler = scheduler;
+    }
+    /**
+     * Creates an Observable from an Array, an array-like object, a Promise, an
+     * iterable object, or an Observable-like object.
+     *
+     * <span class="informal">Converts almost anything to an Observable.</span>
+     *
+     * <img src="./img/from.png" width="100%">
+     *
+     * Convert various other objects and data types into Observables. `from`
+     * converts a Promise or an array-like or an
+     * [iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#iterable)
+     * object into an Observable that emits the items in that promise or array or
+     * iterable. A String, in this context, is treated as an array of characters.
+     * Observable-like objects (contains a function named with the ES2015 Symbol
+     * for Observable) can also be converted through this operator.
+     *
+     * @example <caption>Converts an array to an Observable</caption>
+     * var array = [10, 20, 30];
+     * var result = Rx.Observable.from(array);
+     * result.subscribe(x => console.log(x));
+     *
+     * // Results in the following:
+     * // 10 20 30
+     *
+     * @example <caption>Convert an infinite iterable (from a generator) to an Observable</caption>
+     * function* generateDoubles(seed) {
+     *   var i = seed;
+     *   while (true) {
+     *     yield i;
+     *     i = 2 * i; // double it
+     *   }
+     * }
+     *
+     * var iterator = generateDoubles(3);
+     * var result = Rx.Observable.from(iterator).take(10);
+     * result.subscribe(x => console.log(x));
+     *
+     * // Results in the following:
+     * // 3 6 12 24 48 96 192 384 768 1536
+     *
+     * @see {@link create}
+     * @see {@link fromEvent}
+     * @see {@link fromEventPattern}
+     * @see {@link fromPromise}
+     *
+     * @param {ObservableInput<T>} ish A subscribable object, a Promise, an
+     * Observable-like, an Array, an iterable or an array-like object to be
+     * converted.
+     * @param {Scheduler} [scheduler] The scheduler on which to schedule the
+     * emissions of values.
+     * @return {Observable<T>} The Observable whose values are originally from the
+     * input object that was converted.
+     * @static true
+     * @name from
+     * @owner Observable
+     */
+    FromObservable.create = function (ish, scheduler) {
+        if (ish != null) {
+            if (typeof ish[observable_1.observable] === 'function') {
+                if (ish instanceof Observable_1.Observable && !scheduler) {
+                    return ish;
+                }
+                return new FromObservable(ish, scheduler);
+            }
+            else if (isArray_1.isArray(ish)) {
+                return new ArrayObservable_1.ArrayObservable(ish, scheduler);
+            }
+            else if (isPromise_1.isPromise(ish)) {
+                return new PromiseObservable_1.PromiseObservable(ish, scheduler);
+            }
+            else if (typeof ish[iterator_1.iterator] === 'function' || typeof ish === 'string') {
+                return new IteratorObservable_1.IteratorObservable(ish, scheduler);
+            }
+            else if (isArrayLike_1.isArrayLike(ish)) {
+                return new ArrayLikeObservable_1.ArrayLikeObservable(ish, scheduler);
+            }
+        }
+        throw new TypeError((ish !== null && typeof ish || ish) + ' is not observable');
+    };
+    FromObservable.prototype._subscribe = function (subscriber) {
+        var ish = this.ish;
+        var scheduler = this.scheduler;
+        if (scheduler == null) {
+            return ish[observable_1.observable]().subscribe(subscriber);
+        }
+        else {
+            return ish[observable_1.observable]().subscribe(new observeOn_1.ObserveOnSubscriber(subscriber, scheduler, 0));
+        }
+    };
+    return FromObservable;
+}(Observable_1.Observable));
+exports.FromObservable = FromObservable;
+//# sourceMappingURL=FromObservable.js.map
+
+/***/ }),
+/* 682 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var root_1 = __webpack_require__(101);
+var Observable_1 = __webpack_require__(74);
+var iterator_1 = __webpack_require__(647);
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @extends {Ignored}
+ * @hide true
+ */
+var IteratorObservable = (function (_super) {
+    __extends(IteratorObservable, _super);
+    function IteratorObservable(iterator, scheduler) {
+        _super.call(this);
+        this.scheduler = scheduler;
+        if (iterator == null) {
+            throw new Error('iterator cannot be null.');
+        }
+        this.iterator = getIterator(iterator);
+    }
+    IteratorObservable.create = function (iterator, scheduler) {
+        return new IteratorObservable(iterator, scheduler);
+    };
+    IteratorObservable.dispatch = function (state) {
+        var index = state.index, hasError = state.hasError, iterator = state.iterator, subscriber = state.subscriber;
+        if (hasError) {
+            subscriber.error(state.error);
+            return;
+        }
+        var result = iterator.next();
+        if (result.done) {
+            subscriber.complete();
+            return;
+        }
+        subscriber.next(result.value);
+        state.index = index + 1;
+        if (subscriber.closed) {
+            if (typeof iterator.return === 'function') {
+                iterator.return();
+            }
+            return;
+        }
+        this.schedule(state);
+    };
+    IteratorObservable.prototype._subscribe = function (subscriber) {
+        var index = 0;
+        var _a = this, iterator = _a.iterator, scheduler = _a.scheduler;
+        if (scheduler) {
+            return scheduler.schedule(IteratorObservable.dispatch, 0, {
+                index: index, iterator: iterator, subscriber: subscriber
+            });
+        }
+        else {
+            do {
+                var result = iterator.next();
+                if (result.done) {
+                    subscriber.complete();
+                    break;
+                }
+                else {
+                    subscriber.next(result.value);
+                }
+                if (subscriber.closed) {
+                    if (typeof iterator.return === 'function') {
+                        iterator.return();
+                    }
+                    break;
+                }
+            } while (true);
+        }
+    };
+    return IteratorObservable;
+}(Observable_1.Observable));
+exports.IteratorObservable = IteratorObservable;
+var StringIterator = (function () {
+    function StringIterator(str, idx, len) {
+        if (idx === void 0) { idx = 0; }
+        if (len === void 0) { len = str.length; }
+        this.str = str;
+        this.idx = idx;
+        this.len = len;
+    }
+    StringIterator.prototype[iterator_1.iterator] = function () { return (this); };
+    StringIterator.prototype.next = function () {
+        return this.idx < this.len ? {
+            done: false,
+            value: this.str.charAt(this.idx++)
+        } : {
+            done: true,
+            value: undefined
+        };
+    };
+    return StringIterator;
+}());
+var ArrayIterator = (function () {
+    function ArrayIterator(arr, idx, len) {
+        if (idx === void 0) { idx = 0; }
+        if (len === void 0) { len = toLength(arr); }
+        this.arr = arr;
+        this.idx = idx;
+        this.len = len;
+    }
+    ArrayIterator.prototype[iterator_1.iterator] = function () { return this; };
+    ArrayIterator.prototype.next = function () {
+        return this.idx < this.len ? {
+            done: false,
+            value: this.arr[this.idx++]
+        } : {
+            done: true,
+            value: undefined
+        };
+    };
+    return ArrayIterator;
+}());
+function getIterator(obj) {
+    var i = obj[iterator_1.iterator];
+    if (!i && typeof obj === 'string') {
+        return new StringIterator(obj);
+    }
+    if (!i && obj.length !== undefined) {
+        return new ArrayIterator(obj);
+    }
+    if (!i) {
+        throw new TypeError('object is not iterable');
+    }
+    return obj[iterator_1.iterator]();
+}
+var maxSafeInteger = Math.pow(2, 53) - 1;
+function toLength(o) {
+    var len = +o.length;
+    if (isNaN(len)) {
+        return 0;
+    }
+    if (len === 0 || !numberIsFinite(len)) {
+        return len;
+    }
+    len = sign(len) * Math.floor(Math.abs(len));
+    if (len <= 0) {
+        return 0;
+    }
+    if (len > maxSafeInteger) {
+        return maxSafeInteger;
+    }
+    return len;
+}
+function numberIsFinite(value) {
+    return typeof value === 'number' && root_1.root.isFinite(value);
+}
+function sign(value) {
+    var valueAsNumber = +value;
+    if (valueAsNumber === 0) {
+        return valueAsNumber;
+    }
+    if (isNaN(valueAsNumber)) {
+        return valueAsNumber;
+    }
+    return valueAsNumber < 0 ? -1 : 1;
+}
+//# sourceMappingURL=IteratorObservable.js.map
+
+/***/ }),
+/* 683 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+/* tslint:enable:max-line-length */
+/**
+ * Filter items emitted by the source Observable by only emitting those that
+ * satisfy a specified predicate.
+ *
+ * <span class="informal">Like
+ * [Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter),
+ * it only emits a value from the source if it passes a criterion function.</span>
+ *
+ * <img src="./img/filter.png" width="100%">
+ *
+ * Similar to the well-known `Array.prototype.filter` method, this operator
+ * takes values from the source Observable, passes them through a `predicate`
+ * function and only emits those values that yielded `true`.
+ *
+ * @example <caption>Emit only click events whose target was a DIV element</caption>
+ * var clicks = Rx.Observable.fromEvent(document, 'click');
+ * var clicksOnDivs = clicks.filter(ev => ev.target.tagName === 'DIV');
+ * clicksOnDivs.subscribe(x => console.log(x));
+ *
+ * @see {@link distinct}
+ * @see {@link distinctUntilChanged}
+ * @see {@link distinctUntilKeyChanged}
+ * @see {@link ignoreElements}
+ * @see {@link partition}
+ * @see {@link skip}
+ *
+ * @param {function(value: T, index: number): boolean} predicate A function that
+ * evaluates each value emitted by the source Observable. If it returns `true`,
+ * the value is emitted, if `false` the value is not passed to the output
+ * Observable. The `index` parameter is the number `i` for the i-th source
+ * emission that has happened since the subscription, starting from the number
+ * `0`.
+ * @param {any} [thisArg] An optional argument to determine the value of `this`
+ * in the `predicate` function.
+ * @return {Observable} An Observable of values from the source that were
+ * allowed by the `predicate` function.
+ * @method filter
+ * @owner Observable
+ */
+function filter(predicate, thisArg) {
+    return this.lift(new FilterOperator(predicate, thisArg));
+}
+exports.filter = filter;
+var FilterOperator = (function () {
+    function FilterOperator(predicate, thisArg) {
+        this.predicate = predicate;
+        this.thisArg = thisArg;
+    }
+    FilterOperator.prototype.call = function (subscriber, source) {
+        return source.subscribe(new FilterSubscriber(subscriber, this.predicate, this.thisArg));
+    };
+    return FilterOperator;
+}());
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var FilterSubscriber = (function (_super) {
+    __extends(FilterSubscriber, _super);
+    function FilterSubscriber(destination, predicate, thisArg) {
+        _super.call(this, destination);
+        this.predicate = predicate;
+        this.thisArg = thisArg;
+        this.count = 0;
+    }
+    // the try catch block below is left specifically for
+    // optimization and perf reasons. a tryCatcher is not necessary here.
+    FilterSubscriber.prototype._next = function (value) {
+        var result;
+        try {
+            result = this.predicate.call(this.thisArg, value, this.count++);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        if (result) {
+            this.destination.next(value);
+        }
+    };
+    return FilterSubscriber;
+}(Subscriber_1.Subscriber));
+//# sourceMappingURL=filter.js.map
+
+/***/ }),
+/* 684 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+var EmptyError_1 = __webpack_require__(648);
+/* tslint:enable:max-line-length */
+/**
+ * Returns an Observable that emits only the last item emitted by the source Observable.
+ * It optionally takes a predicate function as a parameter, in which case, rather than emitting
+ * the last item from the source Observable, the resulting Observable will emit the last item
+ * from the source Observable that satisfies the predicate.
+ *
+ * <img src="./img/last.png" width="100%">
+ *
+ * @throws {EmptyError} Delivers an EmptyError to the Observer's `error`
+ * callback if the Observable completes before any `next` notification was sent.
+ * @param {function} predicate - The condition any source emitted item has to satisfy.
+ * @return {Observable} An Observable that emits only the last item satisfying the given condition
+ * from the source, or an NoSuchElementException if no such items are emitted.
+ * @throws - Throws if no items that match the predicate are emitted by the source Observable.
+ * @method last
+ * @owner Observable
+ */
+function last(predicate, resultSelector, defaultValue) {
+    return this.lift(new LastOperator(predicate, resultSelector, defaultValue, this));
+}
+exports.last = last;
+var LastOperator = (function () {
+    function LastOperator(predicate, resultSelector, defaultValue, source) {
+        this.predicate = predicate;
+        this.resultSelector = resultSelector;
+        this.defaultValue = defaultValue;
+        this.source = source;
+    }
+    LastOperator.prototype.call = function (observer, source) {
+        return source.subscribe(new LastSubscriber(observer, this.predicate, this.resultSelector, this.defaultValue, this.source));
+    };
+    return LastOperator;
+}());
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var LastSubscriber = (function (_super) {
+    __extends(LastSubscriber, _super);
+    function LastSubscriber(destination, predicate, resultSelector, defaultValue, source) {
+        _super.call(this, destination);
+        this.predicate = predicate;
+        this.resultSelector = resultSelector;
+        this.defaultValue = defaultValue;
+        this.source = source;
+        this.hasValue = false;
+        this.index = 0;
+        if (typeof defaultValue !== 'undefined') {
+            this.lastValue = defaultValue;
+            this.hasValue = true;
+        }
+    }
+    LastSubscriber.prototype._next = function (value) {
+        var index = this.index++;
+        if (this.predicate) {
+            this._tryPredicate(value, index);
+        }
+        else {
+            if (this.resultSelector) {
+                this._tryResultSelector(value, index);
+                return;
+            }
+            this.lastValue = value;
+            this.hasValue = true;
+        }
+    };
+    LastSubscriber.prototype._tryPredicate = function (value, index) {
+        var result;
+        try {
+            result = this.predicate(value, index, this.source);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        if (result) {
+            if (this.resultSelector) {
+                this._tryResultSelector(value, index);
+                return;
+            }
+            this.lastValue = value;
+            this.hasValue = true;
+        }
+    };
+    LastSubscriber.prototype._tryResultSelector = function (value, index) {
+        var result;
+        try {
+            result = this.resultSelector(value, index);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        this.lastValue = result;
+        this.hasValue = true;
+    };
+    LastSubscriber.prototype._complete = function () {
+        var destination = this.destination;
+        if (this.hasValue) {
+            destination.next(this.lastValue);
+            destination.complete();
+        }
+        else {
+            destination.error(new EmptyError_1.EmptyError);
+        }
+    };
+    return LastSubscriber;
+}(Subscriber_1.Subscriber));
+//# sourceMappingURL=last.js.map
+
+/***/ }),
+/* 685 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+var Notification_1 = __webpack_require__(679);
+/**
+ *
+ * Re-emits all notifications from source Observable with specified scheduler.
+ *
+ * <span class="informal">Ensure a specific scheduler is used, from outside of an Observable.</span>
+ *
+ * `observeOn` is an operator that accepts a scheduler as a first parameter, which will be used to reschedule
+ * notifications emitted by the source Observable. It might be useful, if you do not have control over
+ * internal scheduler of a given Observable, but want to control when its values are emitted nevertheless.
+ *
+ * Returned Observable emits the same notifications (nexted values, complete and error events) as the source Observable,
+ * but rescheduled with provided scheduler. Note that this doesn't mean that source Observables internal
+ * scheduler will be replaced in any way. Original scheduler still will be used, but when the source Observable emits
+ * notification, it will be immediately scheduled again - this time with scheduler passed to `observeOn`.
+ * An anti-pattern would be calling `observeOn` on Observable that emits lots of values synchronously, to split
+ * that emissions into asynchronous chunks. For this to happen, scheduler would have to be passed into the source
+ * Observable directly (usually into the operator that creates it). `observeOn` simply delays notifications a
+ * little bit more, to ensure that they are emitted at expected moments.
+ *
+ * As a matter of fact, `observeOn` accepts second parameter, which specifies in milliseconds with what delay notifications
+ * will be emitted. The main difference between {@link delay} operator and `observeOn` is that `observeOn`
+ * will delay all notifications - including error notifications - while `delay` will pass through error
+ * from source Observable immediately when it is emitted. In general it is highly recommended to use `delay` operator
+ * for any kind of delaying of values in the stream, while using `observeOn` to specify which scheduler should be used
+ * for notification emissions in general.
+ *
+ * @example <caption>Ensure values in subscribe are called just before browser repaint.</caption>
+ * const intervals = Rx.Observable.interval(10); // Intervals are scheduled
+ *                                               // with async scheduler by default...
+ *
+ * intervals
+ * .observeOn(Rx.Scheduler.animationFrame)       // ...but we will observe on animationFrame
+ * .subscribe(val => {                           // scheduler to ensure smooth animation.
+ *   someDiv.style.height = val + 'px';
+ * });
+ *
+ * @see {@link delay}
+ *
+ * @param {IScheduler} scheduler Scheduler that will be used to reschedule notifications from source Observable.
+ * @param {number} [delay] Number of milliseconds that states with what delay every notification should be rescheduled.
+ * @return {Observable<T>} Observable that emits the same notifications as the source Observable,
+ * but with provided scheduler.
+ *
+ * @method observeOn
+ * @owner Observable
+ */
+function observeOn(scheduler, delay) {
+    if (delay === void 0) { delay = 0; }
+    return this.lift(new ObserveOnOperator(scheduler, delay));
+}
+exports.observeOn = observeOn;
+var ObserveOnOperator = (function () {
+    function ObserveOnOperator(scheduler, delay) {
+        if (delay === void 0) { delay = 0; }
+        this.scheduler = scheduler;
+        this.delay = delay;
+    }
+    ObserveOnOperator.prototype.call = function (subscriber, source) {
+        return source.subscribe(new ObserveOnSubscriber(subscriber, this.scheduler, this.delay));
+    };
+    return ObserveOnOperator;
+}());
+exports.ObserveOnOperator = ObserveOnOperator;
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var ObserveOnSubscriber = (function (_super) {
+    __extends(ObserveOnSubscriber, _super);
+    function ObserveOnSubscriber(destination, scheduler, delay) {
+        if (delay === void 0) { delay = 0; }
+        _super.call(this, destination);
+        this.scheduler = scheduler;
+        this.delay = delay;
+    }
+    ObserveOnSubscriber.dispatch = function (arg) {
+        var notification = arg.notification, destination = arg.destination;
+        notification.observe(destination);
+        this.unsubscribe();
+    };
+    ObserveOnSubscriber.prototype.scheduleMessage = function (notification) {
+        this.add(this.scheduler.schedule(ObserveOnSubscriber.dispatch, this.delay, new ObserveOnMessage(notification, this.destination)));
+    };
+    ObserveOnSubscriber.prototype._next = function (value) {
+        this.scheduleMessage(Notification_1.Notification.createNext(value));
+    };
+    ObserveOnSubscriber.prototype._error = function (err) {
+        this.scheduleMessage(Notification_1.Notification.createError(err));
+    };
+    ObserveOnSubscriber.prototype._complete = function () {
+        this.scheduleMessage(Notification_1.Notification.createComplete());
+    };
+    return ObserveOnSubscriber;
+}(Subscriber_1.Subscriber));
+exports.ObserveOnSubscriber = ObserveOnSubscriber;
+var ObserveOnMessage = (function () {
+    function ObserveOnMessage(notification, destination) {
+        this.notification = notification;
+        this.destination = destination;
+    }
+    return ObserveOnMessage;
+}());
+exports.ObserveOnMessage = ObserveOnMessage;
+//# sourceMappingURL=observeOn.js.map
+
+/***/ }),
+/* 686 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var __extends = (this && this.__extends) || function (d, b) {
+    for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
+    function __() { this.constructor = d; }
+    d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+};
+var Subscriber_1 = __webpack_require__(340);
+/* tslint:enable:max-line-length */
+/**
+ * Applies an accumulator function over the source Observable, and returns the
+ * accumulated result when the source completes, given an optional seed value.
+ *
+ * <span class="informal">Combines together all values emitted on the source,
+ * using an accumulator function that knows how to join a new source value into
+ * the accumulation from the past.</span>
+ *
+ * <img src="./img/reduce.png" width="100%">
+ *
+ * Like
+ * [Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce),
+ * `reduce` applies an `accumulator` function against an accumulation and each
+ * value of the source Observable (from the past) to reduce it to a single
+ * value, emitted on the output Observable. Note that `reduce` will only emit
+ * one value, only when the source Observable completes. It is equivalent to
+ * applying operator {@link scan} followed by operator {@link last}.
+ *
+ * Returns an Observable that applies a specified `accumulator` function to each
+ * item emitted by the source Observable. If a `seed` value is specified, then
+ * that value will be used as the initial value for the accumulator. If no seed
+ * value is specified, the first item of the source is used as the seed.
+ *
+ * @example <caption>Count the number of click events that happened in 5 seconds</caption>
+ * var clicksInFiveSeconds = Rx.Observable.fromEvent(document, 'click')
+ *   .takeUntil(Rx.Observable.interval(5000));
+ * var ones = clicksInFiveSeconds.mapTo(1);
+ * var seed = 0;
+ * var count = ones.reduce((acc, one) => acc + one, seed);
+ * count.subscribe(x => console.log(x));
+ *
+ * @see {@link count}
+ * @see {@link expand}
+ * @see {@link mergeScan}
+ * @see {@link scan}
+ *
+ * @param {function(acc: R, value: T, index: number): R} accumulator The accumulator function
+ * called on each source value.
+ * @param {R} [seed] The initial accumulation value.
+ * @return {Observable<R>} An Observable that emits a single value that is the
+ * result of accumulating the values emitted by the source Observable.
+ * @method reduce
+ * @owner Observable
+ */
+function reduce(accumulator, seed) {
+    var hasSeed = false;
+    // providing a seed of `undefined` *should* be valid and trigger
+    // hasSeed! so don't use `seed !== undefined` checks!
+    // For this reason, we have to check it here at the original call site
+    // otherwise inside Operator/Subscriber we won't know if `undefined`
+    // means they didn't provide anything or if they literally provided `undefined`
+    if (arguments.length >= 2) {
+        hasSeed = true;
+    }
+    return this.lift(new ReduceOperator(accumulator, seed, hasSeed));
+}
+exports.reduce = reduce;
+var ReduceOperator = (function () {
+    function ReduceOperator(accumulator, seed, hasSeed) {
+        if (hasSeed === void 0) { hasSeed = false; }
+        this.accumulator = accumulator;
+        this.seed = seed;
+        this.hasSeed = hasSeed;
+    }
+    ReduceOperator.prototype.call = function (subscriber, source) {
+        return source.subscribe(new ReduceSubscriber(subscriber, this.accumulator, this.seed, this.hasSeed));
+    };
+    return ReduceOperator;
+}());
+exports.ReduceOperator = ReduceOperator;
+/**
+ * We need this JSDoc comment for affecting ESDoc.
+ * @ignore
+ * @extends {Ignored}
+ */
+var ReduceSubscriber = (function (_super) {
+    __extends(ReduceSubscriber, _super);
+    function ReduceSubscriber(destination, accumulator, seed, hasSeed) {
+        _super.call(this, destination);
+        this.accumulator = accumulator;
+        this.hasSeed = hasSeed;
+        this.index = 0;
+        this.hasValue = false;
+        this.acc = seed;
+        if (!this.hasSeed) {
+            this.index++;
+        }
+    }
+    ReduceSubscriber.prototype._next = function (value) {
+        if (this.hasValue || (this.hasValue = this.hasSeed)) {
+            this._tryReduce(value);
+        }
+        else {
+            this.acc = value;
+            this.hasValue = true;
+        }
+    };
+    ReduceSubscriber.prototype._tryReduce = function (value) {
+        var result;
+        try {
+            result = this.accumulator(this.acc, value, this.index++);
+        }
+        catch (err) {
+            this.destination.error(err);
+            return;
+        }
+        this.acc = result;
+    };
+    ReduceSubscriber.prototype._complete = function () {
+        if (this.hasValue || this.hasSeed) {
+            this.destination.next(this.acc);
+        }
+        this.destination.complete();
+    };
+    return ReduceSubscriber;
+}(Subscriber_1.Subscriber));
+exports.ReduceSubscriber = ReduceSubscriber;
+//# sourceMappingURL=reduce.js.map
+
+/***/ }),
+/* 687 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+function isScheduler(value) {
+    return value && typeof value.schedule === 'function';
+}
+exports.isScheduler = isScheduler;
+//# sourceMappingURL=isScheduler.js.map
 
 /***/ })
 ]);

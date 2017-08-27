@@ -1,0 +1,57 @@
+<div class="categories">
+  <div *ngFor="let category of categories">
+    {{category}}
+    <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory">
+  </div>
+</div>
+
+<div class="select-exercise">
+  <select [(ngModel)]="selectedExerciseId" class="select-exercise">
+    <option *ngFor="let exercise of exercisesMap[selectedCategory]" [value]="exercise.id">{{exercise.title}}</option>
+  </select>
+  <button (click)="editExercise(selectedExerciseId)">edit</button>
+  <button (click)="addExercise()">+</button>
+  <button (click)="showHistory(selectedExerciseId)">hist</button>
+</div>
+
+<div class="digits">
+  <table>
+    <tr>
+      <td>к-во:</td>
+      <td><input type="number" [(ngModel)]="count"></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>вес:</td>
+      <td><input type="number" [(ngModel)]="weight"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <button (click)="addExerciseFact(selectedExerciseId, count, weight)">save</button>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div class="done">
+  <table class="fact-table">
+    <tr>
+      <th>упр</th>
+      <th>к-во</th>
+      <th>вес</th>
+      <th></th>
+    </tr>
+    <tr *ngFor="let exercise of exerciseFacts">
+      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
+      <td>{{exercise.count}}</td>
+      <td>{{exercise.weight}}</td>
+      <td>
+        <button (click)="deleteFact(exercise.id)">x</button>
+      </td>
+      <td>
+        <button (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)">copy</button>
+      </td>
+    </tr>
+  </table>
+</div>

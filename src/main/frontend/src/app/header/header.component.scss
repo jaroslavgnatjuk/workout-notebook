@@ -1,0 +1,18 @@
+.header-container {
+  background-color: #666;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  .title-container {
+    a {
+      color: #bbbbbb;
+    }
+  }
+  .buttons-container {
+    a {
+      color: #eee;
+      font-weight: bold;
+      text-decoration: none;
+    }
+  }
+}

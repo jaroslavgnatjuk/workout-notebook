@@ -1,0 +1,18 @@
+<select [(ngModel)]="selectedDay" class="select-exercise" (change)="showHistory(selectedDay)">
+  <option *ngFor="let day of days" [value]="day.dt">{{day.dt}}</option>
+</select>
+
+<table class="fact-table">
+  <tr>
+    <th>упр</th>
+    <th>к-во</th>
+    <th>вес</th>
+    <th>время</th>
+  </tr>
+  <tr *ngFor="let exercise of exerciseFacts">
+    <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
+    <td>{{exercise.count}}</td>
+    <td>{{exercise.weight}}</td>
+    <td>{{exercise.dt  | date:'HH:mm:ss'}}</td>
+  </tr>
+</table>
