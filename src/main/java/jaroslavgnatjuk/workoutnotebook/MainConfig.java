@@ -17,7 +17,7 @@ public class MainConfig {
 
     @Autowired
     private Environment env;
-
+/*
     @Bean
     public BasicDataSource getDataSourceCalc() throws URISyntaxException {
         URI dbUri = new URI(System.getenv("DATABASE_URL"));
@@ -33,7 +33,7 @@ public class MainConfig {
 
         return basicDataSource;
     }
-/*
+*/
     public DataSource getDataSourceCalc() {
         BasicDataSource dataSource = new BasicDataSource();
         dataSource.setDriverClassName(env.getProperty("spring.datasource.driverClassName"));
@@ -46,7 +46,7 @@ public class MainConfig {
         return dataSource;
     }
 
-*/
+
     @Bean
     public JdbcTemplate jdbcTemplate() throws URISyntaxException {
         return new JdbcTemplate(getDataSourceCalc());
