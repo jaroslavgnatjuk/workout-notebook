@@ -9,7 +9,7 @@
     <th>вес</th>
     <th>время</th>
   </tr>
-  <tr *ngFor="let exercise of exerciseFacts">
+  <tr *ngFor="let exercise of exerciseFacts; let i = index;" [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
     <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
     <td>{{exercise.count}}</td>
     <td>{{exercise.weight}}</td>

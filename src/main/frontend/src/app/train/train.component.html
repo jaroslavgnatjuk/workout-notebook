@@ -15,23 +15,17 @@
 </div>
 
 <div class="digits">
-  <table>
-    <tr>
-      <td>к-во:</td>
-      <td><input type="number" [(ngModel)]="count"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>вес:</td>
-      <td><input type="number" [(ngModel)]="weight"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <button (click)="addExerciseFact(selectedExerciseId, count, weight)">save</button>
-      </td>
-    </tr>
-  </table>
+  <div>
+  к-во:
+  <input type="number" [(ngModel)]="count">
+  </div>
+  <div>
+  вес:
+  <input type="number" [(ngModel)]="weight">
+  </div>
+
+  <button (click)="addExerciseFact(selectedExerciseId, count, weight)">save</button>
+
 </div>
 
 <div class="done">
@@ -42,7 +36,7 @@
       <th>вес</th>
       <th></th>
     </tr>
-    <tr *ngFor="let exercise of exerciseFacts">
+    <tr *ngFor="let exercise of exerciseFacts; let i = index;" [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
       <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
       <td>{{exercise.count}}</td>
       <td>{{exercise.weight}}</td>

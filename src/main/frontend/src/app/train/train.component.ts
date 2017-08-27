@@ -122,7 +122,12 @@ export class TrainComponent implements OnInit {
   }
 
   copyFact(id, count, weight) {
-    this.dbService.addExerciseFact(id, count, weight).subscribe(() => this.refreshFacts());
+    let exercise = this.getExerciseById(id);
+    this.selectedExerciseId = id;
+    this.selectedCategory = exercise.category;
+    this.count = count;
+    this.weight = weight;
+    //this.dbService.addExerciseFact(id, count, weight).subscribe(() => this.refreshFacts());
   }
 
 }

@@ -1,12 +1,24 @@
 .categories {
   display: flex;
+  margin-bottom: 5px;
+  justify-content: space-between;
+  div {
+    font-size: 0.8em;
+    margin-left: 10px;
+    border-bottom: 1px solid #ddd;
+  }
 }
 .select-exercise {
   display: flex;
   width: 100%;
 }
 .digits {
+  display: flex;
   margin-top: 10px;
+  justify-content: space-between;
+  input {
+    width: 50px;
+  }
 }
 .done {
   margin-top: 10px;
@@ -14,4 +26,11 @@
 }
 .fact-table {
   width: 100%;
+
+  .bordered {
+    td {
+      border-bottom: 1px solid #ddd;
+    }
+  }
 }
+
