@@ -13,6 +13,7 @@ export class HistoryComponent implements OnInit {
   selectedDay;
   exerciseFacts: ExerciseFact[];
   exercises: Exercise[];
+  dt = new Date();
 
   constructor(private dbService: DbServiceService) {
   }
@@ -31,10 +32,40 @@ export class HistoryComponent implements OnInit {
     return this.exercises && this.exercises.filter(item => item.id === id)[0];
   }
 
+  getDayOfWeek(dt) {
+    const dayOfWeek = (new Date(dt.dt)).getDay();
+    let result;
+
+    switch (dayOfWeek) {
+      case 1:
+        result = 'понедельник';
+        break;
+      case 2:
+        result = 'вторник';
+        break;
+      case 3:
+        result = 'среда';
+        break;
+      case 4:
+        result = 'четверг';
+        break;
+      case 5:
+        result = 'пятница';
+        break;
+      case 6:
+        result = 'суббота';
+        break;
+      case 0:
+        result = 'воскресенье';
+        break;
+    }
+
+    return result;
+  }
+
   showHistory(dt) {
     this.dbService.getFactsByDate(dt).subscribe(resp => {
       this.exerciseFacts = resp.json();
-      console.log(this.exerciseFacts);
     });
   }
 

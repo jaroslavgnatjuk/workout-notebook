@@ -3,6 +3,7 @@ import {Exercise} from '../Exercise';
 import {ExerciseFact} from '../ExerciseFact';
 import {DbServiceService} from '../db-service.service';
 import {Route, Router} from '@angular/router';
+import {SpinnerService} from '../spinner.service';
 
 @Component({
   selector: 'app-train',
@@ -16,11 +17,12 @@ export class TrainComponent implements OnInit {
   exerciseFacts: ExerciseFact[];
   selectedExerciseId: number;
   selectedCategory = 'грудь';
-  count: number;
-  weight: number;
+  count: number = 0;
+  weight: number = 0;
 
   constructor(private dbService: DbServiceService,
-              private router: Router) {
+              private router: Router,
+              private spinner: SpinnerService) {
   }
 
   ngOnInit() {
@@ -31,7 +33,6 @@ export class TrainComponent implements OnInit {
   refreshExercises() {
     this.dbService.getExercises().subscribe(result => {
       this.exercises = result.json();
-      console.log(result);
 
       this.exercisesMap = this.exerciseToMap(this.exercises);
       this.categories = Object.keys(this.exercisesMap);
@@ -41,7 +42,6 @@ export class TrainComponent implements OnInit {
   refreshFacts() {
     this.dbService.getExerciseFacts().subscribe(result => {
       this.exerciseFacts = result.json();
-      console.log(result);
     });
   }
 
@@ -67,14 +67,13 @@ export class TrainComponent implements OnInit {
   }
 
   addExerciseFact(exerciseId, count, weight) {
-    if (exerciseId === undefined) {
+    if (exerciseId === undefined || exerciseId === null) {
       alert('Не выбрано упражнение');
 
       return;
     }
 
     this.dbService.addExerciseFact(exerciseId, count, weight).subscribe(result => {
-      console.log(result);
       this.refreshFacts();
     });
   }
@@ -94,7 +93,6 @@ export class TrainComponent implements OnInit {
     };
 
     this.dbService.editExercise(exercise).subscribe(result => {
-      console.log(result);
       this.refreshExercises();
     });
   }
@@ -115,7 +113,6 @@ export class TrainComponent implements OnInit {
     }
 
     this.dbService.addExercise(this.selectedCategory, title).subscribe(result => {
-      console.log(result);
       this.refreshExercises();
     });
 

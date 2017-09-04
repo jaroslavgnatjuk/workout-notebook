@@ -10,6 +10,9 @@ import {RouterModule, Routes} from '@angular/router';
 import {HeaderComponent} from './header/header.component';
 import {DbServiceService} from './db-service.service';
 import { HistoryExerciseComponent } from './history-exercise/history-exercise.component';
+import {SpinnerService} from './spinner.service';
+import {SpinnerComponent} from './spinner/spinner.component';
+import {HttpExService} from './http-ex.service';
 
 const appRoutes: Routes = [
   {
@@ -39,9 +42,10 @@ const appRoutes: Routes = [
     HistoryComponent,
     TrainComponent,
     HeaderComponent,
-    HistoryExerciseComponent
+    HistoryExerciseComponent,
+    SpinnerComponent
   ],
   bootstrap: [AppComponent],
-  providers: [DbServiceService]
+  providers: [DbServiceService, SpinnerService, HttpExService]
 })
 export class AppModule { }

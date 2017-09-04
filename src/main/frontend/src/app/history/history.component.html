@@ -1,18 +1,23 @@
 <select [(ngModel)]="selectedDay" class="select-exercise" (change)="showHistory(selectedDay)">
-  <option *ngFor="let day of days" [value]="day.dt">{{day.dt}}</option>
+  <option *ngFor="let day of days" [value]="day.dt">{{day.dt}} - {{getDayOfWeek(day)}}</option>
 </select>
 
-<table class="fact-table">
+<table class="ui table fact-table">
+  <thead>
   <tr>
     <th>упр</th>
     <th>к-во</th>
     <th>вес</th>
     <th>время</th>
   </tr>
-  <tr *ngFor="let exercise of exerciseFacts; let i = index;" [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
+  </thead>
+  <tbody>
+  <tr *ngFor="let exercise of exerciseFacts; let i = index;"
+      [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
     <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
     <td>{{exercise.count}}</td>
     <td>{{exercise.weight}}</td>
-    <td>{{exercise.dt  | date:'HH:mm:ss'}}</td>
+    <td>{{exercise.dt | date:'HH:mm:ss'}}</td>
   </tr>
+  </tbody>
 </table>

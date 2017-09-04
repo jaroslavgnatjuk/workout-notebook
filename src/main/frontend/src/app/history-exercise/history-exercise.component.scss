@@ -2,5 +2,10 @@
   width: 100%;
   table {
     width: 100%;
+    .bordered {
+      td {
+        border-bottom: 1px solid #ddd;
+      }
+    }
   }
 }

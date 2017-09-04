@@ -1,51 +1,64 @@
 <div class="categories">
   <div *ngFor="let category of categories">
     {{category}}
-    <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory">
+    <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory" (change)="selectedExerciseId = null">
   </div>
 </div>
-
+{{selectedExerciseId}}
 <div class="select-exercise">
   <select [(ngModel)]="selectedExerciseId" class="select-exercise">
     <option *ngFor="let exercise of exercisesMap[selectedCategory]" [value]="exercise.id">{{exercise.title}}</option>
   </select>
-  <button (click)="editExercise(selectedExerciseId)">edit</button>
-  <button (click)="addExercise()">+</button>
-  <button (click)="showHistory(selectedExerciseId)">hist</button>
+  <button class="ui icon buttin" (click)="editExercise(selectedExerciseId)"><i class="ui edit icon"></i></button>
+  <button class="ui icon buttin" (click)="addExercise()"><i class="ui add icon"></i></button>
+  <button class="ui icon buttin" (click)="showHistory(selectedExerciseId)"><i class="ui calendar icon"></i></button>
 </div>
 
 <div class="digits">
   <div>
   к-во:
-  <input type="number" [(ngModel)]="count">
+    <div class="ui action input">
+      <button class="ui button left" (click)="count = count - 1"> <i class="ui caret left icon"></i> </button>
+      <input type="number" [(ngModel)]="count">
+      <button class="ui button right" (click)="count = count + 1"> <i class="ui caret right icon"></i> </button>
+    </div>
+
   </div>
   <div>
   вес:
-  <input type="number" [(ngModel)]="weight">
+    <div class="ui action input">
+      <button class="ui button left" (click)="weight = weight - 1"> <i class="ui caret left icon"></i> </button>
+      <input type="number" [(ngModel)]="weight">
+      <button class="ui button right" (click)="weight = weight + 1"> <i class="ui caret right icon"></i> </button>
+    </div>
   </div>
 
-  <button (click)="addExerciseFact(selectedExerciseId, count, weight)">save</button>
+  <button class="ui primary button" (click)="addExerciseFact(selectedExerciseId, count, weight)">save</button>
 
 </div>
 
 <div class="done">
-  <table class="fact-table">
+  <table class="ui blue table fact-table">
+    <thead>
     <tr>
       <th>упр</th>
       <th>к-во</th>
       <th>вес</th>
       <th></th>
     </tr>
+    </thead>
+    <tbody>
     <tr *ngFor="let exercise of exerciseFacts; let i = index;" [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
       <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
       <td>{{exercise.count}}</td>
       <td>{{exercise.weight}}</td>
       <td>
-        <button (click)="deleteFact(exercise.id)">x</button>
+        <button class="ui negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i></button>
       </td>
       <td>
-        <button (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)">copy</button>
+        <button class="ui button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i class="ui copy icon"></i></button>
       </td>
     </tr>
+    </tbody>
   </table>
 </div>

@@ -1,11 +1,11 @@
 <div class="history-exercise-container">
-  <table>
+  <table class="ui table">
     <tr>
       <td>дата</td>
       <td>к-во</td>
       <td>вес</td>
     </tr>
-    <tr *ngFor="let fact of exerciseFacts; let i = index">
+    <tr *ngFor="let fact of exerciseFacts; let i = index"  [ngClass]="{bordered: (exerciseFacts[i + 1] && getDate(exerciseFacts[i + 1]?.dt)) != getDate(fact?.dt)}">
       <td>{{fact.dt | date:'y-MM-dd HH:mm:ss'}}</td>
       <td>{{fact.count}}</td>
       <td>{{fact.weight}}</td>

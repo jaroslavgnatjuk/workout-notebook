@@ -2,11 +2,12 @@ import { Injectable } from '@angular/core';
 import {Http, Headers, RequestOptions} from '@angular/http';
 import {ExerciseFact} from './ExerciseFact';
 import {Exercise} from './Exercise';
+import {HttpExService} from './http-ex.service';
 
 @Injectable()
 export class DbServiceService {
 
-  constructor(private http: Http) { }
+  constructor(private http: HttpExService) { }
 
   getExercises() {
     return this.http.get('/api/exercises');
