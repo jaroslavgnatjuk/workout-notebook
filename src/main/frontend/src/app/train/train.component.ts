@@ -17,8 +17,8 @@ export class TrainComponent implements OnInit {
   exerciseFacts: ExerciseFact[];
   selectedExerciseId: number;
   selectedCategory = 'грудь';
-  count: number = 0;
-  weight: number = 0;
+  count: number;
+  weight: number;
 
   constructor(private dbService: DbServiceService,
               private router: Router,

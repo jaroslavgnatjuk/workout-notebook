@@ -2,7 +2,7 @@
   <div *ngFor="let category of categories">
     {{category}}
     <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory"
-           (change)="selectedExerciseId = null">
+           (change)="selectedExerciseId = null; count = null; weight = null;">
   </div>
 </div>
 
@@ -19,18 +19,18 @@
   <div>
     к-во:
     <div class="ui action input button-group">
-      <button class="ui button left" (click)="count = count - 1"><i class="ui caret left icon"></i></button>
+      <button class="ui button left" (click)="count = (count || 0) - 1"><i class="ui caret left icon"></i></button>
       <input type="number" [(ngModel)]="count">
-      <button class="ui button right" (click)="count = count + 1"><i class="ui caret right icon"></i></button>
+      <button class="ui button right" (click)="count = (count || 0) + 1"><i class="ui caret right icon"></i></button>
     </div>
 
   </div>
   <div>
     вес:
     <div class="ui action input button-group">
-      <button class="ui button left" (click)="weight = weight - 1"><i class="ui caret left icon"></i></button>
+      <button class="ui button left" (click)="weight = (weight || 0) - 1"><i class="ui caret left icon"></i></button>
       <input type="number" [(ngModel)]="weight">
-      <button class="ui button right" (click)="weight = weight + 1"><i class="ui caret right icon"></i></button>
+      <button class="ui button right" (click)="weight = (weight || 0) + 1"><i class="ui caret right icon"></i></button>
     </div>
   </div>
 
@@ -52,15 +52,15 @@
     <tbody>
     <tr *ngFor="let exercise of exerciseFacts; let i = index;"
         [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
-      <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
-      <td>{{exercise.count}}</td>
-      <td>{{exercise.weight}}</td>
+      <td class="full-width">{{getExerciseById(exercise?.exerciseId)?.title}}</td>
+      <td class="full-width">{{exercise.count}}</td>
+      <td class="full-width">{{exercise.weight}}</td>
       <td>
         <button class="ui basic negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i>
         </button>
       </td>
       <td>
-        <button class="ui basic button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i
+        <button class="ui basic icon button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i
           class="ui copy icon"></i></button>
       </td>
     </tr>

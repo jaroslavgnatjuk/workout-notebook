@@ -46,6 +46,9 @@
   .bordered {
     td {
       border-bottom: 1px solid #ddd;
+      &.full-width {
+        width: 100%;
+      }
     }
   }
 }
