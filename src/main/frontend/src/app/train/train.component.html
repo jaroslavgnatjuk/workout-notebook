@@ -17,7 +17,7 @@
 <div class="digits">
   <div>
   к-во:
-    <div class="ui action input">
+    <div class="ui action input button-group">
       <button class="ui button left" (click)="count = count - 1"> <i class="ui caret left icon"></i> </button>
       <input type="number" [(ngModel)]="count">
       <button class="ui button right" (click)="count = count + 1"> <i class="ui caret right icon"></i> </button>
@@ -26,7 +26,7 @@
   </div>
   <div>
   вес:
-    <div class="ui action input">
+    <div class="ui action input button-group">
       <button class="ui button left" (click)="weight = weight - 1"> <i class="ui caret left icon"></i> </button>
       <input type="number" [(ngModel)]="weight">
       <button class="ui button right" (click)="weight = weight + 1"> <i class="ui caret right icon"></i> </button>
@@ -38,12 +38,13 @@
 </div>
 
 <div class="done">
-  <table class="ui blue table fact-table">
+  <table class="fact-table">
     <thead>
     <tr>
       <th>упр</th>
       <th>к-во</th>
       <th>вес</th>
+      <th></th>
       <th></th>
     </tr>
     </thead>
@@ -53,10 +54,10 @@
       <td>{{exercise.count}}</td>
       <td>{{exercise.weight}}</td>
       <td>
-        <button class="ui negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i></button>
+        <button class="ui basic negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i></button>
       </td>
       <td>
-        <button class="ui button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i class="ui copy icon"></i></button>
+        <button class="ui basic button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i class="ui copy icon"></i></button>
       </td>
     </tr>
     </tbody>

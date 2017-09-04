@@ -7,31 +7,39 @@
     margin-left: 10px;
   }
 }
+
 .select-exercise {
   display: flex;
   width: 100%;
 }
+
 .digits {
   display: flex;
   margin-top: 10px;
   justify-content: space-between;
-  input {
-    width: 100px;
-    border-radius: 0;
-  }
-  button.left {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-  }
-  button.right {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
+  .button-group {
+    input {
+      width: 50px;
+      border-radius: 0;
+    }
+    button.left {
+      width: 30px;
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+    button.right {
+      width: 30px;
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
   }
 }
+
 .done {
   margin-top: 10px;
   border-top: 1px solid gray;
 }
+
 .fact-table {
   width: 100%;
 
