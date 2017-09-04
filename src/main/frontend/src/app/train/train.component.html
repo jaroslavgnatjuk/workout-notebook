@@ -1,10 +1,11 @@
 <div class="categories">
   <div *ngFor="let category of categories">
     {{category}}
-    <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory" (change)="selectedExerciseId = null">
+    <input name="category" type="radio" [value]="category" [(ngModel)]="selectedCategory"
+           (change)="selectedExerciseId = null">
   </div>
 </div>
-{{selectedExerciseId}}
+
 <div class="select-exercise">
   <select [(ngModel)]="selectedExerciseId" class="select-exercise">
     <option *ngFor="let exercise of exercisesMap[selectedCategory]" [value]="exercise.id">{{exercise.title}}</option>
@@ -16,20 +17,20 @@
 
 <div class="digits">
   <div>
-  к-во:
+    к-во:
     <div class="ui action input button-group">
-      <button class="ui button left" (click)="count = count - 1"> <i class="ui caret left icon"></i> </button>
+      <button class="ui button left" (click)="count = count - 1"><i class="ui caret left icon"></i></button>
       <input type="number" [(ngModel)]="count">
-      <button class="ui button right" (click)="count = count + 1"> <i class="ui caret right icon"></i> </button>
+      <button class="ui button right" (click)="count = count + 1"><i class="ui caret right icon"></i></button>
     </div>
 
   </div>
   <div>
-  вес:
+    вес:
     <div class="ui action input button-group">
-      <button class="ui button left" (click)="weight = weight - 1"> <i class="ui caret left icon"></i> </button>
+      <button class="ui button left" (click)="weight = weight - 1"><i class="ui caret left icon"></i></button>
       <input type="number" [(ngModel)]="weight">
-      <button class="ui button right" (click)="weight = weight + 1"> <i class="ui caret right icon"></i> </button>
+      <button class="ui button right" (click)="weight = weight + 1"><i class="ui caret right icon"></i></button>
     </div>
   </div>
 
@@ -49,15 +50,18 @@
     </tr>
     </thead>
     <tbody>
-    <tr *ngFor="let exercise of exerciseFacts; let i = index;" [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
+    <tr *ngFor="let exercise of exerciseFacts; let i = index;"
+        [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
       <td>{{getExerciseById(exercise?.exerciseId)?.title}}</td>
       <td>{{exercise.count}}</td>
       <td>{{exercise.weight}}</td>
       <td>
-        <button class="ui basic negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i></button>
+        <button class="ui basic negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i>
+        </button>
       </td>
       <td>
-        <button class="ui basic button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i class="ui copy icon"></i></button>
+        <button class="ui basic button" (click)="copyFact(exercise.exerciseId, exercise.count, exercise.weight)"><i
+          class="ui copy icon"></i></button>
       </td>
     </tr>
     </tbody>
