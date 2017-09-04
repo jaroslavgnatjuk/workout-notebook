@@ -79,6 +79,12 @@ export class TrainComponent implements OnInit {
   }
 
   editExercise(id) {
+    if (!id) {
+      alert('Не выбрано упражнение');
+
+      return;
+    }
+
     let curExercise = this.exercises.filter(ex => ex.id == id)[0];
     let title = prompt('Введите название упражнения', curExercise.title);
 

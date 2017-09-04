@@ -53,8 +53,8 @@
     <tr *ngFor="let exercise of exerciseFacts; let i = index;"
         [ngClass]="{bordered: (exerciseFacts[i + 1] && exerciseFacts[i + 1].exerciseId) != exercise.exerciseId}">
       <td class="full-width">{{getExerciseById(exercise?.exerciseId)?.title}}</td>
-      <td class="full-width">{{exercise.count}}</td>
-      <td class="full-width">{{exercise.weight}}</td>
+      <td class="full-width count">{{exercise.count}}</td>
+      <td class="full-width weight">{{exercise.weight}}</td>
       <td>
         <button class="ui basic negative icon button" (click)="deleteFact(exercise.id)"><i class="ui remove icon"></i>
         </button>

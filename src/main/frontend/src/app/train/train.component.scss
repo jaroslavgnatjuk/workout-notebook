@@ -46,9 +46,20 @@
   .bordered {
     td {
       border-bottom: 1px solid #ddd;
-      &.full-width {
-        width: 100%;
-      }
+    }
+  }
+  td {
+    &.full-width {
+      width: 100%;
+    }
+    &.count {
+      border-right: 1px solid #ddd;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+    &.weight {
+      padding-right: 10px;
+      padding-left: 10px;
     }
   }
 }
