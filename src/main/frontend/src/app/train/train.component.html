@@ -20,7 +20,7 @@
     к-во:
     <div class="ui action input button-group">
       <button class="ui button left" (click)="count = (count || 0) - 1"><i class="ui caret left icon"></i></button>
-      <input type="number" [(ngModel)]="count">
+      <input type="number" [(ngModel)]="count" min="1">
       <button class="ui button right" (click)="count = (count || 0) + 1"><i class="ui caret right icon"></i></button>
     </div>
 
@@ -29,7 +29,7 @@
     вес:
     <div class="ui action input button-group">
       <button class="ui button left" (click)="weight = (weight || 0) - 1"><i class="ui caret left icon"></i></button>
-      <input type="number" [(ngModel)]="weight">
+      <input type="number" [(ngModel)]="weight" min="0">
       <button class="ui button right" (click)="weight = (weight || 0) + 1"><i class="ui caret right icon"></i></button>
     </div>
   </div>
